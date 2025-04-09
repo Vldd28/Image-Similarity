@@ -1,0 +1,2435 @@
+
+
+
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="it-IT">
+<!--<![endif]-->
+<head>
+    <!-- Load only critical fonts synchronusly -->
+    <link rel="preload" as="font" href="/-/media/themes/wolterskluwer/oneweb/www/oneweb/fonts/wk-icons/wk-icons-open.woff" crossorigin />
+    <link rel="preload" as="font" href="/-/media/themes/wolterskluwer/oneweb/www/oneweb/fonts/wk-icons/wk-icons-filled.woff" crossorigin />
+
+    <!-- Load scripts asynchronusly -->
+<script defer src="/-/media/themes/wolterskluwer/oneweb/www/oneweb/scripts/optimized-min.js?rev=7ae55307215f40f38be244a1f31e06fa&t=20250313T123857Z&hash=EA550598324B88638BA173E903D159E6" type="e715c798990ada89dbcb399a-text/javascript"></script>
+    <!-- Load third party scripts asynchronusly -->
+
+    <!-- Load all css files -->
+<link rel="stylesheet" as="style"  href="/-/media/feature/experience%20accelerator/bootstrap%204/bootstrap%204/styles/optimized-min.css?rev=c22e259ea8a24a019821dc2e0c1139b2&t=20231129T105033Z&hash=E3F83863AC58D0F469E45354ED97148D" rel="stylesheet" /><link rel="stylesheet" as="style"  href="/-/media/base%20themes/custom%20oneweb%20theme/styles/optimized-min.css?rev=e87f8bf90017456b94c6af74b46d934c&t=20220301T130340Z&hash=2AF5D36B6C174401B25F8616C8ADDC94" rel="stylesheet" /><link rel="stylesheet" as="style"  href="/-/media/themes/wolterskluwer/oneweb/www/oneweb/styles/optimized-min.css?rev=c4df1c5c7fd34d19971496c3a87ee99f&t=20250313T123956Z&hash=04BAABC93BDEFEEE0E4859883F7216A2" rel="stylesheet" />
+    
+    
+    
+
+
+    <script type="e715c798990ada89dbcb399a-text/javascript">
+        if (window.location.href.indexOf("fallback=true") > -1) {
+            var newUrl = window.location.href.replace("?fallback=true", "").replace("&fallback=true", "");
+            history.pushState({}, document.title, newUrl);
+        }
+    </script>
+
+
+    <title>Genya: il software gestionale in cloud  | Wolters Kluwer</title>
+
+
+
+
+    <link href="/-/media/project/wolterskluwer/oneweb/www/images/logo/favicon.png?rev=282e4d049d7c4c3b93e84e4a9528b485&amp;hash=06F3BE6F60EE7A7033853B9CA5CD649B" rel="shortcut icon" />
+
+
+
+<meta property="og:description"  content="Genya è il software gestionale in cloud che supporta commercialisti e aziende nella gestione delle attività quotidiane. "><meta property="og:image"  content="https://www.wolterskluwer.com/-/media/feature/wolterskluwer/oneweb/cards/fallbackimage/wklogo_defaultcardimage.jpg?rev=9516134538da4cb6b7b55e6b9742fa00"><meta property="og:title"  content="Genya: il software gestionale in cloud "><meta property="og:url"  content="https://www.wolterskluwer.com/it-it/solutions/genya">
+
+
+<meta  name="description" content="Genya è il software gestionale in cloud che supporta commercialisti e aziende nella gestione delle attività quotidiane. "><meta http-equiv="content-language" content="it-it"/>
+
+
+
+
+<meta property="twitter:image"  content="https://www.wolterskluwer.com/-/media/feature/wolterskluwer/oneweb/cards/fallbackimage/wklogo_defaultcardimage.jpg?rev=9516134538da4cb6b7b55e6b9742fa00"><meta property="twitter:description"  content="Genya è il software gestionale in cloud che supporta commercialisti e aziende nella gestione delle attività quotidiane. "><meta property="twitter:title"  content="Genya"><meta property="twitter:card"  content="summary_large_image">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5" />
+
+
+
+<script type="e715c798990ada89dbcb399a-text/javascript">
+    var wkPageData = window.wkPageData || {};
+    wkPageData.page = {
+          pageInfo:
+          {
+                  pageID: "{4F387216-FCDA-4AB2-9467-794E9E7A3A49}",
+                  pageTitle: "Genya",
+                  pageCreationDate: "2024-06-10",
+                  pageFirstPublishDate: "2023-01-16",
+                  contentUpdateDate: "2025-01-21",
+                  daysSincelLastEdit: "52"
+          },
+
+          category:
+          {
+                 businessUnit: "TAA - Europe - Italy" ,
+                 division: "TAA" ,
+                 allocatedBU: "EU - Italy" ,
+                 siteSection: "Soluzioni di Wolters Kluwer" ,
+                 segments: "Accounting Firms_Tax Professionals|Tax Advisor|Tax Exempt and Membership Organizations|Tax Preparers" ,
+                 relatedBU: "TAA - Europe - Italy" 
+          },
+
+         attributes:
+         {
+                 pageTemplate: "Solution Suite Page",
+                 pageLanguage: "it-it",
+                 audience: "Accountant|Bookkeeper|Head of Closing|Head of Tax|Senior Accountant|Tax Advisor|Tax Manager",
+                 areaOfInterest: "Tax &amp; Accounting|Compliance|Finance",
+                 solutionSuite: "Genya",
+                 funnelStage: "Consideration",
+                 challenge: "Achieve Compliance|Advise your clients|Advise your clients and provide business insights|Analytics and Insights|Collaboration|Digitize and Automate|Drive New Business|e-invoicing|e-invoicing and booking|e-invoicing and bookkeeping|Ensure growth and profitability|Expand an existing business|Gain customer insights|Gain new stats and insights|Manage my existing customer relationships|Protect my business|Reduce business costs|Reduce business costs and maximize profit|Work effective",
+                 topic: "Compliance Solutions|Compliance|Launching Your Business|Running Your Business",
+                 umbrellaTopics: "Digital transformation|Workflow automation|Data analytics|Effective decision making|Managing complexity",
+                 geoAvailability: "Italy"
+         }
+    };
+</script>
+
+
+        <link rel="alternate" hreflang="en" href="https://www.wolterskluwer.com/en/solutions/genya" />
+        <link rel="alternate" hreflang="it-IT" href="https://www.wolterskluwer.com/it-it/solutions/genya" />
+        <link rel="alternate" hreflang="x-default" href="https://www.wolterskluwer.com/en/solutions/genya" />
+    <link rel="canonical" href="https://www.wolterskluwer.com/it-it/solutions/genya" />
+
+
+<!-- Google Tag Manager --><script data-xp-off type="e715c798990ada89dbcb399a-text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-53VFLLN');</script><!-- End Google Tag Manager -->
+
+<!-- OneTrust Cookies Consent Notice start for wolterskluwer.com -->
+<script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" data-document-language="true" type="e715c798990ada89dbcb399a-text/javascript" charset="UTF-8" data-domain-script="9ecb427c-f876-4779-aeff-62bba4f8889f"></script>
+<script type="e715c798990ada89dbcb399a-text/javascript">
+function OptanonWrapper() { }
+</script>
+<!-- OneTrust Cookies Consent Notice end for wolterskluwer.com -->
+
+<!-- Custom JS for OneTrust  -->
+<script type="e715c798990ada89dbcb399a-text/javascript">
+	function waitForCookieBanner(selector, callback){
+	  var timesRun = 0;
+	  var waitInterval = setInterval(function(){
+		  timesRun += 1;
+		  if(timesRun === 500){
+			  clearInterval(waitInterval);
+		  }
+		  if(document.querySelector(selector)){
+			  clearInterval(waitInterval);
+			  callback();
+		  }
+	  }, 10);
+	};
+	window.addEventListener('load', () => {
+		waitForCookieBanner("#onetrust-banner-sdk", function(){
+			if(document.querySelector(".ot-sdk-container").offsetHeight>0){
+				document.querySelector(".onetrust-pc-dark-filter").style ='display : block !important';
+			};
+			var closeButton = document.querySelector("#close-pc-btn-handler");
+			closeButton.addEventListener('click',()=>{
+				if(document.querySelector(".ot-sdk-container").offsetHeight>0){
+					document.querySelector(".onetrust-pc-dark-filter").classList.add("ot-hide");
+					document.querySelector(".onetrust-pc-dark-filter").classList.add("display-overlay");
+				}
+			});
+			var allButtons = document.querySelectorAll("#onetrust-reject-all-handler,#onetrust-accept-btn-handler,#accept-recommended-btn-handler,.ot-pc-refuse-all-handler,.save-preference-btn-handler");
+						allButtons.forEach((button)=>{
+						button.addEventListener('click',()=>{
+							document.querySelector(".onetrust-pc-dark-filter").classList.remove("display-overlay");
+					});
+				});
+		});
+	});
+</script>
+
+    <link rel="preconnect" href="https://www.gstatic.com" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link rel="preconnect" href="https://www.google-analytics.com" />
+    <link rel="preconnect" href="https://www.googletagmanager.com" /><script optanon-category="C0003" type="e715c798990ada89dbcb399a-text/javascript">
+window.addEventListener('OneTrustGroupsUpdated', function(event) {
+    if (!event.detail.includes("C0003")) { 
+        return;
+    }
+
+    if (document.querySelector('script[src^="//cdn.mouseflow.com/projects"]')) {
+        console.log("Mouseflow script is already loaded.");
+        return;
+    }
+
+    (function() {
+        var PROJECT_ID = "0adf4ddb-d4ab-44cf-a6be-368c4dc5b1c1";
+        var mf = document.createElement("script");
+        mf.type = "text/javascript"; 
+        mf.async = true;
+        mf.src = `//cdn.mouseflow.com/projects/${PROJECT_ID}.js`; // Use template literals
+        mf.setAttribute("crossorigin", "anonymous");
+        document.getElementsByTagName("head")[0].appendChild(mf);
+
+        mf.onload = function() {
+            const userData = wkPageData.page.category; 
+            if (typeof _mfq !== "undefined" && userData) {
+                Object.keys(userData).forEach((key, index) => {
+                    _mfq.push(["setVariable", index, key, userData[key]]);
+                });
+            } else {
+                console.log("Mouseflow is not initialized or no user data available.");
+            }
+        };
+    })();
+});
+</script>
+
+
+<!-- Site Name -->
+
+
+<!-- Logos -->
+
+
+<!-- Social Profile Links -->
+
+
+<!-- Breadcrumbs -->
+<script type="application/ld+json">{"@type":"BreadcrumbList","itemListElement":[{"position":1,"item":{"@id":"https://www.wolterskluwer.com/it-it","name":"Home"},"@type":"ListItem"},{"position":2,"item":{"@id":"https://www.wolterskluwer.com/it-it/solutions","name":"Soluzioni"},"@type":"ListItem"},{"position":3,"item":{"@id":"https://www.wolterskluwer.com/it-it/solutions/genya","name":"Genya"},"@type":"ListItem"}],"@context":"https://schema.org"}</script>
+
+<!-- Page related info -->
+
+
+<!-- Featured Video -->
+<script type="application/ld+json">[{"@type":"VideoObject","name":"","description":"","thumbnailUrl":["https://assets.contenthub.wolterskluwer.com/api/public/content/2560858-video-genya-1185590981?v=5a141ed4"],"uploadDate":"","@context":"https://schema.org"}]</script>
+<!-- Faq Page info -->
+
+
+<!-- Video Carousel -->
+
+
+<!-- Video -->
+
+
+<!-- Profile Page Schema-->
+
+
+<!-- Organization    -->
+
+
+<!-- Potential Action    -->
+
+
+
+
+</head>
+<body class="not-article-page default-device bodyclass" data-grecaptcha="6Lf6x-MUAAAAAATFy_Zy7Y9FezDcp0kmycrG1taQ">
+    
+
+
+<!-- Google Tag Manager (noscript) --><noscript data-xp-off><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-53VFLLN" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><!-- End Google Tag Manager (noscript) -->
+
+<div class="site-name" data-site-name="www"></div>
+
+   <script data-xp-off type="e715c798990ada89dbcb399a-text/javascript">
+            // Get cookie function to check existing cookie name
+            var getCookie = function(name) {
+                var value = "; " + document.cookie;
+                var parts = value.split("; " + name + "=");
+                if (parts.length == 2) return parts.pop().split(";").shift();
+            };
+        	
+          var urlComposer = function(lang) {
+                var u = window.location;
+                var path = u.pathname.replace(/(\/[a-z]{2}[-][a-zA-Z]{2})|(\/en$)|(en\/)/g, '');
+                path = path.substr(0, 1) !== "/" ? "/"+path : path;
+               return u.origin+lang+path;
+            }
+            
+        
+            function udtCookieboxClosed() {
+                if (typeof udt !== "undefined") {
+                    var consent = udt.Choices;
+                    // Check for cookie presence
+                    var cookieVal = getCookie('UserDataTrustConsent');        
+                    
+                }
+            }
+    </script>
+    
+<!-- #wrapper -->
+<div id="wrapper">
+    <!-- #header -->
+    <header>
+        <div id="header" class="container-fluid">
+            <div class="row">
+<div class="row">        <div id="alert-bar" class="alert-wrapper hide">
+            <div>
+                <div class="row"></div>
+            </div>
+            <div class="alert-bar language-alert false" role="alert">
+                <div class="alert-bar-wrapper">
+                            <img alt="alert-icon" src="https://assets.contenthub.wolterskluwer.com/api/public/content/f3d6188f99544aa9b6ed8cd95f76ffc4.svg?v=e6f18377" />
+                    <div class="alert-title">
+                        Nella lingua selezionata sono disponibili contenuti parziali. <a href="/en">Tutti i contenuti sono disponibili sul sito globale.</a>
+                    </div>
+                    <button title="Close Button" class="close-alert" data-action="language">
+                        <span class="sr-only">Close</span>
+                    </button>
+                </div>
+            </div>
+            <div>
+                <div class="row"></div>
+            </div>
+        </div>
+
+
+
+<div class="component row-splitter">
+        <div class="container-fluid">
+            <div >
+                <div class="row">    <div class="ow-corp-hat">
+        <nav class="ow-corp-hat-nav" aria-label="Wolters Kluwer Navigation">
+            <div class="ow-corp-hat-background">
+                <div class="ow-corp-hat-header">
+                    <button type="button" aria-controls="ow-hat-drawer-2" class="ow-corp-button-toggle ow-corp-hat-button">
+                            <span class="ow-button-text">Chi siamo | Wolters Kluwer</span>
+                            <span aria-hidden="true" class="ow-button-icon wk-icon-chevron-down"></span>
+                    </button>
+                    <ul class="ow-corp-hat-quick-links ow-header-links">
+                                    <li class="ow-corp-hat-quick-link-list">
+                                        <a href="/it-it/solutions" target="" class="ow-corp-hat-quick-link">Soluzioni</a>
+                                    </li>
+                                    <li class="ow-corp-hat-quick-link-list">
+                                        <a href="https://careers.wolterskluwer.com/it-it" target="_blank" class="ow-corp-hat-quick-link">Lavora con noi</a>
+                                    </li>
+                                    <li class="ow-corp-hat-quick-link-list">
+                                        <a href="/en/investors" target="" class="ow-corp-hat-quick-link">INVESTOR RELATIONS</a>
+                                    </li>
+                                                    <li class="ow-corp-hat-quick-link-list">
+                                <button type="button" aria-label="Select Language" class="ow-corp-language-button">
+                                    <span class="wk-icon-globe"></span>
+                                    <span class="wk-tag-text">Select Language</span>
+                                </button>
+                            </li>
+                    </ul>
+                </div>
+            </div>
+            <div id="ow-hat-drawer-2" class="ow-corp-hat-drawer">
+                <button aria-label="Close drawer." type="button" aria-controls="ow-hat-drawer-2" tabindex="0" class="ow-corp-hat-drawer-close ow-corp-hat-button"><span aria-hidden="true" class="wk-icon-close"></span></button>
+                <div id="ow-hat-drawer-container-2" class="ow-corp-hat-drawer-container">
+                    <div class="ow-corp-hat-drawer-col">
+                            <p class="ow-corp-hat-heading-about" role="heading" aria-level="4">
+                                Chi siamo | Wolters Kluwer
+                            </p>
+                                                    <p class="ow-corp-hat-text">
+                                Wolters Kluwer &#232; un fornitore globale di soluzioni di informazione, software e servizi per il mercato legale, fiscale, del lavoro, finanziario e healthcare.   
+
+                            </p>
+                    </div>
+                    <div class="ow-divider"></div>
+                            <div class="ow-corp-hat-drawer-col">
+                                    <h6 class="ow-corp-hat-heading">
+                                        <span class="ow-corp-hat-heading-text">Chi siamo</span>
+                                        <span aria-hidden="true" class="wk-icon-chevron-down"></span>
+                                    </h6>
+                                <ul class="ow-corp-hat-list">
+                                            <li class="ow-corp-hat-list-item">
+                                                <a href="/it-it/about-us/organization" target="" tabindex="0" class="ow-corp-hat-list-link">Organizzazione</a>
+                                            </li>
+                                            <li class="ow-corp-hat-list-item">
+                                                <a href="/it-it/about-us/strategy" target="" tabindex="0" class="ow-corp-hat-list-link">Strategia</a>
+                                            </li>
+                                            <li class="ow-corp-hat-list-item">
+                                                <a href="/it-it/about-us" target="" tabindex="0" class="ow-corp-hat-list-link">Chi siamo</a>
+                                            </li>
+                                </ul>
+                            </div>
+                            <div class="ow-corp-hat-drawer-col">
+                                    <h6 class="ow-corp-hat-heading">
+                                        <span class="ow-corp-hat-heading-text">Approfondimenti</span>
+                                        <span aria-hidden="true" class="wk-icon-chevron-down"></span>
+                                    </h6>
+                                <ul class="ow-corp-hat-list">
+                                            <li class="ow-corp-hat-list-item">
+                                                <a href="/it-it/expert-insights" target="" tabindex="0" class="ow-corp-hat-list-link">Mostra tutti gli approfondimenti</a>
+                                            </li>
+                                            <li class="ow-corp-hat-list-item">
+                                                <a href="/it-it/expert-insights/health" target="" tabindex="0" class="ow-corp-hat-list-link">Health</a>
+                                            </li>
+                                            <li class="ow-corp-hat-list-item">
+                                                <a href="/it-it/expert-insights/tax-and-accounting" target="" tabindex="0" class="ow-corp-hat-list-link">Fisco, Contabilit&#224; e Paghe</a>
+                                            </li>
+                                            <li class="ow-corp-hat-list-item">
+                                                <a href="/it-it/expert-insights/esg" target="" tabindex="0" class="ow-corp-hat-list-link">ESG</a>
+                                            </li>
+                                            <li class="ow-corp-hat-list-item">
+                                                <a href="/it-it/expert-insights/finance" target="" tabindex="0" class="ow-corp-hat-list-link">Finanza e Gestione</a>
+                                            </li>
+                                            <li class="ow-corp-hat-list-item">
+                                                <a href="/it-it/expert-insights/compliance" target="" tabindex="0" class="ow-corp-hat-list-link">Compliance</a>
+                                            </li>
+                                            <li class="ow-corp-hat-list-item">
+                                                <a href="/it-it/expert-insights/legal" target="" tabindex="0" class="ow-corp-hat-list-link">Legale</a>
+                                            </li>
+                                </ul>
+                            </div>
+                            <div class="ow-corp-hat-drawer-col">
+                                    <h6 class="ow-corp-hat-heading">
+                                        <span class="ow-corp-hat-heading-text">Per ottenere aiuto</span>
+                                        <span aria-hidden="true" class="wk-icon-chevron-down"></span>
+                                    </h6>
+                                <ul class="ow-corp-hat-list">
+                                            <li class="ow-corp-hat-list-item">
+                                                <a href="/it-it/contact-us" target="" tabindex="0" class="ow-corp-hat-list-link">Contatti</a>
+                                            </li>
+                                            <li class="ow-corp-hat-list-item">
+                                                <a href="/it-it/my-account-login" target="" tabindex="0" class="ow-corp-hat-list-link">Login</a>
+                                            </li>
+                                            <li class="ow-corp-hat-list-item">
+                                                <a href="/it-it/estore" target="|Custom" tabindex="0" class="ow-corp-hat-list-link">Shop</a>
+                                            </li>
+                                            <li class="ow-corp-hat-list-item">
+                                                <a href="/it-it/solutions" target="" tabindex="0" class="ow-corp-hat-list-link">Vista elenco Soluzione</a>
+                                            </li>
+                                            <li class="ow-corp-hat-list-item">
+                                                <a href="https://www.wolterskluwer.com/en/news?compositeLink=%7BB18EC43C-071F-4CE0-B997-3D06A89F9AD4%7D " target="" tabindex="0" class="ow-corp-hat-list-link">Centro multimediale</a>
+                                            </li>
+                                            <li class="ow-corp-hat-list-item">
+                                                <a href="/it-it/news" target="" tabindex="0" class="ow-corp-hat-list-link">News e Comunicati stampa</a>
+                                            </li>
+                                </ul>
+                            </div>
+
+                    <div class="ow-divider"></div>
+                    <ul class="ow-corp-hat-quick-links ow-drawer-links">
+                                    <li class="ow-corp-hat-quick-link-list">
+                                        <a href="/it-it/solutions" target="" class="ow-corp-hat-quick-link">Soluzioni</a>
+                                    </li>
+                                    <li class="ow-corp-hat-quick-link-list">
+                                        <a href="https://careers.wolterskluwer.com/it-it" target="_blank" class="ow-corp-hat-quick-link">Lavora con noi</a>
+                                    </li>
+                                    <li class="ow-corp-hat-quick-link-list">
+                                        <a href="/en/investors" target="" class="ow-corp-hat-quick-link">INVESTOR RELATIONS</a>
+                                    </li>
+                                                    <li class="ow-corp-hat-quick-link-list">
+                                <button type="button" aria-label="Select Language" class="ow-corp-language-button">
+                                    <span class="wk-icon-globe"></span>
+                                    <p class="ow-corp-hat-quick-link">Select Language</p>
+                                </button>
+                            </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </div>
+</div>
+            </div>
+        </div>
+        <div class=" header header-minimal container-fluid">
+            <div >
+                <div class="row">
+
+<div class="row component column-splitter">
+        <div class="col-1 d-lg-none">
+            <div class="row">
+
+<div class="component link">
+    <div class="component-content">
+
+<div class="field-link"><a class="primary-nav-toggle" data-variantfieldname="Link" href="#" data-variantitemid="{BF9E4C5B-F661-46B3-88A9-AD160DB5285C}">PrimaryNav Button</a></div>    </div>
+</div></div>
+        </div>
+        <div class="col col-lg-6">
+            <div class="row">
+<div class="component image file-type-icon-media-link col-12 header-logo">
+    <div class="component-content">
+<a title="Logo" href="/it-it"><picture title="Wolters Kluwer Logo"><source srcset="https://cdn.wolterskluwer.io/wk/fundamentals/1.x.x/logo/assets/small.svg" media="(max-width:767px)" width="144px" height="24px"></source><source srcset="https://cdn.wolterskluwer.io/wk/fundamentals/1.x.x/logo/assets/medium.svg" media="(max-width:991px)" width="144px" height="24px"></source><source srcset="https://cdn.wolterskluwer.io/wk/fundamentals/1.x.x/logo/assets/medium.svg" media="(max-width:1199px)" width="190px" height="31px"></source><img src="https://cdn.wolterskluwer.io/wk/fundamentals/1.x.x/logo/assets/medium.svg" alt="Wolters Kluwer Logo" width="190px" height="31px" /></picture></a>    </div>
+</div>
+</div>
+        </div>
+        <div class="col-1 col-lg-6">
+            <div class="row">
+
+
+
+<div class="component search-header" data-searchheader-settings-item-id="" data-database="web" tabindex="0">
+    <span class="search-header__placeholder-text">Ricerca</span>
+    <div class="search-header__wrapper">
+        <label class="sr-only" for="search-input">Search</label>
+        <input id="search-input" data-redirection-url="/it-it/search-results"
+               class="search-header__input"
+               type="search"
+               placeholder="Ricerca">
+        <button class="search-header__button" type="submit"><span class="sr-only">Search</span></button>
+        <div class="search-header__suggestions"
+             data-delay="500">
+            <ul class="search-header__suggestions-items"></ul>
+            <div class="search-header__no-suggestions">No Suggestion</div>
+            <div class="search-header__suggestions-footer">
+                <a href="#" class="search-header__suggestions-footer-link"
+                   data-template="Mostra tutti i risultati per &quot;${q}&quot;"></a>
+            </div>
+        </div>
+    </div>
+    <button class="search-header__toggle" type="button"><span class="sr-only">Expand Search</span></button>
+</div>
+</div>
+        </div>
+</div></div>
+            </div>
+        </div>
+        <div class="container-fluid">
+            <div >
+                <div class="row"></div>
+            </div>
+        </div>
+</div>    <div class="component modal" id="modal-language-selector" tabindex="-1" role="dialog" aria-hidden="true">
+        <button type="button" class="modal-close" data-dismiss="modal" aria-label="Close">
+            <span class="wk-icon-close"></span>
+        </button>
+        <div class="modal-content">
+<div class="modal-content"><div class="row">
+<div class="component image file-type-icon-media-link position-center">
+    <div class="component-content">
+<a title="Image 1" href="#" target="_blank"><image mediaid="" stylelabs-content-id="209968" thumbnailsrc="https://contenthub.wolterskluwer.com/api/gateway/209968/thumbnail" src="https://assets.contenthub.wolterskluwer.com/api/public/content/d09674905ed3409ab4ddab80d6b48268.svg?v=a2472b35" stylelabs-content-type="Image" alt="WK logo" height="31" width="190" srcset="https://assets.contenthub.wolterskluwer.com/api/public/content/d09674905ed3409ab4ddab80d6b48268.svg?v=a2472b35&amp;t=w507l 507w,https://assets.contenthub.wolterskluwer.com/api/public/content/d09674905ed3409ab4ddab80d6b48268.svg?v=a2472b35&amp;t=w628l 628w,https://assets.contenthub.wolterskluwer.com/api/public/content/d09674905ed3409ab4ddab80d6b48268.svg?v=a2472b35&amp;t=w634l 634w,https://assets.contenthub.wolterskluwer.com/api/public/content/d09674905ed3409ab4ddab80d6b48268.svg?v=a2472b35&amp;t=w735l 735w,https://assets.contenthub.wolterskluwer.com/api/public/content/d09674905ed3409ab4ddab80d6b48268.svg?v=a2472b35&amp;t=w768l 768w" loading="lazy" data-variantitemid="{C9D92AB5-D75F-41FF-A471-291D5EDBD11C}" sizes="(max-width:539px)507px,(max-width:767px)735px,(max-width:991px)634px,(max-width:1199px)628px,(max-width:1440px)768px,768px" format="" data-variantfieldname="Image" /></a>    </div>
+</div>
+
+
+
+    <div class="component mission bg-image bg-transparent" >
+        <div class="component-content">
+<div data-dm-wk="component.missiontext"><div class="mission--description--small field-description"><p>Visita il nostro <a href="https://www.wolterskluwer.com/en">sito globale</a> in inglese o seleziona un'altra localit&agrave; o lingua di seguito</p></div></div>        </div>
+    </div>
+
+
+    <div class="component language-selector-component">
+        <div class="component-content">
+                <div class="component tabs language-selector-modal">
+                    <div class="component-content">
+                        <div class="tabs-inner">
+                            <ul class="tabs-heading">
+                                    <li tabindex="0">
+                                        <div>
+                                            <div class="row">
+                                                <div class="component content">
+                                                    <div class="component-content">
+                                                        <div class="field-heading" data-dm-wk="tabshorizontal.button">
+                                                            Americhe
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li tabindex="0">
+                                        <div>
+                                            <div class="row">
+                                                <div class="component content">
+                                                    <div class="component-content">
+                                                        <div class="field-heading" data-dm-wk="tabshorizontal.button">
+                                                            Eur&#243;pa
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li tabindex="0">
+                                        <div>
+                                            <div class="row">
+                                                <div class="component content">
+                                                    <div class="component-content">
+                                                        <div class="field-heading" data-dm-wk="tabshorizontal.button">
+                                                            Asia e Pacifico
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </li>
+                            </ul>
+                            <div class="tabs-container">
+                                    <div class="tab">
+                                        <div class="row">
+                                            <div class="row component column-splitter">
+                                                    <div class="col-12 col-md-3">
+                                                        <div class="row">
+
+
+<div class="component link-list">
+    <div class="component-content">
+        <h6 class="language-selector-modal__country-name">Brasile</h6>
+
+            <div class="language-selector-modal__page">
+                <span class="language-selector-modal__page-name">Pagina iniziale:</span>
+                <ul>
+
+                        <li>
+                            <div class="field-link">
+                                    <a href="/pt-br" data-variantfieldname="Link">Portoghese</a>
+                            </div>
+                        </li>
+                </ul>
+            </div>
+    </div>
+</div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-12 col-md-3">
+                                                        <div class="row">
+
+
+<div class="component link-list">
+    <div class="component-content">
+        <h6 class="language-selector-modal__country-name">Canada</h6>
+
+            <div class="language-selector-modal__page">
+                <span class="language-selector-modal__page-name">Pagina iniziale:</span>
+                <ul>
+
+                        <li>
+                            <div class="field-link">
+                                    <a href="/en-ca" data-variantfieldname="Link">Inglese</a>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="field-link">
+                                    <a href="/fr-ca" data-variantfieldname="Link">Francese</a>
+                            </div>
+                        </li>
+                </ul>
+            </div>
+    </div>
+</div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-12 col-md-3">
+                                                        <div class="row">
+
+
+<div class="component link-list">
+    <div class="component-content">
+        <h6 class="language-selector-modal__country-name">America Latina</h6>
+
+            <div class="language-selector-modal__page">
+                <span class="language-selector-modal__page-name">Pagina iniziale:</span>
+                <ul>
+
+                        <li>
+                            <div class="field-link">
+                                    <a href="/es" data-variantfieldname="Link">Spagnolo</a>
+                            </div>
+                        </li>
+                </ul>
+            </div>
+    </div>
+</div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-12 col-md-3">
+                                                        <div class="row">
+
+
+<div class="component link-list">
+    <div class="component-content">
+        <h6 class="language-selector-modal__country-name">Stati Uniti</h6>
+
+            <div class="language-selector-modal__page">
+                <span class="language-selector-modal__page-name">Pagina iniziale:</span>
+                <ul>
+
+                        <li>
+                            <div class="field-link">
+                                    <a href="/en" data-variantfieldname="Link">Inglese</a>
+                            </div>
+                        </li>
+                </ul>
+            </div>
+            <div class="language-selector-modal__page">
+                <span class="language-selector-modal__page-name">Pagina Corrente:</span>
+                <ul>
+
+                        <li>
+                            <div class="field-link">
+                                    <a href="/en/solutions/genya" data-variantfieldname="Link">Inglese</a>
+                            </div>
+                        </li>
+                </ul>
+            </div>
+    </div>
+</div>
+                                                        </div>
+                                                    </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="tab">
+                                        <div class="row">
+                                            <div class="row component column-splitter">
+                                                    <div class="col-12 col-md-3">
+                                                        <div class="row">
+
+
+<div class="component link-list">
+    <div class="component-content">
+        <h6 class="language-selector-modal__country-name">Belgio</h6>
+
+            <div class="language-selector-modal__page">
+                <span class="language-selector-modal__page-name">Pagina iniziale:</span>
+                <ul>
+
+                        <li>
+                            <div class="field-link">
+                                    <a href="/nl-be" data-variantfieldname="Link">Olandese</a>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="field-link">
+                                    <a href="/fr-be" data-variantfieldname="Link">Francese</a>
+                            </div>
+                        </li>
+                </ul>
+            </div>
+    </div>
+</div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-12 col-md-3">
+                                                        <div class="row">
+
+
+<div class="component link-list">
+    <div class="component-content">
+        <h6 class="language-selector-modal__country-name">Repubblica Ceca</h6>
+
+            <div class="language-selector-modal__page">
+                <span class="language-selector-modal__page-name">Pagina iniziale:</span>
+                <ul>
+
+                        <li>
+                            <div class="field-link">
+                                    <a href="/cs-cz" data-variantfieldname="Link">Ceco</a>
+                            </div>
+                        </li>
+                </ul>
+            </div>
+    </div>
+</div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-12 col-md-3">
+                                                        <div class="row">
+
+
+<div class="component link-list">
+    <div class="component-content">
+        <h6 class="language-selector-modal__country-name">Danmark</h6>
+
+            <div class="language-selector-modal__page">
+                <span class="language-selector-modal__page-name">Pagina iniziale:</span>
+                <ul>
+
+                        <li>
+                            <div class="field-link">
+                                    <a href="/da-dk" data-variantfieldname="Link">Danish</a>
+                            </div>
+                        </li>
+                </ul>
+            </div>
+    </div>
+</div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-12 col-md-3">
+                                                        <div class="row">
+
+
+<div class="component link-list">
+    <div class="component-content">
+        <h6 class="language-selector-modal__country-name">Francia</h6>
+
+            <div class="language-selector-modal__page">
+                <span class="language-selector-modal__page-name">Pagina iniziale:</span>
+                <ul>
+
+                        <li>
+                            <div class="field-link">
+                                    <a href="/fr-fr" data-variantfieldname="Link">Francese</a>
+                            </div>
+                        </li>
+                </ul>
+            </div>
+    </div>
+</div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-12 col-md-3">
+                                                        <div class="row">
+
+
+<div class="component link-list">
+    <div class="component-content">
+        <h6 class="language-selector-modal__country-name">Germania</h6>
+
+            <div class="language-selector-modal__page">
+                <span class="language-selector-modal__page-name">Pagina iniziale:</span>
+                <ul>
+
+                        <li>
+                            <div class="field-link">
+                                    <a href="/de-de" data-variantfieldname="Link">Tedesco</a>
+                            </div>
+                        </li>
+                </ul>
+            </div>
+    </div>
+</div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-12 col-md-3">
+                                                        <div class="row">
+
+
+<div class="component link-list">
+    <div class="component-content">
+        <h6 class="language-selector-modal__country-name">Ungheria</h6>
+
+            <div class="language-selector-modal__page">
+                <span class="language-selector-modal__page-name">Pagina iniziale:</span>
+                <ul>
+
+                        <li>
+                            <div class="field-link">
+                                    <a href="/hu-hu" data-variantfieldname="Link">Ungherese</a>
+                            </div>
+                        </li>
+                </ul>
+            </div>
+    </div>
+</div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-12 col-md-3">
+                                                        <div class="row">
+
+
+<div class="component link-list">
+    <div class="component-content">
+        <h6 class="language-selector-modal__country-name">Italia</h6>
+
+            <div class="language-selector-modal__page">
+                <span class="language-selector-modal__page-name">Pagina iniziale:</span>
+                <ul>
+
+                        <li>
+                            <div class="field-link">
+                                    <a href="/it-it" data-variantfieldname="Link">Italiano</a>
+                            </div>
+                        </li>
+                </ul>
+            </div>
+            <div class="language-selector-modal__page">
+                <span class="language-selector-modal__page-name">Pagina Corrente:</span>
+                <ul>
+
+                        <li>
+                            <div class="field-link">
+                                    <a href="/it-it/solutions/genya" data-variantfieldname="Link">Italiano</a>
+                            </div>
+                        </li>
+                </ul>
+            </div>
+    </div>
+</div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-12 col-md-3">
+                                                        <div class="row">
+
+
+<div class="component link-list">
+    <div class="component-content">
+        <h6 class="language-selector-modal__country-name">Paesi Bassi</h6>
+
+            <div class="language-selector-modal__page">
+                <span class="language-selector-modal__page-name">Pagina iniziale:</span>
+                <ul>
+
+                        <li>
+                            <div class="field-link">
+                                    <a href="/nl-nl" data-variantfieldname="Link">Olandese</a>
+                            </div>
+                        </li>
+                </ul>
+            </div>
+    </div>
+</div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-12 col-md-3">
+                                                        <div class="row">
+
+
+<div class="component link-list">
+    <div class="component-content">
+        <h6 class="language-selector-modal__country-name">Norvegia</h6>
+
+            <div class="language-selector-modal__page">
+                <span class="language-selector-modal__page-name">Pagina iniziale:</span>
+                <ul>
+
+                        <li>
+                            <div class="field-link">
+                                    <a href="/nb-no" data-variantfieldname="Link">Norvegese</a>
+                            </div>
+                        </li>
+                </ul>
+            </div>
+    </div>
+</div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-12 col-md-3">
+                                                        <div class="row">
+
+
+<div class="component link-list">
+    <div class="component-content">
+        <h6 class="language-selector-modal__country-name">Polonia</h6>
+
+            <div class="language-selector-modal__page">
+                <span class="language-selector-modal__page-name">Pagina iniziale:</span>
+                <ul>
+
+                        <li>
+                            <div class="field-link">
+                                    <a href="/pl-pl" data-variantfieldname="Link">Polacco</a>
+                            </div>
+                        </li>
+                </ul>
+            </div>
+    </div>
+</div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-12 col-md-3">
+                                                        <div class="row">
+
+
+<div class="component link-list">
+    <div class="component-content">
+        <h6 class="language-selector-modal__country-name">Portugal</h6>
+
+            <div class="language-selector-modal__page">
+                <span class="language-selector-modal__page-name">Pagina iniziale:</span>
+                <ul>
+
+                        <li>
+                            <div class="field-link">
+                                    <a href="/pt-pt" data-variantfieldname="Link">Portoghese</a>
+                            </div>
+                        </li>
+                </ul>
+            </div>
+    </div>
+</div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-12 col-md-3">
+                                                        <div class="row">
+
+
+<div class="component link-list">
+    <div class="component-content">
+        <h6 class="language-selector-modal__country-name">Romania</h6>
+
+            <div class="language-selector-modal__page">
+                <span class="language-selector-modal__page-name">Pagina iniziale:</span>
+                <ul>
+
+                        <li>
+                            <div class="field-link">
+                                    <a href="/ro-ro" data-variantfieldname="Link">Romanian</a>
+                            </div>
+                        </li>
+                </ul>
+            </div>
+    </div>
+</div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-12 col-md-3">
+                                                        <div class="row">
+
+
+<div class="component link-list">
+    <div class="component-content">
+        <h6 class="language-selector-modal__country-name">Slovacchia</h6>
+
+            <div class="language-selector-modal__page">
+                <span class="language-selector-modal__page-name">Pagina iniziale:</span>
+                <ul>
+
+                        <li>
+                            <div class="field-link">
+                                    <a href="/sk-sk" data-variantfieldname="Link">Slovacco</a>
+                            </div>
+                        </li>
+                </ul>
+            </div>
+    </div>
+</div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-12 col-md-3">
+                                                        <div class="row">
+
+
+<div class="component link-list">
+    <div class="component-content">
+        <h6 class="language-selector-modal__country-name">Spagna</h6>
+
+            <div class="language-selector-modal__page">
+                <span class="language-selector-modal__page-name">Pagina iniziale:</span>
+                <ul>
+
+                        <li>
+                            <div class="field-link">
+                                    <a href="/es-es" data-variantfieldname="Link">Spagnolo</a>
+                            </div>
+                        </li>
+                </ul>
+            </div>
+    </div>
+</div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-12 col-md-3">
+                                                        <div class="row">
+
+
+<div class="component link-list">
+    <div class="component-content">
+        <h6 class="language-selector-modal__country-name">Svezia</h6>
+
+            <div class="language-selector-modal__page">
+                <span class="language-selector-modal__page-name">Pagina iniziale:</span>
+                <ul>
+
+                        <li>
+                            <div class="field-link">
+                                    <a href="/sv-se" data-variantfieldname="Link">Swedish</a>
+                            </div>
+                        </li>
+                </ul>
+            </div>
+    </div>
+</div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-12 col-md-3">
+                                                        <div class="row">
+
+
+<div class="component link-list">
+    <div class="component-content">
+        <h6 class="language-selector-modal__country-name">Regno Unito</h6>
+
+            <div class="language-selector-modal__page">
+                <span class="language-selector-modal__page-name">Pagina iniziale:</span>
+                <ul>
+
+                        <li>
+                            <div class="field-link">
+                                    <a href="/en-gb" data-variantfieldname="Link">Inglese</a>
+                            </div>
+                        </li>
+                </ul>
+            </div>
+    </div>
+</div>
+                                                        </div>
+                                                    </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="tab">
+                                        <div class="row">
+                                            <div class="row component column-splitter">
+                                                    <div class="col-12 col-md-3">
+                                                        <div class="row">
+
+
+<div class="component link-list">
+    <div class="component-content">
+        <h6 class="language-selector-modal__country-name">Australia</h6>
+
+            <div class="language-selector-modal__page">
+                <span class="language-selector-modal__page-name">Pagina iniziale:</span>
+                <ul>
+
+                        <li>
+                            <div class="field-link">
+                                    <a href="/en-au" data-variantfieldname="Link">Inglese</a>
+                            </div>
+                        </li>
+                </ul>
+            </div>
+    </div>
+</div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-12 col-md-3">
+                                                        <div class="row">
+
+
+<div class="component link-list">
+    <div class="component-content">
+        <h6 class="language-selector-modal__country-name">Cina</h6>
+
+            <div class="language-selector-modal__page">
+                <span class="language-selector-modal__page-name">Pagina iniziale:</span>
+                <ul>
+
+                        <li>
+                            <div class="field-link">
+                                    <a href="https://www.wolterskluwer.cn" data-variantfieldname="Link" target="_blank" rel="noopener noreferrer">Cinese semplificato</a>
+                            </div>
+                        </li>
+                </ul>
+            </div>
+    </div>
+</div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-12 col-md-3">
+                                                        <div class="row">
+
+
+<div class="component link-list">
+    <div class="component-content">
+        <h6 class="language-selector-modal__country-name">Hong Kong</h6>
+
+            <div class="language-selector-modal__page">
+                <span class="language-selector-modal__page-name">Pagina iniziale:</span>
+                <ul>
+
+                        <li>
+                            <div class="field-link">
+                                    <a href="/en-hk" data-variantfieldname="Link">Inglese</a>
+                            </div>
+                        </li>
+                </ul>
+            </div>
+    </div>
+</div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-12 col-md-3">
+                                                        <div class="row">
+
+
+<div class="component link-list">
+    <div class="component-content">
+        <h6 class="language-selector-modal__country-name">India</h6>
+
+            <div class="language-selector-modal__page">
+                <span class="language-selector-modal__page-name">Pagina iniziale:</span>
+                <ul>
+
+                        <li>
+                            <div class="field-link">
+                                    <a href="/en-in" data-variantfieldname="Link">Inglese</a>
+                            </div>
+                        </li>
+                </ul>
+            </div>
+    </div>
+</div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-12 col-md-3">
+                                                        <div class="row">
+
+
+<div class="component link-list">
+    <div class="component-content">
+        <h6 class="language-selector-modal__country-name">Giappone</h6>
+
+            <div class="language-selector-modal__page">
+                <span class="language-selector-modal__page-name">Pagina iniziale:</span>
+                <ul>
+
+                        <li>
+                            <div class="field-link">
+                                    <a href="/ja-jp" data-variantfieldname="Link">Giapponese</a>
+                            </div>
+                        </li>
+                </ul>
+            </div>
+    </div>
+</div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-12 col-md-3">
+                                                        <div class="row">
+
+
+<div class="component link-list">
+    <div class="component-content">
+        <h6 class="language-selector-modal__country-name">Malesia</h6>
+
+            <div class="language-selector-modal__page">
+                <span class="language-selector-modal__page-name">Pagina iniziale:</span>
+                <ul>
+
+                        <li>
+                            <div class="field-link">
+                                    <a href="/en-my" data-variantfieldname="Link">Inglese</a>
+                            </div>
+                        </li>
+                </ul>
+            </div>
+    </div>
+</div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-12 col-md-3">
+                                                        <div class="row">
+
+
+<div class="component link-list">
+    <div class="component-content">
+        <h6 class="language-selector-modal__country-name">Nuova Zelanda</h6>
+
+            <div class="language-selector-modal__page">
+                <span class="language-selector-modal__page-name">Pagina iniziale:</span>
+                <ul>
+
+                        <li>
+                            <div class="field-link">
+                                    <a href="/en-nz" data-variantfieldname="Link">Inglese</a>
+                            </div>
+                        </li>
+                </ul>
+            </div>
+    </div>
+</div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-12 col-md-3">
+                                                        <div class="row">
+
+
+<div class="component link-list">
+    <div class="component-content">
+        <h6 class="language-selector-modal__country-name">Filippine</h6>
+
+            <div class="language-selector-modal__page">
+                <span class="language-selector-modal__page-name">Pagina iniziale:</span>
+                <ul>
+
+                        <li>
+                            <div class="field-link">
+                                    <a href="/en-ph" data-variantfieldname="Link">Inglese</a>
+                            </div>
+                        </li>
+                </ul>
+            </div>
+    </div>
+</div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-12 col-md-3">
+                                                        <div class="row">
+
+
+<div class="component link-list">
+    <div class="component-content">
+        <h6 class="language-selector-modal__country-name">Singapore</h6>
+
+            <div class="language-selector-modal__page">
+                <span class="language-selector-modal__page-name">Pagina iniziale:</span>
+                <ul>
+
+                        <li>
+                            <div class="field-link">
+                                    <a href="/en-sg" data-variantfieldname="Link">Inglese</a>
+                            </div>
+                        </li>
+                </ul>
+            </div>
+    </div>
+</div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-12 col-md-3">
+                                                        <div class="row">
+
+
+<div class="component link-list">
+    <div class="component-content">
+        <h6 class="language-selector-modal__country-name">Corea del Sud</h6>
+
+            <div class="language-selector-modal__page">
+                <span class="language-selector-modal__page-name">Pagina iniziale:</span>
+                <ul>
+
+                        <li>
+                            <div class="field-link">
+                                    <a href="/ko-kr" data-variantfieldname="Link">Inglese</a>
+                            </div>
+                        </li>
+                </ul>
+            </div>
+    </div>
+</div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-12 col-md-3">
+                                                        <div class="row">
+
+
+<div class="component link-list">
+    <div class="component-content">
+        <h6 class="language-selector-modal__country-name">Taiwan</h6>
+
+            <div class="language-selector-modal__page">
+                <span class="language-selector-modal__page-name">Pagina iniziale:</span>
+                <ul>
+
+                        <li>
+                            <div class="field-link">
+                                    <a href="/zh-tw" data-variantfieldname="Link">Inglese</a>
+                            </div>
+                        </li>
+                </ul>
+            </div>
+    </div>
+</div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-12 col-md-3">
+                                                        <div class="row">
+
+
+<div class="component link-list">
+    <div class="component-content">
+        <h6 class="language-selector-modal__country-name">Tailandia</h6>
+
+            <div class="language-selector-modal__page">
+                <span class="language-selector-modal__page-name">Pagina iniziale:</span>
+                <ul>
+
+                        <li>
+                            <div class="field-link">
+                                    <a href="/th-th" data-variantfieldname="Link">Inglese</a>
+                            </div>
+                        </li>
+                </ul>
+            </div>
+    </div>
+</div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-12 col-md-3">
+                                                        <div class="row">
+
+
+<div class="component link-list">
+    <div class="component-content">
+        <h6 class="language-selector-modal__country-name">Vietnam</h6>
+
+            <div class="language-selector-modal__page">
+                <span class="language-selector-modal__page-name">Pagina iniziale:</span>
+                <ul>
+
+                        <li>
+                            <div class="field-link">
+                                    <a href="/vi-vn" data-variantfieldname="Link">Inglese</a>
+                            </div>
+                        </li>
+                </ul>
+            </div>
+    </div>
+</div>
+                                                        </div>
+                                                    </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+        </div>
+    </div>
+</div></div>        </div>
+    </div>
+</div>
+<div class="row">
+
+
+<div class="component row-splitter">
+        <div class="container-fluid">
+            <div >
+                <div class="row">
+
+
+    <div class="primary-nav">
+        <span class="primary-nav-overlay-mobile"></span>
+        <div class="ow-primary-nav-wrap">
+            <nav class="ow-primary-nav" aria-labelledby="primary-nav">
+                <h5 id="primary-nav" class="sr-only">Primary Navigation</h5>
+                <div class="ow-primary-nav-master">
+                    <div class="ow-primary-nav-level-1-container ow-nav-level-0-open">
+                            <ul class="ow-nav-level-1">
+                                    <li class="ow-nav-level-1-item">
+                                            <button type="button" class="wk-button wk-button-text ow-nav-level-1-trigger"><span class="ow-nav-level-1-trigger-text">Health</span><span aria-hidden="true" class="wk-icon-chevron-down ow-nav-level-1-chevron"></span></button>
+                                            <div class="ow-primary-nav-level-2 ">
+                                                <span class="primary-nav-overlay-desktop"></span>
+                                                <div class="ow-primary-nav-level-2-wrapper ow-background-fill">
+                                                    <div class="ow-background-fill-container">
+                                                        <div class="ow-background-fill-region ow-background-fill-left"></div>
+                                                        <div class="ow-background-fill-region ow-background-fill-right"></div>
+                                                        <div class="ow-primary-nav-level-2-container ow-primary-nav-container">
+                                                            <div class="ow-primary-nav-group">
+                                                                <div class="ow-primary-nav-summary">
+                                                                    <div class="ow-primary-nav-content">
+                                                                        <h5 class="ow-nav-level-2-list-heading">Health</h5>
+                                                                        <p class="ow-nav-level-2-copy">Soluzioni tecnologiche avanzate che facilitano il processo decisionale nel settore healthcare. Specializzato in efficacia clinica, learning, ricerca e sicurezza.<br /></p>
+                                                                            <a href="/it-it/health" class="ow-nav-level-2-view-all-link"><span>Maggiori informazioni</span><span aria-hidden="true" class="wk-icon-arrow-right"></span></a>
+                                                                                                                                                                                                                                                                                            </div>
+                                                                </div>
+
+                                                                <div class="ow-primary-nav-items">
+                                                                                <div class="ow-primary-nav-item">
+                                                                                    <div class="ow-primary-nav-content">
+                                                                                        <h6 class="ow-nav-level-2-list-heading">Soluzioni</h6>
+                                                                                        <ul class="ow-nav-level-2-list ">
+                                                                                                    <li class="ow-nav-level-2-list-item ow-nav-level-2-list-item-with-text"><a href="/it-it/solutions/uptodate" class="ow-nav-level-2-link">UpToDate</a><span class="ow-nav-level-2-text">Supporto alle decisioni cliniche leader del settore</span></li>
+                                                                                                    <li class="ow-nav-level-2-list-item ow-nav-level-2-list-item-with-text"><a href="/it-it/solutions/ovid" class="ow-nav-level-2-link">Ovid</a><span class="ow-nav-level-2-text">La piattaforma di ricerca medica più affidabile al mondo</span></li>
+                                                                                                    <li class="ow-nav-level-2-list-item ow-nav-level-2-list-item-with-text"><a href="/it-it/solutions/uptodate" class="ow-nav-level-2-link">UpToDate Lexidrug</a><span class="ow-nav-level-2-text">Soluzioni farmacologiche di riferimento basate sull’evidenza</span></li>
+                                                                                                    <li class="ow-nav-level-2-list-item ow-nav-level-2-list-item-with-text"><a href="/it-it/solutions/ovid/ovid-synthesis" class="ow-nav-level-2-link">Ovid Synthesis</a><span class="ow-nav-level-2-text">Soluzione di flusso di lavoro per i miglioramenti della pratica clinica</span></li>
+                                                                                        </ul>
+                                                                                            <a href="https://www.wolterskluwer.com/it-it/solutions?compositeLink=%7B8688A3F8-30B0-41CF-B6DB-0DAF84173D42%7D" class="ow-nav-level-2-view-all-link"><span>Mostra tutte le soluzioni</span><span aria-hidden="true" class="wk-icon-arrow-right"></span></a>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="ow-primary-nav-item">
+                                                                                    <div class="ow-primary-nav-content">
+                                                                                        <h6 class="ow-nav-level-2-list-heading">Approfondimenti</h6>
+                                                                                        <ul class="ow-nav-level-2-list ">
+                                                                                                    <li class="ow-nav-level-2-list-item"><a href="/it-it/expert-insights/empowering-healthcare-professionals-trusted-unified-cdss" class="ow-nav-level-2-link">Soluzioni di supporto decisionale clinico unificate per gli operatori sanitari</a></li>
+                                                                                                    <li class="ow-nav-level-2-list-item"><a href="/it-it/expert-insights/unifying-care-continuum-healthcare-ecosystem-uptodate" class="ow-nav-level-2-link">Unificare le cure: le affidabili soluzioni UpToDate alla vigilia di una nuova era</a></li>
+                                                                                                    <li class="ow-nav-level-2-list-item"><a href="/it-it/expert-insights/fondazione-poliambulanza-passo-avanti-digitalizzazione-processi-sanitari" class="ow-nav-level-2-link">Con l’adozione di UpToDate Advanced e UpToDate Lexidrug di Wolters Kluwer Fondazione Poliambulanza fa un ulteriore passo avanti nella digitalizzazione dei processi sanitari</a></li>
+                                                                                                    <li class="ow-nav-level-2-list-item"><a href="/it-it/expert-insights/come-gestire-il-caldo-sui-luoghi-di-lavoro" class="ow-nav-level-2-link">Come gestire il caldo sui luoghi di lavoro</a></li>
+                                                                                                    <li class="ow-nav-level-2-list-item"><a href="/it-it/expert-insights/biblioteche-mediche-documentalisti-e-nuovi-bisogni-di-aggiornamento" class="ow-nav-level-2-link">Biblioteche mediche, documentalisti e nuovi bisogni di aggiornamento</a></li>
+                                                                                                    <li class="ow-nav-level-2-list-item"><a href="/it-it/expert-insights/tante-informazioni-e-nuove-sfide-come-covid-19-ha-rivoluzionato-le-biblioteche-scientifiche" class="ow-nav-level-2-link">Tante informazioni e nuove sfide. Come COVID-19 ha rivoluzionato le biblioteche scientifiche</a></li>
+                                                                                                    <li class="ow-nav-level-2-list-item"><a href="/it-it/expert-insights/bonoldi-clinical-story" class="ow-nav-level-2-link">UpToDate Clinical Story: Un caso di sclerodermia tipo morfea generalizzata</a></li>
+                                                                                        </ul>
+                                                                                            <a href="/it-it/expert-insights/health" class="ow-nav-level-2-view-all-link"><span>Mostra tutti gli approfondimenti</span><span aria-hidden="true" class="wk-icon-arrow-right"></span></a>
+                                                                                    </div>
+                                                                                </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                    </li>
+                                    <li class="ow-nav-level-1-item">
+                                            <button type="button" class="wk-button wk-button-text ow-nav-level-1-trigger"><span class="ow-nav-level-1-trigger-text">Fisco, Contabilit&#224; e Paghe</span><span aria-hidden="true" class="wk-icon-chevron-down ow-nav-level-1-chevron"></span></button>
+                                            <div class="ow-primary-nav-level-2 ">
+                                                <span class="primary-nav-overlay-desktop"></span>
+                                                <div class="ow-primary-nav-level-2-wrapper ow-background-fill">
+                                                    <div class="ow-background-fill-container">
+                                                        <div class="ow-background-fill-region ow-background-fill-left"></div>
+                                                        <div class="ow-background-fill-region ow-background-fill-right"></div>
+                                                        <div class="ow-primary-nav-level-2-container ow-primary-nav-container">
+                                                            <div class="ow-primary-nav-group">
+                                                                <div class="ow-primary-nav-summary">
+                                                                    <div class="ow-primary-nav-content">
+                                                                        <h5 class="ow-nav-level-2-list-heading">Fisco, Contabilit&#224; e Paghe</h5>
+                                                                        <p class="ow-nav-level-2-copy">Le nostre soluzioni consentono ai professionisti esperti in ambito fiscale, contabile e del lavoro e ad aziende di ogni dimensione di migliorare la produttivit&agrave;, gestire il cambiamento e produrre risultati migliori.&nbsp;Grazie a workflow ottimizzati dalla tecnologia e guidati da una profonda conoscenza del settore, aiutiamo le organizzazioni a crescere, gestire e proteggere il loro business e quello dei loro clienti.</p>
+                                                                            <a href="/it-it/tax-and-accounting" class="ow-nav-level-2-view-all-link"><span>Maggiori informazioni</span><span aria-hidden="true" class="wk-icon-arrow-right"></span></a>
+                                                                                                                                                                                                                                                                                            </div>
+                                                                </div>
+
+                                                                <div class="ow-primary-nav-items">
+                                                                                <div class="ow-primary-nav-item">
+                                                                                    <div class="ow-primary-nav-content">
+                                                                                        <h6 class="ow-nav-level-2-list-heading">Soluzioni</h6>
+                                                                                        <ul class="ow-nav-level-2-list ">
+                                                                                                    <li class="ow-nav-level-2-list-item ow-nav-level-2-list-item-with-text"><a href="/it-it/solutions/tax-software" class="ow-nav-level-2-link">Software Tax &amp; Accounting Italia</a><span class="ow-nav-level-2-text">Soluzioni software innovative</span></li>
+                                                                                                    <li class="ow-nav-level-2-list-item ow-nav-level-2-list-item-with-text"><a href="/it-it/solutions/genya" class="ow-nav-level-2-link">Genya</a><span class="ow-nav-level-2-text">Il software in cloud che unisce adempimenti e funzioni di Business Intelligence </span></li>
+                                                                                                    <li class="ow-nav-level-2-list-item ow-nav-level-2-list-item-with-text"><a href="/it-it/solutions/one/onelavoro" class="ow-nav-level-2-link">One LAVORO</a><span class="ow-nav-level-2-text">Soluzione digitale per consulenti del lavoro e hr manager</span></li>
+                                                                                                    <li class="ow-nav-level-2-list-item ow-nav-level-2-list-item-with-text"><a href="/it-it/solutions/one/onefiscale" class="ow-nav-level-2-link">One FISCALE</a><span class="ow-nav-level-2-text">Una soluzione progettata per farti prendere le decisioni giuste nei momenti decisivi</span></li>
+                                                                                        </ul>
+                                                                                            <a href="https://www.wolterskluwer.com/it-it/solutions?compositeLink=%7BFCEF2B59-251D-4C37-8240-331699DCB648%7D" class="ow-nav-level-2-view-all-link"><span>Mostra tutte le soluzioni</span><span aria-hidden="true" class="wk-icon-arrow-right"></span></a>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="ow-primary-nav-item">
+                                                                                    <div class="ow-primary-nav-content">
+                                                                                        <h6 class="ow-nav-level-2-list-heading">Approfondimenti</h6>
+                                                                                        <ul class="ow-nav-level-2-list ">
+                                                                                                    <li class="ow-nav-level-2-list-item"><a href="/it-it/expert-insights/revisione-contabile-obbligatoria" class="ow-nav-level-2-link">Revisione Contabile: Quando è Obbligatoria e Come Adeguarsi</a></li>
+                                                                                                    <li class="ow-nav-level-2-list-item"><a href="/it-it/expert-insights/lo-studio-laboratorio-aziende-sceglie-il-software-genya" class="ow-nav-level-2-link">Lo Studio "Laboratorio Aziende" sceglie Genya come software contabile all’avanguardia</a></li>
+                                                                                                    <li class="ow-nav-level-2-list-item"><a href="/it-it/expert-insights/ricerca-future-ready-accountant-analizza-il-futuro-della-professione-contabile" class="ow-nav-level-2-link">Il futuro della professione contabile: l’impatto dell'Intelligenza Artificiale secondo la ricerca "Future Ready Accountant" </a></li>
+                                                                                                    <li class="ow-nav-level-2-list-item"><a href="/it-it/expert-insights/gestione-fatturazione-e-contabilita-con-software-genya-per-aziende" class="ow-nav-level-2-link">La gestione della Fatturazione e della Contabilità con Genya Per Aziende: il software gestionale ideale per studi Commercialisti e Clienti</a></li>
+                                                                                                    <li class="ow-nav-level-2-list-item"><a href="/it-it/expert-insights/software-contabilita-aziendale" class="ow-nav-level-2-link">Ottimizza la Gestione Contabile con il Software di Wolters Kluwer</a></li>
+                                                                                                    <li class="ow-nav-level-2-list-item"><a href="/it-it/expert-insights/software-per-fatturazione-e-contabilita-in-cloud" class="ow-nav-level-2-link">Contabilità e automazione della fatturazione: un vantaggio strategico nella contabilità delle piccole imprese</a></li>
+                                                                                                    <li class="ow-nav-level-2-list-item"><a href="/it-it/expert-insights/caso-studio-cliente-software-commercialisti-studio-boidi-e-partners" class="ow-nav-level-2-link">Lo Studio Boidi & Partners sceglie Wolters Kluwer come partner tecnologico </a></li>
+                                                                                                    <li class="ow-nav-level-2-list-item"><a href="/it-it/expert-insights/arca-evolution-erp-per-controllo-finanziario-e-di-gestione" class="ow-nav-level-2-link">Arca Evolution: Software Gestionale per Controllo Finanziario e Gestione Aziendale</a></li>
+                                                                                        </ul>
+                                                                                            <a href="/it-it/expert-insights/tax-and-accounting" class="ow-nav-level-2-view-all-link"><span>Mostra tutti gli approfondimenti</span><span aria-hidden="true" class="wk-icon-arrow-right"></span></a>
+                                                                                    </div>
+                                                                                </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                    </li>
+                                    <li class="ow-nav-level-1-item">
+                                            <button type="button" class="wk-button wk-button-text ow-nav-level-1-trigger"><span class="ow-nav-level-1-trigger-text">ESG</span><span aria-hidden="true" class="wk-icon-chevron-down ow-nav-level-1-chevron"></span></button>
+                                            <div class="ow-primary-nav-level-2 ">
+                                                <span class="primary-nav-overlay-desktop"></span>
+                                                <div class="ow-primary-nav-level-2-wrapper ow-background-fill">
+                                                    <div class="ow-background-fill-container">
+                                                        <div class="ow-background-fill-region ow-background-fill-left"></div>
+                                                        <div class="ow-background-fill-region ow-background-fill-right"></div>
+                                                        <div class="ow-primary-nav-level-2-container ow-primary-nav-container">
+                                                            <div class="ow-primary-nav-group">
+                                                                <div class="ow-primary-nav-summary">
+                                                                    <div class="ow-primary-nav-content">
+                                                                        <h5 class="ow-nav-level-2-list-heading">ESG</h5>
+                                                                        <p class="ow-nav-level-2-copy">Strumenti completi e indicazioni di persone esperte per aiutare le aziende a rispettare i requisiti normativi di sostenibilità e gestire i rischi ESG in modo efficiente.</p>
+                                                                            <a href="/it-it/esg" class="ow-nav-level-2-view-all-link"><span>Maggiori informazioni</span><span aria-hidden="true" class="wk-icon-arrow-right"></span></a>
+                                                                                                                                                                                                                                                                                            </div>
+                                                                </div>
+
+                                                                <div class="ow-primary-nav-items">
+                                                                                <div class="ow-primary-nav-item">
+                                                                                    <div class="ow-primary-nav-content">
+                                                                                        <h6 class="ow-nav-level-2-list-heading">Soluzioni</h6>
+                                                                                        <ul class="ow-nav-level-2-list ">
+                                                                                                    <li class="ow-nav-level-2-list-item ow-nav-level-2-list-item-with-text"><a href="/it-it/solutions/cch-tagetik/esg-sustainability-performance-management" class="ow-nav-level-2-link">CCH Tagetik</a><span class="ow-nav-level-2-text">Software di gestione delle prestazioni unificato</span></li>
+                                                                                                    <li class="ow-nav-level-2-list-item ow-nav-level-2-list-item-with-text"><a href="/it-it/solutions/onesumx-for-finance-risk-and-regulatory-reporting/onesumx-for-esg" class="ow-nav-level-2-link">OneSumX for Finance, Risk and Regulatory Reporting</a><span class="ow-nav-level-2-text">Scopri la nostra soluzione per la gestione di criteri ESG, rischio ambientale e requisiti normativi</span></li>
+                                                                                                    <li class="ow-nav-level-2-list-item ow-nav-level-2-list-item-with-text"><a href="/it-it/solutions/teammate/esg" class="ow-nav-level-2-link">TeamMate</a><span class="ow-nav-level-2-text">Soluzioni per revisori</span></li>
+                                                                                                    <li class="ow-nav-level-2-list-item ow-nav-level-2-list-item-with-text"><a href="/it-it/solutions/enablon" class="ow-nav-level-2-link">Enablon</a><span class="ow-nav-level-2-text">Soluzioni software per gestione di rischi e conformità, ingegneria e operazioni, sicurezza ambientale e sanitaria e sostenibilità</span></li>
+                                                                                        </ul>
+                                                                                            <a href="https://www.wolterskluwer.com/it-it/solutions?compositeLink=%7B00B23B24-4CED-4C3E-B937-CE3CE88D1157%7D" class="ow-nav-level-2-view-all-link"><span>Mostra tutte le soluzioni</span><span aria-hidden="true" class="wk-icon-arrow-right"></span></a>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="ow-primary-nav-item">
+                                                                                    <div class="ow-primary-nav-content">
+                                                                                        <h6 class="ow-nav-level-2-list-heading">Approfondimenti</h6>
+                                                                                        <ul class="ow-nav-level-2-list ">
+                                                                                                    <li class="ow-nav-level-2-list-item"><a href="/it-it/expert-insights/wb-customer-experience-csrd-with-bolton-group" class="ow-nav-level-2-link">Customer Experience: Parliamo di CSRD con Bolton </a></li>
+                                                                                                    <li class="ow-nav-level-2-list-item"><a href="/it-it/expert-insights/esg-carbon-emissions" class="ow-nav-level-2-link">Reporting delle emissioni di anidride carbonica: Scope 1, 2 e 3</a></li>
+                                                                                                    <li class="ow-nav-level-2-list-item"><a href="/it-it/expert-insights/wb-esg-from-csrd-to-carbon-emission-management" class="ow-nav-level-2-link">ESG: Dalla CSRD alla gestione della carbon emission con CCH Tagetik</a></li>
+                                                                                                    <li class="ow-nav-level-2-list-item"><a href="/it-it/expert-insights/barc-study-state-esg-and-sustainability-reporting" class="ow-nav-level-2-link">BARC: “Lo stato del Reporting ESG e di Sostenibilità - Sfide e consigli per il 2025”</a></li>
+                                                                                                    <li class="ow-nav-level-2-list-item"><a href="/it-it/expert-insights/road-to-csrd-sustainability-and-financial-reporting" class="ow-nav-level-2-link">L'ABC del reporting ESG</a></li>
+                                                                                                    <li class="ow-nav-level-2-list-item"><a href="/it-it/expert-insights/technology-helps-businesses-become-sustainable" class="ow-nav-level-2-link">ESG e CSRD: Sustainable Business Think Tank di CCH Tagetik</a></li>
+                                                                                                    <li class="ow-nav-level-2-list-item"><a href="/it-it/expert-insights/5-new-pillars-of-financial-planning-for-enterprises-in-2023" class="ow-nav-level-2-link">I 5 nuovi pilastri del financial planning  </a></li>
+                                                                                                    <li class="ow-nav-level-2-list-item"><a href="/it-it/expert-insights/leading-esg-reporting-requirements-quick-guide" class="ow-nav-level-2-link">Una guida ai framework e ai requisiti ESG</a></li>
+                                                                                        </ul>
+                                                                                            <a href="/it-it/expert-insights/esg?f:interestarea=ESG" class="ow-nav-level-2-view-all-link"><span>Mostra tutti gli approfondimenti</span><span aria-hidden="true" class="wk-icon-arrow-right"></span></a>
+                                                                                    </div>
+                                                                                </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                    </li>
+                                    <li class="ow-nav-level-1-item">
+                                            <button type="button" class="wk-button wk-button-text ow-nav-level-1-trigger"><span class="ow-nav-level-1-trigger-text">Finanza e Gestione</span><span aria-hidden="true" class="wk-icon-chevron-down ow-nav-level-1-chevron"></span></button>
+                                            <div class="ow-primary-nav-level-2 ">
+                                                <span class="primary-nav-overlay-desktop"></span>
+                                                <div class="ow-primary-nav-level-2-wrapper ow-background-fill">
+                                                    <div class="ow-background-fill-container">
+                                                        <div class="ow-background-fill-region ow-background-fill-left"></div>
+                                                        <div class="ow-background-fill-region ow-background-fill-right"></div>
+                                                        <div class="ow-primary-nav-level-2-container ow-primary-nav-container">
+                                                            <div class="ow-primary-nav-group">
+                                                                <div class="ow-primary-nav-summary">
+                                                                    <div class="ow-primary-nav-content">
+                                                                        <h5 class="ow-nav-level-2-list-heading">Finanza e Gestione</h5>
+                                                                        <p class="ow-nav-level-2-copy">Le nostre soluzioni dedicate sia per i dipartimenti e le istituzioni finanziarie che per le aziende aiutano i clienti ad adempiere agli obblighi normativi nei confronti delle autorit&agrave; di regolamentazione esterne e gestire pi&ugrave; facilmente le imprese.&nbsp;Siamo specializzati nell'ottimizzazione dei processi per offrire una visione accurata e in tempo reale della posizione finanziaria e dell'andamento generale di istituzioni e aziende.</p>
+                                                                            <a href="/it-it/finance" class="ow-nav-level-2-view-all-link"><span>Maggiori informazioni</span><span aria-hidden="true" class="wk-icon-arrow-right"></span></a>
+                                                                                                                                                                                                                                                                                            </div>
+                                                                </div>
+
+                                                                <div class="ow-primary-nav-items">
+                                                                                <div class="ow-primary-nav-item">
+                                                                                    <div class="ow-primary-nav-content">
+                                                                                        <h6 class="ow-nav-level-2-list-heading">Soluzioni</h6>
+                                                                                        <ul class="ow-nav-level-2-list ">
+                                                                                                    <li class="ow-nav-level-2-list-item ow-nav-level-2-list-item-with-text"><a href="/it-it/solutions/cch-tagetik" class="ow-nav-level-2-link">CCH Tagetik</a><span class="ow-nav-level-2-text">Software di gestione unificata delle prestazioni</span></li>
+                                                                                                    <li class="ow-nav-level-2-list-item ow-nav-level-2-list-item-with-text"><a href="/it-it/solutions/onesumx-for-finance-risk-and-regulatory-reporting" class="ow-nav-level-2-link">OneSumX for Finance, Risk and Regulatory Reporting</a><span class="ow-nav-level-2-text">Suite di soluzioni integrate per la conformità e la creazione di report</span></li>
+                                                                                                    <li class="ow-nav-level-2-list-item ow-nav-level-2-list-item-with-text"><a href="/it-it/solutions/genya-cfo" class="ow-nav-level-2-link">Genya CFO</a><span class="ow-nav-level-2-text">La soluzione per offrire consulenza economico-finanziaria ai clienti dello Studio</span></li>
+                                                                                                    <li class="ow-nav-level-2-list-item ow-nav-level-2-list-item-with-text"><a href="/it-it/solutions/arca-evolution" class="ow-nav-level-2-link">Arca EVOLUTION</a><span class="ow-nav-level-2-text">L’ERP che ottimizza i processi aziendali e si adatta al crescere delle aziende</span></li>
+                                                                                        </ul>
+                                                                                            <a href="https://www.wolterskluwer.com/it-it/solutions?compositeLink=%7BEF8A4B4D-35C4-4828-A0C3-8467EACA3C69%7D" class="ow-nav-level-2-view-all-link"><span>Mostra tutte le soluzioni</span><span aria-hidden="true" class="wk-icon-arrow-right"></span></a>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="ow-primary-nav-item">
+                                                                                    <div class="ow-primary-nav-content">
+                                                                                        <h6 class="ow-nav-level-2-list-heading">Approfondimenti</h6>
+                                                                                        <ul class="ow-nav-level-2-list ">
+                                                                                                    <li class="ow-nav-level-2-list-item"><a href="/it-it/expert-insights/revisione-contabile-obbligatoria" class="ow-nav-level-2-link">Revisione Contabile: Quando è Obbligatoria e Come Adeguarsi</a></li>
+                                                                                                    <li class="ow-nav-level-2-list-item"><a href="/it-it/expert-insights/esg-sostenibilita" class="ow-nav-level-2-link">Bilancio di Sostenibilità Obbligatorio: Cosa Cambia per le Aziende nel 2025</a></li>
+                                                                                                    <li class="ow-nav-level-2-list-item"><a href="/it-it/expert-insights/legge-di-bilancio-2025-forfettari" class="ow-nav-level-2-link">Legge di Bilancio 2025: Novità su Forfettario e IRPEF</a></li>
+                                                                                                    <li class="ow-nav-level-2-list-item"><a href="/it-it/expert-insights/wb-2025-02-19-cash-flow-planning" class="ow-nav-level-2-link">Il Cash Flow Planning del futuro: gli strumenti per automatizzare e ottimizzare la pianificazione</a></li>
+                                                                                                    <li class="ow-nav-level-2-list-item"><a href="/it-it/expert-insights/conservazione-fatture-elettroniche" class="ow-nav-level-2-link">Software per Fatture Elettroniche: Guida alla Scelta del Programma</a></li>
+                                                                                                    <li class="ow-nav-level-2-list-item"><a href="/it-it/expert-insights/lo-studio-laboratorio-aziende-sceglie-il-software-genya" class="ow-nav-level-2-link">Lo Studio "Laboratorio Aziende" sceglie Genya come software contabile all’avanguardia</a></li>
+                                                                                                    <li class="ow-nav-level-2-list-item"><a href="/it-it/expert-insights/cpm-matrix-nucleus-research-ftp" class="ow-nav-level-2-link">CCH® Tagetik expert solution Wolters Kluwer è stata nominata Leader nel Nucleus Research CPM Technology Value Matrix 2025.</a></li>
+                                                                                                    <li class="ow-nav-level-2-list-item"><a href="/it-it/expert-insights/ricerca-future-ready-accountant-analizza-il-futuro-della-professione-contabile" class="ow-nav-level-2-link">Il futuro della professione contabile: l’impatto dell'Intelligenza Artificiale secondo la ricerca "Future Ready Accountant" </a></li>
+                                                                                        </ul>
+                                                                                            <a href="/it-it/expert-insights/finance" class="ow-nav-level-2-view-all-link"><span>Mostra tutti gli approfondimenti</span><span aria-hidden="true" class="wk-icon-arrow-right"></span></a>
+                                                                                    </div>
+                                                                                </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                    </li>
+                                    <li class="ow-nav-level-1-item">
+                                            <button type="button" class="wk-button wk-button-text ow-nav-level-1-trigger"><span class="ow-nav-level-1-trigger-text">Compliance</span><span aria-hidden="true" class="wk-icon-chevron-down ow-nav-level-1-chevron"></span></button>
+                                            <div class="ow-primary-nav-level-2 ">
+                                                <span class="primary-nav-overlay-desktop"></span>
+                                                <div class="ow-primary-nav-level-2-wrapper ow-background-fill">
+                                                    <div class="ow-background-fill-container">
+                                                        <div class="ow-background-fill-region ow-background-fill-left"></div>
+                                                        <div class="ow-background-fill-region ow-background-fill-right"></div>
+                                                        <div class="ow-primary-nav-level-2-container ow-primary-nav-container">
+                                                            <div class="ow-primary-nav-group">
+                                                                <div class="ow-primary-nav-summary">
+                                                                    <div class="ow-primary-nav-content">
+                                                                        <h5 class="ow-nav-level-2-list-heading">Compliance</h5>
+                                                                        <p class="ow-nav-level-2-copy">Le nostre soluzioni per i professionisti, le aziende e le organizzazioni semplificano le attivit&agrave; per il rispetto degli obblighi normativi, la gestione dei rischi, l'aumento dell'efficienza e permettono di ottenere risultati di business migliori.</p>
+                                                                            <a href="/it-it/compliance" class="ow-nav-level-2-view-all-link"><span>Maggiori informazioni</span><span aria-hidden="true" class="wk-icon-arrow-right"></span></a>
+                                                                                                                                                                                                                                                                                            </div>
+                                                                </div>
+
+                                                                <div class="ow-primary-nav-items">
+                                                                                <div class="ow-primary-nav-item">
+                                                                                    <div class="ow-primary-nav-content">
+                                                                                        <h6 class="ow-nav-level-2-list-heading">Soluzioni</h6>
+                                                                                        <ul class="ow-nav-level-2-list ">
+                                                                                                    <li class="ow-nav-level-2-list-item ow-nav-level-2-list-item-with-text"><a href="/it-it/solutions/onesumx-for-finance-risk-and-regulatory-reporting" class="ow-nav-level-2-link">OneSumX for Finance, Risk and Regulatory Reporting</a><span class="ow-nav-level-2-text">Suite di soluzioni integrate per la conformità e la creazione di report</span></li>
+                                                                                                    <li class="ow-nav-level-2-list-item ow-nav-level-2-list-item-with-text"><a href="/it-it/solutions/teammate" class="ow-nav-level-2-link">TeamMate</a><span class="ow-nav-level-2-text">Soluzione per la gestione dell'internal audit e per l'analisi dati</span></li>
+                                                                                                    <li class="ow-nav-level-2-list-item ow-nav-level-2-list-item-with-text"><a href="/it-it/solutions/arkon" class="ow-nav-level-2-link">ARKon</a><span class="ow-nav-level-2-text">l’archiviazione digitale di documenti e fatture elettroniche </span></li>
+                                                                                                    <li class="ow-nav-level-2-list-item ow-nav-level-2-list-item-with-text"><a href="/it-it/solutions/one/onehse" class="ow-nav-level-2-link">One HSE</a><span class="ow-nav-level-2-text">La soluzione digitale per l'HSE Management</span></li>
+                                                                                        </ul>
+                                                                                            <a href="https://www.wolterskluwer.com/it-it/solutions?compositeLink=%7BD51BD02E-72B1-40B2-B5CC-7ABBF5B66469%7D" class="ow-nav-level-2-view-all-link"><span>Mostra tutte le soluzioni</span><span aria-hidden="true" class="wk-icon-arrow-right"></span></a>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="ow-primary-nav-item">
+                                                                                    <div class="ow-primary-nav-content">
+                                                                                        <h6 class="ow-nav-level-2-list-heading">Approfondimenti</h6>
+                                                                                        <ul class="ow-nav-level-2-list ">
+                                                                                                    <li class="ow-nav-level-2-list-item"><a href="/it-it/expert-insights/waste-oltre-software-cosa-e-piattaforma-abilitante" class="ow-nav-level-2-link">Waste management oltre il software: che cos’è la piattaforma abilitante e cosa fa?</a></li>
+                                                                                                    <li class="ow-nav-level-2-list-item"><a href="/it-it/expert-insights/software-di-bilancio" class="ow-nav-level-2-link">Software di Bilancio: Strumenti Essenziali per il Controllo Finanziario</a></li>
+                                                                                                    <li class="ow-nav-level-2-list-item"><a href="/it-it/expert-insights/hse-manager-del-futuro-competenze-digitali-e-nuovi-ruoli" class="ow-nav-level-2-link">HSE Manager del futuro: competenze digitali e nuovi ruoli</a></li>
+                                                                                                    <li class="ow-nav-level-2-list-item"><a href="/it-it/expert-insights/valutazione-rischi-4-0-sfide-soluzioni-per-sicurezza-integrata" class="ow-nav-level-2-link">Valutazione dei rischi 4.0: sfide e soluzioni per una sicurezza integrata</a></li>
+                                                                                                    <li class="ow-nav-level-2-list-item"><a href="/it-it/expert-insights/valutazione-economico-finanziaria-con-genya-cfo" class="ow-nav-level-2-link">Analisi finanziaria personalizzata con Genya CFO: automazione e semplicità per il tuo studio</a></li>
+                                                                                                    <li class="ow-nav-level-2-list-item"><a href="/it-it/expert-insights/using-technology-with-new-2024-global-internal-audit-standards" class="ow-nav-level-2-link">La tecnologia a supporto della conformità con i Global Internal Audit Standards 2024</a></li>
+                                                                                                    <li class="ow-nav-level-2-list-item"><a href="/it-it/expert-insights/crisi-di-impresa-e-risk-management-dominare-l-incertezza-con-genya-cfo" class="ow-nav-level-2-link">Crisi d’impresa e Risk Management: dominare l’incertezza con Genya CFO</a></li>
+                                                                                                    <li class="ow-nav-level-2-list-item"><a href="/it-it/expert-insights/che-hse-manager-sei-5-stili-leadership-in-ambito-hse" class="ow-nav-level-2-link">Che HSE Manager sei? 5 stili di leadership in ambito HSE</a></li>
+                                                                                        </ul>
+                                                                                            <a href="/it-it/expert-insights/compliance" class="ow-nav-level-2-view-all-link"><span>Mostra tutti gli approfondimenti</span><span aria-hidden="true" class="wk-icon-arrow-right"></span></a>
+                                                                                    </div>
+                                                                                </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                    </li>
+                                    <li class="ow-nav-level-1-item">
+                                            <button type="button" class="wk-button wk-button-text ow-nav-level-1-trigger"><span class="ow-nav-level-1-trigger-text">Legale</span><span aria-hidden="true" class="wk-icon-chevron-down ow-nav-level-1-chevron"></span></button>
+                                            <div class="ow-primary-nav-level-2 ">
+                                                <span class="primary-nav-overlay-desktop"></span>
+                                                <div class="ow-primary-nav-level-2-wrapper ow-background-fill">
+                                                    <div class="ow-background-fill-container">
+                                                        <div class="ow-background-fill-region ow-background-fill-left"></div>
+                                                        <div class="ow-background-fill-region ow-background-fill-right"></div>
+                                                        <div class="ow-primary-nav-level-2-container ow-primary-nav-container">
+                                                            <div class="ow-primary-nav-group">
+                                                                <div class="ow-primary-nav-summary">
+                                                                    <div class="ow-primary-nav-content">
+                                                                        <h5 class="ow-nav-level-2-list-heading">Legale</h5>
+                                                                        <p class="ow-nav-level-2-copy">Al servizio dei professionisti che lavorano in studi legali, notarili e nelle aziende. Offriamo strumenti che supportano il processo decisionale dei nostri clienti.&nbsp; Semplifichiamo la ricerca, l'analisi e i flussi di lavoro per dare valore alle organizzazioni, garantendo una societ&agrave; pi&ugrave; trasparente, giusta e sicura.</p>
+                                                                            <a href="/it-it/legal" class="ow-nav-level-2-view-all-link"><span>Maggiori informazioni</span><span aria-hidden="true" class="wk-icon-arrow-right"></span></a>
+                                                                                                                                                                                                                                                                                            </div>
+                                                                </div>
+
+                                                                <div class="ow-primary-nav-items">
+                                                                                <div class="ow-primary-nav-item">
+                                                                                    <div class="ow-primary-nav-content">
+                                                                                        <h6 class="ow-nav-level-2-list-heading">Soluzioni</h6>
+                                                                                        <ul class="ow-nav-level-2-list ">
+                                                                                                    <li class="ow-nav-level-2-list-item ow-nav-level-2-list-item-with-text"><a href="/it-it/solutions/kleos" class="ow-nav-level-2-link">Kleos</a><span class="ow-nav-level-2-text">Il software gestionale per gli Avvocati</span></li>
+                                                                                                    <li class="ow-nav-level-2-list-item ow-nav-level-2-list-item-with-text"><a href="/it-it/solutions/one/onelegale" class="ow-nav-level-2-link">One LEGALE</a><span class="ow-nav-level-2-text">La soluzione digitale per i professionisti legali</span></li>
+                                                                                                    <li class="ow-nav-level-2-list-item ow-nav-level-2-list-item-with-text"><a href="/it-it/solutions/notaionext" class="ow-nav-level-2-link">NotaioNext</a><span class="ow-nav-level-2-text">Il nuovo gestionale per i Notai</span></li>
+                                                                                                    <li class="ow-nav-level-2-list-item ow-nav-level-2-list-item-with-text"><a href="/it-it/solutions/suitenext" class="ow-nav-level-2-link">SuiteNext</a><span class="ow-nav-level-2-text"> La RiEvoluzione digitale dell'ufficio legale</span></li>
+                                                                                        </ul>
+                                                                                            <a href="https://www.wolterskluwer.com/it-it/solutions?compositeLink=%7B3B1F370B-89CD-42CF-B156-20CB2248D25C%7D" class="ow-nav-level-2-view-all-link"><span>Mostra tutte le soluzioni</span><span aria-hidden="true" class="wk-icon-arrow-right"></span></a>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="ow-primary-nav-item">
+                                                                                    <div class="ow-primary-nav-content">
+                                                                                        <h6 class="ow-nav-level-2-list-heading">Approfondimenti</h6>
+                                                                                        <ul class="ow-nav-level-2-list ">
+                                                                                                    <li class="ow-nav-level-2-list-item"><a href="/it-it/expert-insights/robert-ambrogi-genai-studi-legali-opportunita-sfida" class="ow-nav-level-2-link">Robert Ambrogi: GenAi e studi legali tra opportunità e sfida</a></li>
+                                                                                                    <li class="ow-nav-level-2-list-item"><a href="/it-it/expert-insights/kamila-kurkowska-retention-talenti-settore-legale" class="ow-nav-level-2-link">Kamila Kurkowska: la retention dei talenti nel settore legale</a></li>
+                                                                                                    <li class="ow-nav-level-2-list-item"><a href="/it-it/expert-insights/janet-levee-impatto-genai-sulla-professione-legale" class="ow-nav-level-2-link">Janet LeVee: l’impatto della GenAI sulla professione legale</a></li>
+                                                                                                    <li class="ow-nav-level-2-list-item"><a href="/it-it/expert-insights/stefano-mele-le-sfide-della-genai-settore-legale" class="ow-nav-level-2-link">Stefano Mele: le sfide della GenAI per il settore legale</a></li>
+                                                                                                    <li class="ow-nav-level-2-list-item"><a href="/it-it/expert-insights/attracting-retaining-legal-talent" class="ow-nav-level-2-link">Come attrarre e trattenere i migliori talenti legali</a></li>
+                                                                                                    <li class="ow-nav-level-2-list-item"><a href="/it-it/expert-insights/ai-impact-on-legal-business-models" class="ow-nav-level-2-link">Ridefinire l'attività legale: la fine delle ore fatturabili?</a></li>
+                                                                                                    <li class="ow-nav-level-2-list-item"><a href="/it-it/expert-insights/rising-demand-for-esg-expertise-in-legal-industry" class="ow-nav-level-2-link">Domanda in rapida crescita di competenze ESG</a></li>
+                                                                                                    <li class="ow-nav-level-2-list-item"><a href="/it-it/expert-insights/gen-ai-transforming-legal-industry" class="ow-nav-level-2-link">La GenAI ora è realtà</a></li>
+                                                                                        </ul>
+                                                                                            <a href="/it-it/expert-insights/legal" class="ow-nav-level-2-view-all-link"><span>Mostra tutti gli approfondimenti</span><span aria-hidden="true" class="wk-icon-arrow-right"></span></a>
+                                                                                    </div>
+                                                                                </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                    </li>
+                            </ul>
+                    </div>
+                </div>
+            </nav>
+        </div>
+    </div>
+<div class="breadcrumb-wrapper">
+    <div class="col-lg-12">
+        <div class="component breadcrumb breadcrumb-navigation js-breadcrumb-navigation initialized">
+            <div class="component-content">
+                <nav>
+                    <ol>
+                            <li class="breadcrumb-navigation__item home">
+                                    <a class="breadcrumb-navigation__link" href="/it-it"><span class="breadcrumb-navigation__backtotext">Torna a</span> Home </a>
+                                    <span class="breadcrumb-navigation__separator separator">></span>
+                            </li>
+                            <li class="breadcrumb-navigation__item home">
+                                    <a class="breadcrumb-navigation__link" href="/it-it/solutions"><span class="breadcrumb-navigation__backtotext">Torna a</span> Soluzioni </a>
+                                    <span class="breadcrumb-navigation__separator separator">></span>
+                            </li>
+                            <li class="breadcrumb-navigation__item home">
+                                    <span class="breadcrumb-navigation__link">Genya</span>
+                            </li>
+                    </ol>
+                </nav>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+            </div>
+        </div>
+        <div class="container-fluid">
+            <div >
+                <div class="row"><div class="component hero-full hero-full--dark-overlay col-12">
+  <div class="component-content full-bleed">
+<div class="hero-full__image field-image"><image stylelabs-content-type="Image" src="https://assets.contenthub.wolterskluwer.com/api/public/content/279efeef30d544b99552dc4afbd4de7e?v=d55146f8" height="1280" thumbnailsrc="https://contenthub.wolterskluwer.com/api/gateway/297991/thumbnail" stylelabs-content-id="297991" width="1920" alt="Software gestione contabile" vspace="" hspace="" srcset="https://assets.contenthub.wolterskluwer.com/api/public/content/279efeef30d544b99552dc4afbd4de7e?v=d55146f8&amp;t=w539l 539w,https://assets.contenthub.wolterskluwer.com/api/public/content/279efeef30d544b99552dc4afbd4de7e?v=d55146f8&amp;t=w767l 767w,https://assets.contenthub.wolterskluwer.com/api/public/content/279efeef30d544b99552dc4afbd4de7e?v=d55146f8&amp;t=w991l 991w,https://assets.contenthub.wolterskluwer.com/api/public/content/279efeef30d544b99552dc4afbd4de7e?v=d55146f8&amp;t=w1199l 1199w,https://assets.contenthub.wolterskluwer.com/api/public/content/279efeef30d544b99552dc4afbd4de7e?v=d55146f8&amp;t=w1440l 1440w,https://assets.contenthub.wolterskluwer.com/api/public/content/279efeef30d544b99552dc4afbd4de7e?v=d55146f8&amp;t=w1920l 1920w" loading="lazy" data-variantitemid="{9CC08A0B-2B2D-40BE-AE00-97C435C39292}" sizes="(max-width:539px)539px, (max-width:767px)767px, (max-width:991px)991px,(max-width:1199px)1199px,(max-width:1440px)1440px,1920px" format="" data-variantfieldname="Image" /></div><div class="hero-full__wrapper"><div class="hero-full__text"><div class="hero-full__eyebrow field-eyebrow">software</div><h1 class="hero-full__title field-currentpagetitle" role="presentation"><span>Genya</span></h1><div class="hero-full__description field-description"><p>Il software per automatizzare le attività di business!<br /></p>
+<h2></h2></div><div class="hero-full__cta-group"><div class="row"><div class="component wkbutton primary col-12">
+    <div class="component-content">
+<div class="wkbutton-link field-link"><a data-variantfieldname="Link" aria-label="Genya per Commercialisti!" target="_blank" href="/it-it/solutions/genya/genya-per-commercialisti" data-variantitemid="{416A7008-F0F6-46C5-9E40-2A46FD0D7C1E}" rel="noopener noreferrer">Genya per professionisti</a></div><div class="wkbutton-wrapper"><div class="wkbutton-label field-label">Genya per Commercialisti!</div></div>    </div>
+</div>
+<div class="component wkbutton primary col-12">
+    <div class="component-content">
+<div class="wkbutton-link field-link"><a data-variantfieldname="Link" aria-label="Genya per Aziende!" target="_blank" href="/it-it/solutions/genya/genya-per-aziende" data-variantitemid="{58383ABC-30C9-44C1-894D-57DC25003D32}" rel="noopener noreferrer">Genya per aziende</a></div><div class="wkbutton-wrapper"><div class="wkbutton-label field-label">Genya per Aziende!</div></div>    </div>
+</div>
+<div class="component wkbutton secondary col-12 wkbutton--green reverse">
+    <div class="component-content">
+<div class="wkbutton-link field-link"><a data-variantfieldname="Link" aria-label="Richiedi la Demo!" href="#form-genya" data-variantitemid="{03C643E1-936B-498D-8506-DA2218022685}">Richiedi la Demo!</a></div><div class="wkbutton-wrapper"><span title="wk-icon-arrow-right" class="wkbutton-icon wk-icon-arrow-right"></span><div class="wkbutton-label field-label">Richiedi la Demo!</div></div>    </div>
+</div>
+</div></div></div></div>  </div>
+</div>
+
+
+    <div id="secondary-nav-anchor"></div>
+    <nav class="ow-secondary-nav" aria-labelledby="secondary-nav">
+        <h5 id="secondary-nav" class="sr-only">Secondary Navigation</h5>
+        <div class="ow-nav-container">
+            <div class="ow-nav-wrapper">
+                <div class="ow-nav-main">
+                    <div class="ow-solution-container">
+                                <div class="ow-solution-name">Genya</div>
+
+                        <button class="ow-solution-menu-button" type="button" aria-haspopup="true" aria-expanded="false">
+                            <span class="sr-only">Genya</span>
+                            <span class="arrow-label">Menu</span>
+                            <span aria-hidden="true" class="ow-dropdown-icon wk-icon-chevron-down"></span>
+                        </button>
+                    </div>
+                </div>
+                <div class="ow-nav-solution-menu">
+                    <div class="ow-nav-solution-menu-container">
+                        <span class="secondary-nav-overlay-mobile"></span>
+                        <ul class="ow-nav-list">
+                                    <li class="ow-nav-list-item">
+                                        <a class="ow-nav-link "  href="/it-it/solutions/genya/genya-per-aziende" target="_blank">Per Aziende</a>
+                                    </li>
+                                    <li class="ow-nav-list-item">
+                                        <a class="ow-nav-link "  href="/it-it/solutions/genya/genya-per-commercialisti" target="_blank">Per Professionisti</a>
+                                    </li>
+                        </ul>
+                    </div>
+                    <div class="ow-nav-optional">
+                        <ul class="ow-nav-optional-list">
+                                    <li class="ow-nav-optional-list-item">
+                                        <a class="ow-nav-optional-link"  href="https://shop.genya.it/GenyaTrial" target="_blank">
+                                            <span aria-hidden="true" class="ow-icon "></span>
+                                            <span class="ow-nav-optional-link-text">Prova Genya</span>
+                                        </a>
+                                    </li>
+                                                    </ul>
+
+                            <div class="ow-nav-cta">
+                                <a class="ow-cta-button"  href="form-genya" target="">
+                                    Richiedi Informazioni
+                                </a>
+                            </div>
+
+                        <div class="row"></div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </nav>
+</div>
+            </div>
+        </div>
+        <div class=" placeholder-gap container-fluid">
+            <div >
+                <div class="row"></div>
+            </div>
+        </div>
+</div></div></div>
+        </div>
+    </header>
+    <!-- /#header -->
+    <!-- #content -->
+    <main>
+        <div id="content" class="container">
+            <div class="row">
+
+<div class="row component column-splitter">
+        <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
+            <div class="row">
+
+    <div class="component rich-text article-text">
+        <div class="component-content">
+<br />
+<br />
+<span style="font-weight: 300; font-size: 32px;">Genya è il software che guida l'utente nelle sue attività in modo facile ed intuitivo.</span><br />
+<h2>
+</h2>
+<h3>La soluzione software Genya è ideale per gli <strong>Studi professionali</strong> e per&nbsp;<strong>Aziende</strong>. Coniuga efficienza e valore organizzando il lavoro, ottimizza la gestione delle attività e riduci gli errori manuali.</h3>
+<br />
+<p><strong>Con Genya più spazio alla strategia e alle attività ad alto valore aggiunto per il tuo business!<br />
+</strong></p>
+<p>
+</p>
+<p>Esprimi il tuo valore professionale, con un software di grande valore:</p>
+<table style="border: 1px solid #000000; width: 765.167px; height: 143.833px;">
+    <tbody>
+        <tr>
+            <td style="border-width: 1px; border-top-style: solid; border-color: #000000;">
+            <h4>&nbsp;<strong>Geny</strong><strong>a è conoscenza</strong></h4>
+            <hr />
+            <ul>
+                <li>Documenti e dati sempre aggiornati</li>
+                <li>Informazioni necessarie con pochi click</li>
+                <li>Organizzazione ottimale del lavoro per necessità</li>
+                <li>Scadenze e adempimenti sempre aggiornati</li>
+            </ul>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p>
+</p>
+<table style="border: 1px solid #000000; width: 766.833px; height: 129.667px;">
+    <tbody>
+        <tr>
+            <td style="border-width: 1px; border-top-style: solid; border-color: #000000;">
+            <h4><strong>Genya è sicurezza</strong></h4>
+            <hr />
+            <ul>
+                <li>Scadenze rispettate, documenti organizzati e attività sempre fatturate al cliente</li>
+                <li>KPI e report automatici e dinamici</li>
+                <li>Dati sempre disponibili in totale sicurezza</li>
+            </ul>
+            </td>
+        </tr>
+    </tbody>
+</table><br />
+<p>
+</p>        </div>
+    </div>
+
+
+    <div class="component rich-text article-text col-12">
+        <div class="component-content">
+<p><strong>Il parere di chi ha scelto Genya</strong></p>
+<p />        </div>
+    </div>
+    <div class="component pullquote col-12">
+        <div class="component-content">
+<div class="pullquote-content"><div class="pullquote-quote field-quote"><em>Riteniamo che la filosofia concettuale di Genya, sia quella che può supportare&nbsp;la crescita professionale. Genya, tra l’altro, fornisce supporti di analisi imprescindibili.”</em></div></div>        </div>
+    </div>
+</div>
+        </div>
+        <div class="col-12 col-sm-12 col-md-5 col-lg-5 col-xl-5">
+            <div class="row">
+
+    <div class="component wk-container col-auto col-sm-auto col-md-auto col-lg-auto col-xl-auto alternate-background">
+        <div class="component-content">
+<div class="title field-title" role="heading" aria-level="2"><p>Desideri ricevere più informazioni?</p></div><div class="description field-description"><a id="form-genya">
+</a>
+Indicaci i tuoi dati: ti contatteremo in poco tempo per darti tutte le informazioni di cui hai bisogno.</div><div class="row">
+
+
+    <div class="component map-form map-form-pardot" data-datasource-id="{62D6C33B-EC2B-473C-92FC-1EFB99830DBF}" id="gc">
+        <div class="component-content iframe-resize-style">
+            
+
+                    <div class="iframe-container">
+                        <iframe title="market-title" id="marketFrame" class="map-form__iframe optanon-category-C0004" analytics-src="https://mapproxy-production.dxgow.com/formprocessor?formUri=https%3A%2F%2Ftaa.it.wolterskluwer.com%2Fl%2F399122%2F2025-01-13%2F2cbhb2c&formHash=NqXTEdw2XrFLzp3SSTUnhui7CtT4qZPovNzQftcj%2Fzo%3D" src="https://mapproxy-production.dxgow.com/formprocessor?formUri=https%3A%2F%2Ftaa.it.wolterskluwer.com%2Fl%2F399122%2F2025-01-13%2F2cbhb2c&formHash=NqXTEdw2XrFLzp3SSTUnhui7CtT4qZPovNzQftcj%2Fzo%3D" data-src="https://taa.it.wolterskluwer.com/l/399122/2025-01-13/2cbhb2c" style="height: 1050px"></iframe>
+                    </div>
+                    <script type="e715c798990ada89dbcb399a-text/javascript">
+                            var formContractValues = {
+                                type: 'FORM-EVENT',
+                                formID: '',
+                                formTitle: '',
+                                formViewState: 'parent page',
+                                mapType: 'pardot',
+                                mapAccountId: '',
+                                leadType:'Product Info Request',
+                                formEventType: '',
+                                formValue : ''
+                            };
+                            window.wkPageData.page.formInfo = formContractValues; // set values to global wkPageData
+                    </script>
+
+            
+
+
+        </div>
+    </div>
+</div>        </div>
+    </div>
+</div>
+        </div>
+</div>
+
+    <div class="component wk-container col-12 background-full alternate-background">
+        <div class="component-content">
+<div class="row">
+
+<div class="row component column-splitter">
+        <div class="col-6 col-sm-6 col-md-6 col-lg-6 col-xl-6 full-height-card">
+            <div class="row">    <div class="component cards gray-background col-12">
+        <div class="component-content">
+<div class="link-wrapper"><div class="card-image field-cardimage"><image width="1200" height="800" alt="1737017232-ebook_zawodowy_pelnomocnik_1536x1024_2" src="https://assets.contenthub.wolterskluwer.com/api/public/content/2589735-1737017232-ebook-zawodowy-pelnomocnik-1536x1024-2-8f2ff2ef19?v=d6a2848b" stylelabs-content-id="2589735" stylelabs-content-type="Image" thumbnailsrc="https://contenthub.wolterskluwer.com/api/gateway/2589735/thumbnail" srcset="https://assets.contenthub.wolterskluwer.com/api/public/content/2589735-1737017232-ebook-zawodowy-pelnomocnik-1536x1024-2-8f2ff2ef19?v=d6a2848b&amp;t=w479l 479w,https://assets.contenthub.wolterskluwer.com/api/public/content/2589735-1737017232-ebook-zawodowy-pelnomocnik-1536x1024-2-8f2ff2ef19?v=d6a2848b&amp;t=w505l 505w,https://assets.contenthub.wolterskluwer.com/api/public/content/2589735-1737017232-ebook-zawodowy-pelnomocnik-1536x1024-2-8f2ff2ef19?v=d6a2848b&amp;t=w543l 543w,https://assets.contenthub.wolterskluwer.com/api/public/content/2589735-1737017232-ebook-zawodowy-pelnomocnik-1536x1024-2-8f2ff2ef19?v=d6a2848b&amp;t=w672l 672w,https://assets.contenthub.wolterskluwer.com/api/public/content/2589735-1737017232-ebook-zawodowy-pelnomocnik-1536x1024-2-8f2ff2ef19?v=d6a2848b&amp;t=w733l 733w" loading="lazy" data-variantitemid="{92201370-260A-4249-B00C-6B156702F458}" sizes="(max-width:539px) 505px, (max-width:767px) 733px, (max-width:991px) 479px, (max-width:1199px) 543px, (max-width:1440px) 672px, 672px" format="" data-variantfieldname="CardImage" /></div><div class="card-content"><div class="text-wrapper"><div class="card-title field-cardtitle" role="heading" aria-level="3">Genya per Commercialisti<br /></div><div class="card-description field-carddescription"><p>Scopri le soluzioni Genya per i Commercialisti e gli Studi!<br /></p></div></div><div class="card-cta field-cardbuttonlabel"><a target="_blank" href="/it-it/solutions/genya/genya-per-commercialisti" rel="noopener noreferrer">Scopri!</a></div></div></div>        </div>
+    </div>
+</div>
+        </div>
+        <div class="col-6 col-sm-6 col-md-6 col-lg-6 col-xl-6 full-height-card">
+            <div class="row">    <div class="component cards gray-background col-12">
+        <div class="component-content">
+<div class="link-wrapper"><div class="card-image field-cardimage"><image width="1440" height="960" alt="modulo software gestionale per industria 4.0" src="https://assets.contenthub.wolterskluwer.com/api/public/content/990013-modulo-software-gestionale-per-industria-4-0-2af5744d40?v=fd48f605" stylelabs-content-id="990013" stylelabs-content-type="Image" thumbnailsrc="https://contenthub.wolterskluwer.com/api/gateway/990013/thumbnail" srcset="https://assets.contenthub.wolterskluwer.com/api/public/content/990013-modulo-software-gestionale-per-industria-4-0-2af5744d40?v=fd48f605&amp;t=w479l 479w,https://assets.contenthub.wolterskluwer.com/api/public/content/990013-modulo-software-gestionale-per-industria-4-0-2af5744d40?v=fd48f605&amp;t=w505l 505w,https://assets.contenthub.wolterskluwer.com/api/public/content/990013-modulo-software-gestionale-per-industria-4-0-2af5744d40?v=fd48f605&amp;t=w543l 543w,https://assets.contenthub.wolterskluwer.com/api/public/content/990013-modulo-software-gestionale-per-industria-4-0-2af5744d40?v=fd48f605&amp;t=w672l 672w,https://assets.contenthub.wolterskluwer.com/api/public/content/990013-modulo-software-gestionale-per-industria-4-0-2af5744d40?v=fd48f605&amp;t=w733l 733w" loading="lazy" data-variantitemid="{B1240AAC-73ED-41B5-97A8-2EEB174A7D73}" sizes="(max-width:539px) 505px, (max-width:767px) 733px, (max-width:991px) 479px, (max-width:1199px) 543px, (max-width:1440px) 672px, 672px" format="" data-variantfieldname="CardImage" /></div><div class="card-content"><div class="text-wrapper"><div class="card-title field-cardtitle" role="heading" aria-level="3">Genya per Aziende<br /></div><div class="card-description field-carddescription">Scopri le soluzioni Genya per le aziende!<br /></div></div><div class="card-cta field-cardbuttonlabel"><a href="/it-it/solutions/genya/genya-per-aziende">Scopri!</a></div></div></div>        </div>
+    </div>
+</div>
+        </div>
+</div></div>        </div>
+    </div>
+
+
+    <div class="component wk-container col-12">
+        <div class="component-content">
+<div class="title field-title" role="heading" aria-level="2">Perchè scegliere Wolters Kluwer?<br /></div><div class="wk-container--cta field-cta"><a data-variantfieldname="CTA" href="#form-genya" data-variantitemid="{DBFB2084-1084-47F0-8299-F5148C2902F3}">Richiedi la Demo!</a></div><div class="row">
+
+<div class="row component column-splitter">
+        <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 full-height-card">
+            <div class="row">    <div class="component cards icon-card basic-icon-72-withlink no-icon-nolink col-12 full-height-card">
+        <div class="component-content">
+<div class="link-wrapper"><div class="card-content"><div class="text-wrapper"><div class="card-title field-cardtitle"><p>Leader nel settore<br /></p></div><div class="card-description field-carddescription">In oltre<b> 35 anni di esperienza</b> abbiamo servito più di 1.6 milioni di Aziende e 47.000 Studi.<br /></div></div></div></div>        </div>
+    </div>
+</div>
+        </div>
+        <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 full-height-card">
+            <div class="row">    <div class="component cards icon-card basic-icon-72-withlink no-icon-nolink col-12 full-height-card">
+        <div class="component-content">
+<div class="link-wrapper"><div class="card-content"><div class="text-wrapper"><div class="card-title field-cardtitle"><p>Migliore partner Tecnologico <br /></p></div><div class="card-description field-carddescription">Assistiamo i clienti in ogni loro necessità dall'acquisto all'assistenza post-vendita. Un <b>team di esperti </b>è sempre pronto a rispondere alle tue richieste.&nbsp; <br /></div></div></div></div>        </div>
+    </div>
+</div>
+        </div>
+        <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 full-height-card">
+            <div class="row">    <div class="component cards icon-card basic-icon-72-withlink no-icon-nolink col-12 full-height-card">
+        <div class="component-content">
+<div class="link-wrapper"><div class="card-content"><div class="text-wrapper"><div class="card-title field-cardtitle"><p>Presenza Globale<br /></p></div><div class="card-description field-carddescription">Wolters Kluwer è presente in <b>180 paesi </b>e conta più di <b>20.500 impiegati</b> in tutto il mondo. <br /></div></div></div></div>        </div>
+    </div>
+</div>
+        </div>
+</div></div>        </div>
+    </div>
+
+
+
+
+
+
+    <div class="component callout">
+        <div class="component-content">
+<div class="callout-wrapper"><div class="field-image callout-image"><image mediaid="" stylelabs-content-id="85894" thumbnailsrc="https://contenthub.wolterskluwer.com/api/gateway/85894/thumbnail" src="https://assets.contenthub.wolterskluwer.com/api/public/content/e6e07f1d09884ed8bd4056a8347e88ae" stylelabs-content-type="Image" alt="Orsi &amp; Airaldi S.r.l. ha scelto Genya" height="1024" width="1536" srcset="https://assets.contenthub.wolterskluwer.com/api/public/content/e6e07f1d09884ed8bd4056a8347e88ae?t=w475l 475w,https://assets.contenthub.wolterskluwer.com/api/public/content/e6e07f1d09884ed8bd4056a8347e88ae?t=w544l 544w,https://assets.contenthub.wolterskluwer.com/api/public/content/e6e07f1d09884ed8bd4056a8347e88ae?t=w664l 664w,https://assets.contenthub.wolterskluwer.com/api/public/content/e6e07f1d09884ed8bd4056a8347e88ae?t=w703l 703w,https://assets.contenthub.wolterskluwer.com/api/public/content/e6e07f1d09884ed8bd4056a8347e88ae?t=w927l 927w,https://assets.contenthub.wolterskluwer.com/api/public/content/e6e07f1d09884ed8bd4056a8347e88ae?t=w959l 959w" loading="lazy" data-variantitemid="{C0E67DB7-5C27-4C84-BB6E-42EC7455455A}" sizes="(max-width:539px)475px,(max-width:767px)703px,(max-width:991px)927px,(max-width:1023px)959px,(max-width:1199px)544px,(max-width:1440px)664px,664px" format="" data-variantfieldname="Image" /></div><div class="callout-content"><div class="callout-title field-title"><p>Dicono di noi!</p></div><div class="callout-description field-description"><p>La speranza per il futuro sarebbe quella di valutare l’introduzione di nuove tecnologie informatiche per la gestione interna dell’impresa... Genya Bilancio è stato il primo passo in questa direzione.<br /><br />Amm. Del. Giorgio Airaldi - Studio Orsi &amp; Airaldi Srl</p></div><div class="callout-cta field-cta"><a data-variantfieldname="CTA" data-dm-wk="thoughtleadership.link" target="_blank" href="/it-it/solutions/tax-software/dicono-di-noi-clienti" data-variantitemid="{C0E67DB7-5C27-4C84-BB6E-42EC7455455A}" rel="noopener noreferrer">Approfondisci</a></div></div></div>        </div>
+    </div>
+
+
+    <div class="component wk-container">
+        <div class="component-content">
+<div class="title field-title" role="heading" aria-level="2"><p>Approfondimenti scritti per te...</p></div><div class="row">
+
+
+
+    <div class="query-card">
+        <div class="component no-carousel carousel col-12 mobile-card"
+             data-properties='{"timeout":2147483647,"isPauseEnabled":true,"transition":"BasicTransition"}'>
+            <div class="component-content">
+                <h2 class="query-card--title"></h2>
+                <div data-id="divCarousel_77dbce3d-5a8f-468a-ae0e-a1cbed780c4a" class="carousel-inner">
+                    <ul class="slides">
+                            <li class="slide">
+                                <div class="row">
+                                    <div class="component cards ">
+                                        <div class="component-content">
+
+                                                <div class="link-wrapper link-wrapper--left">
+                                                    <div class="card-image field-image">
+<img loading="lazy" src="https://assets.contenthub.wolterskluwer.com/api/public/content/2626752-software-revisione-legale-fd05e0bbf1?v=5f8aa632" srcset="https://assets.contenthub.wolterskluwer.com/api/public/content/2626752-software-revisione-legale-fd05e0bbf1?v=5f8aa632&t=w638l 638w,https://assets.contenthub.wolterskluwer.com/api/public/content/2626752-software-revisione-legale-fd05e0bbf1?v=5f8aa632&t=w679l 679w" sizes="(Max-Width: 767px) 679px, 638px" alt="Revisione Contabile: Quando &#232; Obbligatoria e Come Adeguarsi"/>
+                                                    </div>
+
+                                                    <div class="card-content">
+                                                        <div class="card-label">
+                                                            <span>
+                                                                Whitepaper/contenuti editoriali
+                                                            </span>
+                                                        </div>
+                                                        <div class="text-wrapper">
+                                                            <div class="card-eyebrow">
+                                                                        <div class="interest-area field-name">Finanza e Gestione</div>
+                                                                        <div class="interest-area field-name">Fisco, Contabilit&#224; e Paghe</div>
+                                                                                                                                    <div class="date field-editorial-publish-date">marzo 11, 2025</div>
+                                                            </div>
+                                                            <h3 class="card-title field-title">Revisione Contabile: Quando è Obbligatoria e Come Adeguarsi</h3>
+                                                            <div class="card-description field-abstract">La revisione contabile &#232; obbligatoria per molte aziende. Ecco tutto quello che devi sapere su norme, procedure e impatti fiscali.</div>
+                                                        </div>
+                                                        <div class="card-cta"><a title="Revisione Contabile: Quando è Obbligatoria e Come Adeguarsi" href="/it-it/expert-insights/revisione-contabile-obbligatoria">Maggiori informazioni</a></div>
+                                                    </div>
+                                                </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="slide">
+                                <div class="row">
+                                    <div class="component cards ">
+                                        <div class="component-content">
+
+                                                <div class="link-wrapper link-wrapper--left">
+                                                    <div class="card-image field-image">
+<img loading="lazy" src="https://assets.contenthub.wolterskluwer.com/api/public/content/a37881984d5d4907b170f34fc5bb2a5a?v=87eaa8dc" srcset="https://assets.contenthub.wolterskluwer.com/api/public/content/a37881984d5d4907b170f34fc5bb2a5a?v=87eaa8dc&t=w638l 638w,https://assets.contenthub.wolterskluwer.com/api/public/content/a37881984d5d4907b170f34fc5bb2a5a?v=87eaa8dc&t=w679l 679w" sizes="(Max-Width: 767px) 679px, 638px" alt="Il futuro della professione contabile: l’impatto dell&#39;Intelligenza Artificiale secondo la ricerca &quot;Future Ready Accountant&quot; "/>
+                                                    </div>
+
+                                                    <div class="card-content">
+                                                        <div class="card-label">
+                                                            <span>
+                                                                Whitepaper/contenuti editoriali
+                                                            </span>
+                                                        </div>
+                                                        <div class="text-wrapper">
+                                                            <div class="card-eyebrow">
+                                                                        <div class="interest-area field-name">Aziendale</div>
+                                                                        <div class="interest-area field-name">Finanza e Gestione</div>
+                                                                        <div class="interest-area field-name">Fisco, Contabilit&#224; e Paghe</div>
+                                                                                                                                    <div class="date field-editorial-publish-date">febbraio 17, 2025</div>
+                                                            </div>
+                                                            <h3 class="card-title field-title">Il futuro della professione contabile: l’impatto dell'Intelligenza Artificiale secondo la ricerca "Future Ready Accountant" </h3>
+                                                            <div class="card-description field-abstract">La ricerca &quot;Future Ready Accountant&quot; di Wolters Kluwer offre una visione approfondita delle tendenze che stanno ridefinendo la professione contabile</div>
+                                                        </div>
+                                                        <div class="card-cta"><a title="Il futuro della professione contabile: l’impatto dell'Intelligenza Artificiale secondo la ricerca "Future Ready Accountant" " href="/it-it/expert-insights/ricerca-future-ready-accountant-analizza-il-futuro-della-professione-contabile">Maggiori informazioni</a></div>
+                                                    </div>
+                                                </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="slide">
+                                <div class="row">
+                                    <div class="component cards ">
+                                        <div class="component-content">
+
+                                                <div class="link-wrapper link-wrapper--left">
+                                                    <div class="card-image field-image">
+<img loading="lazy" src="https://assets.contenthub.wolterskluwer.com/api/public/content/2605188-software-fatturazione-contabilit--1188599c3e?v=349a8184" srcset="https://assets.contenthub.wolterskluwer.com/api/public/content/2605188-software-fatturazione-contabilit--1188599c3e?v=349a8184&t=w638l 638w,https://assets.contenthub.wolterskluwer.com/api/public/content/2605188-software-fatturazione-contabilit--1188599c3e?v=349a8184&t=w679l 679w" sizes="(Max-Width: 767px) 679px, 638px" alt="La gestione della Fatturazione e della Contabilit&#224; con Genya Per Aziende: il software gestionale ideale per studi Commercialisti e Clienti"/>
+                                                    </div>
+
+                                                    <div class="card-content">
+                                                        <div class="card-label">
+                                                            <span>
+                                                                Whitepaper/contenuti editoriali
+                                                            </span>
+                                                        </div>
+                                                        <div class="text-wrapper">
+                                                            <div class="card-eyebrow">
+                                                                        <div class="interest-area field-name">Finanza e Gestione</div>
+                                                                        <div class="interest-area field-name">Fisco, Contabilit&#224; e Paghe</div>
+                                                                                                                                    <div class="date field-editorial-publish-date">febbraio 10, 2025</div>
+                                                            </div>
+                                                            <h3 class="card-title field-title">La gestione della Fatturazione e della Contabilità con Genya Per Aziende: il software gestionale ideale per studi Commercialisti e Clienti</h3>
+                                                            <div class="card-description field-abstract">Genya Per Aziende &#232; un software gestionale per micro e piccole imprese che consente di creare una collaborazione sinergica tra studio e cliente</div>
+                                                        </div>
+                                                        <div class="card-cta"><a title="La gestione della Fatturazione e della Contabilità con Genya Per Aziende: il software gestionale ideale per studi Commercialisti e Clienti" href="/it-it/expert-insights/gestione-fatturazione-e-contabilita-con-software-genya-per-aziende">Maggiori informazioni</a></div>
+                                                    </div>
+                                                </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="slide">
+                                <div class="row">
+                                    <div class="component cards ">
+                                        <div class="component-content">
+
+                                                <div class="link-wrapper link-wrapper--left">
+                                                    <div class="card-image field-image">
+<img loading="lazy" src="https://assets.contenthub.wolterskluwer.com/api/public/content/2544769-genya-contabilit--f6ac94a458?v=24945b52" srcset="https://assets.contenthub.wolterskluwer.com/api/public/content/2544769-genya-contabilit--f6ac94a458?v=24945b52&t=w638l 638w,https://assets.contenthub.wolterskluwer.com/api/public/content/2544769-genya-contabilit--f6ac94a458?v=24945b52&t=w679l 679w" sizes="(Max-Width: 767px) 679px, 638px" alt="Ottimizza la Gestione Contabile con il Software di Wolters Kluwer"/>
+                                                    </div>
+
+                                                    <div class="card-content">
+                                                        <div class="card-label">
+                                                            <span>
+                                                                Whitepaper/contenuti editoriali
+                                                            </span>
+                                                        </div>
+                                                        <div class="text-wrapper">
+                                                            <div class="card-eyebrow">
+                                                                        <div class="interest-area field-name">Finanza e Gestione</div>
+                                                                        <div class="interest-area field-name">Fisco, Contabilit&#224; e Paghe</div>
+                                                                                                                                    <div class="date field-editorial-publish-date">febbraio 10, 2025</div>
+                                                            </div>
+                                                            <h3 class="card-title field-title">Ottimizza la Gestione Contabile con il Software di Wolters Kluwer</h3>
+                                                            <div class="card-description field-abstract">Ottimizza la contabilit&#224; con il software leader di Wolters Kluwer. Esplora i vantaggi della digitalizzazione e scopri come migliorare la tua gestione contabile.</div>
+                                                        </div>
+                                                        <div class="card-cta"><a title="Ottimizza la Gestione Contabile con il Software di Wolters Kluwer" href="/it-it/expert-insights/software-contabilita-aziendale">Maggiori informazioni</a></div>
+                                                    </div>
+                                                </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>        </div>
+    </div>
+</div>
+        </div>
+    </main>
+    <!-- /#content -->
+    <!-- #footer -->
+    <footer role="contentinfo" aria-labelledby="footer-nav">
+        <h5 id="footer-nav" class="sr-only">Footer Navigation</h5>
+        <div id="footer" class="container-fluid">
+            <div class="row">
+<div class="row">
+
+
+<div class="component row-splitter">
+        <div class=" footer-content legal-footer container-fluid">
+            <div >
+                <div class="row">
+
+<div class="row component column-splitter">
+        <div class="col-12 col-sm-6 col-lg-2">
+            <div class="row">
+
+
+<div class="component link-list footer-links">
+    <div class="component-content">
+        
+                <ul>
+                    <li class="item0 odd first">
+<div class="field-link"><a data-variantfieldname="Link" href="/it-it/about-us" data-variantitemid="{A9B60E9A-5620-4E75-80D2-442D66F5F4A8}">Chi siamo</a></div>                    </li>
+                    <li class="item1 even">
+<div class="field-link"><a data-variantfieldname="Link" href="/it-it/about-us/strategy" data-variantitemid="{1B95F13A-95E1-499D-9E91-B8F15AA26C93}">Strategia</a></div>                    </li>
+                    <li class="item2 odd">
+<div class="field-link"><a data-variantfieldname="Link" href="/it-it/about-us/organization" data-variantitemid="{62A7CAF5-F0C1-4E24-AB59-174B26B4B4A0}">Organizzazione</a></div>                    </li>
+                    <li class="item3 even">
+<div class="field-link"><a data-variantfieldname="Link" href="/it-it/about-us/management" data-variantitemid="{C30001EF-6F20-4E8E-A2F4-74A0F8308E05}">Management</a></div>                    </li>
+                    <li class="item4 odd">
+<div class="field-link"><a data-variantfieldname="Link" href="/it-it/news" data-variantitemid="{5D5BF977-7E2A-496F-ABDD-4FEFAB5CBFF2}">News e Comunicati stampa</a></div>                    </li>
+                    <li class="item5 even last">
+<div class="field-link"><a data-variantfieldname="Link" href="/it-it/events" data-variantitemid="{51FF515D-F338-4E79-9FC3-7EA075C9CD30}">Eventi</a></div>                    </li>
+        </ul>
+    </div>
+</div>
+</div>
+        </div>
+        <div class="col-12 col-sm-6 col-lg-2">
+            <div class="row">
+
+
+<div class="component link-list footer-links col-12">
+    <div class="component-content">
+        
+                <ul>
+                    <li class="item0 odd first">
+<div class="field-link"><a data-variantfieldname="Link" href="/it-it/solutions" data-variantitemid="{36AFCB32-44F3-4A12-84F3-9091F0CC78AE}">Soluzioni</a></div>                    </li>
+                    <li class="item1 even">
+<div class="field-link"><a data-variantfieldname="Link" href="/it-it/health" data-variantitemid="{06B36278-4164-4349-8EB9-5768BD1BC9FE}">Health</a></div>                    </li>
+                    <li class="item2 odd">
+<div class="field-link"><a data-variantfieldname="Link" href="/it-it/tax-and-accounting" data-variantitemid="{847D6795-621F-451E-91A9-28FFAAFD1BF3}">Fisco, Contabilit&#224; e Paghe</a></div>                    </li>
+                    <li class="item3 even">
+<div class="field-link"><a data-variantfieldname="Link" title="ESG" href="/it-it/esg" data-variantitemid="{540C37C8-B07D-4282-A0D3-A287F0C9A60E}">ESG</a></div>                    </li>
+                    <li class="item4 odd">
+<div class="field-link"><a data-variantfieldname="Link" href="/it-it/finance" data-variantitemid="{00F58B36-20AB-4655-BCB6-A399E3FE45E7}">Finanza e Gestione</a></div>                    </li>
+                    <li class="item5 even">
+<div class="field-link"><a data-variantfieldname="Link" href="/it-it/compliance" data-variantitemid="{8E71F6B1-8419-4DA4-AE2B-B11E73F13A1A}">Compliance</a></div>                    </li>
+                    <li class="item6 odd last">
+<div class="field-link"><a data-variantfieldname="Link" href="/it-it/legal" data-variantitemid="{4103DB64-9E9F-4C18-B087-0EF42DE839E2}">Legale</a></div>                    </li>
+        </ul>
+    </div>
+</div>
+</div>
+        </div>
+        <div class="col-12 col-sm-6 col-lg-2">
+            <div class="row">
+
+
+<div class="component link-list footer-links col-12">
+    <div class="component-content">
+        
+                <ul>
+                    <li class="item0 odd first">
+<div class="field-link"><a data-variantfieldname="Link" href="/it-it/expert-insights" data-variantitemid="{E1C93E35-1169-4532-83D0-EB33E50ED4DC}">Approfondimenti</a></div>                    </li>
+                    <li class="item1 even">
+<div class="field-link"><a data-variantfieldname="Link" href="https://careers.wolterskluwer.com/it-it" data-variantitemid="{5679BDC9-EF38-4398-9EA0-22E5FE714255}">Lavora con noi</a></div>                    </li>
+                    <li class="item2 odd">
+<div class="field-link"><a data-variantfieldname="Link" href="/it-it/investors" data-variantitemid="{EDACEBEB-937E-4311-9C14-97B1DF3EC7C7}">Investor Relations</a></div>                    </li>
+                    <li class="item3 even">
+<div class="field-link"><a data-variantfieldname="Link" href="/it-it/sitemap" data-variantitemid="{9F5D5548-3AD6-401E-B4A7-A7FD299648D0}">Mappa del sito</a></div>                    </li>
+                    <li class="item4 odd">
+<div class="field-link"><a data-variantfieldname="Link" title="Proprietario del sito web" href="/it-it/site-owner" data-variantitemid="{3598D0B9-52E2-4393-BC78-71ED3E47C69A}">Proprietario del sito web</a></div>                    </li>
+        </ul>
+    </div>
+</div>
+</div>
+        </div>
+        <div class="col-12 col-sm-6 col-lg-2">
+            <div class="row"></div>
+        </div>
+        <div class="col-12 col-lg-1 vertical-divider">
+            <div class="row"></div>
+        </div>
+        <div class="col-12 col-lg-3 media-contacts">
+            <div class="row">
+<div class="component link-list">
+    <div class="component-content">
+        <h6>Follow Wolters Kluwer</h6>
+                <ul>
+                <li class="item0 odd first">
+<div class="field-link"><a class="media-icons wk-icon-facebook" data-variantfieldname="Link" target="_blank" href="https://www.facebook.com/wolterskluwer" data-variantitemid="{E7CD9851-C9E6-4D8F-ACB6-D156F5E82345}" rel="noopener noreferrer">Facebook</a></div>                </li>
+                <li class="item1 even">
+<div class="field-link"><a class="media-icons wk-icon-instagram" data-variantfieldname="Link" target="_blank" href="https://www.instagram.com/_wolterskluwer/ " data-variantitemid="{274599C5-B1DF-445B-ADD2-295874DD6C50}" rel="noopener noreferrer">Instagram</a></div>                </li>
+                <li class="item2 odd">
+<div class="field-link"><a class="media-icons wk-icon-linkedin" data-variantfieldname="Link" target="_blank" href="https://www.linkedin.com/company/wolters-kluwer/" data-variantitemid="{D7AF6D9B-9E5B-4D66-9101-F5A367C821F9}" rel="noopener noreferrer">LinkedIn</a></div>                </li>
+                <li class="item3 even last">
+<div class="field-link"><a class="media-icons wk-icon-youtube" data-variantfieldname="Link" target="_blank" href="https://www.youtube.com/user/WoltersKluwerComms" data-variantitemid="{8B2788B5-C350-47A2-AB10-EFB9327F9769}" rel="noopener noreferrer">YouTube</a></div>                </li>
+        </ul>
+    </div>
+</div>
+</div>
+        </div>
+</div>
+
+
+<div class="component row-splitter">
+        <div class=" footer-content footer-content-bottom container-fluid">
+            <div >
+                <div class="row">
+
+<div class="row component column-splitter">
+        <div class="col-12 col-lg-6">
+            <div class="row">
+<div class="component image file-type-icon-media-link col-12">
+    <div class="component-content">
+<a title="WK Logo" href="/it-it"><picture title="Wolters Kluwer Logo"><source srcset="https://cdn.wolterskluwer.io/wk/fundamentals/1.x.x/logo/assets/white-small.svg" media="(max-width:767px)" width="144px" height="24px"></source><source srcset="https://cdn.wolterskluwer.io/wk/fundamentals/1.x.x/logo/assets/white-medium.svg" media="(max-width:991px)" width="144px" height="24px"></source><source srcset="https://cdn.wolterskluwer.io/wk/fundamentals/1.x.x/logo/assets/white-medium.svg" media="(max-width:1199px)" width="190px" height="31px"></source><img src="https://cdn.wolterskluwer.io/wk/fundamentals/1.x.x/logo/assets/white-medium.svg" alt="Wolters Kluwer Logo" width="190px" height="31px" /></picture></a>    </div>
+</div>
+</div>
+        </div>
+        <div class="col-12 col-lg-6">
+            <div class="row">
+
+    <div class="component rich-text col-12">
+        <div class="component-content">
+<p class="footer-bottom-text">When you have to be right</p>        </div>
+    </div>
+</div>
+        </div>
+</div></div>
+            </div>
+        </div>
+        <div class=" minimal-content container-fluid">
+            <div >
+                <div class="row">
+
+
+<div class="component link-list footer-links">
+    <div class="component-content">
+        
+                <ul>
+                    <li class="item0 odd first">
+<div class="field-link"><a data-variantfieldname="Link" href="/it-it/terms-of-use" data-variantitemid="{3554BE4A-FCA0-4391-B46D-2CC79E78F6FD}">Condizioni di utilizzo</a></div>                    </li>
+                    <li class="item1 even">
+<div class="field-link"><a data-variantfieldname="Link" href="/it-it/privacy-cookies" data-variantitemid="{AC65F5A7-0494-4F0C-B600-5A1518440BB5}">Privacy e Cookie</a></div>                    </li>
+                    <li class="item2 odd last">
+<div class="field-link"><a data-variantfieldname="Link" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:window.open('https://privacyportal-de.onetrust.com/webform/2217e117-526b-4696-8a98-8c402f8f2b81/5b049ba3-0106-4b77-a7da-5d12238c90a4?cookieId='+OneTrust.getDataSubjectId(),  '_blank');" href="#" data-variantitemid="{AA0641C3-AC8C-469D-A2F3-306FE673EAB9}" rel="noopener noreferrer" data-cf-modified-e715c798990ada89dbcb399a-="">Scelte sulla privacy per la California</a></div><div class="field-icon"><image width="30" height="14" alt="Your California privacy Choices" src="https://assets.contenthub.wolterskluwer.com/api/public/content/e44fce5ebae24bba824439ddcbfd7a2a.svg?v=db68952a" stylelabs-content-id="1971214" stylelabs-content-type="Image" thumbnailsrc="https://contenthub.wolterskluwer.com/api/gateway/1971214/thumbnail" vspace="" hspace="" data-variantitemid="{AA0641C3-AC8C-469D-A2F3-306FE673EAB9}" format="" data-variantfieldname="Image URL" /></div>                    </li>
+        </ul>
+    </div>
+</div>
+
+
+
+<div class="component container">
+    <div class="component-content" >
+<div class="row"></div>    </div>
+</div></div>
+            </div>
+        </div>
+        <div class=" minimal-content container-fluid">
+            <div >
+                <div class="row">
+
+    <div class="component rich-text article-text">
+        <div class="component-content">
+<p class="copyright-text">&copy; 2025 Wolters Kluwer N.V.e/o sue consociate.  Tutti i diritti riservati.</p>        </div>
+    </div>
+</div>
+            </div>
+        </div>
+</div></div>
+            </div>
+        </div>
+</div></div></div>
+        </div>
+    </footer>
+    <!-- /#footer -->
+</div>
+<!-- /#wrapper -->
+
+    
+
+
+        <div class="component controlled-rich-text">
+            <div class="component-content">
+<a id="backToTop" class="back-to-top" title="Back to top" data-dm-wk="back-to-top.button">
+<span class="wk-sr-only">Back To Top</span>
+<span class="arrow-icon wk-icon-arrow-up">
+</span>
+</a>            </div>
+        </div>
+<!-- Dictionary json -->
+<script id="wk-dictionary-values" type="e715c798990ada89dbcb399a-application/javascript">[{"Key":"/Feature/WoltersKluwer/OneWeb/Accessibility/Close Video Modal","Phrase":"Close"},{"Key":"/Feature/WoltersKluwer/OneWeb/Accessibility/Focus Retriever","Phrase":"Input box to get the focus back to the page on mouse move"},{"Key":"/Feature/WoltersKluwer/OneWeb/Accessibility/Google reCAPTCHA","Phrase":"Google reCAPTCHA"},{"Key":"/Feature/WoltersKluwer/OneWeb/Accessibility/Pagination Next","Phrase":"Navigate to Next Page"},{"Key":"/Feature/WoltersKluwer/OneWeb/Accessibility/Pagination Previous","Phrase":"Navigate to Previous Page"},{"Key":"/Feature/WoltersKluwer/OneWeb/Accessibility/Pause Video","Phrase":"Pause the video"},{"Key":"/Feature/WoltersKluwer/OneWeb/Accessibility/Play Video","Phrase":"Play the video"},{"Key":"/Feature/WoltersKluwer/OneWeb/SearchBox/Search Bar Clear","Phrase":"Search Bar Clear"},{"Key":"/Feature/WoltersKluwer/OneWeb/Accessibility/Select Language","Phrase":"Select Language"},{"Key":"/Feature/WoltersKluwer/OneWeb/Accessibility/Wolters Kluwer Navigation","Phrase":"Wolters Kluwer Navigation"}]</script>
+<script type="e715c798990ada89dbcb399a-text/javascript" optanon-category="C0002">
+    window.addEventListener('OneTrustGroupsUpdated', function(event) {
+    if (!event.detail.includes("C0002")) {
+        return;
+    }
+ 
+    var pardotMapping = [
+        ['^TAA - APAC$', ['50122', '56871', '']],
+        ['^TAA - Europe - Netherlands$', ['921163', '52005', 'https://e.wolterskluwer.com/pd.js']],
+        ['^TAA - North America - Canada$', ['264702', '1026', '']],
+        ['^TAA - North America - US$', ['340101', '1035', '']],
+        ['^TAA - Europe - UK$', ['931173', '1049', 'https://taa1.uk.wolterskluwer.com/pd.js']],
+        ['^TAA - Europe - Belgium$', ['941253', '123788', 'https://taa.be.wolterskluwer.com/pd.js']],
+        ['^TAA - Europe - (Denmark|Norway|Sweden)$', ['957672', '82498', 'https://taa.scan.wolterskluwer.com/pd.js']],
+        ['^TAA - Europe - Italy$', ['400122', '172139', 'https://taa.it.wolterskluwer.com/pd.js']]
+    ];
+ 
+    function findPardotValues(key) {
+        for (let [regex, values] of pardotMapping) {
+            const regexObj = new RegExp(regex);
+            if (regexObj.test(key)) {
+                return values;
+            }
+        }
+        return null;
+    }
+ 
+    var businessUnit = wkPageData?.page?.category?.businessUnit || '';
+    var pardotConfig = findPardotValues(businessUnit);
+ 
+ 
+    if (!pardotConfig) {
+        console.error('No matching Pardot Tracking configuration found for businessUnit:', businessUnit);
+    } else {
+        window.piAId = pardotConfig[0];
+        window.piCId = pardotConfig[1];
+ 
+        var srcPardot = pardotConfig[2];
+        (function() {
+            function pardot_async_load() {
+                var s = document.createElement('script');
+                s.type = 'text/javascript';
+                s.src = (srcPardot) ? srcPardot : ('https:' == document.location.protocol ? 'https://pi' : 'http:cdn') + '.pardot.com/pd.js';
+                var c = document.getElementsByTagName('script')[0];
+                c.parentNode.insertBefore(s, c);
+            }
+            if (!document.querySelector('script[src="'+ srcPardot +'"]')) {
+                if (document.readyState === 'complete') {
+                    pardot_async_load();
+                } else {
+                    window.addEventListener('load', pardot_async_load, false);
+                }
+            } else {
+                console.error("Pardot Tracking script already loaded: ", srcPardot);
+            }
+        })();
+    }
+ 
+});
+ 
+</script>
+
+
+
+
+
+
+    <!-- Load all js files -->
+<script src="/-/media/base%20themes/custom%20oneweb%20theme/scripts/optimized-min.js?rev=8b16ca06b7a74d33a99e812b8ca0b3ee&t=20240321T172723Z&hash=B795C89E700FD3EFE9A91E3381C5C59A" type="e715c798990ada89dbcb399a-text/javascript"></script>
+    
+    <script type="e715c798990ada89dbcb399a-application/javascript" src="https://www.google.com/recaptcha/api.js?render=6Lf6x-MUAAAAAATFy_Zy7Y9FezDcp0kmycrG1taQ"></script>
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="e715c798990ada89dbcb399a-|49" defer></script></body>
+</html>

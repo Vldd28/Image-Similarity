@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<title>404 Page Not Found</title>
+
+<meta name="description" content="Page Not Found" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="404 Page Not Found" />
+<meta property="og:description" content="Page Not Found" />
+<meta property="og:site_name" content="Debary Truck Sales" />
+<meta property="og:image" content="" />
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Page Not Found" />
+<meta name="twitter:title" content="404 Page Not Found" />
+<meta name="twitter:image" content="" />
+
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="" crossorigin="anonymous">
+<link rel="stylesheet" type="text/css" media="all" href="/assets/css/styles.css?v=3.58" />
+
+
+
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Russo+One&display=swap" rel="stylesheet">
+
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="icon" type="image/png" href="/favicon-32x32.png" />
+<link rel="apple-touch-icon" type="image/png" href="/favicon-114x114.png" />
+
+
+</head>
+
+<body>
+
+<div class="wrapper">
+
+	<nav id="sidebar" class="" style="overflow: visible;"><div style="max-height: none;" tabindex="0"><div style="position:relative; top:0; left:0;" dir="ltr">
+
+		<div id="dismiss"><i class="fa fa-arrow-left"></i></div>
+
+		<ul class="list-unstyled components">
+<li class=""><a href="/" target="" rel="">Home</a></li>
+<li class=""><a href="/trucks-for-sale/" target="" rel="">Trucks</a></li>
+<li class=""><a href="/trailers-for-sale/" target="" rel="">Trailers</a></li>
+<li><a href="#link4dropdown1" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">More</a>
+<ul class="collapse list-unstyled" id="link4dropdown1">
+<li class="dropdown-item "><a href="/equipment-for-sale/" target="" rel="">Heavy Equipment</a></li>
+<li class="dropdown-item "><a href="/passenger-vehicles-for-sale/" target="" rel="">Passenger Vehicles</a></li>
+<li class="dropdown-item "><a href="/buses-for-sale/" target="" rel="">Buses</a></li>
+<li class="dropdown-item "><a href="/equipment-for-sale/" target="" rel="">Attachments</a></li>
+<li class="dropdown-item "><a href="/bodies-for-sale/" target="" rel="">Truck Bodies</a></li>
+</ul>
+</li>
+<li class=""><a href="/sell-equipment/" target="" rel="">Find / Sell</a></li>
+<li class=""><a href="/contact-us/" target="" rel="">Contact Us</a></li>
+</ul>
+
+	</nav>
+
+	<div id="content">
+
+		<div id="sidebar-tog" class="menu-tog-button"><img id="sidebarCollapse" src="/assets/images/hamburger.png" alt="Menu" style="cursor: pointer; width: 26px;"></div>
+
+			<div class="row">
+				<div class="col-12 fullheader shadow-down">
+					<div class="container">
+
+						<header class="site-header py-3">
+							<div class="row justify-content-between align-items-center">
+
+
+
+								<div class="col-md-4 tal">
+
+									<div style="display: inline-block; text-align: center;">
+									<div class="header-phone"><a href="https://goo.gl/maps/4ryEpF2b8c1cR7pw5" target="_blank" rel="noopener">I-75, Crookston</a></div>
+									<div class="header-location"><a href="https://goo.gl/maps/4ryEpF2b8c1cR7pw5" target="_blank" rel="noopener">635 Marin Ave<br />Crookston, MN 56716</a></div>								
+									</div>
+									
+								</div>
+
+								<div class="col-md-4 center">
+								<h3>BEST USED TRUCKS OF MN, INC</h3>
+									<a href="/"><img src="/assets/images/best-used-trucks-logo.png" alt="Best Used Truck of MN" class="logo" style="max-width: 100%;" /></a>
+								</div>
+
+								<div class="col-md-4 tar">
+
+									<div style="display: inline-block; text-align: center;">
+									<div class="header-phone">(218) 281-6300</div>
+									<div class="header-location"><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="c5b6a4a9a0b685a7a0b6b1b7b0a6aeb6aaa3a8abebaba0b1">[email&#160;protected]</a></div>
+									</div>
+									
+								</div>
+
+
+
+
+							</div>
+						</header>
+
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="container-fluid mainmenu pr">
+			<div class="row">
+
+				<div class="col-12 fullmenu shadow-down bb">
+					<div class="container">
+						<nav class="navbar navbar-expand-lg desktopmenu">
+
+						<ul class="navbar-nav w-100 nav-justified">
+<li class="nav-item "><a href="/" target="" rel="">Home</a></li>
+<li class="nav-item "><a href="/trucks-for-sale/" target="" rel="">Trucks</a></li>
+<li class="nav-item "><a href="/trailers-for-sale/" target="" rel="">Trailers</a></li>
+<li class="nav-item dropdown "><a href="#" id="link4dropdown1" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="nav-link dropdown-toggle">More</a>
+<div class="dropdown-menu" aria-labelledby="link4dropdown1">
+<a class="dropdown-item " href="/equipment-for-sale/" target="" rel="">Heavy Equipment</a><hr>
+<a class="dropdown-item " href="/passenger-vehicles-for-sale/" target="" rel="">Passenger Vehicles</a><hr>
+<a class="dropdown-item " href="/buses-for-sale/" target="" rel="">Buses</a><hr>
+<a class="dropdown-item " href="/equipment-for-sale/" target="" rel="">Attachments</a><hr>
+<a class="dropdown-item " href="/bodies-for-sale/" target="" rel="">Truck Bodies</a><hr>
+</div>
+</li>
+<li class="nav-item "><a href="/sell-equipment/" target="" rel="">Find / Sell</a></li>
+<li class="nav-item "><a href="/contact-us/" target="" rel="">Contact Us</a></li>
+</ul>
+
+						</nav>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		
+		<main role="main" class="container main-content">
+
+			<div class="seplg"></div>
+<h1>Error 404</h1><p>Page Not Found</p><div class="seplg" style="height: 550px;"></div> 
+
+			<div class="sepsm"></div>
+			<div class="seplg"></div>
+
+		</main>
+		
+		<div class="container-fluid center" style="background: #ff0000; color: #fff; padding: 25px 10px 0 10px; margin-bottom: -10px;"><h3 style="font-size: 1.5rem; color: #fff;">Delivering The Best Truck at the Best Price !</h3></div>
+
+		<footer class="site-footer"> 
+			<div class="container">
+							<div class="row justify-content-between align-items-center">
+
+
+	
+
+								<div class="col-md-12 center">
+
+									<a href="/"><img src="/assets/images/ftr-logo.png" alt="Best Used Truck of MN" class="logo" style="max-width: 100%;" /></a>
+									<h3>BEST USED TRUCKS OF MN</h3>
+									<div class="footer-location"><a href="https://goo.gl/maps/4ryEpF2b8c1cR7pw5" target="_blank" rel="noopener">635 Marin Ave Crookston, MN 56716</a></div>								
+									<div class="footer-phone">(218) 281-6300<br /><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="3043515c554370525543444245535b435f565d5e1e5e5544">[email&#160;protected]</a></div>
+
+								</div>
+
+
+							</div>
+			</div>
+		</footer>
+
+		<footer class="site-copyright">
+
+		<a href="https://www.imanpro.com/" target="_blank" rel="noopener"><img src="//www.imanpro.net/pub/img/imanpro.png" style="max-height: 18px;" alt="ImanPro" /></a>
+
+		<p>Copyright &copy;2020 Best Used Trucks of MN. All Rights Reserved.</p>
+
+		<div class="privacy"><a href="/privacy-policy/">Privacy Policy</a> | <a href="/terms-conditions/">Terms & Conditions</a> | <a href="/sitemap/">Sitemap</a></div>
+
+		
+		</footer>
+
+
+	</div> <!-- #content -->
+
+</div> <!-- .wrapper -->
+
+
+<!-- Dark Overlay element -->
+<div class="overlay"></div>
+
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" crossorigin="anonymous" integrity=""></script>
+<script type="text/javascript" src="/assets/js/site.js?v=2.145"></script>
+
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,1509 @@
+
+
+<!doctype html>
+<html lang="en">
+<head>
+        <script>
+            (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window, document, 'script', 'dataLayer', 'GTM-MLTHDLL');
+        </script>
+
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Homepage - Despec Group</title>
+    <meta name="description" content="">
+    <meta name="viewport" id="metaViewport" content="width=device-width, initial-scale=1">
+    <meta name="robots" content="index,follow" />
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+    
+    <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/bootstrap.daterangepicker/2/daterangepicker.css" />
+    <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/bootstrap.datetimepicker/4.17.37/css/bootstrap-datetimepicker.min.css">
+    <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.css" />
+
+    <link rel="stylesheet" href="/css/v-638626382080000000/homepage.min.css">
+        <script>
+                (function (i, s, o, g, r, a, m) {
+                    i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                        (i[r].q = i[r].q || []).push(arguments)
+                    }, i[r].l = 1 * new Date(); a = s.createElement(o),
+                        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+                })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+                ga('create', 'UA-18950280-7', 'auto');
+                ga('send', 'pageview');
+        </script>
+
+    <script>
+        if (window.innerWidth < 375) {
+            var mvp = document.getElementById('metaViewport');
+            var scale = window.innerWidth / 375;
+            mvp.setAttribute('content', 'width=device-width, initial-scale=' + scale);
+        }
+    </script>
+</head>
+<body>
+    
+        <noscript>
+            <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MLTHDLL"
+                    height="0" width="0" style="display:none;visibility:hidden"></iframe>
+        </noscript>
+    
+<div id="upper-topbar-wrapper" class="wrapper">
+    <div id="upper-topbar" class="container-fluid clearfix nordic">
+        <div id="login-user-info" class="hidden-xs">
+                <span>&nbsp;</span>
+        </div>
+        <a href="/"><img src="/images/despec-logo-white-systeam.svg" class="company-logo" alt="Despec Group" title="Despec Group" /></a>
+        <div id="upper-menus">
+            <nav id="small-menu" class="hidden-xs">
+                        <a href="/articles/customer-benefits">Customer Benefits</a>
+                        <a href="/articles/contact-us">Contact us</a>
+            </nav>
+            <nav id="site-selection">
+                <span id="site-selection-header">Visit:</span>
+                    <a  href="https://www.despec.dk/">DK</a>
+                    <a  href="https://www.despec.se/">SE</a>
+                    <a  href="https://www.despec.no/">NO</a>
+                    <a  href="https://www.despec.fi/">FI</a>
+                    <a  href="https://www.despec.is/">IS</a>
+                    <a   class="selected"   href="https://www.despec.eu/">Nordic</a>
+            </nav>
+        </div>
+    </div>
+</div>
+<div id="lower-topbar-wrapper" class="wrapper">
+    <div id="lower-topbar" class="container-fluid clearfix">
+        <a href="/" class="hidden-xs"><img src="/images/despec-mini-logo-white.svg" /></a>
+        <nav id="mobile-menu" class="mobile-menu navbar" role="navigation">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#mobile-menu-data">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <div id="mobile-menu-data" class="mobile-menu-data collapse hidden-sm hidden-md hidden-lg">
+                <ul class="nav navbar-nav">
+                        <li class="dropdown">
+                                <a class="dropdown-toggle" data-toggle="dropdown" href="#">Products<span class="glyphicon glyphicon-chevron-right"></span></a>
+                                <ul class="dropdown-menu">
+                                                    <li><a href="/categories/consumables-paper">Consumables &amp; paper</a></li>
+                                                    <li><a href="/categories/it-products-accessories">IT products &amp; accessories</a></li>
+                                                    <li><a href="/categories/ergonomics-health">Ergonomics &amp; health</a></li>
+                                                    <li><a href="/categories/printers-scanners">Printers &amp; scanners</a></li>
+                                                    <li><a href="/categories/office-machines-office-products">Office machines &amp; office products</a></li>
+                                </ul>
+                        </li>
+                        <li class="dropdown">
+                                <a class="dropdown-toggle" data-toggle="dropdown" href="#">Brands<span class="glyphicon glyphicon-chevron-right"></span></a>
+                                <ul class="dropdown-menu">
+                                                            <li><a href="/brands/hp">HP</a></li>
+                                                            <li><a href="/brands/canon">Canon</a></li>
+                                                            <li><a href="/brands/brother-microsite">Brother</a></li>
+                                                            <li><a href="/brands/lexmark">Lexmark</a></li>
+                                                            <li><a href="/brands/epson">Epson</a></li>
+                                                            <li><a href="/brands/oki">OKI</a></li>
+                                                            <li><a href="/brands/xerox">Xerox</a></li>
+                                                            <li><a href="/brands/kyocera">Kyocera Mita</a></li>
+                                                            <li><a href="/brands/ricoh">Ricoh</a></li>
+                                                            <li><a href="/brands/dell">DELL</a></li>
+                                                            <li><a href="/brands/konica-minolta">Konica Minolta</a></li>
+                                                            <li><a href="/brands/sharp">Sharp</a></li>
+                                                            <li><a href="/brands/olivetti">Olivetti</a></li>
+                                                            <li><a href="/brands/toshiba">Toshiba</a></li>
+                                                            <li><a href="/brands/pantum">Pantum</a></li>
+                                                            <li><a href="/brands/despec-nordic-brands">InfoPrint (IBM &amp; Ricoh)</a></li>
+                                                            <li><a href="/brands/despec-nordic-brands">Triumph Adler</a></li>
+                                                            <li><a href="/brands/panasonic">Panasonic</a></li>
+                                                            <li><a href="/brands/develop">Develop</a></li>
+                                                            <li><a href="/brands/logitech">Logitech</a></li>
+                                                            <li><a href="/brands/belkin">Belkin</a></li>
+                                                            <li><a href="/brands/hombli">Hombli</a></li>
+                                                            <li><a href="/brands/vonmaehlen">Vonm&#228;hlen</a></li>
+                                                            <li><a href="/brands/sandberg">Sandberg</a></li>
+                                                            <li><a href="/brands/verbatim">Verbatim</a></li>
+                                                            <li><a href="/brands/creative">Creative</a></li>
+                                                            <li><a href="/brands/dbramante1928">Dbramante1928</a></li>
+                                                            <li><a href="/brands/rollei">Rollei</a></li>
+                                                            <li><a href="/brands/pny">PNY</a></li>
+                                                            <li><a href="/brands/despec-nordic-brands">Astro Gaming</a></li>
+                                                            <li><a href="/brands/energizer">Energizer</a></li>
+                                                            <li><a href="/brands/tucano">Tucano</a></li>
+                                                            <li><a href="/brands/af">AF</a></li>
+                                                            <li><a href="/brands/kensington">Kensington</a></li>
+                                                            <li><a href="/brands/ultimate-ears">Ultimate Ears</a></li>
+                                                            <li><a href="/brands/panzerglass">PanzerGlass</a></li>
+                                                            <li><a href="/brands/surefire">SureFire</a></li>
+                                                            <li><a href="/brands/safescan-timemoto">TimeMoto</a></li>
+                                                            <li><a href="/brands/despec-nordic-brands">Cherry</a></li>
+                                                            <li><a href="/brands/trust">Trust</a></li>
+                                                            <li><a href="/brands/philbert">Philbert</a></li>
+                                                            <li><a href="/brands/mousetrapper">Mousetrapper</a></li>
+                                                            <li><a href="/brands/bakkerelkhuizen">BakkerElkhuizen</a></li>
+                                                            <li><a href="/brands/steppie">Steppie</a></li>
+                                                            <li><a href="/brands/evoluent">Evoluent</a></li>
+                                                            <li><a href="/brands/3m">3M</a></li>
+                                                            <li><a href="/brands/despec-nordic-brands">R-Go</a></li>
+                                                            <li><a href="/brands/optapad">Optapad</a></li>
+                                                            <li><a href="/brands/despec-nordic-brands">Penclic</a></li>
+                                                            <li><a href="/brands/despec-nordic-brands">Duopad</a></li>
+                                                            <li><a href="/brands/kensington">Kensington</a></li>
+                                                            <li><a href="/brands/trusens">TruSens</a></li>
+                                                            <li><a href="/brands/floortex">Floortex</a></li>
+                                                            <li><a href="/brands/hp">HP</a></li>
+                                                            <li><a href="/brands/brother-microsite">Brother</a></li>
+                                                            <li><a href="/brands/epson">Epson</a></li>
+                                                            <li><a href="/brands/lexmark">Lexmark</a></li>
+                                                            <li><a href="/brands/pantum">Pantum</a></li>
+                                                            <li><a href="/brands/dymo">Dymo</a></li>
+                                                            <li><a href="/brands/canon">Canon</a></li>
+                                                            <li><a href="/brands/despec-nordic-brands">Casio</a></li>
+                                                            <li><a href="/brands/despec-nordic-brands">Citizen</a></li>
+                                                            <li><a href="/brands/despec-nordic-brands">Sharp</a></li>
+                                                            <li><a href="/brands/hsm">HSM</a></li>
+                                                            <li><a href="/brands/olivetti">Olivetti</a></li>
+                                                            <li><a href="/brands/gbc">GBC</a></li>
+                                                            <li><a href="/brands/despec-nordic-brands">Rexel</a></li>
+                                                            <li><a href="/brands/despec-nordic-brands">Kodak</a></li>
+                                                            <li><a href="/brands/artline">Artline</a></li>
+                                                            <li><a href="/brands/herma">Herma</a></li>
+                                                            <li><a href="/brands/tombow">Tombow</a></li>
+                                                            <li><a href="/brands/zig">Zig</a></li>
+                                                            <li><a href="/brands/buengers">B&#252;ngers</a></li>
+                                                            <li><a href="/brands/esselte">Esselte</a></li>
+                                                            <li><a href="/brands/leitz">Leitz</a></li>
+                                                            <li><a href="/brands/rapid">Rapid</a></li>
+                                                            <li><a href="/brands/despec-nordic-brands">3M</a></li>
+                                                            <li><a href="/brands/staedtler">Staedtler</a></li>
+                                                            <li><a href="/brands/pilot">Pilot</a></li>
+                                                            <li><a href="/brands/despec-nordic-brands">Sharpie</a></li>
+                                                            <li><a href="/brands/despec-nordic-brands">Bic</a></li>
+                                                            <li><a href="/brands/despec-nordic-brands">Ballograf</a></li>
+                                                            <li><a href="/brands/despec-nordic-brands">Meto</a></li>
+                                                            <li><a href="/brands/despec-nordic-brands">Fiskars</a></li>
+                                                            <li><a href="/brands/cederroth">Cederroth</a></li>
+                                                            <li><a href="/brands/milan">Milan</a></li>
+                                                            <li><a href="/brands/despec-nordic-brands">UHU</a></li>
+                                                            <li><a href="/brands/despec-nordic-brands">Pritt</a></li>
+                                                            <li><a href="/brands/despec-nordic-brands">Svenska h&#228;ftstift</a></li>
+                                                            <li><a href="/brands/despec-nordic-brands">Casco</a></li>
+                                                            <li><a href="/brands/despec-nordic-brands">Sigel</a></li>
+                                                            <li><a href="/brands/nt-cutter">NT-Cutter</a></li>
+                                                            <li><a href="/brands/despec-nordic-brands">Siam</a></li>
+                                                            <li><a href="/brands/despec-nordic-brands">Exacompta</a></li>
+                                                            <li><a href="/brands/despec-nordic-brands">Bong</a></li>
+                                                            <li><a href="/brands/af">AF Cleaning</a></li>
+                                                            <li><a href="/brands/despec-nordic-brands">Laurel</a></li>
+                                                            <li><a href="/brands/nobo">Nobo</a></li>
+                                                            <li><a href="/brands/wedo">Wedo</a></li>
+                                                            <li><a href="/brands/despec-nordic-brands">Avery</a></li>
+                                                            <li><a href="/brands/despec-nordic-brands">Parker</a></li>
+                                                            <li><a href="/brands/despec-nordic-brands">Faber Castell</a></li>
+                                                            <li><a href="/brands/despec-nordic-brands">M&#246;bius &amp; Ruppert</a></li>
+                                                            <li><a href="/brands/elba">Elba</a></li>
+                                                            <li><a href="/brands/bantex">Bantex</a></li>
+                                                            <li><a href="/brands/linex">Linex</a></li>
+                                                            <li><a href="/brands/oxford">Oxford</a></li>
+                                                            <li><a href="/brands/despec-nordic-brands">Canon</a></li>
+                                                            <li><a href="/brands/despec-nordic-brands">Sharp</a></li>
+                                                            <li><a href="/brands/safescan-timemoto">Safescan</a></li>
+                                                            <li><a href="/brands/despec-nordic-brands">Rexel</a></li>
+                                </ul>
+                        </li>
+                        <li class="dropdown">
+                                <a href="/articles/ink-toner-guide">Ink &amp; toner guide</a>
+                        </li>
+                                                <li><a href="/articles/customer-benefits">Customer Benefits</a></li>
+                            <li><a href="/articles/contact-us">Contact us</a></li>
+                </ul>
+            </div>
+        </nav>
+
+
+
+    <nav id="megamenu" class="hidden-xs mega-eu">
+                    <a id="megamenu-product-categories" class="menuitem">Products</a>
+                    <a id="megamenu-brands" class="menuitem">Brands</a>
+                    <a href="/articles/ink-toner-guide" class="menuitem">Ink &amp; toner guide</a>
+    </nav>
+            <div id="megamenu-product-categories-dropdown-box" class="dropdown-box hidden-xs">
+                <div id="megamenu-product-categories-dropdown" class="triangle-border top topbar-dropdown">
+                    <div class="tabs">
+                            <a class="tab selected ">Consumables &amp; paper</a>
+                            <a class="tab ">IT products &amp; accessories</a>
+                            <a class="tab ">Ergonomics &amp; health</a>
+                            <a class="tab ">Printers &amp; scanners</a>
+                            <a class="tab  box-shadow-bottom">Office machines &amp; office products</a>
+                    </div>
+                    <div class="panels box-shadow-bottom">
+                            <div class="panel clearfix selected">
+
+                                <nav class="clearfix">
+
+                                        <ul>
+                                                <li class="cat-2"><a href="/categories/consumables-paper">3D Printer Consumables</a></li>
+                                                    <li class="cat-3"><a href="/categories/consumables-paper">3D Filaments</a></li>
+                                                <li class="cat-2"><a href="/categories/consumables-paper">Ink</a></li>
+                                                    <li class="cat-3"><a href="/categories/consumables-paper">Compatible inkcartridges</a></li>
+                                                    <li class="cat-3"><a href="/categories/consumables-paper">Ink cartridges valuepacks</a></li>
+                                                    <li class="cat-3"><a href="/categories/consumables-paper">Ink cartridges</a></li>
+                                                    <li class="cat-3"><a href="/categories/consumables-paper">Ink cartridges blister</a></li>
+                                                    <li class="cat-3"><a href="/categories/consumables-paper">Ink cartridges LFM</a></li>
+                                                    <li class="cat-3"><a href="/categories/consumables-paper">Ink maintenance &amp; spareparts</a></li>
+                                        </ul>
+                                        <ul>
+                                                <li class="cat-2"><a href="/categories/consumables-paper">Labels</a></li>
+                                                    <li class="cat-3"><a href="/categories/consumables-paper">Assets &amp; Barcoding labels</a></li>
+                                                    <li class="cat-3"><a href="/categories/consumables-paper">Files &amp; Binders labels</a></li>
+                                                    <li class="cat-3"><a href="/categories/consumables-paper">Inkprint labels</a></li>
+                                                    <li class="cat-3"><a href="/categories/consumables-paper">Labels for labelprinter</a></li>
+                                                    <li class="cat-3"><a href="/categories/consumables-paper">Mailing &amp; Shipping labels</a></li>
+                                                    <li class="cat-3"><a href="/categories/consumables-paper">Multipurpose labels</a></li>
+                                                <li class="cat-2"><a href="/categories/consumables-paper">Paper and transparencies</a></li>
+                                                    <li class="cat-3"><a href="/categories/consumables-paper">Large format</a></li>
+                                                    <li class="cat-3"><a href="/categories/consumables-paper">Office paper</a></li>
+                                                    <li class="cat-3"><a href="/categories/consumables-paper">Photo paper</a></li>
+                                                    <li class="cat-3"><a href="/categories/consumables-paper">Transparencies</a></li>
+                                        </ul>
+                                        <ul>
+                                                <li class="cat-2"><a href="/categories/consumables-paper">Prisume</a></li>
+                                                    <li class="cat-3"><a href="/categories/consumables-paper">Prisume starter kits</a></li>
+                                                <li class="cat-2"><a href="/categories/consumables-paper">Ribbons</a></li>
+                                                    <li class="cat-3"><a href="/categories/consumables-paper">Compatible ribbons</a></li>
+                                                    <li class="cat-3"><a href="/categories/consumables-paper">Ribbons</a></li>
+                                                    <li class="cat-3"><a href="/categories/consumables-paper">Thermal ribbons</a></li>
+                                                <li class="cat-2"><a href="/categories/consumables-paper">Tapes</a></li>
+                                                    <li class="cat-3"><a href="/categories/consumables-paper">Tapes for labelling machines</a></li>
+                                        </ul>
+                                        <ul>
+                                                <li class="cat-2"><a href="/categories/consumables-paper">Toner</a></li>
+                                                    <li class="cat-3"><a href="/categories/consumables-paper">Compatible toners</a></li>
+                                                    <li class="cat-3"><a href="/categories/consumables-paper">Contract toners</a></li>
+                                                    <li class="cat-3"><a href="/categories/consumables-paper">Copier maintenance kit</a></li>
+                                                    <li class="cat-3"><a href="/categories/consumables-paper">Fax toner &amp; ink</a></li>
+                                                    <li class="cat-3"><a href="/categories/consumables-paper">Laser maintenance &amp; spareparts</a></li>
+                                                    <li class="cat-3"><a href="/categories/consumables-paper">Laser toner</a></li>
+                                                    <li class="cat-3"><a href="/categories/consumables-paper">Toner &amp; maintenance for copiers</a></li>
+                                                <li class="cat-2"><a href="/categories/consumables-paper">Vouchers for consumables</a></li>
+                                                    <li class="cat-3"><a href="/categories/consumables-paper">Vouchers</a></li>
+                                        </ul>
+
+                                </nav>
+                            </div>
+                            <div class="panel clearfix">
+
+                                <nav class="clearfix">
+
+                                        <ul>
+                                                <li class="cat-2"><a href="/categories/it-products-accessories">AV Screens</a></li>
+                                                    <li class="cat-3"><a href="/categories/it-products-accessories">Digital signage</a></li>
+                                                <li class="cat-2"><a href="/categories/it-products-accessories">Bags &amp; Sleeves</a></li>
+                                                    <li class="cat-3"><a href="/categories/it-products-accessories">Computer backpacks</a></li>
+                                                    <li class="cat-3"><a href="/categories/it-products-accessories">Computer bags</a></li>
+                                                    <li class="cat-3"><a href="/categories/it-products-accessories">Computer sleeves</a></li>
+                                                    <li class="cat-3"><a href="/categories/it-products-accessories">Weekend bags</a></li>
+                                                <li class="cat-2"><a href="/categories/it-products-accessories">Batteries</a></li>
+                                                    <li class="cat-3"><a href="/categories/it-products-accessories">Batteries</a></li>
+                                                    <li class="cat-3"><a href="/categories/it-products-accessories">Battery chargers</a></li>
+                                                    <li class="cat-3"><a href="/categories/it-products-accessories">Batteries, Eco friendly</a></li>
+                                                    <li class="cat-3"><a href="/categories/it-products-accessories">Batteries, Rechargeable</a></li>
+                                                    <li class="cat-3"><a href="/categories/it-products-accessories">Batteries, Special</a></li>
+                                                <li class="cat-2"><a href="/categories/it-products-accessories">Cables, hubs &amp; adapters</a></li>
+                                                    <li class="cat-3"><a href="/categories/it-products-accessories">Cables</a></li>
+                                                    <li class="cat-3"><a href="/categories/it-products-accessories">Chargers</a></li>
+                                                    <li class="cat-3"><a href="/categories/it-products-accessories">Docking stations</a></li>
+                                                    <li class="cat-3"><a href="/categories/it-products-accessories">Hubs &amp; adapters</a></li>
+                                                <li class="cat-2"><a href="/categories/it-products-accessories">Data storage &amp; safety</a></li>
+                                                    <li class="cat-3"><a href="/categories/it-products-accessories">CD, DVD &amp; Blu-ray</a></li>
+                                                    <li class="cat-3"><a href="/categories/it-products-accessories">Data tapes &amp; storage</a></li>
+                                                    <li class="cat-3"><a href="/categories/it-products-accessories">HDD &amp; SSD</a></li>
+                                                    <li class="cat-3"><a href="/categories/it-products-accessories">Security</a></li>
+                                                    <li class="cat-3"><a href="/categories/it-products-accessories">USB-keys &amp; memorycards</a></li>
+                                        </ul>
+                                        <ul>
+                                                <li class="cat-2"><a href="/categories/it-products-accessories">Gaming</a></li>
+                                                    <li class="cat-3"><a href="/categories/it-products-accessories">Gaming bags</a></li>
+                                                    <li class="cat-3"><a href="/categories/it-products-accessories">Gaming consoles</a></li>
+                                                    <li class="cat-3"><a href="/categories/it-products-accessories">Gaming controllers</a></li>
+                                                    <li class="cat-3"><a href="/categories/it-products-accessories">Gaming cooling pads</a></li>
+                                                    <li class="cat-3"><a href="/categories/it-products-accessories">Gaming furniture</a></li>
+                                                    <li class="cat-3"><a href="/categories/it-products-accessories">Gaming HDD &amp; SSD</a></li>
+                                                    <li class="cat-3"><a href="/categories/it-products-accessories">Gaming headset</a></li>
+                                                    <li class="cat-3"><a href="/categories/it-products-accessories">Gaming keyboards</a></li>
+                                                    <li class="cat-3"><a href="/categories/it-products-accessories">Gaming Mice &amp; Mouse pads</a></li>
+                                                    <li class="cat-3"><a href="/categories/it-products-accessories">Gaming monitors</a></li>
+                                                    <li class="cat-3"><a href="/categories/it-products-accessories">Gaming simulation</a></li>
+                                                    <li class="cat-3"><a href="/categories/it-products-accessories">Graphic cards &amp; soundcards</a></li>
+                                                    <li class="cat-3"><a href="/categories/it-products-accessories">Streaming</a></li>
+                                                <li class="cat-2"><a href="/categories/it-products-accessories">Headsets</a></li>
+                                                    <li class="cat-3"><a href="/categories/it-products-accessories">Headset adapters</a></li>
+                                                    <li class="cat-3"><a href="/categories/it-products-accessories">Headsets, Wired</a></li>
+                                                    <li class="cat-3"><a href="/categories/it-products-accessories">Headsets, Wireless</a></li>
+                                                <li class="cat-2"><a href="/categories/it-products-accessories">IT cleaning</a></li>
+                                                    <li class="cat-3"><a href="/categories/it-products-accessories">IT cleaning products</a></li>
+                                                    <li class="cat-3"><a href="/categories/it-products-accessories">Smartphone/tablet cleaning</a></li>
+                                                <li class="cat-2"><a href="/categories/it-products-accessories">Light</a></li>
+                                                    <li class="cat-3"><a href="/categories/it-products-accessories">Flashlights</a></li>
+                                                    <li class="cat-3"><a href="/categories/it-products-accessories">Smart home</a></li>
+                                        </ul>
+                                        <ul>
+                                                <li class="cat-2"><a href="/categories/it-products-accessories">Mice &amp; Keyboards</a></li>
+                                                    <li class="cat-3"><a href="/categories/it-products-accessories">Desktop sets</a></li>
+                                                    <li class="cat-3"><a href="/categories/it-products-accessories">Ergonomic keyboards</a></li>
+                                                    <li class="cat-3"><a href="/categories/it-products-accessories">Ergonomic mice</a></li>
+                                                    <li class="cat-3"><a href="/categories/it-products-accessories">Keyboards</a></li>
+                                                    <li class="cat-3"><a href="/categories/it-products-accessories">Mice &amp; mouse mats</a></li>
+                                                <li class="cat-2"><a href="/categories/it-products-accessories">Mobility</a></li>
+                                                    <li class="cat-3"><a href="/categories/it-products-accessories">Car accessories</a></li>
+                                                    <li class="cat-3"><a href="/categories/it-products-accessories">Chargers &amp; cables</a></li>
+                                                    <li class="cat-3"><a href="/categories/it-products-accessories">Headphones</a></li>
+                                                    <li class="cat-3"><a href="/categories/it-products-accessories">Screen Protection</a></li>
+                                                    <li class="cat-3"><a href="/categories/it-products-accessories">Smartphone covers</a></li>
+                                                    <li class="cat-3"><a href="/categories/it-products-accessories">Tablet covers</a></li>
+                                                    <li class="cat-3"><a href="/categories/it-products-accessories">Tablet &amp; smartphone accessories</a></li>
+                                                    <li class="cat-3"><a href="/categories/it-products-accessories">Wearables &amp; smart trackers</a></li>
+                                                <li class="cat-2"><a href="/categories/it-products-accessories">Network products</a></li>
+                                                    <li class="cat-3"><a href="/categories/it-products-accessories">Access point</a></li>
+                                                    <li class="cat-3"><a href="/categories/it-products-accessories">Network products</a></li>
+                                                    <li class="cat-3"><a href="/categories/it-products-accessories">Switches, unmanaged</a></li>
+                                                <li class="cat-2"><a href="/categories/it-products-accessories">Webcams &amp; UC</a></li>
+                                                    <li class="cat-3"><a href="/categories/it-products-accessories">(UC) Conference</a></li>
+                                                    <li class="cat-3"><a href="/categories/it-products-accessories">Webcams</a></li>
+                                        </ul>
+                                        <ul>
+                                                <li class="cat-2"><a href="/categories/it-products-accessories">PC Monitors &amp; Accessories</a></li>
+                                                    <li class="cat-3"><a href="/categories/it-products-accessories">Computer monitors</a></li>
+                                                    <li class="cat-3"><a href="/categories/it-products-accessories">Monitor arm</a></li>
+                                                    <li class="cat-3"><a href="/categories/it-products-accessories">Monitor stands</a></li>
+                                                    <li class="cat-3"><a href="/categories/it-products-accessories">Screen filters</a></li>
+                                                <li class="cat-2"><a href="/categories/it-products-accessories">Projectors &amp; accessories</a></li>
+                                                    <li class="cat-3"><a href="/categories/it-products-accessories">CoverPlus for projectors</a></li>
+                                                    <li class="cat-3"><a href="/categories/it-products-accessories">Projectors</a></li>
+                                                    <li class="cat-3"><a href="/categories/it-products-accessories">Remote controls</a></li>
+                                                <li class="cat-2"><a href="/categories/it-products-accessories">Sound &amp; Picture</a></li>
+                                                    <li class="cat-3"><a href="/categories/it-products-accessories">360 cameras</a></li>
+                                                    <li class="cat-3"><a href="/categories/it-products-accessories">Actionscams &amp; accessories</a></li>
+                                                    <li class="cat-3"><a href="/categories/it-products-accessories">Dashcams</a></li>
+                                                    <li class="cat-3"><a href="/categories/it-products-accessories">Dia &amp; photo scanner</a></li>
+                                                    <li class="cat-3"><a href="/categories/it-products-accessories">Digital cameras</a></li>
+                                                    <li class="cat-3"><a href="/categories/it-products-accessories">Photo accessories</a></li>
+                                                    <li class="cat-3"><a href="/categories/it-products-accessories">Security cameras</a></li>
+                                                    <li class="cat-3"><a href="/categories/it-products-accessories">Speakers</a></li>
+                                                    <li class="cat-3"><a href="/categories/it-products-accessories">Tripods &amp; Gimbals</a></li>
+                                                <li class="cat-2"><a href="/categories/it-products-accessories">Workforce management tools</a></li>
+                                        </ul>
+
+                                </nav>
+                            </div>
+                            <div class="panel clearfix">
+
+                                <nav class="clearfix">
+
+                                        <ul>
+                                                <li class="cat-2"><a href="/categories/ergonomics-health">Air Purifier</a></li>
+                                                    <li class="cat-3"><a href="/categories/ergonomics-health">Anti-fatigue mats</a></li>
+                                                    <li class="cat-3"><a href="/categories/ergonomics-health">Balance boards</a></li>
+                                                    <li class="cat-3"><a href="/categories/ergonomics-health">Chairmats</a></li>
+                                                <li class="cat-2"><a href="/categories/ergonomics-health">Cleaning &amp; Hygiene</a></li>
+                                                    <li class="cat-3"><a href="/categories/ergonomics-health">Hand soap</a></li>
+                                                    <li class="cat-3"><a href="/categories/ergonomics-health">Surface desinfection</a></li>
+                                                <li class="cat-2"><a href="/categories/ergonomics-health">Ergonomic mice &amp; keyboards</a></li>
+                                                    <li class="cat-3"><a href="/categories/ergonomics-health">Ergonomic mice &amp; keyboards</a></li>
+                                        </ul>
+                                        <ul>
+                                                <li class="cat-2"><a href="/categories/ergonomics-health">First Aid</a></li>
+                                                    <li class="cat-3"><a href="/categories/ergonomics-health">Eye wash</a></li>
+                                                    <li class="cat-3"><a href="/categories/ergonomics-health">First aid</a></li>
+                                                    <li class="cat-3"><a href="/categories/ergonomics-health">Plasters &amp; bandage</a></li>
+                                                <li class="cat-2"><a href="/categories/ergonomics-health">Holders &amp; stands</a></li>
+                                                    <li class="cat-3"><a href="/categories/ergonomics-health">Ergoslider incl. accessories</a></li>
+                                                <li class="cat-2"><a href="/categories/ergonomics-health">Home office workstations</a></li>
+                                                    <li class="cat-3"><a href="/categories/ergonomics-health">Laptop risers &amp; coolpads</a></li>
+                                                    <li class="cat-3"><a href="/categories/ergonomics-health">Monitor arms</a></li>
+                                                    <li class="cat-3"><a href="/categories/ergonomics-health">PC stands &amp; holders</a></li>
+                                                    <li class="cat-3"><a href="/categories/ergonomics-health">Screen stands/holders</a></li>
+                                                    <li class="cat-3"><a href="/categories/ergonomics-health">Tablet risers</a></li>
+                                        </ul>
+                                        <ul>
+                                                <li class="cat-2"><a href="/categories/ergonomics-health">IT cleaning</a></li>
+                                                    <li class="cat-3"><a href="/categories/ergonomics-health">Wrist &amp; arm supports</a></li>
+                                                <li class="cat-2"><a href="/categories/ergonomics-health">Mats &amp; footrests</a></li>
+                                                    <li class="cat-3"><a href="/categories/ergonomics-health">Document holders</a></li>
+                                                <li class="cat-2"><a href="/categories/ergonomics-health">Personal Protective Equipment</a></li>
+                                                    <li class="cat-3"><a href="/categories/ergonomics-health">Disposable gloves</a></li>
+                                                    <li class="cat-3"><a href="/categories/ergonomics-health">Face masks &amp; shields</a></li>
+                                                    <li class="cat-3"><a href="/categories/ergonomics-health">Hand desinfection</a></li>
+                                                    <li class="cat-3"><a href="/categories/ergonomics-health">Social distancing screens</a></li>
+                                        </ul>
+                                        <ul>
+                                                <li class="cat-2"><a href="/categories/ergonomics-health">Screen accessories</a></li>
+                                                    <li class="cat-3"><a href="/categories/ergonomics-health">Mousetrapper incl. accessories</a></li>
+                                                <li class="cat-2"><a href="/categories/ergonomics-health">Wrist support</a></li>
+                                                    <li class="cat-3"><a href="/categories/ergonomics-health">Screen filters anti-glare</a></li>
+                                                    <li class="cat-3"><a href="/categories/ergonomics-health">Screen privacy filters desktop</a></li>
+                                                    <li class="cat-3"><a href="/categories/ergonomics-health">Screen privacy filters laptop</a></li>
+                                                    <li class="cat-3"><a href="/categories/ergonomics-health">Screen privacy filters MacBook</a></li>
+                                                    <li class="cat-3"><a href="/categories/ergonomics-health">Screen privacy filters tablet</a></li>
+                                                    <li class="cat-3"><a href="/categories/ergonomics-health">Screen privacy filters touch</a></li>
+                                        </ul>
+
+                                </nav>
+                            </div>
+                            <div class="panel clearfix">
+
+                                <nav class="clearfix">
+
+                                        <ul>
+                                                <li class="cat-2"><a href="/categories/printers-scanners">3D printers</a></li>
+                                                    <li class="cat-3"><a href="/categories/printers-scanners">3D pens</a></li>
+                                                    <li class="cat-3"><a href="/categories/printers-scanners">3D printers</a></li>
+                                                <li class="cat-2"><a href="/categories/printers-scanners">Business solution license</a></li>
+                                                    <li class="cat-3"><a href="/categories/printers-scanners">Business Solution Licences</a></li>
+                                                <li class="cat-2"><a href="/categories/printers-scanners">Care Packs / CoverPlus / HW insurances</a></li>
+                                                    <li class="cat-3"><a href="/categories/printers-scanners">Brother ServicePacks</a></li>
+                                                    <li class="cat-3"><a href="/categories/printers-scanners">Epson CoverPlus</a></li>
+                                                    <li class="cat-3"><a href="/categories/printers-scanners">HP CarePack</a></li>
+                                                <li class="cat-2"><a href="/categories/printers-scanners">Dot matrix printers</a></li>
+                                                    <li class="cat-3"><a href="/categories/printers-scanners">Dot matrix printers</a></li>
+                                        </ul>
+                                        <ul>
+                                                <li class="cat-2"><a href="/categories/printers-scanners">Ink printers</a></li>
+                                                    <li class="cat-3"><a href="/categories/printers-scanners">Printers accessories</a></li>
+                                                    <li class="cat-3"><a href="/categories/printers-scanners">Printers inkjet</a></li>
+                                                    <li class="cat-3"><a href="/categories/printers-scanners">Printers inkjet A3</a></li>
+                                                    <li class="cat-3"><a href="/categories/printers-scanners">Printers inkjet MFP</a></li>
+                                                    <li class="cat-3"><a href="/categories/printers-scanners">Printers inkjet photo</a></li>
+                                                <li class="cat-2"><a href="/categories/printers-scanners">Labelling machines</a></li>
+                                                    <li class="cat-3"><a href="/categories/printers-scanners">Industrial printers</a></li>
+                                                    <li class="cat-3"><a href="/categories/printers-scanners">Labelling machines</a></li>
+                                                    <li class="cat-3"><a href="/categories/printers-scanners">Labelling machine accessories</a></li>
+                                                    <li class="cat-3"><a href="/categories/printers-scanners">Label printer accessories</a></li>
+                                                    <li class="cat-3"><a href="/categories/printers-scanners">Label printers</a></li>
+                                                    <li class="cat-3"><a href="/categories/printers-scanners">Mobile printers</a></li>
+                                        </ul>
+                                        <ul>
+                                                <li class="cat-2"><a href="/categories/printers-scanners">Large format printers</a></li>
+                                                    <li class="cat-3"><a href="/categories/printers-scanners">Printers InkJet large format</a></li>
+                                                <li class="cat-2"><a href="/categories/printers-scanners">Laserprinters</a></li>
+                                                    <li class="cat-3"><a href="/categories/printers-scanners">Printers, accessories</a></li>
+                                                    <li class="cat-3"><a href="/categories/printers-scanners">Printer accessories, managed</a></li>
+                                                    <li class="cat-3"><a href="/categories/printers-scanners">Printers laser b/w</a></li>
+                                                    <li class="cat-3"><a href="/categories/printers-scanners">Printers laser color</a></li>
+                                                    <li class="cat-3"><a href="/categories/printers-scanners">Printers laser b/w MFP</a></li>
+                                                    <li class="cat-3"><a href="/categories/printers-scanners">Printers laser color MFP</a></li>
+                                                    <li class="cat-3"><a href="/categories/printers-scanners">Printers, laser A3</a></li>
+                                                    <li class="cat-3"><a href="/categories/printers-scanners">Printers, managed</a></li>
+                                                <li class="cat-2"><a href="/categories/printers-scanners">Mobile printers</a></li>
+                                                    <li class="cat-3"><a href="/categories/printers-scanners">Printers mobile</a></li>
+                                        </ul>
+                                        <ul>
+                                                <li class="cat-2"><a href="/categories/printers-scanners">Printer configuration</a></li>
+                                                    <li class="cat-3"><a href="/categories/printers-scanners">Print configuration</a></li>
+                                                <li class="cat-2"><a href="/categories/printers-scanners">Printers, POS</a></li>
+                                                    <li class="cat-3"><a href="/categories/printers-scanners">Printers, POS</a></li>
+                                                <li class="cat-2"><a href="/categories/printers-scanners">Scanners</a></li>
+                                                    <li class="cat-3"><a href="/categories/printers-scanners">Barcode scanners</a></li>
+                                                    <li class="cat-3"><a href="/categories/printers-scanners">Book scanner</a></li>
+                                                    <li class="cat-3"><a href="/categories/printers-scanners">Desktop scanners</a></li>
+                                                    <li class="cat-3"><a href="/categories/printers-scanners">Fax</a></li>
+                                                    <li class="cat-3"><a href="/categories/printers-scanners">Flatbed scanners</a></li>
+                                                    <li class="cat-3"><a href="/categories/printers-scanners">Photo scanners</a></li>
+                                                    <li class="cat-3"><a href="/categories/printers-scanners">Portable scanners</a></li>
+                                                    <li class="cat-3"><a href="/categories/printers-scanners">Professional scanners</a></li>
+                                                    <li class="cat-3"><a href="/categories/printers-scanners">Scanners</a></li>
+                                        </ul>
+
+                                </nav>
+                            </div>
+                            <div class="panel clearfix">
+
+                                <nav class="clearfix">
+
+                                        <ul>
+                                                <li class="cat-2"><a href="/categories/office-machines-office-products">Archiving &amp; storage</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Archiving boxes</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Binders &amp; Lever arch files</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Bookends</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Cash boxes &amp; key storage</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Folders</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Indices &amp; dividers</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Lettertrays</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Magazine files</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Other archiving</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Pockets</a></li>
+                                                <li class="cat-2"><a href="/categories/office-machines-office-products">Binding &amp; lamination</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Laminating accessories</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Laminating machines</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Thermal binding</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Wire binding</a></li>
+                                                <li class="cat-2"><a href="/categories/office-machines-office-products">Calculators</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Calculators</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Calculator accessories</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Cash / calculator rolls</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Printing calculators</a></li>
+                                                <li class="cat-2"><a href="/categories/office-machines-office-products">Cash handling systems</a></li>
+                                                <li class="cat-2"><a href="/categories/office-machines-office-products">Cash registers</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Cash registers</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Cash registers accessories</a></li>
+                                                <li class="cat-2"><a href="/categories/office-machines-office-products">Conference &amp; presentation</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Clipboards</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Conference accessories</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Flipchart stands &amp; pads</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Room dividers</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Signs and brochure stands</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Whiteboards &amp; notice boards</a></li>
+                                        </ul>
+                                        <ul>
+                                                <li class="cat-2"><a href="/categories/office-machines-office-products">Correction &amp; erasers</a></li>
+                                                <li class="cat-2"><a href="/categories/office-machines-office-products">Craft &amp; hobby</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Art knives</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Bundles pads &amp; pens</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Correction</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Erasers</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Games &amp; lotteries</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Paint, brushes and model clay</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Papercraft &amp; scrapbooking</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Rulers &amp; drafting tools</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Seasonal products</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Scissors</a></li>
+                                                <li class="cat-2"><a href="/categories/office-machines-office-products">General Office Equipment</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Clips, pins etc.</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Desk mats</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Glue &amp; adhesive pads</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">IT Cleaning</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Letter openers &amp; paper spears</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Magnifying glass</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Other general office supplies</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Pencil pots &amp; multidispensers</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Tape</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Scissors</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Stamps</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Waste bins</a></li>
+                                                <li class="cat-2"><a href="/categories/office-machines-office-products">Pads, forms &amp; notes</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Diary</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Drawing- sketch- and aquarelle pads</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Forms</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Mandala</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Notebooks</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Pads</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Post-it notes</a></li>
+                                        </ul>
+                                        <ul>
+                                                <li class="cat-2"><a href="/categories/office-machines-office-products">Paper, cardboard and labels</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Business cards</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Coloured cardboard</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Coloured paper</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Labels, consumers</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Labels, small packs</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Office labels A4</a></li>
+                                                <li class="cat-2"><a href="/categories/office-machines-office-products">Retail marking &amp; display material</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Display signs &amp; accessories</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Plastic frames</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Price marking</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Shopping baskets</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Sign cardboard</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Snap frames</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Street sign stands &amp; accessories</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Queuing systems</a></li>
+                                                <li class="cat-2"><a href="/categories/office-machines-office-products">Shipping &amp; wrapping</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Card &amp; envelope, letter papers</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Cutting knives, blades and cutting mats</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Envelopes</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Franking machines &amp; accessories</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Packaging tape &amp; dispensers</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Rubberbands &amp; yarn</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Sample bags, mail order bags, padded bags</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Scales</a></li>
+                                        </ul>
+                                        <ul>
+                                                <li class="cat-2"><a href="/categories/office-machines-office-products">Shredders</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Packaging machines</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Shredders</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Shredders accessories</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Shredders Auto Feed</a></li>
+                                                <li class="cat-2"><a href="/categories/office-machines-office-products">Staplers &amp; punchers</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Hole punchers</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Staples &amp; removers</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Staplers &amp; stapling guns</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Stapling pliers</a></li>
+                                                <li class="cat-2"><a href="/categories/office-machines-office-products">Writing instruments</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Ballpoint pens</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Blackboard- &amp; poster markers</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Calligraphy pens</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Childrens pencils &amp; crayons</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Colouring pens &amp; crayons</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Fineliners &amp; calligraphy pens</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Fountain pens</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Frixion</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Gel- &amp; rollerball pens</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Glassboard markers</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Highlighters</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Hobby- &amp; artist pens</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Markers</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Mechanical pencils</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Pen cases &amp; holders</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Pencils</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Pencil sharpeners</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Whiteboard markers</a></li>
+                                                    <li class="cat-3"><a href="/categories/office-machines-office-products">Writing ink &amp; refills</a></li>
+                                        </ul>
+
+                                </nav>
+                            </div>
+                    </div>
+                </div>
+            </div>
+        <div id="megamenu-brands-dropdown-box" class="dropdown-box hidden-xs">
+            <div id="megamenu-brands-dropdown" class="triangle-border top topbar-dropdown">
+                        <div class="tabs">
+                                <a class="tab selected ">Consumables &amp; paper</a>
+                                <a class="tab ">IT products &amp; accessories</a>
+                                <a class="tab ">Ergonomics &amp; health</a>
+                                <a class="tab ">Printers &amp; scanners</a>
+                                <a class="tab  box-shadow-bottom">Office machines &amp; office products</a>
+                        </div>
+                        <div class="panels box-shadow-bottom">
+                                <div class="panel clearfix selected">
+                                    <nav class="clearfix">
+                                                    <a href="/brands/hp" class="brand">
+                                                        <img src="/resources/HP.png?width=175&height=50" alt="HP" title="HP" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/canon" class="brand">
+                                                        <img src="/resources/Canon.png?width=175&height=50" alt="Canon" title="Canon" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/brother-microsite" class="brand">
+                                                        <img src="/resources/Brother.png?width=175&height=50" alt="Brother" title="Brother" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/lexmark" class="brand">
+                                                        <img src="/resources/Lexmark.png?width=175&height=50" alt="Lexmark" title="Lexmark" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/epson" class="brand">
+                                                        <img src="/resources/Epson.png?width=175&height=50" alt="Epson" title="Epson" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/oki" class="brand">
+                                                        <img src="/resources/OKI.png?width=175&height=50" alt="OKI" title="OKI" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/xerox" class="brand">
+                                                        <img src="/resources/Xerox.png?width=175&height=50" alt="Xerox" title="Xerox" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/kyocera" class="brand">
+                                                        <img src="/resources/Kyocera.png?width=175&height=50" alt="Kyocera Mita" title="Kyocera Mita" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/ricoh" class="brand">
+                                                        <img src="/resources/Ricoh.png?width=175&height=50" alt="Ricoh" title="Ricoh" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/dell" class="brand">
+                                                        <img src="/resources/Dell.png?width=175&height=50" alt="DELL" title="DELL" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/konica-minolta" class="brand">
+                                                        <img src="/resources/KonicaMinolta.png?width=175&height=50" alt="Konica Minolta" title="Konica Minolta" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/sharp" class="brand">
+                                                        <img src="/resources/Sharp.png?width=175&height=50" alt="Sharp" title="Sharp" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/olivetti" class="brand">
+                                                        <img src="/resources/Olivetti.png?width=175&height=50" alt="Olivetti" title="Olivetti" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/toshiba" class="brand">
+                                                        <img src="/resources/Toshiba.png?width=175&height=50" alt="Toshiba" title="Toshiba" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/pantum" class="brand">
+                                                        <img src="/resources/Pantum.png?width=175&height=50" alt="Pantum" title="Pantum" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/despec-nordic-brands" class="brand">
+                                                        <img src="/resources/RicohIBM.png?width=175&height=50" alt="InfoPrint (IBM &amp; Ricoh)" title="InfoPrint (IBM &amp; Ricoh)" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/despec-nordic-brands" class="brand">
+                                                        <img src="/resources/TriumphAdler.png?width=175&height=50" alt="Triumph Adler" title="Triumph Adler" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/panasonic" class="brand">
+                                                        <img src="/resources/Pansonic.png?width=175&height=50" alt="Panasonic" title="Panasonic" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/develop" class="brand">
+                                                        <img src="/resources/Develop.png?width=175&height=50" alt="Develop" title="Develop" width="175" height="50" />
+                                                    </a>
+                                    </nav>
+                                </div>
+                                <div class="panel clearfix">
+                                    <nav class="clearfix">
+                                                    <a href="/brands/logitech" class="brand">
+                                                        <img src="/resources/Logitech.png?width=175&height=50" alt="Logitech" title="Logitech" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/belkin" class="brand">
+                                                        <img src="/resources/Belkin.png?width=175&height=50" alt="Belkin" title="Belkin" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/hombli" class="brand">
+                                                        <img src="/resources/Hombli.png?width=175&height=50" alt="Hombli" title="Hombli" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/vonmaehlen" class="brand">
+                                                        <img src="/resources/Vonmahlen.png?width=175&height=50" alt="Vonm&#228;hlen" title="Vonm&#228;hlen" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/sandberg" class="brand">
+                                                        <img src="/resources/Sandberg.png?width=175&height=50" alt="Sandberg" title="Sandberg" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/verbatim" class="brand">
+                                                        <img src="/resources/Verbatim.png?width=175&height=50" alt="Verbatim" title="Verbatim" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/creative" class="brand">
+                                                        <img src="/resources/Creative.png?width=175&height=50" alt="Creative" title="Creative" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/dbramante1928" class="brand">
+                                                        <img src="/resources/dbramante.png?width=175&height=50" alt="Dbramante1928" title="Dbramante1928" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/rollei" class="brand">
+                                                        <img src="/resources/Rollei.png?width=175&height=50" alt="Rollei" title="Rollei" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/pny" class="brand">
+                                                        <img src="/resources/PNY.png?width=175&height=50" alt="PNY" title="PNY" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/despec-nordic-brands" class="brand">
+                                                        <img src="/resources/Astro.png?width=175&height=50" alt="Astro Gaming" title="Astro Gaming" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/energizer" class="brand">
+                                                        <img src="/resources/Energizer.png?width=175&height=50" alt="Energizer" title="Energizer" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/tucano" class="brand">
+                                                        <img src="/resources/Tucono.png?width=175&height=50" alt="Tucano" title="Tucano" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/af" class="brand">
+                                                        <img src="/resources/AF.png?width=175&height=50" alt="AF" title="AF" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/kensington" class="brand">
+                                                        <img src="/resources/Kensington.png?width=175&height=50" alt="Kensington" title="Kensington" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/ultimate-ears" class="brand">
+                                                        <img src="/resources/UltimateEars.png?width=175&height=50" alt="Ultimate Ears" title="Ultimate Ears" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/panzerglass" class="brand">
+                                                        <img src="/resources/Panzerglass.png?width=175&height=50" alt="PanzerGlass" title="PanzerGlass" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/surefire" class="brand">
+                                                        <img src="/resources/Surefire.png?width=175&height=50" alt="SureFire" title="SureFire" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/safescan-timemoto" class="brand">
+                                                        <img src="/resources/Timemoto.png?width=175&height=50" alt="TimeMoto" title="TimeMoto" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/despec-nordic-brands" class="brand">
+                                                        <img src="/resources/Cherry.png?width=175&height=50" alt="Cherry" title="Cherry" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/trust" class="brand">
+                                                        <img src="/resources/Trust.png?width=175&height=50" alt="Trust" title="Trust" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/philbert" class="brand">
+                                                        <img src="/resources/Philbert.png?width=175&height=50" alt="Philbert" title="Philbert" width="175" height="50" />
+                                                    </a>
+                                    </nav>
+                                </div>
+                                <div class="panel clearfix">
+                                    <nav class="clearfix">
+                                                    <a href="/brands/mousetrapper" class="brand">
+                                                        <img src="/resources/Mousetrapper.png?width=175&height=50" alt="Mousetrapper" title="Mousetrapper" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/bakkerelkhuizen" class="brand">
+                                                        <img src="/resources/Bakker.png?width=175&height=50" alt="BakkerElkhuizen" title="BakkerElkhuizen" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/steppie" class="brand">
+                                                        <img src="/resources/Steppie.png?width=175&height=50" alt="Steppie" title="Steppie" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/evoluent" class="brand">
+                                                        <img src="/resources/Evoluent.png?width=175&height=50" alt="Evoluent" title="Evoluent" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/3m" class="brand">
+                                                        <img src="/resources/3M.png?width=175&height=50" alt="3M" title="3M" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/despec-nordic-brands" class="brand">
+                                                        <img src="/resources/RGO.png?width=175&height=50" alt="R-Go" title="R-Go" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/optapad" class="brand">
+                                                        <img src="/resources/Optapad.png?width=175&height=50" alt="Optapad" title="Optapad" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/despec-nordic-brands" class="brand">
+                                                        <img src="/resources/Penclic.png?width=175&height=50" alt="Penclic" title="Penclic" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/despec-nordic-brands" class="brand">
+                                                        <img src="/resources/Duopad.png?width=175&height=50" alt="Duopad" title="Duopad" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/kensington" class="brand">
+                                                        <img src="/resources/Kensington.png?width=175&height=50" alt="Kensington" title="Kensington" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/trusens" class="brand">
+                                                        <img src="/resources/Trusens.png?width=175&height=50" alt="TruSens" title="TruSens" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/floortex" class="brand">
+                                                        <img src="/resources/Floortex.png?width=175&height=50" alt="Floortex" title="Floortex" width="175" height="50" />
+                                                    </a>
+                                    </nav>
+                                </div>
+                                <div class="panel clearfix">
+                                    <nav class="clearfix">
+                                                    <a href="/brands/hp" class="brand">
+                                                        <img src="/resources/HP.png?width=175&height=50" alt="HP" title="HP" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/brother-microsite" class="brand">
+                                                        <img src="/resources/Brother.png?width=175&height=50" alt="Brother" title="Brother" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/epson" class="brand">
+                                                        <img src="/resources/Epson.png?width=175&height=50" alt="Epson" title="Epson" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/lexmark" class="brand">
+                                                        <img src="/resources/Lexmark.png?width=175&height=50" alt="Lexmark" title="Lexmark" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/pantum" class="brand">
+                                                        <img src="/resources/Pantum.png?width=175&height=50" alt="Pantum" title="Pantum" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/dymo" class="brand">
+                                                        <img src="/resources/Dymo.png?width=175&height=50" alt="Dymo" title="Dymo" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/canon" class="brand">
+                                                        <img src="/resources/Canon.png?width=175&height=50" alt="Canon" title="Canon" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/despec-nordic-brands" class="brand">
+                                                        <img src="/resources/CasioNY.png?width=175&height=50" alt="Casio" title="Casio" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/despec-nordic-brands" class="brand">
+                                                        <img src="/resources/Citizen.png?width=175&height=50" alt="Citizen" title="Citizen" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/despec-nordic-brands" class="brand">
+                                                        <img src="/resources/Sharp.png?width=175&height=50" alt="Sharp" title="Sharp" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/hsm" class="brand">
+                                                        <img src="/resources/HSM.png?width=175&height=50" alt="HSM" title="HSM" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/olivetti" class="brand">
+                                                        <img src="/resources/Olivetti.png?width=175&height=50" alt="Olivetti" title="Olivetti" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/gbc" class="brand">
+                                                        <img src="/resources/GBC.png?width=175&height=50" alt="GBC" title="GBC" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/despec-nordic-brands" class="brand">
+                                                        <img src="/resources/Rexel.png?width=175&height=50" alt="Rexel" title="Rexel" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/despec-nordic-brands" class="brand">
+                                                        <img src="/resources/KodacAlaris.png?width=175&height=50" alt="Kodak" title="Kodak" width="175" height="50" />
+                                                    </a>
+                                    </nav>
+                                </div>
+                                <div class="panel clearfix">
+                                    <nav class="clearfix">
+                                                    <a href="/brands/artline" class="brand">
+                                                        <img src="/resources/Artline.png?width=175&height=50" alt="Artline" title="Artline" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/herma" class="brand">
+                                                        <img src="/resources/Herma.png?width=175&height=50" alt="Herma" title="Herma" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/tombow" class="brand">
+                                                        <img src="/resources/Tombow.png?width=175&height=50" alt="Tombow" title="Tombow" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/zig" class="brand">
+                                                        <img src="/resources/Zig.png?width=175&height=50" alt="Zig" title="Zig" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/buengers" class="brand">
+                                                        <img src="/resources/Bungers.png?width=175&height=50" alt="B&#252;ngers" title="B&#252;ngers" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/esselte" class="brand">
+                                                        <img src="/resources/Esselte.png?width=175&height=50" alt="Esselte" title="Esselte" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/leitz" class="brand">
+                                                        <img src="/resources/Leitz.png?width=175&height=50" alt="Leitz" title="Leitz" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/rapid" class="brand">
+                                                        <img src="/resources/Rapid.png?width=175&height=50" alt="Rapid" title="Rapid" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/despec-nordic-brands" class="brand">
+                                                        <img src="/resources/3M.png?width=175&height=50" alt="3M" title="3M" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/staedtler" class="brand">
+                                                        <img src="/resources/Staedtler.png?width=175&height=50" alt="Staedtler" title="Staedtler" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/pilot" class="brand">
+                                                        <img src="/resources/Pilot.png?width=175&height=50" alt="Pilot" title="Pilot" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/despec-nordic-brands" class="brand">
+                                                        <img src="/resources/Sharpie.png?width=175&height=50" alt="Sharpie" title="Sharpie" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/despec-nordic-brands" class="brand">
+                                                        <img src="/resources/Bic.png?width=175&height=50" alt="Bic" title="Bic" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/despec-nordic-brands" class="brand">
+                                                        <img src="/resources/Ballograf.png?width=175&height=50" alt="Ballograf" title="Ballograf" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/despec-nordic-brands" class="brand">
+                                                        <img src="/resources/Meto.png?width=175&height=50" alt="Meto" title="Meto" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/despec-nordic-brands" class="brand">
+                                                        <img src="/resources/Fiskars.png?width=175&height=50" alt="Fiskars" title="Fiskars" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/cederroth" class="brand">
+                                                        <img src="/resources/Cederroth.png?width=175&height=50" alt="Cederroth" title="Cederroth" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/milan" class="brand">
+                                                        <img src="/resources/Milan.png?width=175&height=50" alt="Milan" title="Milan" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/despec-nordic-brands" class="brand">
+                                                        <img src="/resources/UHU.png?width=175&height=50" alt="UHU" title="UHU" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/despec-nordic-brands" class="brand">
+                                                        <img src="/resources/Pritt.png?width=175&height=50" alt="Pritt" title="Pritt" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/despec-nordic-brands" class="brand">
+                                                        <img src="/resources/SHF.png?width=175&height=50" alt="Svenska h&#228;ftstift" title="Svenska h&#228;ftstift" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/despec-nordic-brands" class="brand">
+                                                        <img src="/resources/Casco.png?width=175&height=50" alt="Casco" title="Casco" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/despec-nordic-brands" class="brand">
+                                                        <img src="/resources/Sigel.png?width=175&height=50" alt="Sigel" title="Sigel" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/nt-cutter" class="brand">
+                                                        <img src="/resources/NTcutter.png?width=175&height=50" alt="NT-Cutter" title="NT-Cutter" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/despec-nordic-brands" class="brand">
+                                                        <img src="/resources/Siam.png?width=175&height=50" alt="Siam" title="Siam" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/despec-nordic-brands" class="brand">
+                                                        <img src="/resources/Exacompta.png?width=175&height=50" alt="Exacompta" title="Exacompta" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/despec-nordic-brands" class="brand">
+                                                        <img src="/resources/Bong.png?width=175&height=50" alt="Bong" title="Bong" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/af" class="brand">
+                                                        <img src="/resources/AF.png?width=175&height=50" alt="AF Cleaning" title="AF Cleaning" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/despec-nordic-brands" class="brand">
+                                                        <img src="/resources/Laurel.png?width=175&height=50" alt="Laurel" title="Laurel" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/nobo" class="brand">
+                                                        <img src="/resources/Nobo.png?width=175&height=50" alt="Nobo" title="Nobo" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/wedo" class="brand">
+                                                        <img src="/resources/Wedo.png?width=175&height=50" alt="Wedo" title="Wedo" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/despec-nordic-brands" class="brand">
+                                                        <img src="/resources/xAVE.png?width=175&height=50" alt="Avery" title="Avery" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/despec-nordic-brands" class="brand">
+                                                        <img src="/resources/Parker.png?width=175&height=50" alt="Parker" title="Parker" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/despec-nordic-brands" class="brand">
+                                                        <img src="/resources/Faber.png?width=175&height=50" alt="Faber Castell" title="Faber Castell" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/despec-nordic-brands" class="brand">
+                                                        <img src="/resources/MR.png?width=175&height=50" alt="M&#246;bius &amp; Ruppert" title="M&#246;bius &amp; Ruppert" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/elba" class="brand">
+                                                        <img src="/resources/Elba.png?width=175&height=50" alt="Elba" title="Elba" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/bantex" class="brand">
+                                                        <img src="/resources/Bantex.png?width=175&height=50" alt="Bantex" title="Bantex" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/linex" class="brand">
+                                                        <img src="/resources/Linex.png?width=175&height=50" alt="Linex" title="Linex" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/oxford" class="brand">
+                                                        <img src="/resources/Oxford.png?width=175&height=50" alt="Oxford" title="Oxford" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/despec-nordic-brands" class="brand">
+                                                        <img src="/resources/Canon.png?width=175&height=50" alt="Canon" title="Canon" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/despec-nordic-brands" class="brand">
+                                                        <img src="/resources/Sharp.png?width=175&height=50" alt="Sharp" title="Sharp" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/safescan-timemoto" class="brand">
+                                                        <img src="/resources/Safescan.png?width=175&height=50" alt="Safescan" title="Safescan" width="175" height="50" />
+                                                    </a>
+                                                    <a href="/brands/despec-nordic-brands" class="brand">
+                                                        <img src="/resources/Rexel.png?width=175&height=50" alt="Rexel" title="Rexel" width="175" height="50" />
+                                                    </a>
+                                    </nav>
+                                </div>
+                        </div>
+
+            </div>
+        </div>
+
+
+        <nav id="icons-menu">
+                    <a class="menubtn" id="signup-dropdown-toggle">Sign up</a>
+                <a class="menubtn" id="login-dropdown-toggle">Log in</a>
+        </nav>
+
+            <div id="signup-dropdown-box" class="dropdown-box">
+                <div id="signup-dropdown" class="triangle-border top topbar-dropdown ">
+                    <select class="form-control" id="signup-url">
+                            <option value="https://www.despec.dk/bliv-forhandler">Despec Denmark</option>
+                            <option value="https://www.despec.se/bli-aaterfoersaeljare">Despec Sweden AB</option>
+                            <option value="https://www.despec.no/bli-forhandler">Despec Norway</option>
+                            <option value="https://www.despec.fi/jaelleenmyyjaeksi">Despec Finland</option>
+                            <option value="https://www.despec.is/become-a-reseller">Despec Iceland</option>
+                    </select>
+                    <button class="signup-dropdown-goto btn">GoTo</button><br />
+                    <div class="hidden" id="redirect-text">Redirecting to shop...</div>
+                </div>
+            </div>
+
+            <div id="login-dropdown-box" class="dropdown-box">
+                <div id="login-dropdown" class="triangle-border top topbar-dropdown ">
+                    <form id="login-form">
+                        <input type="text" class="form-control" placeholder="Username" name="username" id="username">
+                        <input type="password" class="form-control" placeholder="Password" name="password" id="password">
+                            <select class="form-control" id="login-url">
+                                    <option value="https://www.despec.dk/">Despec Denmark</option>
+                                    <option value="https://www.despec.se/">Despec Sweden AB</option>
+                                    <option value="https://www.despec.no/">Despec Norway</option>
+                                    <option value="https://www.despec.fi/">Despec Finland</option>
+                                    <option value="https://www.despec.is/">Despec Iceland</option>
+                            </select>
+                        <button type="submit" class="btn">Login</button><br />
+                        <div class="hidden" id="redirect-text">Redirecting to shop...</div>
+                        <div id="loginErrorMessage"></div>
+                        <div class="login-gray-background">
+                            <div class="pull-left checkbox">
+                                <label><input type="checkbox" id="rememberMe" />Remember me</label>
+                            </div>
+                            <div id="forgot-pw" class="pull-right">
+                                Problems with login?
+                            </div>
+                        </div>
+                    </form>
+                    <form id="forgot-pw-form">
+                        <div class="header text-center">
+                            <span>
+                                Enter your username or e-mail to reset your password
+                            </span>
+                        </div>
+                        <input type="hidden" name="formcontrol2" id="formcontrol2" />
+                        <input required type="email" class="form-control" placeholder="Username or E-mail" name="username2" id="username2">
+                            <select class="form-control" id="reset-url">
+                                    <option value="https://www.despec.dk/">Despec Denmark</option>
+                                    <option value="https://www.despec.se/">Despec Sweden AB</option>
+                                    <option value="https://www.despec.no/">Despec Norway</option>
+                                    <option value="https://www.despec.fi/">Despec Finland</option>
+                                    <option value="https://www.despec.is/">Despec Iceland</option>
+                            </select>
+                        <button type="submit" class="btn">Request reset link</button><br />
+                        <div class="hidden" id="email-sent-text">Reset mail sent...</div>
+                        <div id="resetErrorMessage" class="header text-center"></div>
+                    </form>
+                    <form id="forgot-pw-form2">
+                        <div class="header text-center">
+                            <span>
+                                Enter your username or e-mail to be contacted by Despec Support
+                            </span>
+                        </div>
+                        <input type="hidden" name="formcontrol3" id="formcontrol3" />
+                        <input required type="email" class="form-control" placeholder="Username or E-mail" name="username3" id="username3">
+                            <select class="form-control" id="reset-url2">
+                                    <option value="https://www.despec.dk/">Despec Denmark</option>
+                                    <option value="https://www.despec.se/">Despec Sweden AB</option>
+                                    <option value="https://www.despec.no/">Despec Norway</option>
+                                    <option value="https://www.despec.fi/">Despec Finland</option>
+                                    <option value="https://www.despec.is/">Despec Iceland</option>
+                            </select>
+                        <button type="submit" class="btn">Request contact</button><br />
+                        <div class="hidden" id="email-sent-text2">Thank you for your enquiry...</div>
+                        <div id="resetErrorMessage2" class="header text-center"></div>
+                        <div id="back-to-login" class="login-gray-background text-center">
+                            Back to login
+                        </div>
+                    </form>
+                </div>
+            </div>
+
+
+    </div>
+</div>
+
+    <div id="content-wrapper">
+
+        
+<div class="content-section">
+    <div class="top-banner" style="background-image: url('/media/1396/fronpageimg.jpg');">
+        <div class="heading container-fluid">
+            <h1 style="text-align: center;">DESPEC<br /><strong>DEDICATED SPECIALIST</strong></h1>
+<h3 style="text-align: center;">Welcome to Despec Nordic – leading Nordic distributor of IT and office products.</h3>
+            <div class="text-center">
+                <img id="scroll-down" src="/Images/pilned_2x.png?height=40&amp;width=40" height="40" width="40" />
+            </div>
+        </div>
+    </div>
+    <div id="scroll-anchor"></div>
+    
+
+
+    <div class="umb-grid">
+                <div class="grid-section">
+    <div >
+        <div class='container-fluid'>
+        <div class="row clearfix">
+            <div class="col-sm-12 column">
+                <div >
+                            
+    
+<h2 style="text-align: center;">The preferred and most market-oriented distributor in the Nordic countries</h2>
+
+
+                </div>
+            </div>        </div>
+        </div>
+    </div>
+    <div >
+        <div class='container-fluid'>
+        <div class="row clearfix">
+            <div class="col-sm-6 column">
+                <div >
+                            
+    
+<p style="text-align: justify;">Despec Nordic is your local partner and our presence, and many years of experience, in each of the five Nordic countries ensures a strong local knowledge. It gives us specific and relevant market information that will strengthen our business partners’ competitiveness and sales.</p>
+<p style="text-align: justify;">The services that we offer will take your business further, and we are always here to offer you our specialist expertise, our excellent logistical services as well as advanced, but highly adaptable, IT services.</p>
+<p style="text-align: justify;">We know that your business is our business, and we will continuously focus on improving and adjusting our distribution services so they will fit your needs – now and in the future.</p>
+
+
+                </div>
+            </div>            <div class="col-sm-6 column">
+                <div >
+                            
+    
+<p style="text-align: justify;">Despec Nordic has a dedicated focus on 5 major product categories; Consumables &amp; paper, IT products &amp; accessories, Ergonomics &amp; health, Printers &amp; scanners and Office machines &amp; office products, and we continuously strive to be the most flexible and dedicated distributor.</p>
+<p style="text-align: justify;">Our product range within the above product categories is wide and deep, and we retire products and introduce both new lines and brands on a regular basis.</p>
+<p style="text-align: justify;">By being committed and dynamic, we give our business partners the best and most reliable service. This is one of the ways we contribute to a great partnership, which will serve all parties positively and secure outstanding results.</p>
+<p style="text-align: justify;"><strong>Welcome to Despec Nordic.</strong></p>
+
+
+                </div>
+            </div>        </div>
+        </div>
+    </div>
+    <div >
+        <div class='container-fluid'>
+        <div class="row clearfix">
+            <div class="col-sm-3 column">
+                <div >
+                </div>
+            </div>            <div class="col-sm-6 column">
+                <div >
+                            
+                <img src="/media/1004/map.png" />
+
+
+                </div>
+            </div>            <div class="col-sm-3 column">
+                <div >
+                </div>
+            </div>        </div>
+        </div>
+    </div>
+    <div class="background-color-despec-orange">
+        <div class='container-fluid'>
+        <div class="row clearfix">
+            <div class="col-sm-12 column">
+                <div class="text-center">
+                            
+    
+<h2 style="text-align: center;">Outstanding brands, products and services</h2>
+
+
+                </div>
+            </div>        </div>
+        </div>
+    </div>
+    <div class="background-color-despec-orange" data-campaign-row="true">
+        <div class='container-fluid'>
+        <div class="row clearfix">
+            <div class="col-sm-1 column">
+                <div >
+                </div>
+            </div>            <div class="col-sm-2 column">
+                <div >
+                            
+                <div class="text-center">
+                <div class="img-circle round-image-container">
+                    <a href="/articles/customer-benefits#logisticalservices"><img src="/media/1560/logisticalservices.svg" /></a>
+                </div>
+            </div>
+
+
+                            
+    
+<h3 style="text-align: center;"><strong><a href="/articles/customer-benefits#logisticalservices">Logistical Services</a><br /></strong></h3>
+<ul>
+<li><strong>Nordic Coverage</strong></li>
+<li><strong>Quality in Every Delivery</strong></li>
+<li><strong>Drop-shipment &amp; Packaging Services</strong></li>
+</ul>
+
+
+                </div>
+            </div>            <div class="col-sm-2 column">
+                <div >
+                            
+                <div class="text-center">
+                <div class="img-circle round-image-container">
+                    <a href="/articles/customer-benefits#commercialsupport"><img src="/media/1557/commercialsupport.svg" /></a>
+                </div>
+            </div>
+
+
+                            
+    
+<h3 style="text-align: center;"><a href="/articles/customer-benefits#commercialsupport"><strong>Commercial Support</strong></a></h3>
+<ul>
+<li><strong>Account Management in SMB</strong></li>
+<li><strong>Product Sales Specialists (PSS)</strong></li>
+<li><strong>Marketing Support</strong></li>
+</ul>
+
+
+                </div>
+            </div>            <div class="col-sm-2 column">
+                <div >
+                            
+                <div class="text-center">
+                <div class="img-circle round-image-container">
+                    <a href="/articles/customer-benefits#productrange"><img src="/media/1561/productrange.svg" /></a>
+                </div>
+            </div>
+
+
+                            
+    
+<h3 style="text-align: center;"><strong> <a href="/articles/customer-benefits#productrange">Product  Range</a></strong></h3>
+<ul>
+<li><strong>Dedicated Organisation</strong></li>
+<li><strong>Widest &amp; Deepest Assortment</strong></li>
+<li><strong>Regular Assortment Reviews<br /><br /></strong></li>
+</ul>
+
+
+                </div>
+            </div>            <div class="col-sm-2 column">
+                <div >
+                            
+                <div class="text-center">
+                <div class="img-circle round-image-container">
+                    <a href="/articles/customer-benefits#itservices"><img src="/media/1559/itservices.svg" /></a>
+                </div>
+            </div>
+
+
+                            
+    
+<h3 style="text-align: center;"><a href="/articles/customer-benefits#itservices"><strong>IT </strong><strong>Services</strong><strong><br /><br /></strong></a></h3>
+<ul>
+<li><strong>MPS Programmes</strong></li>
+<li><strong>Webshop with Unique Features</strong></li>
+<li><strong>Integration</strong></li>
+</ul>
+
+
+                </div>
+            </div>            <div class="col-sm-2 column">
+                <div >
+                            
+                <div class="text-center">
+                <div class="img-circle round-image-container">
+                    <a href="/articles/customer-benefits#financialservices"><img src="/media/1558/financialservices.svg" /></a>
+                </div>
+            </div>
+
+
+                            
+    
+<h3 style="text-align: center;"><a href="/articles/customer-benefits#financialservices"><strong>Financial Services</strong></a></h3>
+<ul>
+<li><strong>BID Pricing</strong></li>
+<li><strong>Comprehensive Credit Facilitation</strong></li>
+<li><strong>E-Invoicing &amp; Bookkeeping Support</strong></li>
+</ul>
+
+
+                </div>
+            </div>            <div class="col-sm-1 column">
+                <div >
+                </div>
+            </div>        </div>
+        </div>
+    </div>
+    <div >
+        <div class='container-fluid'>
+        <div class="row clearfix">
+            <div class="col-sm-12 column">
+                <div >
+                            
+    
+<h2 style="text-align: center;">Your business is our business</h2>
+
+
+                </div>
+            </div>        </div>
+        </div>
+    </div>
+    <div >
+        <div class='container-fluid'>
+        <div class="row clearfix">
+            <div class="col-sm-4 column">
+                <div >
+                            
+                <img src="/media/1694/7frontpagekun-nordicstrategy360px.jpg" />
+
+
+                            
+    
+<h4>Strategy </h4>
+<p><strong><br /><a href="/articles/strategy#strategy">Vision &amp; Mission</a><br /><a href="/articles/strategy#values">Despec values</a><br /></strong></p>
+<p> </p>
+
+
+                </div>
+            </div>            <div class="col-sm-4 column">
+                <div >
+                            
+                <img src="/media/1625/7frontpagekun-nordicaboutdespec360px.jpg" />
+
+
+                            
+    
+<h4><span>About Despec</span></h4>
+<p><span><br /><strong><a data-id="18425" href="/articles/despec-nordic-history" title="Despec Nordic History">The Despec Nordic history</a> </strong><br /><strong><a data-id="5912" href="/articles/group-management" title="Group Management">Group management</a></strong><br /><strong><a data-id="5914" href="#" title="Despec &amp; the Environment">Despec &amp; the environment<br /></a><a data-id="22766" href="/articles/press-releases" title="Press releases">Press releases</a></strong></span></p>
+
+
+                </div>
+            </div>            <div class="col-sm-4 column">
+                <div >
+                            
+                <img src="/media/1693/7frontpagekun-nordicworkinatdespec360px.jpg" />
+
+
+                            
+    
+<h4><span>Working at Despec</span></h4>
+<p><br /><a href="/articles/working-at-despec#despecasemployer"><strong>Despec as employer</strong></a><br /><strong><a data-id="17915" href="#" title="Employee Statements">Employee statements</a></strong></p>
+
+
+                </div>
+            </div>        </div>
+        </div>
+    </div>
+                </div>
+    </div>
+
+
+
+</div>
+
+<input type="hidden" id="after-login-redirect-url" value="" />
+
+    </div>
+
+
+    
+<div id="footer-wrapper" class="wrapper">
+    <div id="footer">
+        
+
+
+
+    <div class="umb-grid">
+                <div class="grid-section">
+    <div >
+        <div class='container-fluid'>
+        <div class="row clearfix">
+            <div class="col-sm-3 column">
+                <div >
+                            
+    
+<h3>DESPEC NORDIC</h3>
+<p>Despec Denmark A/S<br /><span>Despec Finland OY<br />Despec Iceland<br />Despec Norway AS</span><br />Despec Sweden AB</p>
+
+
+                </div>
+            </div>            <div class="col-sm-3 column">
+                <div >
+                            
+    
+<h3>Contact</h3>
+<p><span>Phone:</span><span> </span><span>+45 45764700</span><br /><a href="mailto:finance@despec.dk">finance@despec.dk</a></p>
+
+
+                </div>
+            </div>            <div class="col-sm-3 column">
+                <div >
+                            
+    
+<h3>ABOUT DESPEC<br /><a data-id="1173" href="https://www.despec.dk/articles/kontakt-os" title="Om os"></a></h3>
+<p><a data-id="1642" href="/articles/customer-benefits" title="Customer Benefits">Customer benefits</a><br /><a data-id="5893" href="/articles/vision-mission-values" title="Vision, Mission &amp; Values">Vision, Mission &amp; Values<br /></a><a data-id="51630" href="/articles/code-of-conduct" title="Code of Conduct">Code of Conduct</a><a data-id="5893" href="/articles/vision-mission-values" title="Vision, Mission &amp; Values"><br /></a><a href="https://www.despec.eu/articles/environment-sustainability">Environment &amp; Sustainability<br /></a><a data-id="18425" href="/articles/despec-nordic-history" title="Despec Nordic History">The Despec Nordic history<br /></a><a data-id="5912" href="/articles/group-management" title="Group Management">Group management</a><br /><a data-id="5894" href="/articles/working-at-despec" title="Working at Despec">Working at Despec</a></p>
+
+
+                </div>
+            </div>            <div class="col-sm-3 column">
+                <div >
+                            
+    
+<h3>INFORMATION</h3>
+<p><a data-id="17787" href="/articles/contact-us" title="Contact us">Contact us<br /></a><a data-id="1644" href="/nordic-contacts" title="Nordic contacts">Nordic contacts</a><a data-id="17787" href="/articles/contact-us" title="Contact us"></a><br /><a data-id="1643" href="/articles/ink-toner-guide" title="Ink &amp; Toner guide">Ink &amp; Toner guide</a><a data-id="18073" href="#" title="Available jobs"><br /></a><a data-id="22766" href="/articles/press-releases" title="Press releases">Press releases</a></p>
+
+
+                </div>
+            </div>        </div>
+        </div>
+    </div>
+                </div>
+    </div>
+
+
+        <div class="container-fluid">
+                <div class="row">
+
+
+                    <div class="col-xs-6 col-sm-2 text-xs-center text-sm-left show-no-link">
+                        <img id="aaa_rating_logo_image_gray" src="/images/aa-rating-gray.png" />
+                    </div>
+                    <div class="hidden-xs col-sm-8">
+                    </div>
+                    <div class="col-xs-6 col-sm-2 text-xs-center text-sm-right">
+                        <a href="https://www.linkedin.com/company/despec-nordic" target="_blank" alt="Despec Nordic LinkedIn" title="Despec Nordic LinkedIn"><img id="linkedin" src="/images/linkedin.svg" /></a>
+                    </div>
+                </div>
+        </div>
+    </div>
+</div>
+
+
+    <script src="//code.jquery.com/jquery-2.1.4.min.js"></script>
+    <script src="//code.jquery.com/ui/1.11.4/jquery-ui.min.js"></script>
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+    <script src="//ajax.aspnetcdn.com/ajax/jquery.validate/1.14.0/jquery.validate.min.js"></script>
+
+    <!-- Includes for Date Range Picker -->
+    <script type="text/javascript" src="//cdn.jsdelivr.net/momentjs/latest/moment.min.js"></script>
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.15.0/locale/da.js"></script>
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.15.0/locale/sv.js"></script>
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.15.0/locale/nb.js"></script>
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.15.0/locale/fi.js"></script>
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.15.0/locale/is.js"></script>
+
+    <script type="text/javascript" src="//cdn.jsdelivr.net/bootstrap.daterangepicker/2/daterangepicker.js"></script>
+    <script type="text/javascript" src="//cdn.jsdelivr.net/bootstrap.datetimepicker/4.17.37/js/bootstrap-datetimepicker.min.js"></script>
+
+    <!-- Includes for bootstrap notify -->
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/mouse0270-bootstrap-notify/3.1.5/bootstrap-notify.min.js"></script>
+
+    <!-- Includes for Fancybox -->
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.js"></script>
+
+
+    <script src="/scripts/v-638168173460000000/homepage.min.js"></script>
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+
+        });
+    </script>
+
+    
+
+
+        <!-- Page request time: 313.0016 ms -->
+
+</body>
+</html>

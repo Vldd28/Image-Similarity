@@ -1,0 +1,41 @@
+<!DOCTYPE HTML>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr" style="background: #000 !important;">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Erreur Détectée Port 80</title>
+</head>
+<body>
+	<table style="margin-left:50px; margin-right:95px;width:50%">	
+		<tr>
+			<td> 
+				<div class="level-item" style="padding-top:75px;font-size:15px;font-weight:bold;font-family:Helvetica;width:85px;background-color:#FF8C00;margin-top: 5px;margin-left: 5px;color:white">
+				
+				<center>Orange<sup style="font-size:4px;">TM</sup></center>
+				</div>
+			</td>
+			<td> </td>
+		</tr>
+		<tr>
+			<td> </td>
+			<td> </td>
+		</tr>
+		<tr>
+			<td> </td>
+			<td> 
+				<h1 class="has-text-weight-semibold has-text-white title" style="font-family:Helvetica;color:white">Oups... une erreur survenue, la ressource demandée n'existe pas ou est temporairement inaccessible.</h1>
+			</td>
+		</tr>
+		<tr>
+			<td> </td>
+			<td> 
+				<h4 class="" style="font-weight:normal;font-size:12px;font-family:Helvetica;color:white">Pour toute information, veuillez contacter easysecure@orange.ci avec le numero incident  : N/A</h4>
+			</td>
+		</tr>
+		<tr>
+			<td> </td>
+			<td> 
+				<span style="font-weight:bold;font-size:11px;font-family:Helvetica;color: #ff6600;" class="has-text-weight-semibold is-size-6">&copy; 2018 Powered By EasySecure</span>
+			</td>
+		</tr>
+		<tr>
+</body></html>

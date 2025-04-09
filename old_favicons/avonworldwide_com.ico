@@ -1,0 +1,828 @@
+<!DOCTYPE html>
+<html>
+	<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" xml:lang="en" lang="en"><![endif]-->
+	<!--[if IE 7]><html class="no-js lt-ie9 lt-ie8" xml:lang="en" lang="en"><![endif]-->
+	<!--[if IE 8]><html class="no-js lt-ie9" xml:lang="en" lang="en"><![endif]-->
+	<!--[if gt IE 8]><!--><html class="no-js" xml:lang="en" lang="en"><!--<![endif]-->
+	<head>
+
+<!-- OneTrust Cookie Consent Notice start for www.avonworldwide.com -->
+<script type="text/javascript" src="/ruxitagentjs_ICANVfqru_10307250124095659.js" data-dtconfig="app=c121941ddfa6544b|cuc=2asskwm7|mel=100000|featureHash=ICANVfqru|dpvc=1|lastModification=1741081564022|vcv=1|tp=500,50,0|rdnt=1|uxrgce=1|agentUri=/ruxitagentjs_ICANVfqru_10307250124095659.js|reportUrl=/rb_bf62615nnz|rid=RID_2418|rpid=36616158|domain=avonworldwide.com"></script><script type="text/javascript" src="https://cdn.cookielaw.org/consent/a0d48d44-1ae9-492e-986c-12ea823cdc17/OtAutoBlock.js" ></script>
+<script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" data-language="en" type="text/javascript" charset="UTF-8" data-domain-script="a0d48d44-1ae9-492e-986c-12ea823cdc17" ></script>
+<script type="text/javascript">
+function OptanonWrapper() { }
+</script>
+<!-- Koniec powiadomienia o zgód plików cookie OneTrust dla www.avonworldwide.com -->
+
+       
+       <!-- Google Tag Manager -->
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-MR77KFG');</script>
+        <!-- End Google Tag Manager -->
+
+
+         <base href="/global/.resources/webresources/">
+
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+<title>Avon | Embrace Your Power</title>
+<link rel="icon" type="image/x-icon" href="/.resources/webresources/assets/favicon_new.ico">
+
+
+
+<meta name="keywords" content="Avon | Embrace Your Power" />
+<meta name="description" content="More than a beauty company, Avon is a global movement for women embracing their power. Pioneering in listening to women’s needs and speaking out for them. Standing for what matters to them. Supporting their endeavours. We’re a company that connects people through beauty, sharing passion, innovation and expertise - affordably. <br/>We use the power of beauty to transform women’s lives for the better. <br/>" />
+
+
+
+
+<meta property ="og:site_name" content="Avon Worldwide" />
+<meta property ="og:title" content="Avon | Embrace Your Power" />
+<meta property ="article:author" content="https://www.facebook.com/avonworldwide" />
+<meta property ="og:type" content="article" />
+<meta property ="og:description" content="More than a beauty company, Avon is a global movement for women embracing their power. Pioneering in listening to women’s needs and speaking out for them. Standing for what matters to them. Supporting their endeavours. We’re a company that connects people through beauty, sharing passion, innovation and expertise - affordably. <br/>We use the power of beauty to transform women’s lives for the better. <br/>" />
+<meta property ="og:url" content="https://www.avonworldwide.com/" />
+
+
+
+
+<meta property="og:image" content="https://www.avonworldwide.com/.imaging/mte/avon-company-theme/682x379/dam/avc/avon-worldwide.png/jcr:content/avon-worldwide.png" /> 
+<meta property="og:image:secure_url" content="https://www.avonworldwide.com/.imaging/mte/avon-company-theme/682x379/dam/avc/avon-worldwide.png/jcr:content/avon-worldwide.png" /> 
+
+
+
+
+
+<meta property ="twitter:card" content="summary_large_image" />
+<meta property ="twitter:title" content="Avon | Embrace Your Power" />
+<meta property ="twitter:description" content="More than a beauty company, Avon is a global movement for women embracing their power. Pioneering in listening to women’s needs and speaking out for them. Standing for what matters to them. Supporting their endeavours. We’re a company that connects people through beauty, sharing passion, innovation and expertise - affordably. <br/>We use the power of beauty to transform women’s lives for the better. <br/>" />
+<meta property ="twitter:url" content="https://www.avonworldwide.com/" />
+
+
+
+<meta property ="twitter:image" content="https://www.avonworldwide.com/.imaging/mte/avon-company-theme/682x379/dam/avc/avon-worldwide.png/jcr:content/avon-worldwide.png" />
+
+
+
+
+
+
+<style type="text/css">
+.card.small-card {
+display:block !important;
+}
+</style>        <style> 
+
+.btn.btn-primary{
+    background:black!important;
+    color:white!important;
+    border:none
+}
+
+.hero .btn-primary {
+    background-color: #fff;
+    width: 261px;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 700;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: center;
+    color: none!important
+}
+.btn.employee-intranet{
+    height:19px;
+    padding:1px 13px;
+    margin-left:10px;
+    font-size:12px;
+    color:#fff!important;
+    border-radius:4px;
+    background:#e5004b!important
+}
+
+.btn.employee-intranet:hover {
+    background: #e5004b!important
+}
+
+.all-header .header .logo-header img {
+       width: 45px!important;
+       height: 45px!important; 
+}
+
+@media (min-width:576px){
+    .modal-dialog{
+        max-width:620px
+    }
+    .all-header .header .logo-header,.all-header .header .logo-header img{
+        width:77px!important;
+        height:77px!important
+    }
+}
+
+.btn.btn-outline-primary {
+    border-color:black!important;
+    color:black!important
+}
+.card-body h5 {
+    color:#e5004b
+}
+
+.card-text {
+    color:black
+}
+.nav-link dropdown-toggle:hover{
+    color:#e5004b
+}
+
+.sticky-year .years ul li.year-active{
+background:#e5004b!important
+}
+
+.btn.tag a{
+    color:#e5004b
+}
+
+.slick-dots li.slick-active button:before {
+    background-color:#e5004b!important
+    }
+.carousel-indicators li.active {
+    background-color:#e5004b!important
+}
+.text-right a{
+    color:#e5004b
+}
+.text-right a:active,.text-right a:hover {
+    color: #e5004b;
+    text-decoration: none
+}
+
+.all-header .menu .navbar .nav-link:hover{
+    color:#e5004b!important
+}
+.all-header .menu .dropdown-menu .dropdown-item:active, .all-header .menu .dropdown-menu .dropdown-item:hover{
+color:#e5004b!important
+}
+
+.all-header .menu .dropdown.show .dropdown-toggle.nav-link{
+   color:#e5004b!important 
+}
+
+.all-header .menu .navbar .nav-link__active {
+     color:#e5004b!important
+}
+.all-header .menu .dropdown.show { 
+    border-color:#e5004b!important;
+
+}
+
+.form-search .navbar-search .dropdown #herosearch {
+    width: 20%;
+    height: 59px;
+    background: #e5004b!important;
+    color: #fff;
+    float: right;
+    text-align: center;
+    padding: 1rem 0;
+    border-top: 2px solid #e5004b!important;
+}
+.read-more{
+    color: #e5004b
+}
+.card .card-body .read-more:hover {
+    color: #e5004b!important
+}
+/* birth component */
+.nav-pills .nav-link.active {
+    color: #e5004b!important;
+    border-color: #e5004b!important;
+    background: 0 0;
+    border-bottom-width: 6px;
+}
+.nav-pills .nav-link {
+    margin: 10px;
+    color: #293132!important;
+    text-align: center;
+    border: 1px solid #293132!important;
+    border-radius: 0;
+}
+.tab-pane {
+    width: 75%;
+    margin: 30px auto;
+    text-align: center;
+    color: #e5004b!important;
+}
+
+.teal-lighter {
+    color: #e5004b!important
+}
+.card {
+ color: #293132!important
+}
+
+.all-header .menu .navbar .nav-item {
+    padding: 0px 15px!important;
+}
+.tweet_quote a {
+    color: #e5004b!important
+}
+.disclaimer a {
+    color: #e5004b!important
+}
+
+.text-section a {
+    color: #e5004b
+}
+.text-section a:hover {
+     color: #e5004b!important
+}
+
+.btn.btn-fix{
+    color:white
+}
+
+
+.offset-1 a {
+    color: #e5004b;
+}
+.offset-1 a:hover {
+    color: #e5004b;
+}
+.offset-0 a {
+    color: #e5004b;
+}
+.offset-0 a:hover {
+    color: #e5004b;
+}
+
+
+</style> 
+	<link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700" rel="stylesheet">
+
+		<link rel="stylesheet" href="/.resources/webresources/styles.55bf9b325cc1b06098d6.css">
+
+
+</head>
+<body>
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MR77KFG"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+
+
+	          
+           
+	          
+           
+	          
+           
+
+    
+    
+         
+  
+ 
+	
+	   		
+                  
+                  
+                  
+	
+	   		
+                  
+                  
+	
+	
+	   		
+                  
+                  
+	
+	   		
+                  
+                  
+                  
+                  
+	
+	
+
+
+
+<!-- prefix =  -->
+<script>
+var dataMainMenu = [
+    [{icon: 'fa fa-youtube-square',path: 'https://www.youtube.com/avonworldwide'},{icon: 'fa fa-linkedin-square',path: 'https://www.linkedin.com/company/avon/'},{icon: 'fa fa-facebook-square',path: 'https://www.facebook.com/avonworldwide/'},{icon: 'fa fa-square-x-twitter',path: 'https://twitter.com/avonworldwide'},{icon: 'fa fa-instagram',path: 'https://www.instagram.com/avonworldwide/'},{icon: 'fa fa-pinterest testrandomclass',path: 'https://www.pinterest.com/avonworldwide/'}],
+    [{title: 'Buy or Sell Avon', path: '/markets.html', target:'_self' },{title: 'Local Websites', path: '/markets.html', target:'_self' },{title: 'Suppliers', path: '/responsible-business/suppliers.html', target:'_self' }],    
+     [{title: 'About Us', path: '/about-us',sections: [{title: 'Our Story', path: '/about-us/our-story',subSections: []},{title: 'Our Values', path: '/about-us/our-values',subSections: [{title: 'Policies and Positions ', path: '/about-us/our-values/policies-positions', subSections: []}] },{title: 'Our Awards', path: '/about-us/awards',subSections: []}] },{title: 'Beauty & Innovation', path: '/beauty-innovation',sections: [{title: 'Our Brands & Products', path: '/beauty-innovation/brands-products',subSections: [{title: 'Make-up', path: '/beauty-innovation/brands-products/make-up', subSections: []},{title: 'Skincare', path: '/beauty-innovation/brands-products/skincare', subSections: []},{title: 'Fragrance', path: '/beauty-innovation/brands-products/fragrance', subSections: []}] },{title: 'The Future of Beauty', path: '/beauty-innovation/future-of-beauty',subSections: []}] },{title: 'Our Representatives', path: '/avon-representative-beauty-entrepreneur',sections: []},{title: 'Progress for Women', path: '/supporting-women',sections: [{title: 'Breast Cancer Awareness ', path: '/supporting-women/breast-cancer-awareness',subSections: [{title: 'Breast Health Aware', path: '/supporting-women/breast-cancer-awareness/breast-health-aware', subSections: []}] },{title: 'End Violence Against Women', path: '/supporting-women/violence-against-women-and-girls',subSections: [{title: 'Signs of abuse and where to get help', path: '/supporting-women/violence-against-women-and-girls/know-signs-get-help', subSections: []}] }] },{title: 'Responsible Business', path: '/responsible-business',sections: [{title: 'Supporting our Communities', path: '/responsible-business/communities',subSections: []},{title: 'Sustainability', path: '/responsible-business/sustainability',subSections: []},{title: 'Animal Welfare', path: '/responsible-business/animal-welfare',subSections: []},{title: 'Suppliers', path: '/responsible-business/suppliers',subSections: []}] },{title: 'Careers', path: '/careers',sections: []},{title: 'News', path: '/news',sections: []}],
+    {
+      searchText: 'Search',
+	  searchPlaceHolder:'Enter search keyword here....',
+	  searchResultPge:'/site-search-results',
+	  headerLink:'/',
+	  headerImage:'/dam/jcr:67011f68-56ed-4d8d-88b7-7fb81d7ed55e/Avon_RGB_Logo.png',
+	  alt:'Avon'
+    }
+  ];
+  </script>
+  <app-main-menu dataKey="dataMainMenu" data-module-path="./modules/main-menu/main-menu.module#MainMenuModule"></app-main-menu>
+  
+
+
+
+<div id="templateType" style="display:none;">home</div>
+	<main id="maincontent">
+<a style="display:none;" href="/news.html"></a>
+
+
+<script>
+var dataMainSlider=[{speed:"4000"},[{orientation:"center",title:{text:"AVON. EMBRACE YOUR POWER. ",colorTitle: "white"},imageBackground:"/dam/jcr:c7faaaa9-40bc-4b62-8241-c7ce8bdaedc8/homepage-think-you-know-avon.png",button:{text:"Read more",path:"/global/about-us",colorText:"white"}}]];
+</script>
+<div id="heroslid" style="display:none"><!-- Search content Area..-->[{speed:"4000"},[{orientation:"center",title:{text:"AVON. EMBRACE YOUR POWER. ",colorTitle: "white"},imageBackground:"/dam/jcr:c7faaaa9-40bc-4b62-8241-c7ce8bdaedc8/homepage-think-you-know-avon.png",button:{text:"Read more",path:"/global/about-us",colorText:"white"}}]]</div> 
+<app-main-slider dataKey="dataMainSlider" data-module-path="./modules/main-slider/main-slider.module#MainSliderModule"></app-main-slider>
+  <section class="bg-near-white">
+  <div class="container">
+        <h1 class="pt-5 text-center">Latest News and Stories</h1>
+        <div class="row">
+        	<div class="col-12 px-0">
+
+<script>
+var urlServiceSliderSection="https:/.rest/homeRecentNews/v1/getStories?rows=3&sitename=global";
+</script>
+
+ 
+
+<app-slider-section dataKey="urlServiceSliderSection" data-module-path="./sections/home/slider-section/slider-section.module#SliderSectionModule"></app-slider-section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  			</div>
+  		</div>
+  </div>			
+  </section> 
+
+
+<div class="bg-near-white full-width-grey-bg-column-component">
+
+
+
+
+
+	<div class="container column-component">
+		<div class="row py-5  ">
+			<div class="col-12 "> 
+				<div class="row card card-row m-0 no-gutters     reverse-flex-direction-on-mobile   bg-near-white" style="align-items:center ">
+					    <div class="col-xl-6" style="background:transparent ">
+
+
+
+
+
+
+
+
+
+
+<div class="text-section text-center">
+
+    
+	<div class="title-section ">
+	        <h2>The Future of Beauty </h2>
+	    
+    </div>
+
+
+
+        <div class="">
+        	<p>Each year we take a probing look at the factors shaping the world of cosmetics with thought-provoking insights on the future of beauty.</p>
+
+        </div>
+
+		
+	
+	
+			<a class="btn btn-primary btn-fix mt-4 mx-auto" href="/beauty-innovation/future-of-beauty.html">Read more</a>
+    
+    
+    
+    
+  
+
+</div><!-- end text-section -->
+					    </div>
+					    <div class="col-xl-6" style="background:transparent ">
+
+
+
+
+
+
+
+
+
+
+<div class="text-section text-image-section ">
+
+    
+	<div class="title-section ">
+	    
+    </div>
+
+
+
+
+		
+	
+	
+    
+    
+    
+    
+  
+        <img class="img-fluid" src="/.imaging/mte/avon-company-theme/540x405_crop/dam/avc/images/beauty-and-innovation/power-in-ageing-1.png/jcr:content/power-in-ageing-1.png"/>
+
+</div><!-- end text-section text-image-section -->
+					    </div>
+			    </div>
+		    </div>
+		</div>
+	</div>
+</div>
+
+
+<div class="bg-near-white full-width-grey-bg-column-component">
+
+
+
+
+
+	<div class="container column-component">
+		<div class="row py-5  ">
+			<div class="col-12 "> 
+				<div class="row card card-row m-0 no-gutters      bg-near-white" style="align-items:center ">
+					    <div class="col-xl-6" style="background:transparent ">
+
+
+
+
+
+
+
+
+
+
+<div class="text-section text-image-section ">
+
+    
+	<div class="title-section ">
+	    
+    </div>
+
+
+
+
+		
+	
+	
+    
+    
+    
+    
+  
+        <img class="img-fluid" src="/dam/jcr:4947019e-9496-49b5-ac56-ff4f272130f9/avon-for-women.webp"/>
+
+</div><!-- end text-section text-image-section -->
+					    </div>
+					    <div class="col-xl-6" style="background:transparent ">
+
+
+
+
+
+
+
+
+
+
+<div class="text-section text-center">
+
+    
+	<div class="title-section ">
+	        <h2>A better world for women</h2>
+	    
+    </div>
+
+
+
+        <div class="">
+        	<p>We believe in the power of the collective. Join our movement to help empower and support women worldwide.</p>
+
+        </div>
+
+		
+	
+	
+			<a class="btn btn-primary btn-fix mt-4 mx-auto" href="/supporting-women.html">Read more</a>
+    
+    
+    
+    
+  
+
+</div><!-- end text-section -->
+					    </div>
+			    </div>
+		    </div>
+		</div>
+	</div>
+</div>
+
+
+<div class="bg-near-white full-width-grey-bg-column-component">
+
+
+
+
+
+	<div class="container column-component">
+		<div class="row py-5  ">
+			<div class="col-12 "> 
+				<div class="row card card-row m-0 no-gutters     reverse-flex-direction-on-mobile   bg-near-white" style="align-items:center ">
+					    <div class="col-xl-6" style="background:transparent ">
+
+
+
+
+
+
+
+
+
+
+<div class="text-section text-center">
+
+    
+	<div class="title-section ">
+	        <h2>Meet our community of beauty advisers </h2>
+	    
+	    	<h5 class="card-title">
+	    		“It’s about confidence being yourself and showing others that you can do it your way.”
+	    	</h5>
+    </div>
+
+
+
+        <div class="">
+        	<p>Laura Shaw, Avon UK Representative</p>
+
+        </div>
+
+		
+	
+	
+			<a class="btn btn-primary btn-fix mt-4 mx-auto" href="/avon-representative-beauty-entrepreneur.html">Read more</a>
+    
+    
+    
+    
+  
+
+</div><!-- end text-section -->
+					    </div>
+					    <div class="col-xl-6" style="background:transparent ">
+
+
+
+
+
+
+
+
+
+
+<div class="text-section text-image-section ">
+
+    
+	<div class="title-section ">
+	    
+    </div>
+
+
+
+
+		
+	
+	
+    
+    
+    
+    
+  
+        <img class="img-fluid" src="/.imaging/mte/avon-company-theme/540x405_crop/dam/avc/images/beauty-entrepreneurs/Laura-picture.PNG/jcr:content/Laura%20shaw.PNG"/>
+
+</div><!-- end text-section text-image-section -->
+					    </div>
+			    </div>
+		    </div>
+		</div>
+	</div>
+</div>
+
+
+	</main>
+<div class="bg-near-white">
+<app-go-top data-module-path="./modules/go-top/go-top.module#GoTopModule"></app-go-top>
+</div>
+<footer>
+
+<div class="site-map">
+<div class="site-map">
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-2">
+          <nav class="nav flex-column">
+  
+<script>
+/*var mainpage='/global/about-us';
+var node='/global/about-us';*/
+</script>
+
+ <nav class="nav flex-column">
+  <a class="nav-link title" href="/about-us">About Us</a>
+  <a class="nav-link " href="/about-us/our-story">Our Story</a>
+  <a class="nav-link " href="/about-us/our-values">Our Values</a>
+  <a class="nav-link submenu" href="/about-us/our-values/policies-positions">Policies and Positions </a>
+  <a class="nav-link " href="/about-us/awards">Our Awards</a>
+ </nav> 
+
+          </nav>
+       </div>
+       <div class="col-2">
+          <nav class="nav flex-column">
+  
+<script>
+/*var mainpage='/global/beauty-innovation';
+var node='/global/beauty-innovation';*/
+</script>
+
+ <nav class="nav flex-column">
+  <a class="nav-link title" href="/beauty-innovation">Beauty & Innovation</a>
+  <a class="nav-link " href="/beauty-innovation/brands-products">Our Brands & Products</a>
+  <a class="nav-link submenu" href="/beauty-innovation/brands-products/make-up">Make-up</a>
+  <a class="nav-link submenu" href="/beauty-innovation/brands-products/skincare">Skincare</a>
+  <a class="nav-link submenu" href="/beauty-innovation/brands-products/fragrance">Fragrance</a>
+  <a class="nav-link " href="/beauty-innovation/future-of-beauty">The Future of Beauty</a>
+ </nav> 
+
+  
+<script>
+/*var mainpage='/global/avon-representative-beauty-entrepreneur';
+var node='/global/avon-representative-beauty-entrepreneur';*/
+</script>
+
+ <nav class="nav flex-column">
+  <a class="nav-link title" href="/avon-representative-beauty-entrepreneur">Our Representatives</a>
+ </nav> 
+
+          </nav>
+       </div>
+       <div class="col-2">
+          <nav class="nav flex-column">
+  
+<script>
+/*var mainpage='/global/supporting-women';
+var node='/global/supporting-women';*/
+</script>
+
+ <nav class="nav flex-column">
+  <a class="nav-link title" href="/supporting-women">Progress for Women</a>
+  <a class="nav-link " href="/supporting-women/breast-cancer-awareness">Breast Cancer Awareness </a>
+  <a class="nav-link submenu" href="/supporting-women/breast-cancer-awareness/breast-health-aware">Breast Health Aware</a>
+  <a class="nav-link " href="/supporting-women/violence-against-women-and-girls">End Violence Against Women</a>
+  <a class="nav-link submenu" href="/supporting-women/violence-against-women-and-girls/know-signs-get-help">Signs of abuse and where to get help</a>
+ </nav> 
+
+  
+<script>
+/*var mainpage='/global/news';
+var node='/global/news';*/
+</script>
+
+ <nav class="nav flex-column">
+  <a class="nav-link title" href="/news">News</a>
+ </nav> 
+
+          </nav>
+       </div>
+       <div class="col-2">
+          <nav class="nav flex-column">
+  
+<script>
+/*var mainpage='/global/responsible-business';
+var node='/global/responsible-business';*/
+</script>
+
+ <nav class="nav flex-column">
+  <a class="nav-link title" href="/responsible-business">Responsible Business</a>
+  <a class="nav-link " href="/responsible-business/communities">Supporting our Communities</a>
+  <a class="nav-link " href="/responsible-business/sustainability">Sustainability</a>
+  <a class="nav-link " href="/responsible-business/animal-welfare">Animal Welfare</a>
+  <a class="nav-link " href="/responsible-business/suppliers">Suppliers</a>
+ </nav> 
+
+  
+<script>
+/*var mainpage='/global/careers';
+var node='/global/careers';*/
+</script>
+
+ <nav class="nav flex-column">
+  <a class="nav-link title" href="/careers">Careers</a>
+ </nav> 
+
+          </nav>
+       </div>
+       
+       </div>
+    </div>
+  </div>
+       
+</div>
+
+<div class="copyright"> 
+<div class="container">
+<div class="row">
+<div class="col-lg-2 col-12"> 
+
+<div class="logo-footer">
+              <p class="mb-1"><img src="/dam/jcr:4fa24e25-a506-4412-afef-9f3c3fcdf20d/avon-logo-new.png" alt="avon"></p>
+              <p class="small my-2">© Avon</p>
+</div>
+
+</div>
+<div class="col-lg-10 col-12">
+<nav class="navbar navbar-expand-lg">
+          <ul class="navbar-nav">
+           <li>
+           <a href="/sitemap.html">Sitemap</a>
+           </li>
+           <li>
+           <a href="/privacy-statement.html">Privacy Statement</a>
+           </li>
+           <li>
+           <a href="/terms-and-conditions.html">Terms and Conditions</a>
+           </li>
+           <li>
+           <a href="/about-us/our-values/policies-positions/slavery-human-trafficking-statement.html">Modern Slavery Act Statement</a>
+           </li>
+           <li>
+           <a href="/cookie-policy.html">Cookie Policy</a>
+           </li>
+            
+          </ul>
+        </nav>
+        
+</div>
+</div>
+</div>
+</div>
+
+</footer>    	
+	<script src="/.resources/webresources/runtime.8b7c4d9c045468629ff9.js"></script>
+	<script src="/.resources/webresources/polyfills.5cc873306e0695328c56.js"></script>
+	<script src="/.resources/webresources/scripts.49244f177cad27b8fd8a.js"></script>
+	<script src="/.resources/webresources/main.97054cf2ade594f84f5d.js"></script>
+	<script src="/.resources/webresources/common.7b57e77dfad93eaea106.js"></script>
+	<script src="/.resources/webresources/custom.js"></script>
+	
+	
+		 <script>
+$( document ).ready(function() {
+    setTimeout(function(){        $('.employee-intranet').attr('href', 'https://www.insideavon.com');}, 800);
+});
+  </script>
+
+
+</body>
+</html>
+
+
+</body>
+</html>

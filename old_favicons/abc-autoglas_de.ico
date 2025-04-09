@@ -1,0 +1,712 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="profile" href="http://gmpg.org/xfn/11">
+
+	    <script>
+        (function (exports, d) {
+            var _isReady = false,
+                _event,
+                _fns = [];
+
+            function onReady(event) {
+                d.removeEventListener("DOMContentLoaded", onReady);
+                _isReady = true;
+                _event = event;
+                _fns.forEach(function (_fn) {
+                    var fn = _fn[0],
+                        context = _fn[1];
+                    fn.call(context || exports, window.jQuery);
+                });
+            }
+
+            function onReadyIe(event) {
+                if (d.readyState === "complete") {
+                    d.detachEvent("onreadystatechange", onReadyIe);
+                    _isReady = true;
+                    _event = event;
+                    _fns.forEach(function (_fn) {
+                        var fn = _fn[0],
+                            context = _fn[1];
+                        fn.call(context || exports, event);
+                    });
+                }
+            }
+
+            d.addEventListener && d.addEventListener("DOMContentLoaded", onReady) ||
+            d.attachEvent && d.attachEvent("onreadystatechange", onReadyIe);
+
+            function domReady(fn, context) {
+                if (_isReady) {
+                    fn.call(context, _event);
+                }
+
+                _fns.push([fn, context]);
+            }
+
+            exports.mesmerizeDomReady = domReady;
+        })(window, document);
+    </script>
+	<title>ABC Autoglas Europe GmbH &#8211; mehr als nur Autoglas</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel="alternate" type="application/rss+xml" title="ABC Autoglas Europe GmbH &raquo; Feed" href="https://www.abc-autoglas.de/feed/" />
+<link rel="alternate" type="application/rss+xml" title="ABC Autoglas Europe GmbH &raquo; Kommentar-Feed" href="https://www.abc-autoglas.de/comments/feed/" />
+<link rel='stylesheet' id='companion-bundle-css' href="" data-href='https://www.abc-autoglas.de/wp-content/plugins/mesmerize-companion/theme-data/mesmerize/assets/css/companion.bundle.min.css?ver=1.6.157' type='text/css' media='all' />
+<link rel='stylesheet' id='companion-page-css-css' href='https://www.abc-autoglas.de/wp-content/themes/highlight-pro/child/customizer/sections/content.css?ver=1.6.157' type='text/css' media='all' />
+<link rel='stylesheet' id='companion-pro-page-css-css' href='https://www.abc-autoglas.de/wp-content/themes/highlight-pro/pro/sections/content.css?ver=1.6.157' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.abc-autoglas.de/wp-includes/css/dist/block-library/style.min.css?ver=6.6.2' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://www.abc-autoglas.de/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='mesmerize-style-css' href='https://www.abc-autoglas.de/wp-content/themes/highlight-pro/style.min.css?ver=1.1.46' type='text/css' media='all' />
+<style id='mesmerize-style-inline-css' type='text/css'>
+img.logo.dark, img.custom-logo{width:auto;max-height:70px !important;}
+</style>
+<link rel='stylesheet' id='mesmerize-fonts-css' href='https://www.abc-autoglas.de/wp-content/uploads/fonts/453694c4db3aeeb2fea6e73f493d5a6f/font.css?v=1716552849' type='text/css' media='all' />
+<link rel='stylesheet' id='mesmerize-child-css' href='https://www.abc-autoglas.de/wp-content/themes/highlight-pro/child/style.min.css?ver=6.6.2' type='text/css' media='all' />
+<style id='mesmerize-child-inline-css' type='text/css'>
+/** cached kirki style */.footer .footer-content{background-color:#222;}.footer p, .footer{color:#FFF;}.footer a .fa, .footer .fa{color:#FFF;}.footer a:hover .fa{color:#3F464C;}.footer-border-accent{border-color:rgba(3,73,244,0.576) !important;}.footer-bg-accent{background-color:rgba(3,73,244,0.576) !important;}body{font-family:Roboto, Helvetica, Arial, sans-serif;font-weight:300;font-style:normal;color:#343A40;}body h1{font-family:Poppins, Helvetica, Arial, sans-serif;font-weight:600;font-style:normal;font-size:2.625rem;line-height:4rem;color:#3C424F;}body h2{font-family:Poppins, Helvetica, Arial, sans-serif;font-weight:600;font-style:normal;font-size:2.188rem;line-height:3rem;text-transform:none;color:#3C424F;}body h3{font-family:Roboto, Helvetica, Arial, sans-serif;font-weight:600;font-style:normal;font-size:1.313rem;line-height:2.25rem;text-transform:none;color:#3C424F;}body h4{font-family:Roboto, Helvetica, Arial, sans-serif;font-weight:600;font-style:normal;font-size:0.963rem;line-height:1.75rem;letter-spacing:0.0625rem;text-transform:none;color:#3C424F;}body h5{font-family:Roboto, Helvetica, Arial, sans-serif;font-weight:800;font-style:normal;font-size:0.875rem;line-height:1.5rem;letter-spacing:2px;text-transform:none;color:#3C424F;}body h6{font-family:Roboto, Helvetica, Arial, sans-serif;font-weight:800;font-style:normal;font-size:0.766rem;line-height:1.375rem;letter-spacing:0.1875rem;color:#3C424F;}.header-homepage:not(.header-slide).color-overlay:before{background:#000000;}.header-homepage:not(.header-slide) .background-overlay,.header-homepage:not(.header-slide).color-overlay::before{opacity:0.65;}.mesmerize-front-page .header-separator .svg-white-bg{fill:#ffffff!important;}.mesmerize-front-page .header-separator svg{height:179px!important;}.header.color-overlay:before{background:#000000;}.header .background-overlay,.header.color-overlay::before{opacity:0.52;}.header-homepage p.header-subtitle2{margin-top:0;margin-bottom:20px;font-family:Roboto, Helvetica, Arial, sans-serif;font-weight:300;font-size:1.4em;line-height:130%;letter-spacing:0px;text-transform:none;color:#ffffff;background:rgba(0,0,0,0);padding-top:0px;padding-bottom:0px;padding-left:0px;padding-right:0px;-webkit-border-radius:0px;-moz-border-radius:0px;border-radius:0px;}.header-homepage h1.hero-title{font-family:Muli, Helvetica, Arial, sans-serif;font-weight:300;font-style:normal;font-size:3.3em;line-height:114%;letter-spacing:0.9px;text-transform:none;color:#FFFFFF;}.header-homepage .hero-title{margin-top:0;margin-bottom:20px;background:rgba(0,0,0,0);padding-top:0px;padding-bottom:0px;padding-left:0px;padding-right:0px;-webkit-border-radius:0px;-moz-border-radius:0px;border-radius:0px;}.header-homepage p.header-subtitle{margin-top:0;margin-bottom:20px;font-family:Muli, Helvetica, Arial, sans-serif;font-weight:300;font-size:1.3em;line-height:130%;letter-spacing:0px;text-transform:none;color:#ffffff;background:rgba(0,0,0,0);padding-top:0px;padding-bottom:0px;padding-left:0px;padding-right:0px;-webkit-border-radius:0px;-moz-border-radius:0px;border-radius:0px;}.header-buttons-wrapper{background:rgba(0,0,0,0);padding-top:0px;padding-bottom:0px;padding-left:0px;padding-right:0px;-webkit-border-radius:0px;-moz-border-radius:0px;border-radius:0px;}.header-homepage .header-description-row{padding-top:9%;padding-bottom:6%;}.inner-header-description{padding-top:3%;padding-bottom:3%;}.inner-header-description .header-subtitle{font-family:"Open Sans", Helvetica, Arial, sans-serif;font-weight:300;font-style:normal;font-size:1.3em;line-height:130%;letter-spacing:0px;text-transform:none;color:#ffffff;}.inner-header-description h1.hero-title{font-family:Poppins, Helvetica, Arial, sans-serif;font-weight:700;font-style:normal;font-size:3.5em;line-height:114%;letter-spacing:0.9px;text-transform:none;color:#FFFFFF;}.header-top-bar .header-top-bar-area.area-left span{color:#FFFFFF;}.header-top-bar .header-top-bar-area.area-left i.fa{color:#999;}.header-top-bar .header-top-bar-area.area-left .top-bar-social-icons i{color:#fff;}.header-top-bar .header-top-bar-area.area-left .top-bar-social-icons i:hover{color:#fff;}.header-top-bar .header-top-bar-area.area-left .top-bar-menu > li > a{color:#fff;}.header-top-bar .header-top-bar-area.area-left .top-bar-menu > li > a:hover{color:#fff!important;}.header-top-bar .header-top-bar-area.area-left .top-bar-menu > li > a:visited{color:#fff;}.header-top-bar .header-top-bar-area.area-left span.top-bar-text{color:#fff;}.header-top-bar .header-top-bar-area.area-right span{color:#FFFFFF;}.header-top-bar .header-top-bar-area.area-right i.fa{color:#999;}.header-top-bar .header-top-bar-area.area-right .top-bar-social-icons i{color:#fff;}.header-top-bar .header-top-bar-area.area-right .top-bar-social-icons i:hover{color:#fff;}.header-top-bar .header-top-bar-area.area-right .top-bar-menu > li > a{color:#fff;}.header-top-bar .header-top-bar-area.area-right .top-bar-menu > li > a:hover{color:#fff!important;}.header-top-bar .header-top-bar-area.area-right .top-bar-menu > li > a:visited{color:#fff;}.header-top-bar .header-top-bar-area.area-right span.top-bar-text{color:#fff;}.mesmerize-inner-page .navigation-bar.coloured-nav:not(.fixto-fixed){background-color:rgb(255,255,255)!important;}.mesmerize-inner-page .fixto-fixed .main_menu_col, .mesmerize-inner-page .fixto-fixed .main-menu{justify-content:flex-end!important;}.mesmerize-inner-page .navigation-bar.fixto-fixed{background-color:rgba(255,255,255,1)!important;}.mesmerize-inner-page #main_menu > li > a{font-family:"Open Sans", Helvetica, Arial, sans-serif;font-weight:600;font-style:normal;font-size:14px;line-height:160%;letter-spacing:1px;text-transform:uppercase;}.mesmerize-front-page .navigation-bar.coloured-nav:not(.fixto-fixed){background-color:rgb(255,255,255)!important;}.mesmerize-front-page .fixto-fixed .main_menu_col, .mesmerize-front-page .fixto-fixed .main-menu{justify-content:flex-end!important;}.mesmerize-front-page .navigation-bar.fixto-fixed{background-color:rgba(255, 255, 255, 1)!important;}.mesmerize-front-page #main_menu > li > a{font-family:"Open Sans", Helvetica, Arial, sans-serif;font-weight:600;font-style:normal;font-size:14px;line-height:160%;letter-spacing:1px;text-transform:uppercase;}.mesmerize-front-page #main_menu > li li > a{font-family:"Open Sans", Helvetica, Arial, sans-serif;font-weight:600;font-style:normal;font-size:0.875rem;line-height:120%;letter-spacing:0px;text-transform:none;}.mesmerize-front-page .header-nav-area .social-icons a{color:#FFFFFF!important;}.mesmerize-front-page .fixto-fixed .header-nav-area .social-icons a{color:#000000!important;}.mesmerize-front-page  .nav-search.widget_search *{color:#FFFFFF;}.mesmerize-front-page  .nav-search.widget_search input{border-color:#FFFFFF;}.mesmerize-front-page  .nav-search.widget_search input::-webkit-input-placeholder{color:#FFFFFF;}.mesmerize-front-page  .nav-search.widget_search input:-ms-input-placeholder{color:#FFFFFF;}.mesmerize-front-page  .nav-search.widget_search input:-moz-placeholder{color:#FFFFFF;}.mesmerize-front-page .fixto-fixed  .nav-search.widget_search *{color:#000000;}.mesmerize-front-page .fixto-fixed  .nav-search.widget_search input{border-color:#000000;}.mesmerize-front-page .fixto-fixed  .nav-search.widget_search input::-webkit-input-placeholder{color:#000000;}.mesmerize-front-page .fixto-fixed  .nav-search.widget_search input:-ms-input-placeholder{color:#000000;}.mesmerize-front-page .fixto-fixed  .nav-search.widget_search input:-moz-placeholder{color:#000000;}.mesmerize-inner-page .inner_header-nav-area .social-icons a{color:#FFFFFF!important;}.mesmerize-inner-page .fixto-fixed .inner_header-nav-area .social-icons a{color:#000000!important;}.mesmerize-inner-page .nav-search.widget_search *{color:#FFFFFF;}.mesmerize-inner-page .nav-search.widget_search input{border-color:#FFFFFF;}.mesmerize-inner-page .nav-search.widget_search input::-webkit-input-placeholder{color:#FFFFFF;}.mesmerize-inner-page .nav-search.widget_search input:-ms-input-placeholder{color:#FFFFFF;}.mesmerize-inner-page .nav-search.widget_search input:-moz-placeholder{color:#FFFFFF;}.mesmerize-inner-page .fixto-fixed .nav-search.widget_search *{color:#000000;}.mesmerize-inner-page .fixto-fixed .nav-search.widget_search input{border-color:#000000;}.mesmerize-inner-page .fixto-fixed .nav-search.widget_search input::-webkit-input-placeholder{color:#000000;}.mesmerize-inner-page .fixto-fixed .nav-search.widget_search input:-ms-input-placeholder{color:#000000;}.mesmerize-inner-page .fixto-fixed .nav-search.widget_search input:-moz-placeholder{color:#000000;}[data-component="offcanvas"] i.fa{color:rgb(3,169,244)!important;}[data-component="offcanvas"] .bubble{background-color:rgb(3,169,244)!important;}.fixto-fixed [data-component="offcanvas"] i.fa{color:rgb(3,169,244)!important;}.fixto-fixed [data-component="offcanvas"] .bubble{background-color:rgb(3,169,244)!important;}#offcanvas-wrapper{background-color:#222B34!important;}html.has-offscreen body:after{background-color:rgba(34, 43, 52, 0.7)!important;}#offcanvas-wrapper *:not(.arrow){color:#ffffff!important;}#offcanvas_menu li.open, #offcanvas_menu li.current-menu-item, #offcanvas_menu li.current-menu-item > a, #offcanvas_menu li.current_page_item, #offcanvas_menu li.current_page_item > a{background-color:#FFFFFF;}#offcanvas_menu li.open > a, #offcanvas_menu li.open > a > i, #offcanvas_menu li.current-menu-item > a, #offcanvas_menu li.current_page_item > a{color:#03A9F4!important;}#offcanvas_menu li.open > a, #offcanvas_menu li.current-menu-item > a, #offcanvas_menu li.current_page_item > a{border-left-color:#03A9F4!important;}#offcanvas_menu li > ul{background-color:#686B77;}#offcanvas_menu li > a{font-family:"Open Sans", Helvetica, Arial, sans-serif;font-weight:400;font-size:0.875rem;line-height:100%;letter-spacing:0px;text-transform:none;}.navigation-bar.homepage.coloured-nav a.text-logo,.navigation-bar.homepage.coloured-nav #main_menu li.logo > a.text-logo,.navigation-bar.homepage.coloured-nav #main_menu li.logo > a.text-logo:hover{color:#000000;font-family:inherit;font-weight:600;font-size:1.6rem;line-height:100%;letter-spacing:0px;text-transform:uppercase;}.navigation-bar.homepage.fixto-fixed a.text-logo,.navigation-bar.homepage.fixto-fixed .dark-logo a.text-logo{color:#000000!important;}.navigation-bar:not(.homepage) a.text-logo,.navigation-bar:not(.homepage) #main_menu li.logo > a.text-logo,.navigation-bar:not(.homepage) #main_menu li.logo > a.text-logo:hover,.navigation-bar:not(.homepage) a.text-logo,.navigation-bar:not(.homepage) #main_menu li.logo > a.text-logo,.navigation-bar:not(.homepage) #main_menu li.logo > a.text-logo:hover{color:#FFFFFF;font-family:inherit;font-weight:600;font-size:1.6rem;line-height:100%;letter-spacing:0px;text-transform:uppercase;}.navigation-bar.fixto-fixed:not(.homepage) a.text-logo,.navigation-bar.fixto-fixed:not(.homepage) .dark-logo a.text-logo, .navigation-bar.alternate:not(.homepage) a.text-logo, .navigation-bar.alternate:not(.homepage) .dark-logo a.text-logo{color:#FFFFFF!important;}.slide-progress{background:rgba(3, 169, 244, 0.5);height:5px;}.header-slider-navigation.separated .owl-nav .owl-next,.header-slider-navigation.separated .owl-nav .owl-prev{margin-left:40px;margin-right:40px;}.header-slider-navigation .owl-nav .owl-next,.header-slider-navigation .owl-nav .owl-prev{padding:0px;background:rgba(0, 0, 0, 0);}.header-slider-navigation .owl-nav .owl-next i,.header-slider-navigation .owl-nav .owl-prev i{font-size:50px;width:50px;height:50px;color:#ffffff;}.header-slider-navigation .owl-nav .owl-next:hover,.header-slider-navigation .owl-nav .owl-prev:hover{background:rgba(0, 0, 0, 0);}.header-slider-navigation .owl-dots{margin-bottom:0px;margin-top:0px;}.header-slider-navigation .owl-dots .owl-dot span{background:rgba(255,255,255,0.3);}.header-slider-navigation .owl-dots .owl-dot.active span,.header-slider-navigation .owl-dots .owl-dot:hover span{background:#ffffff;}.header-slider-navigation .owl-dots .owl-dot{margin:0px 7px;}#side-navigation ul[data-preset] li.active a, #side-navigation ul[data-preset] li:hover a{background-color:#03a9f4;}#side-navigation ul[data-preset]:not([data-preset="preset-2"]) li.active a:after, #side-navigation ul[data-preset]:not([data-preset="preset-2"]) li:hover a:after{background-color:#03a9f4;}#side-navigation ul li.active a, #side-navigation ul li:hover a{color:#ffffff;}#side-navigation ul[data-preset] > li > a{border-color:#ffffff;font-family:"Open Sans", Helvetica, Arial, sans-serif;font-weight:400;font-style:normal;font-size:1em;line-height:190%;letter-spacing:0px;text-transform:capitalize;}#side-navigation ul[data-preset=preset-4] > li > a{border-color:#ffffff!important;}@media (min-width: 767px){.footer .footer-content{padding-top:0px;padding-bottom:0px;}}@media (max-width: 1023px){body{font-size:calc( 16px * 0.875 );}}@media (min-width: 1024px){body{font-size:16px;}}@media only screen and (min-width: 768px){body h1{font-size:3rem;}body h2{font-size:2.5rem;}body h3{font-size:1.5rem;}body h4{font-size:1.1rem;}body h5{font-size:1rem;}body h6{font-size:0.875rem;}.header-homepage p.header-subtitle2{font-size:1.4em;}.header-homepage h1.hero-title{font-size:4.5rem;}.header-homepage p.header-subtitle{font-size:1.3em;}.header-content .align-holder{width:100%!important;}.header-homepage:not(.header-slide) .header-hero-media{-webkit-flex-basis:64%;-moz-flex-basis:64%;-ms-flex-preferred-size:64%;flex-basis:64%;max-width:64%;width:64%;}.header-homepage:not(.header-slide) .header-hero-content{-webkit-flex-basis:calc(100% - 64%)!important;-moz-flex-basis:calc(100% - 64%)!important;-ms-flex-preferred-size:calc(100% - 64%)!important;flex-basis:calc(100% - 64%)!important;max-width:calc(100% - 64%)!important;width:calc(100% - 64%)!important;}.inner-header-description{text-align:center!important;}.inner-header-description .header-subtitle{font-size:1.3em;}.inner-header-description h1.hero-title{font-size:3.5em;}}@media screen and (min-width: 768px){.header-homepage{background-position:center center;}.header{background-position:center center;}}@media screen and (max-width:767px){.header-homepage .header-description-row{padding-top:10%;padding-bottom:10%;}}
+</style>
+<link rel='stylesheet' id='mesmerize-style-bundle-css' href='https://www.abc-autoglas.de/wp-content/themes/highlight-pro/pro/assets/css/theme.bundle.min.css?ver=1.1.46' type='text/css' media='all' />
+<script type="text/javascript" src="https://www.abc-autoglas.de/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://www.abc-autoglas.de/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" id="jquery-js-after">
+/* <![CDATA[ */
+    
+        (function () {
+            function setHeaderTopSpacing() {
+
+                setTimeout(function() {
+                  var headerTop = document.querySelector('.header-top');
+                  var headers = document.querySelectorAll('.header-wrapper .header,.header-wrapper .header-homepage');
+
+                  for (var i = 0; i < headers.length; i++) {
+                      var item = headers[i];
+                      item.style.paddingTop = headerTop.getBoundingClientRect().height + "px";
+                  }
+
+                    var languageSwitcher = document.querySelector('.mesmerize-language-switcher');
+
+                    if(languageSwitcher){
+                        languageSwitcher.style.top = "calc( " +  headerTop.getBoundingClientRect().height + "px + 1rem)" ;
+                    }
+                    
+                }, 100);
+
+             
+            }
+
+            window.addEventListener('resize', setHeaderTopSpacing);
+            window.mesmerizeSetHeaderTopSpacing = setHeaderTopSpacing
+            mesmerizeDomReady(setHeaderTopSpacing);
+        })();
+    
+    
+/* ]]> */
+</script>
+<link rel="https://api.w.org/" href="https://www.abc-autoglas.de/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://www.abc-autoglas.de/wp-json/wp/v2/pages/482" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.abc-autoglas.de/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.6.2" />
+<link rel="canonical" href="https://www.abc-autoglas.de/" />
+<link rel='shortlink' href='https://www.abc-autoglas.de/' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.abc-autoglas.de/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.abc-autoglas.de%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.abc-autoglas.de/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.abc-autoglas.de%2F&#038;format=xml" />
+	<style data-name="header-overlap-with">
+		@media screen and (min-width: 768px) {
+			.mesmerize-front-page.overlap-first-section:not(.mesmerize-front-page-with-slider) .header-homepage {
+				padding-bottom: 95px;
+			}
+
+			.mesmerize-front-page.overlap-first-section:not(.mesmerize-front-page-with-slider) .page-content div[data-overlap]:first-of-type > div:not([class*="section-separator"]) {
+				margin-top: -95px;
+			}
+		}
+	</style>
+		
+    
+    <style type="text/css" data-name="custom-mobile-image-position">
+        @media screen and (max-width: 767px) {
+            /*Custom mobile position*/
+        .header-homepage {
+            background-position: 50% 0px;
+        }
+        }
+    </style>
+
+    
+        <script type="text/javascript" data-name="async-styles">
+        (function () {
+            var links = document.querySelectorAll('link[data-href]');
+            for (var i = 0; i < links.length; i++) {
+                var item = links[i];
+                item.href = item.getAttribute('data-href')
+            }
+        })();
+    </script>
+	<style data-prefix="header" data-name="menu-variant-style">
+/** cached menu style */.mesmerize-front-page ul.dropdown-menu > li {  color: #343A40; } .mesmerize-front-page .fixto-fixed ul.dropdown-menu > li {  color: #000; }  .mesmerize-front-page ul.dropdown-menu.active-line-top > .current_page_item > a, .mesmerize-front-page ul.dropdown-menu.active-line-top > .current-menu-item > a {  border-top-color: #03A9F4; } .mesmerize-front-page ul.dropdown-menu.active-line-top > li:not(.current-menu-item):not(.current_page_item):hover > a, .mesmerize-front-page ul.dropdown-menu.active-line-top > li:not(.current-menu-item):not(.current_page_item).hover > a {  color: #03A9F4; }  .mesmerize-front-page .fixto-fixed ul.dropdown-menu.active-line-top > .current_page_item > a, .mesmerize-front-page .fixto-fixed ul.dropdown-menu.active-line-top > .current-menu-item > a {  border-top-color: #03a9f4; } .mesmerize-front-page .fixto-fixed ul.dropdown-menu.active-line-top > li:not(.current-menu-item):not(.current_page_item):hover > a, .mesmerize-front-page .fixto-fixed ul.dropdown-menu.active-line-top > li:not(.current-menu-item):not(.current_page_item).hover > a {  color: #03a9f4; } .mesmerize-front-page ul.dropdown-menu.active-line-top > .current_page_item > a, .mesmerize-front-page ul.dropdown-menu.active-line-top > .current-menu-item > a {  color: #343A40; } .mesmerize-front-page .fixto-fixed ul.dropdown-menu.active-line-top > .current_page_item > a, .mesmerize-front-page .fixto-fixed ul.dropdown-menu.active-line-top > .current-menu-item > a {  color: #000; } .mesmerize-front-page ul.dropdown-menu ul {  background-color: #fff; }  .mesmerize-front-page ul.dropdown-menu ul li {  color: #6b7c93; } .mesmerize-front-page ul.dropdown-menu ul li.hover, .mesmerize-front-page ul.dropdown-menu ul li:hover {  background-color: #f8f8f8;  color: #000; }</style>
+<style data-name="menu-align">
+.mesmerize-front-page .main-menu, .mesmerize-front-page .main_menu_col {justify-content:flex-end;}</style>
+<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>		<style type="text/css" id="wp-custom-css">
+			[data-parallax-depth] {
+  background-attachment: fixed;
+  transform: translate3d(0,0,0);
+  -webkit-transform: translate3d(0,0,0);
+}
+
+.contact-1 div.section-separator-bottom {
+	position: absolute;
+}
+[data-parallax-depth] {
+  background-attachment: fixed;
+  transform: translate3d(0,0,0);
+  -webkit-transform: translate3d(0,0,0);
+}
+
+.contact-1 div.section-separator-bottom {
+	position: relative;
+}
+/* Ansprechpartner */
+ /* drei spalten nebeneinander */
+.column {
+  float: left;
+  width: 33.3%;
+  margin-bottom: 18px;
+  padding: 2 2 2 18px;
+}
+
+@media screen and (max-width: 850px) {
+  .column {
+    width: 100%;
+    display: block;
+  }
+}
+
+/* Card effekte */
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+/* container */
+.container {
+  padding: 20 336px;
+}
+
+/* Clear floats */
+.container::after, .row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.title {
+  color: grey;
+}
+
+a.button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 10%;
+}
+
+a.button:hover {
+  background-color: #555;
+} 
+
+.contact-1 div.section-separator-bottom {
+	position: relative;
+}
+
+h2.dasteam {
+  text-align: center;
+}
+
+.tooltip1 {
+    display:inline-block;
+    position:relative;
+    border-bottom:1px dotted #666;
+    text-align:left;
+}
+
+.tooltip1 .bottom1 {
+    min-width:200px; 
+    top:40px;
+    left:50%;
+    transform:translate(-50%, 0);
+    padding:10px 20px;
+    color:#444444;
+    background-color:#EEEEEE;
+    font-weight:normal;
+    font-size:13px;
+    border-radius:8px;
+    position:absolute;
+    z-index:99999999;
+    box-sizing:border-box;
+    box-shadow:0 1px 8px rgba(0,0,0,0.5);
+    visibility:hidden; opacity:0; transition:opacity 0.8s;
+}
+
+.tooltip1:hover .bottom1 {
+    visibility:visible; opacity:1;
+}
+
+.tooltip1 .bottom1 i {
+    position:absolute;
+    bottom:100%;
+    left:50%;
+    margin-left:-12px;
+    width:24px;
+    height:12px;
+    overflow:hidden;
+}
+
+.tooltip1 .bottom1 i::after {
+    content:'';
+    position:absolute;
+    width:12px;
+    height:12px;
+    left:50%;
+    transform:translate(-50%,50%) rotate(45deg);
+    background-color:#EEEEEE;
+    box-shadow:0 1px 8px rgba(0,0,0,0.5);
+}
+.center1 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 55%;
+	height: 55%;
+	border-style: solid;
+	border-color: #03a9f4;
+}
+.flaggen
+{
+float: left;
+} 
+		</style>
+			<style id="page-content-custom-styles">
+		[data-id="features-16-card-bordered"]{
+	padding-top:0;
+	padding-bottom:80px;
+
+}[data-id=counters-2][data-section-ov]:before{
+	background-color:rgba(0, 0, 0, 0.738);
+
+}[data-id=pricing-7][data-section-ov]:before{
+	background-color:rgba(3, 169, 244, 0.854);
+
+}[data-id=pricing-7] div.section-separator-bottom svg path{
+	fill:rgb(0, 0, 0);
+
+}[data-id=pricing-7] div.section-separator-bottom{
+	height:13%;
+
+}[data-id="pricing-7"]{
+	padding-top:80px;
+	padding-bottom:160px;
+
+}[data-id=counters--1][data-section-ov]:before{
+	background-color:rgba(60, 66, 79, 0.605);
+
+}[data-id=contact--1][data-section-ov]:before{
+	background-color:rgba(255, 255, 255, 0.517);
+
+}[data-id="overlappable--1"]{
+	padding-top:30px;
+	padding-bottom:30px;
+
+}[data-id="counters--1"]{
+	padding-top:80px;
+	padding-bottom:80px;
+
+}[data-id="contact--1"]{
+	padding-top:50px;
+	padding-bottom:50px;
+
+}
+	</style>
+	    <style data-name="background-content-colors">
+        .mesmerize-inner-page .page-content,
+        .mesmerize-inner-page .content,
+        .mesmerize-front-page.mesmerize-content-padding .page-content {
+            background-color: #ffffff;
+        }
+    </style>
+                <style data-name="site-colors">
+                /** cached colors style */
+                 p.color2{ color : #fec226; } span.color2{ color : #fec226; } h1.color2{ color : #fec226; } h2.color2{ color : #fec226; } h3.color2{ color : #fec226; } h4.color2{ color : #fec226; } h5.color2{ color : #fec226; } h6.color2{ color : #fec226; } .card.bg-color2, .bg-color2{ background-color:#fec226; } a.color2:not(.button){ color:#fec226; } a.color2:not(.button):hover{ color:#FFD63A; } button.color2, .button.color2{ background-color:#fec226; border-color:#fec226; } button.color2:hover, .button.color2:hover{ background-color:#FFD63A; border-color:#FFD63A; } button.outline.color2, .button.outline.color2{ background:none; border-color:#fec226; color:#fec226; } button.outline.color2:hover, .button.outline.color2:hover{ background:none; border-color:rgba(254,194,38,0.7); color:rgba(254,194,38,0.9); } i.fa.color2{ color:#fec226; } i.fa.icon.bordered.color2{ border-color:#fec226; } i.fa.icon.reverse.color2{ background-color:#fec226; color: #ffffff; } i.fa.icon.reverse.color-white{ color: #d5d5d5; } i.fa.icon.bordered.color2{ border-color:#fec226; } i.fa.icon.reverse.bordered.color2{ background-color:#fec226; color: #ffffff; } .top-right-triangle.color2{ border-right-color:#fec226; } .checked.decoration-color2 li:before { color:#fec226; } .stared.decoration-color2 li:before { color:#fec226; } .card.card-color2{ background-color:#fec226; } .card.bottom-border-color2{ border-bottom-color: #fec226; } .grad-180-transparent-color2{  background-image: linear-gradient(180deg, rgba(254,194,38,0) 0%, rgba(254,194,38,0) 50%, rgba(254,194,38,0.6) 78%, rgba(254,194,38,0.9) 100%) !important; } .border-color2{ border-color: #fec226; } .circle-counter.color2 .circle-bar{ stroke: #fec226; } p.color3{ color : #3c424f; } span.color3{ color : #3c424f; } h1.color3{ color : #3c424f; } h2.color3{ color : #3c424f; } h3.color3{ color : #3c424f; } h4.color3{ color : #3c424f; } h5.color3{ color : #3c424f; } h6.color3{ color : #3c424f; } .card.bg-color3, .bg-color3{ background-color:#3c424f; } a.color3:not(.button){ color:#3c424f; } a.color3:not(.button):hover{ color:#505663; } button.color3, .button.color3{ background-color:#3c424f; border-color:#3c424f; } button.color3:hover, .button.color3:hover{ background-color:#505663; border-color:#505663; } button.outline.color3, .button.outline.color3{ background:none; border-color:#3c424f; color:#3c424f; } button.outline.color3:hover, .button.outline.color3:hover{ background:none; border-color:rgba(60,66,79,0.7); color:rgba(60,66,79,0.9); } i.fa.color3{ color:#3c424f; } i.fa.icon.bordered.color3{ border-color:#3c424f; } i.fa.icon.reverse.color3{ background-color:#3c424f; color: #ffffff; } i.fa.icon.reverse.color-white{ color: #d5d5d5; } i.fa.icon.bordered.color3{ border-color:#3c424f; } i.fa.icon.reverse.bordered.color3{ background-color:#3c424f; color: #ffffff; } .top-right-triangle.color3{ border-right-color:#3c424f; } .checked.decoration-color3 li:before { color:#3c424f; } .stared.decoration-color3 li:before { color:#3c424f; } .card.card-color3{ background-color:#3c424f; } .card.bottom-border-color3{ border-bottom-color: #3c424f; } .grad-180-transparent-color3{  background-image: linear-gradient(180deg, rgba(60,66,79,0) 0%, rgba(60,66,79,0) 50%, rgba(60,66,79,0.6) 78%, rgba(60,66,79,0.9) 100%) !important; } .border-color3{ border-color: #3c424f; } .circle-counter.color3 .circle-bar{ stroke: #3c424f; } p.color-white{ color : #ffffff; } span.color-white{ color : #ffffff; } h1.color-white{ color : #ffffff; } h2.color-white{ color : #ffffff; } h3.color-white{ color : #ffffff; } h4.color-white{ color : #ffffff; } h5.color-white{ color : #ffffff; } h6.color-white{ color : #ffffff; } .card.bg-color-white, .bg-color-white{ background-color:#ffffff; } a.color-white:not(.button){ color:#ffffff; } a.color-white:not(.button):hover{ color:#FFFFFF; } button.color-white, .button.color-white{ background-color:#ffffff; border-color:#ffffff; } button.color-white:hover, .button.color-white:hover{ background-color:#FFFFFF; border-color:#FFFFFF; } button.outline.color-white, .button.outline.color-white{ background:none; border-color:#ffffff; color:#ffffff; } button.outline.color-white:hover, .button.outline.color-white:hover{ background:none; border-color:rgba(255,255,255,0.7); color:rgba(255,255,255,0.9); } i.fa.color-white{ color:#ffffff; } i.fa.icon.bordered.color-white{ border-color:#ffffff; } i.fa.icon.reverse.color-white{ background-color:#ffffff; color: #ffffff; } i.fa.icon.reverse.color-white{ color: #d5d5d5; } i.fa.icon.bordered.color-white{ border-color:#ffffff; } i.fa.icon.reverse.bordered.color-white{ background-color:#ffffff; color: #ffffff; } .top-right-triangle.color-white{ border-right-color:#ffffff; } .checked.decoration-color-white li:before { color:#ffffff; } .stared.decoration-color-white li:before { color:#ffffff; } .card.card-color-white{ background-color:#ffffff; } .card.bottom-border-color-white{ border-bottom-color: #ffffff; } .grad-180-transparent-color-white{  background-image: linear-gradient(180deg, rgba(255,255,255,0) 0%, rgba(255,255,255,0) 50%, rgba(255,255,255,0.6) 78%, rgba(255,255,255,0.9) 100%) !important; } .border-color-white{ border-color: #ffffff; } .circle-counter.color-white .circle-bar{ stroke: #ffffff; } p.color-black{ color : #000000; } span.color-black{ color : #000000; } h1.color-black{ color : #000000; } h2.color-black{ color : #000000; } h3.color-black{ color : #000000; } h4.color-black{ color : #000000; } h5.color-black{ color : #000000; } h6.color-black{ color : #000000; } .card.bg-color-black, .bg-color-black{ background-color:#000000; } a.color-black:not(.button){ color:#000000; } a.color-black:not(.button):hover{ color:#141414; } button.color-black, .button.color-black{ background-color:#000000; border-color:#000000; } button.color-black:hover, .button.color-black:hover{ background-color:#141414; border-color:#141414; } button.outline.color-black, .button.outline.color-black{ background:none; border-color:#000000; color:#000000; } button.outline.color-black:hover, .button.outline.color-black:hover{ background:none; border-color:rgba(0,0,0,0.7); color:rgba(0,0,0,0.9); } i.fa.color-black{ color:#000000; } i.fa.icon.bordered.color-black{ border-color:#000000; } i.fa.icon.reverse.color-black{ background-color:#000000; color: #ffffff; } i.fa.icon.reverse.color-white{ color: #d5d5d5; } i.fa.icon.bordered.color-black{ border-color:#000000; } i.fa.icon.reverse.bordered.color-black{ background-color:#000000; color: #ffffff; } .top-right-triangle.color-black{ border-right-color:#000000; } .checked.decoration-color-black li:before { color:#000000; } .stared.decoration-color-black li:before { color:#000000; } .card.card-color-black{ background-color:#000000; } .card.bottom-border-color-black{ border-bottom-color: #000000; } .grad-180-transparent-color-black{  background-image: linear-gradient(180deg, rgba(0,0,0,0) 0%, rgba(0,0,0,0) 50%, rgba(0,0,0,0.6) 78%, rgba(0,0,0,0.9) 100%) !important; } .border-color-black{ border-color: #000000; } .circle-counter.color-black .circle-bar{ stroke: #000000; }                 /** cached colors style */
+            </style>
+            </head>
+
+<body class="home page-template page-template-page-templates page-template-homepage page-template-page-templateshomepage-php page page-id-482 wp-custom-logo mesmerize-front-page mesmerize-content-no-padding ">
+<style>
+.screen-reader-text[href="#page-content"]:focus {
+   background-color: #f1f1f1;
+   border-radius: 3px;
+   box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.6);
+   clip: auto !important;
+   clip-path: none;
+   color: #21759b;
+
+}
+</style>
+<a class="skip-link screen-reader-text" href="#page-content">Skip to content</a>
+<div id="page-top" class="header-top homepage">
+		<div class="navigation-bar coloured-nav homepage"  data-sticky='0'  data-sticky-mobile='1'  data-sticky-to='top' >
+    <div class="navigation-wrapper white-logo fixed-dark-logo">
+    	<div class="row basis-auto">
+	        <div class="logo_col col-xs col-sm-fit">
+	            <a href="https://www.abc-autoglas.de/" class="custom-logo-link" data-type="group"  data-dynamic-mod="true" rel="home" aria-current="page"><img width="1024" height="701" src="https://www.abc-autoglas.de/wp-content/uploads/2020/12/cropped-abc_Logo_EUROPE_final_RGB-1024x701-1.png" class="custom-logo" alt="ABC Autoglas Europe GmbH" decoding="async" fetchpriority="high" srcset="https://www.abc-autoglas.de/wp-content/uploads/2020/12/cropped-abc_Logo_EUROPE_final_RGB-1024x701-1.png 1024w, https://www.abc-autoglas.de/wp-content/uploads/2020/12/cropped-abc_Logo_EUROPE_final_RGB-1024x701-1-300x205.png 300w, https://www.abc-autoglas.de/wp-content/uploads/2020/12/cropped-abc_Logo_EUROPE_final_RGB-1024x701-1-768x526.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a>	        </div>
+	        <div class="main_menu_col col-xs">
+	            <div id="mainmenu_container" class="row"><ul id="main_menu" class="active-line-top main-menu dropdown-menu"><li id="menu-item-580" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-482 current_page_item menu-item-580"><a href="https://www.abc-autoglas.de/" aria-current="page">Home</a></li>
+<li id="menu-item-672" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-has-children menu-item-672"><a href="http://www.abc-autoglas.de/" aria-current="page">Produkte und Service</a>
+<ul class="sub-menu">
+	<li id="menu-item-1982" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1982"><a href="https://www.abc-autoglas.de/us-fahrzeugglas/">Fahrzeugglas und -zubehör</a></li>
+	<li id="menu-item-974" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-974"><a href="https://www.abc-autoglas.shop">Artikel-Verfügbarkeit</a></li>
+	<li id="menu-item-2406" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2406"><a href="https://www.abc-autoglas.de/versiegelungen/">Nanoversiegelungen</a></li>
+	<li id="menu-item-1991" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1991"><a href="https://www.abc-autoglas.de/desinfektion/">Desinfektion</a></li>
+	<li id="menu-item-1990" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1990"><a href="https://www.abc-autoglas.de/serviceleistung/">Service</a></li>
+</ul>
+</li>
+<li id="menu-item-671" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-has-children menu-item-671"><a href="http://www.abc-autoglas.de" aria-current="page">Über Uns</a>
+<ul class="sub-menu">
+	<li id="menu-item-1980" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1980"><a href="https://www.abc-autoglas.de/geschichte/">Unsere Geschichte</a></li>
+	<li id="menu-item-1988" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1988"><a href="https://www.abc-autoglas.de/unternehmen/">Das Unternehmen</a></li>
+	<li id="menu-item-975" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-975"><a>Unser Team</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1986" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1986"><a href="https://www.abc-autoglas.de/geschaeftsfuehrung/">Geschäftsführung</a></li>
+		<li id="menu-item-1983" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1983"><a href="https://www.abc-autoglas.de/einkauf/">Einkauf</a></li>
+		<li id="menu-item-1985" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1985"><a href="https://www.abc-autoglas.de/vertrieb/">Vertrieb</a></li>
+		<li id="menu-item-1987" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1987"><a href="https://www.abc-autoglas.de/das-team/">Lager</a></li>
+		<li id="menu-item-1992" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1992"><a href="https://www.abc-autoglas.de/qualitaetssicherung/">Qualitätssicherung</a></li>
+		<li id="menu-item-1984" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1984"><a href="https://www.abc-autoglas.de/buchhaltung/">Buchhaltung</a></li>
+		<li id="menu-item-1989" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1989"><a href="https://www.abc-autoglas.de/it/">IT</a></li>
+		<li id="menu-item-1993" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1993"><a href="https://www.abc-autoglas.de/marketing/">Marketing</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+</ul></div>    <a href="#" data-component="offcanvas" data-target="#offcanvas-wrapper" data-direction="right" data-width="300px" data-push="false">
+        <div class="bubble"></div>
+        <i class="fa fa-bars"></i>
+    </a>
+    <div id="offcanvas-wrapper" class="hide force-hide  offcanvas-right">
+        <div class="offcanvas-top">
+            <div class="logo-holder">
+                <a href="https://www.abc-autoglas.de/" class="custom-logo-link" data-type="group"  data-dynamic-mod="true" rel="home" aria-current="page"><img width="1024" height="701" src="https://www.abc-autoglas.de/wp-content/uploads/2020/12/cropped-abc_Logo_EUROPE_final_RGB-1024x701-1.png" class="custom-logo" alt="ABC Autoglas Europe GmbH" decoding="async" srcset="https://www.abc-autoglas.de/wp-content/uploads/2020/12/cropped-abc_Logo_EUROPE_final_RGB-1024x701-1.png 1024w, https://www.abc-autoglas.de/wp-content/uploads/2020/12/cropped-abc_Logo_EUROPE_final_RGB-1024x701-1-300x205.png 300w, https://www.abc-autoglas.de/wp-content/uploads/2020/12/cropped-abc_Logo_EUROPE_final_RGB-1024x701-1-768x526.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a>            </div>
+        </div>
+        <div id="offcanvas-menu" class="menu-main-menu-container"><ul id="offcanvas_menu" class="offcanvas_menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-482 current_page_item menu-item-580"><a href="https://www.abc-autoglas.de/" aria-current="page">Home</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-has-children menu-item-672"><a href="http://www.abc-autoglas.de/" aria-current="page">Produkte und Service</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1982"><a href="https://www.abc-autoglas.de/us-fahrzeugglas/">Fahrzeugglas und -zubehör</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-974"><a href="https://www.abc-autoglas.shop">Artikel-Verfügbarkeit</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2406"><a href="https://www.abc-autoglas.de/versiegelungen/">Nanoversiegelungen</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1991"><a href="https://www.abc-autoglas.de/desinfektion/">Desinfektion</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1990"><a href="https://www.abc-autoglas.de/serviceleistung/">Service</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-has-children menu-item-671"><a href="http://www.abc-autoglas.de" aria-current="page">Über Uns</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1980"><a href="https://www.abc-autoglas.de/geschichte/">Unsere Geschichte</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1988"><a href="https://www.abc-autoglas.de/unternehmen/">Das Unternehmen</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-975"><a>Unser Team</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1986"><a href="https://www.abc-autoglas.de/geschaeftsfuehrung/">Geschäftsführung</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1983"><a href="https://www.abc-autoglas.de/einkauf/">Einkauf</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1985"><a href="https://www.abc-autoglas.de/vertrieb/">Vertrieb</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1987"><a href="https://www.abc-autoglas.de/das-team/">Lager</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1992"><a href="https://www.abc-autoglas.de/qualitaetssicherung/">Qualitätssicherung</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1984"><a href="https://www.abc-autoglas.de/buchhaltung/">Buchhaltung</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1989"><a href="https://www.abc-autoglas.de/it/">IT</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1993"><a href="https://www.abc-autoglas.de/marketing/">Marketing</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+</ul></div>
+            </div>
+    	        </div>
+	    </div>
+    </div>
+</div>
+</div>
+
+
+<div id="page" class="site">
+
+	<div class="header-wrapper">
+   <div  class='header-homepage  color-overlay' style='; background-image:url(&quot;http://www.abc-autoglas.de/wp-content/uploads/2020/12/0bf716f7-0d43-4e9b-adba-9e53698528a0-1024x768-1.jpg&quot;); background-color:#03A9F4'>
+                  
+    <div class="header-description gridContainer media-on-right">
+        <div class="row header-description-row  ">
+    <div class="header-hero-content col-md col-xs-12">
+        <div class="row header-hero-content-v-align  middle-sm">
+            <div class="header-content col-xs-12">
+                <div class="align-holder left">
+					<h1 class="hero-title"><span style="font-weight: 400">kompetent zuverlässig schnell</span></h1>                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="header-hero-media col-md col-xs-12">
+        <div class="row header-hero-media-v-align middle-sm">
+            <div class="col-xs-12">
+				<img class="homepage-header-image "  src="https://www.abc-autoglas.de/wp-content/uploads/2020/12/cropped-shutterstock_1010058475-scaled-1.gif"/>            </div>
+        </div>
+    </div>
+
+</div>
+    </div>
+    
+        <script>
+		if (window.mesmerizeSetHeaderTopSpacing) {
+			window.mesmerizeSetHeaderTopSpacing();
+		}
+    </script>
+    <div class='split-header'></div>
+      <div class="header-separator header-separator-bottom header-separator-reverse"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" preserveAspectRatio="none">
+	<path class="svg-white-bg" d="M500,98.9L0,6.1V0h1000v6.1L500,98.9z"/>
+</svg></div>         </div>
+</div>
+
+    <div id='page-content' class="page-content">
+        <div class="content">
+            <div  id="overlappable-1" class="overlappable-4-mc content-section content-section-spacing" style="background-color: #ffffff;" data-label="Overlappable" data-id="overlappable--1" data-export-id="overlappable-4-mc" data-category="overlappable" data-overlap="true">
+<div  class="gridContainer">
+<div  class="row spaced-cols text-center" data-type="row">
+<div  class="col-xs-12 col-sm-4 col-padding col-md-12 ">
+<div  class="" data-type="column">
+<p  class="" style="text-align: justify;">Fachhändler schätzen uns seit mehr als 30 Jahren als zuverlässigen Ansprechpartner, wenn es um Autoglas für US-Fahrzeugmodelle geht. In den letzten 10 Jahren haben wir unser Programm sukzessive um europäische und asiatische Modelle erweitert, sodass wir heute eine interessante Alternative zu den bestehenden Herstellern darstellen. Dabei arbeiten wir mit namhaften Herstellern wie <span  class="btn btn-primary tooltip1"> PGW, <em  class="bottom1" style="text-align: inherit;"> Pittsburgh Glass Works (PGW) ist der führende Anbieter von Autoglas und Werkstattzubehör mit mehr als 100 Vertriebsniederlassungen in den USA und Kanada.!</em></span> <span  class="btn btn-primary tooltip1"> Vitro <em  class="bottom1" style="text-align: inherit;"> Vitro Glas für den OEM- als auch für den Aftermarket Bereich wird über mehr als 100 verschiedene Routen vertrieben, auch in Europa und Asien.</em></span> und <span  class="btn btn-primary tooltip1"> Carlex <em  class="bottom1" style="text-align: inherit;"> Carlex Glass America ist ein führender Lieferant von Erstausrüstungs- und Ersatzglas für Automobilhersteller der Erstausrüstung und den Aftermarket .
+Carlex betreibt 10 Automobilglaswerke in den USA, Europa und Asien und liefert gemeinsam mit seiner Muttergesellschaft Central Glass Glasprodukte weltweit.</em></span> und beliefern Premiumhersteller wie z.B. <span  class="btn btn-primary tooltip1"> Pilkington <em  class="bottom1" style="text-align: inherit;"> Die NSG Group ist einer der weltweit führenden Hersteller von Glas und Glasprodukten für die Bereiche Architectural, Automotive und Creative Technologies.</em></span>, <span  class="btn btn-primary tooltip1" style="text-align: inherit;"> St-Gobain <em  class="bottom1" style="text-align: inherit;"> Seit mehr als 80 Jahren zählt Saint-Gobain Sekurit zu den führenden Autoglasherstellern. </em></span> und <span  class="btn btn-primary tooltip1"> AGC <em  class="bottom1" style="text-align: inherit;"> AGC Automotive ist der Marktführer und somit die Nummer 1 auf dem Gebiet der Fahrzeugverglasung für Neuwagen.</em></span> genauso wie den Fachhandel – schnell, kompetent, zuverlässig!</p>
+<p  class="" style="text-align: justify;">Hierbei greifen wir auf einen Bestand von ca. 50.000 Fahrzeugscheiben zurück. <a  href="#anker_kontaktformular" target="_self" rel="noopener noreferrer" data-cp-link="1">Sprechen Sie uns an</a> oder nutzen Sie unsere Online-Suchfunktion!</p>
+<a  class="button color1" href="https://www.abc-autoglas.shop" target="_self" rel="noopener noreferrer" data-cp-link="1" data-icon="">Online Suchfunktion</a>
+
+</div>
+</div>
+</div>
+</div>
+</div><div  id="features-10" class="features-16-card-bordered content-section content-section-spacing" style="background-color: #ffffff; background-image: none;" data-label="Features" data-id="features-16-card-bordered" data-export-id="features-16-card-bordered" data-category="features">
+<div  class="gridContainer">
+<div  class="row spaced-cols content-center-sm" data-type="row">
+<div  class="col-xs-12 col-sm-6 col-md-3 ">
+<div  class="card no-padding bordered y-move"><img decoding="async"  class="face" title="autoglas-16" src="http://www.abc-autoglas.de/wp-content/uploads/2022/08/cropped-autoglas-16.jpg" alt="Windschutzscheibe">
+<div  class="col-padding-small col-padding-small-xs description-container" data-type="column">
+<h4  class="font-500">Autoglas und Zubehör</h4>
+<p  class="" style="text-align: center;">Scheiben und Zubehör einfach in der Online Verfügbarkeit checken</p>
+
+</div>
+<div  class="col-padding-small col-padding-small-xs read-more-container" data-type="column"><a  class="read-more" href="https://www.abc-autoglas.shop" target="_self" rel="noopener noreferrer" data-cp-link="1">Zur Online Verfügbarkeit</a></div>
+</div>
+</div>
+<div  class="col-xs-12 col-sm-6 col-md-3 ">
+<div  class="card no-padding bordered y-move"><a  href="#" target="_self" rel="noopener noreferrer" data-cp-link="1"><img decoding="async"  class="face" title="cropped-shutterstock_712414813-1.jpg" src="http://www.abc-autoglas.de/wp-content/uploads/2021/02/cropped-Versiegelung_alle-scaled-1.jpg" alt=""></a>
+<div  class="col-padding-small col-padding-small-xs description-container" data-type="column">
+<h4  class="font-500">Nanoversiegelungen</h4>
+<p  class="">Langzeitversiegelungen: Pflege und Schutz nicht nur für das Auto</p>
+
+</div>
+<div  class="col-padding-small col-padding-small-xs read-more-container" data-type="column"><a  class="read-more" href="https://www.abc-autoglas.de/versiegelungen" target="_self" rel="noopener noreferrer" data-cp-link="1">weitere Informationen</a></div>
+</div>
+</div>
+<div  class="col-xs-12 col-sm-6 col-md-3 ">
+<div  class="card no-padding bordered y-move"><img decoding="async"  class="face" title="cropped-shutterstock_1674210574-scaled-1.jpg" src="http://www.abc-autoglas.de/wp-content/uploads/2020/12/cropped-shutterstock_1674210574-scaled-1.jpg" alt="">
+<div  class="col-padding-small col-padding-small-xs description-container" data-type="column">
+<h4  class="font-500">Desinfektion</h4>
+<p  class="">Einzigartige Hand- und Flächendesinfektion</p>
+
+</div>
+<div  class="col-padding-small col-padding-small-xs read-more-container" data-type="column"><a  class="read-more" href="https://www.abc-autoglas.de/desinfektion" target="_self" rel="noopener noreferrer" data-cp-link="1">weitere Informationen</a></div>
+</div>
+</div>
+<div  id="features-10" class="features-16-card-bordered content-section content-section-spacing col-md-3" style="background-color: #ffffff; background-image: none;" data-label="Features" data-id="features-16-card-bordered" data-export-id="features-16-card-bordered" data-category="features">
+<div  class="gridContainer">
+<div  class="row spaced-cols content-center-sm" data-type="row">
+<div  class="col-xs-12 col-sm-6 col-md-12 ">
+<div  class="card no-padding bordered y-move"><img decoding="async"  class="face" title="call-Center" src="http://www.abc-autoglas.de/wp-content/uploads/2022/08/cropped-shutterstock_712414813-2.jpg" alt="Call-Center">
+<div  class="col-padding-small col-padding-small-xs description-container" data-type="column">
+<h4  class="font-500">Service</h4>
+<p  class="" style="text-align: center;">Lernen Sie unser Serviceangebot kennen</p>
+
+</div>
+<div  class="col-padding-small col-padding-small-xs read-more-container" data-type="column"><a  class="read-more" href="https://www.abc-autoglas.de/serviceleistung" target="_self" rel="noopener noreferrer" data-cp-link="1">Zum Serviceangebot</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div><div  id="counters-1" class="counters-2 content-section content-section-spacing white-text content-relative" style="background-color: #ffffff; background-image: url('http://www.abc-autoglas.de/wp-content/uploads/2020/12/1fb39525-186a-4bf2-961c-77c34193b97b-e1597846199235-1024x294-1.jpg'); background-size: cover; background-position: center top;" data-label="Counters" data-id="counters--1" data-export-id="counters-2" data-category="counters" data-section-ov="1">
+<div  class="gridContainer">
+<div  class="row" data-type="row">
+<div  class="col-xs-12 col-sm-4 text-center space-bottom col-md-3"><i  class="fa icon fa-male large color-white"></i>
+<h3  class="font-400" style="display: inline-block;" data-min="0" data-max="5000" data-duration="2000" data-prefix="" data-suffix="+" data-countup="true"></h3>
+<h5  class="upper color2"><span  style="color: #ffffff;">Kunden</span></h5>
+</div>
+<div  class="col-xs-12 col-sm-4 text-center space-bottom col-md-3"><i  class="fa icon fa-handshake-o large color-white"></i>
+<h3  class="font-400" style="display: inline-block;" data-min="1" data-max="98" data-duration="2000" data-prefix="" data-suffix="%" data-countup="true"></h3>
+<h5  class="upper color2"><span  style="color: #ffffff;">Kundenzufriedenheit</span></h5>
+</div>
+<div  class="col-xs-12 col-sm-4 text-center space-bottom col-md-3"><i  class="fa icon fa-car large color-white"></i>
+<h3  class="font-400" style="display: inline-block;" data-min="0" data-max="50000" data-duration="2000" data-prefix="" data-suffix="+" data-countup="true"></h3>
+<h5  class="upper color2"><span  style="color: #ffffff;">Verfügbare Scheiben</span></h5>
+</div>
+<div  class="col-xs-12 col-sm-4 text-center space-bottom col-md-3"><i  class="fa icon fa-shopping-cart large color-white"></i>
+<h3  class="font-400" style="display: inline-block;" data-min="0" data-max="1500000" data-duration="2000" data-prefix="" data-suffix="+" data-countup="true"></h3>
+<h5  class="upper color2"><span  style="color: #ffffff;">verkaufte Scheiben</span></h5>
+</div>
+</div>
+</div>
+</div><div  id="contact-1" class="contact-1-mc content-section content-section-spacing section-title-col-dark-text" style="background-color: rgba(0, 0, 0, 0.914); background-size: cover; background-position: center top; background-image: none;" data-label="Contact" data-id="contact--1" data-export-id="contact-1-mc" data-category="contact" data-parallax-depth="20" data-section-ov="1">
+<div  class="gridContainer">
+<div  class="row text-center">
+<div  class="section-title-col" data-type="column">
+<h2  class="">Kontakt</h2>
+<p  class="lead">Rufen Sie uns an oder schicken Sie uns eine E-mail</p>
+
+</div>
+</div>
+<div  class="row text-center">
+<div  class="col-xs-12 col-sm-8 col-sm-offset-2 contact-form-wrapper">
+<div  class="card large-padding">
+<div  class="" data-content-shortcode="mesmerize_contact_form shortcode=&quot;contact-form-7 id=&amp;amp;quot;8&amp;amp;quot; title=&amp;amp;quot;Kontaktformular 1&amp;amp;quot;&quot;" data-editable="true">
+<div class="wpcf7 no-js" id="wpcf7-f8-p482-o1" lang="de-DE" dir="ltr">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<form action="/#wpcf7-f8-p482-o1" method="post" class="wpcf7-form init" aria-label="Kontaktformular" novalidate="novalidate" data-status="init">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="8" />
+<input type="hidden" name="_wpcf7_version" value="5.9.8" />
+<input type="hidden" name="_wpcf7_locale" value="de_DE" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f8-p482-o1" />
+<input type="hidden" name="_wpcf7_container_post" value="482" />
+<input type="hidden" name="_wpcf7_posted_data_hash" value="" />
+</div>
+<p><label> Ihr Name<br />
+<span class="wpcf7-form-control-wrap" data-name="your-name"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" value="" type="text" name="your-name" /></span> </label>
+</p>
+<p><label> Ihre E-Mail-Adresse<br />
+<span class="wpcf7-form-control-wrap" data-name="your-email"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" aria-required="true" aria-invalid="false" value="" type="email" name="your-email" /></span> </label>
+</p>
+<p><label> Betreff<br />
+<span class="wpcf7-form-control-wrap" data-name="your-subject"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" value="" type="text" name="your-subject" /></span> </label>
+</p>
+<p><label> Ihre Nachricht (optional)<br />
+<span class="wpcf7-form-control-wrap" data-name="your-message"><textarea cols="40" rows="10" maxlength="2000" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false" name="your-message"></textarea></span> </label>
+</p>
+<p><input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="Senden" />
+</p><div class="wpcf7-response-output" aria-hidden="true"></div>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>        </div>
+    </div>
+
+<div  class='footer footer-contact-boxes'>
+    <div  class='footer-content' style=''>
+        <div class="gridContainer">
+            <div class="row text-center">
+                <div class="col-sm-3">
+                        <div data-type="group"  data-dynamic-mod="true">
+        <i class="big-icon fa fa-map-marker"></i>
+        <p>
+            ABC Autoglas Europe GmbH · Konrad-Zuse-Straße 16 · D-66459 Kirkel        </p>
+    </div>
+                    </div>
+                <div class="col-sm-3">
+                        <div data-type="group"  data-dynamic-mod="true">
+        <i class="big-icon fa fa-map-marker"></i>
+        <p>
+            info@abc-autoglas.de        </p>
+    </div>
+                    </div>
+                <div class="col-sm-3">
+                        <div data-type="group"  data-dynamic-mod="true">
+        <i class="big-icon fa fa-phone"></i>
+        <p>
+            +49 (0) 6841-98480-0        </p>
+    </div>
+                    </div>
+                <div class="col-sm-3 footer-bg-accent">
+                    <div>
+                            <div data-type="group"  data-dynamic-mod="true" class="footer-social-icons">
+        
+    </div>
+
+                        </div>
+                    <p  class="copyright" data-type="group" >
+<a href="https://www.abc-autoglas.de/impressum/">Impressum</a>
+
+<br>
+<a href="https://www.abc-autoglas.de/datenschutzerklaerung/">Datenschutzerklärung</a>
+<br>
+<a href="https://www.abc-autoglas.de/datenerhebung/">Datenerhebung</a>
+</br>
+<a href="https://www.abc-autoglas.de/agb/">AGB</a>
+</p>                </div>
+            </div>
+        </div>
+    </div>
+</div>
+	</div>
+
+        <div id="side-navigation" class="side-navigation">
+            
+            
+            <ul data-type="active" data-preset="preset-2" data-after-scroll="true">
+                <li class="hero-bullet ">
+                    <a href="#page-top">Top</a>
+                </li>
+            </ul>
+        </div>
+        
+        <script type="text/javascript"  defer="defer" src="https://www.abc-autoglas.de/wp-content/plugins/mesmerize-companion/theme-data/mesmerize/assets/js/companion.bundle.min.js?ver=1.6.157" id="companion-bundle-js"></script>
+<script type="text/javascript" src="https://www.abc-autoglas.de/wp-includes/js/dist/hooks.min.js?ver=2810c76e705dd1a53b18" id="wp-hooks-js"></script>
+<script type="text/javascript" src="https://www.abc-autoglas.de/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.abc-autoglas.de/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.9.8" id="swv-js"></script>
+<script type="text/javascript" id="contact-form-7-js-extra">
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/www.abc-autoglas.de\/wp-json\/","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.abc-autoglas.de/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.9.8" id="contact-form-7-js"></script>
+<script type="text/javascript" src="https://www.abc-autoglas.de/wp-content/themes/highlight-pro/child/assets/js/theme-child.js" id="theme-child-js"></script>
+<script type="text/javascript"  defer="defer" src="https://www.abc-autoglas.de/wp-includes/js/imagesloaded.min.js?ver=5.0.0" id="imagesloaded-js"></script>
+<script type="text/javascript"  defer="defer" src="https://www.abc-autoglas.de/wp-includes/js/masonry.min.js?ver=4.2.2" id="masonry-js"></script>
+<script type="text/javascript" id="mesmerize-theme-js-extra">
+/* <![CDATA[ */
+var mesmerize_theme_pro_settings = {"reveal-effect":{"enabled":false}};
+/* ]]> */
+</script>
+<script type="text/javascript"  defer="defer" src="https://www.abc-autoglas.de/wp-content/themes/highlight-pro/pro/assets/js/theme.bundle.min.js?ver=1.1.46" id="mesmerize-theme-js"></script>
+    <script>
+        /(trident|msie)/i.test(navigator.userAgent) && document.getElementById && window.addEventListener && window.addEventListener("hashchange", function () {
+            var t, e = location.hash.substring(1);
+            /^[A-z0-9_-]+$/.test(e) && (t = document.getElementById(e)) && (/^(?:a|select|input|button|textarea)$/i.test(t.tagName) || (t.tabIndex = -1), t.focus())
+        }, !1);
+    </script>
+	</body>
+</html>

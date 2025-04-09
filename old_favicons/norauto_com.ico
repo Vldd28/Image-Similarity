@@ -1,0 +1,315 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>Tous les sites Norauto dans le monde - Norauto</title>
+    <meta name="title" content="Tous les sites Norauto dans le monde - Norauto" />
+    <meta
+      name="description"
+      content="Retrouvez tous les sites de l’enseigne Norauto partout dans le monde."
+    />
+    <meta name="keywords" content="" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <script src="/cdn-cgi/apps/head/y6gHglW3sRz8PYbVIjCLQn149Jg.js"></script>
+    <link rel="canonical" href="https://www.norauto.com" />
+
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Tous les sites Norauto dans le monde - Norauto" />
+    <meta
+      property="og:description"
+      content="Retrouvez tous les sites de l’enseigne Norauto partout dans le monde."
+    />
+
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="Tous les sites Norauto dans le monde - Norauto" />
+    <meta
+      name="twitter:description"
+      content="Retrouvez tous les sites de l’enseigne Norauto partout dans le monde."
+    />
+
+    <!-- Favicons -->
+    <link
+      rel="apple-touch-icon"
+      sizes="180x180"
+      href="https://s1.medias-norauto.fr/images/favicon/FR-apple-touch-icon.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="https://s1.medias-norauto.fr/images/favicon/FR-favicon-32x32.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="16x16"
+      href="https://s1.medias-norauto.fr/images/favicon/FR-favicon-16x16.png"
+    />
+    <link
+      rel="mask-icon"
+      href="https://s1.medias-norauto.fr/images/favicon/FR-safari-pinned-tab.svg"
+      color="#002b6f"
+    />
+    <link rel="shortcut icon" href="https://s1.medias-norauto.fr/images/favicon/FR-favicon.ico" />
+
+        <link rel="preload" href="https://s1.medias-norauto.fr/fonts/Muli-Black.woff2" as="font" crossorigin="" type="font/woff2">
+        <link rel="preconnect" href="https://s1.medias-norauto.fr/">
+        <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin="">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@roadtrip/css@2.29.0/dist/roadtrip.min.css" />
+        <style>
+            * {
+                margin: 0;
+                padding: 0;
+                box-sizing: border-box;
+            }
+            body {
+                background: url(https://s1.medias-norauto.fr/fr_FR/desktop/norautocom/background-new-logo.jpg) no-repeat fixed center center / cover;
+                font-family: 'Lato', sans-serif;
+                margin: 0;
+                padding: 0;
+                overflow-x: hidden;
+            }
+            .container {
+                justify-content: center;
+                display: flex;
+                flex-wrap: wrap;
+                margin: 0 auto;
+                max-width: 970px;
+            }
+            header {
+                text-align: center;
+            }
+            .logo {
+                margin-bottom: 20px;
+                margin-top: 30px;
+                max-width: 180px;
+            }
+            .main-title {
+                color: #ffffff;
+                font-size: 46px;
+                font-weight: bold;
+                font-style: italic;
+                margin-bottom: 30px;
+                margin-top: 0px;
+                text-align: center;
+            }
+            .block-country {
+                background-color: #f7f9fd;
+                border-radius: 4px;
+                box-shadow: 0px 2px 4.5px 0.5px rgba(71, 73, 85, 0.2);
+                margin: 0px 5px 10px 5px;
+                height: 80px;
+                padding-bottom: 10px;
+                padding-left: 15px;
+                padding-right: 15px;
+                padding-top: 10px;
+                position: relative;
+                width: 265px;
+            }
+            @media (max-width: 600px) {
+                .block-country {
+                    width: 320px;
+                }
+            }
+            .block-country img, .block-country p {
+                display:inline-block;
+                vertical-align: middle;
+            }
+            .flag {
+                width: 60px;
+            }
+            .container-text {
+                color: black;
+                font-size: 14px;
+                font-weight:bold;
+                padding-left:10px;
+                margin: 0;
+            }
+            .container-text span {
+                color: #acacac;
+                font-style: italic;
+                font-weight: normal;
+            }
+            .block-country .arrow {
+                margin-right: 0px;
+                position: absolute;
+                top: 33px;
+                right: 14px;
+            }
+            .hidden {
+                display: none;
+            }
+            footer {
+                text-align: center;
+                color: #ffffff;
+                font-family: 'Arial', sans-serif;
+                font-size: 10px;
+                margin-top: 20px;
+                padding-bottom: 10px;
+            }
+            #popin-mentions {
+                margin-left: auto;
+                margin-right: auto;
+                max-width: 790px;
+                background-color: #ffffff;
+                border-radius: 5px;
+                padding: 100px;
+                position: relative;
+                text-align: justify;
+                z-index: 10;
+                color: black;
+                font-size: 14px;
+            }
+            #popin-mentions span {
+                font-weight:bold;
+            }
+            #layer-bg {
+                height: 100%;
+                width: 100%;
+                position: fixed;
+                background-color: rgba(69,71,74,0.5);
+                left: 0;
+                right:0;
+                top:0;
+                bottom:0;
+                cursor: pointer;
+            }
+            #popin-mentions #close-popin {
+                position: absolute;
+                right: 30px;
+                top: 30px;
+                cursor: pointer;
+            }
+            #mentions {
+                cursor: pointer;
+            }
+        </style>
+    </head>
+    <body><script>!function(a,b,c,d,e,f){a.ddjskey=e;a.ddoptions=f||null;var m=b.createElement(c),n=b.getElementsByTagName(c)[0];m.async=1,m.src=d,n.parentNode.insertBefore(m,n)}(window,document,"script","https://js.datadome.co/tags.js","62DAE82FA38B79FF8E461F5921830E", {"ajaxListenerPath": true});</script>
+        <main class="main-container">
+            <header>
+                <img class="logo" src="./norauto-com_files/logo-norauto.svg" border="0" alt="Logo Norauto">
+            </header>
+            <div id="main-content">
+                <h1 class="main-title">Select your local website</h1>
+                
+                <section class="container">
+                    <a href="https://www.norauto.fr/">
+                        <article class="block-country">
+                            <img class="flag"  src="./norauto-com_files/flag_france.svg" border="0" alt="Norauto France" />
+                            <p class="container-text">FRANCE<br><span>norauto.fr</span></p>
+                            <img class="arrow" src="./norauto-com_files/fleche.png" border="0" alt="Fleche validation" />
+                        </article>
+                    </a>
+                    <a href="https://www.norauto.es/">
+                        <article class="block-country">
+                            <img class="flag"  src="./norauto-com_files/flag_spain.svg" border="0" alt="Norauto Espagne" />
+                            <p class="container-text">ESPAÑA<br><span>norauto.es</span></p>
+                            <img class="arrow" src="./norauto-com_files/fleche.png" border="0" alt="Fleche validation" />
+                        </article>
+                    </a>
+                    <a href="https://www.norauto.it/">
+                        <article class="block-country">
+                            <img class="flag"  src="./norauto-com_files/flag_italy.svg" border="0" alt="Norauto Italie" />
+                            <p class="container-text">ITALIA<br><span>norauto.it</span></p>
+                            <img class="arrow" src="./norauto-com_files/fleche.png" border="0" alt="Fleche validation" />
+                        </article>
+                    </a>
+                    <a href="https://www.norauto.pt/">
+                        <article class="block-country">
+                            <img class="flag" src="./norauto-com_files/flag_portugal.svg" border="0" alt="Norauto Portugal" />
+                            <p class="container-text">PORTUGAL<br><span>norauto.pt</span></p>
+                            <img class="arrow" src="./norauto-com_files/fleche.png" border="0" alt="Fleche validation" />
+                        </article>
+                    </a>
+                    <a href="https://www.auto5.be/">
+                        <article class="block-country">
+                            <img class="flag"  src="./norauto-com_files/flag_belgium.svg" border="0" alt="Auto 5" />
+                            <p class="container-text">
+                                BELGIQUE - BELGIË<br>
+                                <span>auto5.be</span><span onclick="window.open(&quot;http://www.auto5.be/nl/&quot;)"> - auto5.be/nl</span>
+                            </p>
+                            <img class="arrow" src="./norauto-com_files/fleche.png" border="0" alt="Fleche validation" />
+                        </article>
+                    </a>
+                    <a href="https://www.norauto-franchise.com/">
+                        <article class="block-country">
+                            <img class="flag"  src="./norauto-com_files/flag_france.svg" border="0" alt="Franchise Norauto" />
+                            <p class="container-text">FRANCHISE<br><span>norauto-franchise.com</span></p>
+                            <img class="arrow" src="./norauto-com_files/fleche.png" border="0" alt="Fleche validation" />
+                        </article>
+                    </a>
+                    <a href="https://www.atu.de">
+                        <article class="block-country">
+                            <img class="flag"  src="./norauto-com_files/flag_germany.svg" border="0" alt="ATU Allemagne" />
+                            <p class="container-text">DEUTSCHLAND<br><span>atu.de</span></p>
+                            <img class="arrow" src="./norauto-com_files/fleche.png" border="0" alt="Fleche validation" />
+                        </article>
+                    </a>
+                </section>
+                <footer><span id="mentions">© 2018 Norauto - Legal information</span></footer>
+            </div>
+            <div id="popin-mentions" class="hidden">
+                <p id="close-popin"><img src="./norauto-com_files/croix.png" border="0" alt="Fermeture popin"></p>
+                <h3>Legal information</h3><br><br>
+                <p><span>Editing company : Norauto International SAS</span><br> A public limited company with a
+                    supervisory board and board of directors, with capital of 203,154,280 euros.</p>
+                <p><span>Registered Office :</span> 511/589 rue des Seringats. 59262 SAINGHIN EN MELANTOIS<br> SIRET
+                    443 554 217 00010<br> TVA fr 76443554217<br> APE 503 B RCS Lille 443 554 217</p>
+                <p><span>Responsible publisher :</span> Marie Himpe, MOBIVIA Group</p>
+                <p><span>Creation work :</span> www.512K.fr</p>
+                <p><span>Hosting:</span><br> SCALAIR - 3 Avenue Antoine Pinay Parc d’Activité des 4 Vents - 59510
+                    HEM - Tél : +33(0)3 20 68 21 21 - <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="1d7e7273697c7e695d6e7e7c717c746f337b6f">[email&#160;protected]</a> - www.scalair.fr This site is declared to
+                    the CNIL under the number 756222.</p>
+                <p>The Website - www.norauto.com - has been designed to provide information intended for personal
+                    use. This information is true as at the date of publication. However, Norauto does not guarantee
+                    that this information is exhaustive or accurate. In no case may Norauto be held liable for any
+                    damages as may result from any credit granted to this information and/or use thereof. In no case
+                    will Norauto undertake to update or correct information communicated over www.norauto.com.
+                    Norauto will reserve the right of changing or correcting the content of www.norauto.com at any
+                    time. No - even partial - use of data included therein may be made for commercial purposes
+                    without Norauto\'s prior consent in writing.</p>
+                <p><span>Personal Data :</span><br> All computer data of relevance to you will be handled in strict
+                    confidentiality. In compliance with the provisions of the French law on information technology
+                    and liberties, 6 January 1978, all computer data relevant to you will be handled in strict
+                    confidentiality. You have the right to access, correct and object to your data. To do so, all
+                    you need to do is make a request on line or by mail at the address mentioned above, stating your
+                    first name, last name and address.</p>
+                <p><span>Intellectual Property :</span><br> The presentation and content of this Website
+                    collectively constitute a work protected by existing laws.</p>
+            </div>
+            <div id="layer-bg" class="hidden"></div>
+            <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+                function ready(fn) {
+                    if (document.readyState !== 'loading') {
+                        fn();
+                    } else {
+                        document.addEventListener('DOMContentLoaded', fn);
+                    }
+                }
+                start = function () {
+                    const popin = document.getElementById("popin-mentions");
+                    const layer = document.getElementById("layer-bg");
+                    const content = document.getElementById("main-content");
+                    document.getElementById("mentions").addEventListener('click', () => {
+                        popin.classList.remove('hidden');
+                        layer.classList.remove('hidden');
+                        content.classList.add('hidden');
+                    });
+                    document.getElementById("close-popin").addEventListener('click', () => {
+                        popin.classList.add('hidden');
+                        layer.classList.add('hidden');
+                        content.classList.remove('hidden');
+                    });
+                    layer.addEventListener('click', () => {
+                        popin.classList.add('hidden');
+                        layer.classList.add('hidden');
+                        content.classList.remove('hidden');
+                    });
+                };
+                ready(start);
+            </script>
+        </main>
+    </body>
+</html>

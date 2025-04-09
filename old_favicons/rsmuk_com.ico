@@ -1,0 +1,2514 @@
+
+
+
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js no-contrast" lang="en">
+<!--<![endif]-->
+<head>
+  <!-- OneTrust Cookies Consent Notice start for www.rsmuk.com -->
+  <script src="https://cdn-ukwest.onetrust.com/scripttemplates/otSDKStub.js" type="text/javascript" charset="UTF-8" data-domain-script="22e24e86-85e5-4724-9379-d3845ffb24e4-test"></script>
+  <script type="text/javascript">
+    function OptanonWrapper() { }
+  </script>
+  <!-- OneTrust Cookies Consent Notice end for www.rsmuk.com -->
+
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.13.2/themes/base/jquery-ui.min.css" rel="stylesheet" />
+
+  <script>
+    (function (w, d, s, l, i) {
+      w[l] = w[l] || []; w[l].push({
+        'gtm.start':
+          new Date().getTime(), event: 'gtm.js'
+      }); var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+          'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-WWKR7N');
+  </script>
+  <!--SearchStax JS section starts-->
+  <!--SearchStax JS section ends-->
+
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+
+<link href="/-/media/feature/experience-accelerator/bootstrap-5/bootstrap-5/styles/optimized-min.css?t=20221219T110146Z" rel="stylesheet" /><link href="/-/media/base-themes/core-libraries/styles/optimized-min.css?t=20221219T110152Z" rel="stylesheet" /><link href="/-/media/base-themes/main-theme/styles/optimized-min.css?t=20240203T044430Z" rel="stylesheet" /><link href="/-/media/themes/rsm/rsm-uk/rsmtheme/styles/pre-optimized-min.css?t=20241127T125024Z" rel="stylesheet" />
+
+  
+  
+<meta name="VIcurrentDateTime" content="638775782127180891" />
+<meta name="VirtualFolder" content="/" />
+<script type="text/javascript" src="/layouts/system/VisitorIdentification.js"></script>
+
+  
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css"/>
+
+ 
+<script src="https://www.google.com/recaptcha/api.js"></script>
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery.sumoselect/3.4.6/sumoselect.css" integrity="sha512-LaiY5+mk1DRzS0s8h8G4Ol9F7uG8HRP5lZuUjMI6MIBUhkt67K/bi8f6N6jBX1A1uPkFjAP1FU5Mys/zbDDv8A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+
+  <title>RSM UK -  audit, tax and consulting services</title>
+
+
+
+<link rel="canonical" href="https://www.rsmuk.com" />
+
+
+
+    <link href="/-/media/project/rsm/rsm-uk/favicon.jpg" rel="shortcut icon" />
+  
+
+
+
+<meta property="og:description"  content="RSM is a leading audit, tax, and consulting adviser for mid-market business leaders worldwide. Our integrated team empowers clients to grow with confidence." /><meta property="og:title"  content="RSM UK -  audit, tax and consulting services" /><meta property="og:url"  content="http://www.rsmuk.com/" /><meta property="og:image" content="https://www.rsmuk.com/-/media/project/rsm/rsm-uk/portraiture-2024/025-a-homepage-banner-2880x750_james-3.jpg" />
+
+  
+
+
+
+<meta  name="description" content="RSM is a leading audit, tax, and consulting adviser for mid-market business leaders worldwide. Our integrated team empowers clients to grow with confidence." />
+
+  
+
+
+
+<meta property="twitter:title"  content="Home" /><meta property="twitter:card"  content="summary_large_image" /><meta property="twitter:image" content="https://www.rsmuk.com/-/media/project/rsm/rsm-uk/portraiture-2024/025-a-homepage-banner-2880x750_james-3.jpg" />
+
+
+
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+
+<meta name="google-site-verification" content="r8ElyNGsj6e9BOf3f4Cy5pE3_aSSo7aGK0NTBXVZBco" />
+
+<!-- Hotjar Tracking Code for https://www.rsmuk.com/ -->
+
+<script>
+(function(h,o,t,j,a,r){
+h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+h._hjSettings={hjid:3892942,hjsv:6};
+a=o.getElementsByTagName('head')[0];
+r=o.createElement('script');r.async=1;
+r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+a.appendChild(r);
+})(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+</head>
+<body class="default-device bodyclass">
+  
+  
+<!-- #wrapper -->
+<div id="wrapper">
+    <!-- #header -->
+    <header>
+        <div id="header" class="container-fluid">
+            <div class="row">
+
+<div class="component site-navigation site-navigation-component">
+    <div class="component-content">
+<div class="main-header">
+   <div class="topbar">
+      <div class="container">
+         <ul class="topbar-nav">
+            <li class="nav-item nav-item-contrast">
+               <label class="contrast-toggle" aria-labelledby="contrast-toggle">
+                  Accessible colours
+                  <input class="contrast-toggle-input" id="contrast-toggle" type="checkbox" role="switch">
+                  <div class="contrast-toggle-switch"></div>
+               </label>
+            </li>
+            <li class="nav-item">
+               
+            </li>
+<li class="nav-item">
+               <a class="nav-link" href="/events">Events</a>
+            </li>
+            <li class="nav-item">
+               <a class="nav-link" href="/news">News</a>
+            </li>
+            <li class="nav-item dropdown dropdown-language">
+               
+               <button class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false" data-display="static">
+                  <svg class="dropdown-toggle-icon" width="14" height="18" viewBox="0 0 14 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+                     <path d="M7.00065 9.0013C6.08398 9.0013 5.33398 8.2513 5.33398 7.33464C5.33398 6.41797 6.08398 5.66797 7.00065 5.66797C7.91732 5.66797 8.66732 6.41797 8.66732 7.33464C8.66732 8.2513 7.91732 9.0013 7.00065 9.0013ZM12.0007 7.5013C12.0007 4.4763 9.79232 2.33464 7.00065 2.33464C4.20898 2.33464 2.00065 4.4763 2.00065 7.5013C2.00065 9.4513 3.62565 12.0346 7.00065 15.118C10.3757 12.0346 12.0007 9.4513 12.0007 7.5013ZM7.00065 0.667969C10.5006 0.667969 13.6673 3.3513 13.6673 7.5013C13.6673 10.268 11.4423 13.543 7.00065 17.3346C2.55898 13.543 0.333984 10.268 0.333984 7.5013C0.333984 3.3513 3.50065 0.667969 7.00065 0.667969Z" fill="white"></path>
+                  </svg>
+                  Region                                      
+               </button>
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+                
+               <ul class="dropdown-menu dropdown-menu-end">
+                  
+                  <li>
+                     <a href="https://www.rsm.global/europe" rel="noopener noreferrer" class="dropdown-item" target="_blank">Europe</a>
+                  </li>
+                  
+                  <li>
+                     <a href="https://www.rsm.global/africa" rel="noopener noreferrer" class="dropdown-item" target="_blank">Africa</a>
+                  </li>
+                  
+                  <li>
+                     <a href="https://www.rsm.global/asiapacific" rel="noopener noreferrer" class="dropdown-item" target="_blank">Asia Pacific</a>
+                  </li>
+                  
+                  <li>
+                     <a href="https://www.rsm.global/latinamerica/en/region/latin-america" rel="noopener noreferrer" class="dropdown-item" target="_blank">Latin America</a>
+                  </li>
+                  
+                  <li>
+                     <a href="https://www.rsm.global/mena" rel="noopener noreferrer" class="dropdown-item" target="_blank">MENA</a>
+                  </li>
+                  
+                  <li>
+                     <a href="https://www.rsm.global/north-america" rel="noopener noreferrer" class="dropdown-item" target="_blank">North America</a>
+                  </li>
+                  
+               </ul>
+            </li>
+         </ul>
+      </div>
+   </div>
+   <nav class="navbar navbar-primary">
+      <div class="container">
+         <a href="/" class="navbar-brand">
+            
+            
+               <img class="navbar-brand-logo" src="/-/media/project/rsm/rsm-uk/site-navigation/rsm-site-navigation-logo_desktop.png" alt="RSM Footer Logo Desktop">
+            
+         </a>
+         <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#primary-nav" aria-controls="primary-nav" aria-expanded="false" aria-label="Toggle navigation">
+         <span class="navbar-toggler-icon"></span>
+         </button>
+         <div class="collapse navbar-collapse" id="primary-nav">
+            <ul class="navbar-nav">
+               
+               
+               <li class="nav-item dropdown">
+                  
+                  
+                    
+                        <a class="nav-link" href="/what-we-offer" target="">What we offer</a>
+                    
+                  
+                  <button class="dropdown-toggle" type="button" id="dropdown-what-we-offer" data-toggle="dropdown" aria-expanded="false" aria-label="Submenu for What we offer"></button>
+                  <div class="dropdown-menu " aria-labelledby="dropdown-what-we-offer">
+                     <ul class="dropdown-tab-nav" role="tablist">
+                        <li class="dropdown-tab-item dropdown-tab-header">
+                           
+                           
+                                
+                                    <a class="dropdown-item dropdown-item-title" href="/what-we-offer" target="">What we offer</a>
+                                
+                           
+
+                           
+                              <p class="dropdown-item-text">
+                                 Explore our solutions and services
+                              </p>
+                           
+                        </li>
+                        
+                        
+                        <li class="dropdown-tab-item dropdown-tab">
+                           
+                           
+                                
+                                    <a class="dropdown-item" href="/what-we-offer/industries" target="">Industries</a>
+                                
+                           
+                           
+                              <button class="dropdown-item dropdown-tab-toggle" id="dropdown-tab-toggle-industries" type="button" data-toggle="dropdown-tab" data-target="#dropdown-tab-industries" role="tab" aria-controls="dropdown-tab-industries" aria-selected="true" aria-label="Submenu for Industries"></button>
+                           
+                        </li>
+                        
+                        
+                        <li class="dropdown-tab-item dropdown-tab">
+                           
+                           
+                                
+                                    <a class="dropdown-item" href="/what-we-offer/services" target="">Services</a>
+                                
+                           
+                           
+                              <button class="dropdown-item dropdown-tab-toggle" id="dropdown-tab-toggle-services" type="button" data-toggle="dropdown-tab" data-target="#dropdown-tab-services" role="tab" aria-controls="dropdown-tab-services" aria-selected="true" aria-label="Submenu for Services"></button>
+                           
+                        </li>
+                        
+                        
+                        <li class="dropdown-tab-item ">
+                           
+                           
+                                
+                                    <a class="dropdown-item" href="/what-we-offer/international-business-services" target="">International services</a>
+                                
+                           
+                           
+                        </li>
+                        
+                        
+                        <li class="dropdown-tab-item dropdown-tab">
+                           
+                           
+                                
+                                    <a class="dropdown-item" href="/what-we-offer/family-businesses" target="">Family businesses</a>
+                                
+                           
+                           
+                              <button class="dropdown-item dropdown-tab-toggle" id="dropdown-tab-toggle-family-businesses" type="button" data-toggle="dropdown-tab" data-target="#dropdown-tab-family-businesses" role="tab" aria-controls="dropdown-tab-family-businesses" aria-selected="true" aria-label="Submenu for Family businesses"></button>
+                           
+                        </li>
+                        
+                        
+                        <li class="dropdown-tab-item ">
+                           
+                           
+                                
+                                    <a class="dropdown-item" href="/what-we-offer/private-equity" target="">Private equity</a>
+                                
+                           
+                           
+                        </li>
+                        
+                     </ul>
+                     <ul class="dropdown-tab-content">
+                        
+                        
+                        <li class=" has-collapse  active" id="dropdown-tab-industries" role="tabpanel" aria-labelledby="dropdown-tab-toggle-industries">
+                           <div class="dropdown-collapse">
+                              
+                              
+                                
+                                    <a class="dropdown-item" href="/what-we-offer/industries" target="">Industries</a>
+                                
+                              
+                              
+                                 <button class="dropdown-collapse-toggle collapsed" type="button" data-toggle="collapse" data-target="#dropdown-collapse-industries" aria-expanded="false" aria-controls="dropdown-collapse-industries" aria-label="Submenu for Industries"></button>
+                              
+                           </div>
+                           <ul class="dropdown-collapse-menu collapse" id="dropdown-collapse-industries" data-parent="#primary-nav">
+                                 
+                              <li>
+                                       <ul  class="dropdown-list-column" >
+                                    
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item dropdown-item-header" href="/what-we-offer/industries/consumer-markets" target="">CONSUMER MARKETS</a>
+                                        
+                                    
+                              </li>
+                              
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="/what-we-offer/industries/consumer-markets/hotels-travel-and-tourism" target="">Hotels, travel and tourism</a>
+                                        
+                                    
+                              </li>
+                              
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="/what-we-offer/industries/consumer-markets/leisure-and-hospitality" target="">Leisure and hospitality</a>
+                                        
+                                    
+                              </li>
+                              
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="/what-we-offer/industries/consumer-markets/retail" target="">Retail</a>
+                                        
+                                    
+                              </li>
+                              
+                           </ul>
+                           
+                        </li>
+                           
+                              <li>
+                                       <ul  class="dropdown-list-column" >
+                                    
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item dropdown-item-header" href="/what-we-offer/industries/financial-services" target="">Financial services</a>
+                                        
+                                    
+                              </li>
+                              
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="/what-we-offer/industries/financial-services/asset-and-wealth-management" target="">Asset and wealth management</a>
+                                        
+                                    
+                              </li>
+                              
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="/what-we-offer/industries/financial-services/insurance" target="">Insurance</a>
+                                        
+                                    
+                              </li>
+                              
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="/what-we-offer/industries/financial-services/pensions" target="">Pensions</a>
+                                        
+                                    
+                              </li>
+                              
+                           </ul>
+                           
+                        </li>
+                           
+                              <li>
+                                       <ul  class="dropdown-list-column" >
+                                    
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item dropdown-item-header" href="/what-we-offer/industries/healthcare-and-life-sciences" target="">Healthcare and life sciences</a>
+                                        
+                                    
+                              </li>
+                              
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="/what-we-offer/industries/healthcare-and-life-sciences/healthcare" target="">Healthcare</a>
+                                        
+                                    
+                              </li>
+                              
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="/what-we-offer/industries/healthcare-and-life-sciences/life-sciences" target="">Life sciences</a>
+                                        
+                                    
+                              </li>
+                              
+                           </ul>
+                           
+                        </li>
+                           
+                              <li>
+                                       <ul  class="dropdown-list-column" >
+                                    
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item dropdown-item-header" href="/what-we-offer/industries/industrials" target="">Industrials</a>
+                                        
+                                    
+                              </li>
+                              
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="/what-we-offer/industries/industrials/energy-and-natural-resources" target="">Energy and natural resources</a>
+                                        
+                                    
+                              </li>
+                              
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="/what-we-offer/industries/industrials/manufacturing" target="">Manufacturing</a>
+                                        
+                                    
+                              </li>
+                              
+                           </ul>
+                           
+                        </li>
+                           
+                              <li>
+                                       <ul  class="dropdown-list-column" >
+                                    
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item dropdown-item-header" href="/what-we-offer/industries/not-for-profit" target="">Not for profit</a>
+                                        
+                                    
+                              </li>
+                              
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="/what-we-offer/industries/not-for-profit/charities" target="">Charities</a>
+                                        
+                                    
+                              </li>
+                              
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="/what-we-offer/industries/not-for-profit/education" target="">Education</a>
+                                        
+                                    
+                              </li>
+                              
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="/what-we-offer/industries/not-for-profit/government-and-public-sector" target="">Government and public sector</a>
+                                        
+                                    
+                              </li>
+                              
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="/what-we-offer/industries/not-for-profit/social-housing" target="">Social housing</a>
+                                        
+                                    
+                              </li>
+                              
+                           </ul>
+                           
+                        </li>
+                           
+                              <li>
+                                       <ul  class="dropdown-list-column" >
+                                    
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item dropdown-item-header" href="/what-we-offer/industries/professional-and-business-services" target="">Professional and business services</a>
+                                        
+                                    
+                              </li>
+                              
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="/what-we-offer/industries/professional-and-business-services/professional-services" target="">Professional services</a>
+                                        
+                                    
+                              </li>
+                              
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="/what-we-offer/industries/professional-and-business-services/recruitment" target="">Recruitment</a>
+                                        
+                                    
+                              </li>
+                              
+                           </ul>
+                           
+                        </li>
+                           
+                              <li>
+                                       <ul  class="dropdown-list-column" >
+                                    
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item dropdown-item-header" href="/what-we-offer/industries/real-estate-and-construction" target="">Real estate and construction</a>
+                                        
+                                    
+                              </li>
+                              
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="/what-we-offer/industries/real-estate-and-construction/real-estate" target="">Real estate</a>
+                                        
+                                    
+                              </li>
+                              
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="/what-we-offer/industries/real-estate-and-construction/construction" target="">Construction</a>
+                                        
+                                    
+                              </li>
+                              
+                           </ul>
+                           
+                        </li>
+                           
+                              <li>
+                                       <ul  class="dropdown-list-column" >
+                                    
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item dropdown-item-header" href="/what-we-offer/industries/technology-and-media" target="">Technology and media</a>
+                                        
+                                    
+                              </li>
+                              
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="/what-we-offer/industries/technology-and-media/technology" target="">Technology</a>
+                                        
+                                    
+                              </li>
+                              
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="/what-we-offer/industries/technology-and-media/media" target="">Media</a>
+                                        
+                                    
+                              </li>
+                              
+                           </ul>
+                           
+                        </li>
+                        
+                     </ul>
+               </li>
+               
+                        
+                        <li class=" has-collapse  active" id="dropdown-tab-services" role="tabpanel" aria-labelledby="dropdown-tab-toggle-services">
+                           <div class="dropdown-collapse">
+                              
+                              
+                                
+                                    <a class="dropdown-item" href="/what-we-offer/services" target="">Services</a>
+                                
+                              
+                              
+                                 <button class="dropdown-collapse-toggle collapsed" type="button" data-toggle="collapse" data-target="#dropdown-collapse-services" aria-expanded="false" aria-controls="dropdown-collapse-services" aria-label="Submenu for Services"></button>
+                              
+                           </div>
+                           <ul class="dropdown-collapse-menu collapse" id="dropdown-collapse-services" data-parent="#primary-nav">
+                                 
+                              <li>
+                                       <ul  class="dropdown-list-column" >
+                                    
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item dropdown-item-header" href="/what-we-offer/services/audit-services" target="">AUDIT</a>
+                                        
+                                    
+                              </li>
+                              
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="/what-we-offer/services/audit-services/statutory-audit" target="">Statutory audit</a>
+                                        
+                                    
+                              </li>
+                              
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="/what-we-offer/services/audit-services/audit-technology" target="">Audit technology</a>
+                                        
+                                    
+                              </li>
+                              
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="/what-we-offer/services/audit-services/our-audit-quality-commitment" target="">Our audit quality commitment</a>
+                                        
+                                    
+                              </li>
+                              
+                           </ul>
+                           
+                        </li>
+                           
+                              <li>
+                                       <ul  class="dropdown-list-column" >
+                                    
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item dropdown-item-header" href="/what-we-offer/services/tax" target="">TAX</a>
+                                        
+                                    
+                              </li>
+                              
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="/what-we-offer/services/tax/corporate-tax" target="">Corporate tax</a>
+                                        
+                                    
+                              </li>
+                              
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="/what-we-offer/services/tax/people-advisory-services/employment-taxes" target="">Employment taxes</a>
+                                        
+                                    
+                              </li>
+                              
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="/what-we-offer/services/tax/private-client-and-family-wealth" target="">Private client and family wealth</a>
+                                        
+                                    
+                              </li>
+                              
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="/what-we-offer/services/tax/tax-technology" target="">Tax technology</a>
+                                        
+                                    
+                              </li>
+                              
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="/what-we-offer/services/tax/tax-dispute-resolution-services" target="">Tax dispute resolution services</a>
+                                        
+                                    
+                              </li>
+                              
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="/what-we-offer/services/tax/tax-risk-and-governance" target="">Tax risk and governance</a>
+                                        
+                                    
+                              </li>
+                              
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="/what-we-offer/services/tax/vat-and-indirect-tax" target="">VAT and indirect tax</a>
+                                        
+                                    
+                              </li>
+                              
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="/what-we-offer/services/tax/legal-services" target="">Legal services</a>
+                                        
+                                    
+                              </li>
+                              
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="/what-we-offer/services/tax/people-advisory-services" target="">People advisory services</a>
+                                        
+                                    
+                              </li>
+                              
+                           </ul>
+                           
+                        </li>
+                           
+                              <li>
+                                       <ul  class="dropdown-list-column" >
+                                    
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item dropdown-item-header" href="/what-we-offer/services/consulting" target="">CONSULTING</a>
+                                        
+                                    
+                              </li>
+                              
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="/what-we-offer/services/consulting/business-transformation" target="">Business transformation</a>
+                                        
+                                    
+                              </li>
+                              
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="/what-we-offer/services/consulting/deal-services" target="">Deal services</a>
+                                        
+                                    
+                              </li>
+                              
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="/what-we-offer/services/consulting/finance-function-support" target="">Finance function support</a>
+                                        
+                                    
+                              </li>
+                              
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="/what-we-offer/services/consulting/forensic-and-investigation-services" target="">Forensic and investigation services</a>
+                                        
+                                    
+                              </li>
+                              
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="/what-we-offer/services/consulting/restructuring" target="">Restructuring</a>
+                                        
+                                    
+                              </li>
+                              
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="/what-we-offer/services/consulting/risk-and-governance" target="">Risk and governance</a>
+                                        
+                                    
+                              </li>
+                              
+                           </ul>
+                           
+                        </li>
+                        
+                     </ul>
+               </li>
+               
+                        
+                        <li class=" active" id="dropdown-tab-international-services" role="tabpanel" aria-labelledby="dropdown-tab-toggle-international-services">
+                           <div class="dropdown-collapse">
+                              
+                              
+                                
+                                    <a class="dropdown-item" href="/what-we-offer/international-business-services" target="">International services</a>
+                                
+                              
+                              
+                           </div>
+                           <ul class="dropdown-collapse-menu collapse" id="dropdown-collapse-international-services" data-parent="#primary-nav">
+                              
+                     </ul>
+               </li>
+               
+                        
+                        <li class=" has-collapse  active" id="dropdown-tab-family-businesses" role="tabpanel" aria-labelledby="dropdown-tab-toggle-family-businesses">
+                           <div class="dropdown-collapse">
+                              
+                              
+                                
+                                    <a class="dropdown-item" href="/what-we-offer/family-businesses" target="">Family businesses</a>
+                                
+                              
+                              
+                                 <button class="dropdown-collapse-toggle collapsed" type="button" data-toggle="collapse" data-target="#dropdown-collapse-family-businesses" aria-expanded="false" aria-controls="dropdown-collapse-family-businesses" aria-label="Submenu for Family businesses"></button>
+                              
+                           </div>
+                           <ul class="dropdown-collapse-menu collapse" id="dropdown-collapse-family-businesses" data-parent="#primary-nav">
+                                 
+                              <li>
+                                       <ul >
+                                    
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="/what-we-offer/family-businesses/your-business" target="">Your business</a>
+                                        
+                                    
+                              </li>
+                              
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="/what-we-offer/family-businesses/planning-for-succession" target="">Planning for succession</a>
+                                        
+                                    
+                              </li>
+                              
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="/what-we-offer/family-businesses/family-matters" target="">Family matters</a>
+                                        
+                                    
+                              </li>
+                              
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="/what-we-offer/family-businesses/family-office" target="">Family office</a>
+                                        
+                                    
+                              </li>
+                              
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="/what-we-offer/family-businesses/international-expertise" target="">International expertise</a>
+                                        
+                                    
+                              </li>
+                              
+                           </ul>
+                           
+                        </li>
+                        
+                     </ul>
+               </li>
+               
+                        
+                        <li class=" active" id="dropdown-tab-private-equity" role="tabpanel" aria-labelledby="dropdown-tab-toggle-private-equity">
+                           <div class="dropdown-collapse">
+                              
+                              
+                                
+                                    <a class="dropdown-item" href="/what-we-offer/private-equity" target="">Private equity</a>
+                                
+                              
+                              
+                           </div>
+                           <ul class="dropdown-collapse-menu collapse" id="dropdown-collapse-private-equity" data-parent="#primary-nav">
+                              
+                     </ul>
+               </li>
+               
+               
+            </ul>
+            </div>
+            </li>
+            
+            
+               
+               <li class="nav-item dropdown">
+                  
+                  
+                    
+                        <a class="nav-link" href="/insights" target="">Insights</a>
+                    
+                  
+                  <button class="dropdown-toggle" type="button" id="dropdown-insights" data-toggle="dropdown" aria-expanded="false" aria-label="Submenu for Insights"></button>
+                  <div class="dropdown-menu  has-card " aria-labelledby="dropdown-insights">
+                     <ul class="dropdown-tab-nav" role="tablist">
+                        <li class="dropdown-tab-item dropdown-tab-header">
+                           
+                           
+                                
+                                    <a class="dropdown-item dropdown-item-title" href="/insights" target="">Insights</a>
+                                
+                           
+
+                           
+                              <p class="dropdown-item-text">
+                                 Browse ideas and insights from our audit, tax and consulting experts
+                              </p>
+                           
+                        </li>
+                        
+                        
+                        <li class="dropdown-tab-item dropdown-tab">
+                           
+                           
+                                
+                                    <a class="dropdown-item" href="/insights" target="">Featured insights</a>
+                                
+                           
+                           
+                              <button class="dropdown-item dropdown-tab-toggle" id="dropdown-tab-toggle-features-insights" type="button" data-toggle="dropdown-tab" data-target="#dropdown-tab-features-insights" role="tab" aria-controls="dropdown-tab-features-insights" aria-selected="true" aria-label="Submenu for Features insights"></button>
+                           
+                        </li>
+                        
+                        
+                        <li class="dropdown-tab-item dropdown-tab">
+                           
+                           
+                                
+                                    <a class="dropdown-item" href="/insights/real-economy" target="">The Real Economy</a>
+                                
+                           
+                           
+                              <button class="dropdown-item dropdown-tab-toggle" id="dropdown-tab-toggle-the-real-economy" type="button" data-toggle="dropdown-tab" data-target="#dropdown-tab-the-real-economy" role="tab" aria-controls="dropdown-tab-the-real-economy" aria-selected="true" aria-label="Submenu for The Real Economy"></button>
+                           
+                        </li>
+                        
+                     </ul>
+                     <ul class="dropdown-tab-content">
+                        
+                        
+                        <li class=" has-collapse  active" id="dropdown-tab-features-insights" role="tabpanel" aria-labelledby="dropdown-tab-toggle-features-insights">
+                           <div class="dropdown-collapse">
+                              
+                              
+                                
+                                    <a class="dropdown-item" href="/insights" target="">Featured insights</a>
+                                
+                              
+                              
+                                 <button class="dropdown-collapse-toggle collapsed" type="button" data-toggle="collapse" data-target="#dropdown-collapse-features-insights" aria-expanded="false" aria-controls="dropdown-collapse-features-insights" aria-label="Submenu for Features insights"></button>
+                              
+                           </div>
+                           <ul class="dropdown-collapse-menu collapse" id="dropdown-collapse-features-insights" data-parent="#primary-nav">
+                                 
+                              <li>
+                                       <ul  class="dropdown-list-column" >
+                                    
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item dropdown-item-header" href="#" target="">BY INDUSTRY</a>
+                                        
+                                    
+                              </li>
+                              
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="/insights/building-the-future" target="">Building the Future</a>
+                                        
+                                    
+                              </li>
+                              
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="/insights/consumer-outlook" target="">Consumer Outlook 2025 </a>
+                                        
+                                    
+                              </li>
+                              
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="/insights/health-matters" target="">Health matters</a>
+                                        
+                                    
+                              </li>
+                              
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="/insights/real-estate-360" target="">Real Estate 360&#176;</a>
+                                        
+                                    
+                              </li>
+                              
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="/insights/the-loop" target="">The Loop: Untangling today&#39;s business issues</a>
+                                        
+                                    
+                              </li>
+                              
+                           </ul>
+                           
+                        </li>
+                           
+                              <li>
+                                       <ul  class="dropdown-list-column" >
+                                    
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item dropdown-item-header" href="#" target="">BY SERVICE</a>
+                                        
+                                    
+                              </li>
+                              
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="/insights/employment-matters" target="|Custom">Employment matters</a>
+                                        
+                                    
+                              </li>
+                              
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="/insights/tax-voice" target="">Tax Voice</a>
+                                        
+                                    
+                              </li>
+                              
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="/insights/weekly-tax-brief" target="|Custom">Weekly tax brief</a>
+                                        
+                                    
+                              </li>
+                              
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="/insights/real-economy/uk-quarterly-economic-outlook" target="">UK quarterly economic outlook</a>
+                                        
+                                    
+                              </li>
+                              
+                           </ul>
+                           
+                        </li>
+                        
+                     </ul>
+               </li>
+               
+                        
+                        <li class=" has-collapse  active" id="dropdown-tab-the-real-economy" role="tabpanel" aria-labelledby="dropdown-tab-toggle-the-real-economy">
+                           <div class="dropdown-collapse">
+                              
+                              
+                                
+                                    <a class="dropdown-item" href="/insights/real-economy" target="">The Real Economy</a>
+                                
+                              
+                              
+                                 <button class="dropdown-collapse-toggle collapsed" type="button" data-toggle="collapse" data-target="#dropdown-collapse-the-real-economy" aria-expanded="false" aria-controls="dropdown-collapse-the-real-economy" aria-label="Submenu for The Real Economy"></button>
+                              
+                           </div>
+                           <ul class="dropdown-collapse-menu collapse" id="dropdown-collapse-the-real-economy" data-parent="#primary-nav">
+                                 
+                              <li>
+                                       <ul  class="dropdown-list-column" >
+                                    
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item dropdown-item-header" href="/insights/real-economy" target="|Custom">OUR TOPICAL REPORTS</a>
+                                        
+                                    
+                              </li>
+                              
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="/insights/real-economy/uk-quarterly-economic-outlook" target="">UK Quarterly Economic Outlook</a>
+                                        
+                                    
+                              </li>
+                              
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="/insights/industry-insights" target="">Industry insights</a>
+                                        
+                                    
+                              </li>
+                              
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="/insights/economic-voice" target="">Weekly Economic Voice</a>
+                                        
+                                    
+                              </li>
+                              
+                           </ul>
+                           
+                        </li>
+                        
+                     </ul>
+               </li>
+               
+               
+               <li class="dropdown-card">
+               <figure class="dropdown-card-fig">
+               
+               <img src="/-/media/project/rsm/rsm-uk/real-economy/uk-quarterly-economic-outlook/q3-2024/tre_economic-outlook-q3-24_web_360x240.jpg" alt="alt">
+               </figure>
+               <div class="dropdown-card-body">
+               <p class="dropdown-card-text">
+               UK quarterly economic outlook
+               </p>
+              <p class="dropdown-card-tags">
+               Global events and inflationary pressures weigh on growth, but UK economy shows resilience.
+               </p>
+               </div>
+               <div class="dropdown-card-footer"><a href="/insights/real-economy/uk-quarterly-economic-outlook" class="dropdown-item dropdown-card-link primary-link-green" target= "">
+               Explore our economic outlook
+               <span class="dropdown-card-link-icon icon-Chevron_Right"></span>
+               </a>
+               </div>
+               </li>
+               
+            </ul>
+            </div>
+            </li>
+            
+            
+               
+               <li class="nav-item dropdown">
+                  
+                  
+                    
+                        <a class="nav-link" href="/about-rsm" target="">About RSM</a>
+                    
+                  
+                  <button class="dropdown-toggle" type="button" id="dropdown-about-rsm" data-toggle="dropdown" aria-expanded="false" aria-label="Submenu for About RSM"></button>
+                  <div class="dropdown-menu  has-card " aria-labelledby="dropdown-about-rsm">
+                     <ul class="dropdown-tab-nav" role="tablist">
+                        <li class="dropdown-tab-item dropdown-tab-header">
+                           
+                           
+                                
+                                    <a class="dropdown-item dropdown-item-title" href="/about-rsm" target="">About RSM</a>
+                                
+                           
+
+                           
+                              <p class="dropdown-item-text">
+                                 RSM is a leading provider of audit, tax and consulting services
+                              </p>
+                           
+                        </li>
+                        
+                        
+                        <li class="dropdown-tab-item dropdown-tab">
+                           
+                           
+                                
+                                    <a class="dropdown-item" href="/about-rsm/who-we-are" target="">Who we are</a>
+                                
+                           
+                           
+                              <button class="dropdown-item dropdown-tab-toggle" id="dropdown-tab-toggle-who-we-are" type="button" data-toggle="dropdown-tab" data-target="#dropdown-tab-who-we-are" role="tab" aria-controls="dropdown-tab-who-we-are" aria-selected="true" aria-label="Submenu for Who we are"></button>
+                           
+                        </li>
+                        
+                        
+                        <li class="dropdown-tab-item dropdown-tab">
+                           
+                           
+                                
+                                    <a class="dropdown-item" href="/about-rsm/our-reports" target="">Our corporate governance</a>
+                                
+                           
+                           
+                              <button class="dropdown-item dropdown-tab-toggle" id="dropdown-tab-toggle-our-corporate-governance" type="button" data-toggle="dropdown-tab" data-target="#dropdown-tab-our-corporate-governance" role="tab" aria-controls="dropdown-tab-our-corporate-governance" aria-selected="true" aria-label="Submenu for Our corporate governance"></button>
+                           
+                        </li>
+                        
+                     </ul>
+                     <ul class="dropdown-tab-content">
+                        
+                        
+                        <li class=" has-collapse  active" id="dropdown-tab-who-we-are" role="tabpanel" aria-labelledby="dropdown-tab-toggle-who-we-are">
+                           <div class="dropdown-collapse">
+                              
+                              
+                                
+                                    <a class="dropdown-item" href="/about-rsm/who-we-are" target="">Who we are</a>
+                                
+                              
+                              
+                                 <button class="dropdown-collapse-toggle collapsed" type="button" data-toggle="collapse" data-target="#dropdown-collapse-who-we-are" aria-expanded="false" aria-controls="dropdown-collapse-who-we-are" aria-label="Submenu for Who we are"></button>
+                              
+                           </div>
+                           <ul class="dropdown-collapse-menu collapse" id="dropdown-collapse-who-we-are" data-parent="#primary-nav">
+                                 
+                              <li>
+                                       <ul >
+                                    
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="/about-rsm/the-rsm-client-experience" target="">The RSM client experience</a>
+                                        
+                                    
+                              </li>
+                              
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="/about-rsm/meet-our-leadership-team" target="">Our leadership team</a>
+                                        
+                                    
+                              </li>
+                              
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="https://alumni.rsmuk.com/" target="_blank">Our Alumni Network</a>
+                                        
+                                    
+                              </li>
+                              
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="/about-rsm/corporate-responsibility" target="">Our corporate responsibility strategy</a>
+                                        
+                                    
+                              </li>
+                              
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="/about-rsm/diversity-and-inclusion" target="">Diversity and inclusion</a>
+                                        
+                                    
+                              </li>
+                              
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="/about-rsm/rsm-and-golf" target="">RSM and golf</a>
+                                        
+                                    
+                              </li>
+                              
+                           </ul>
+                           
+                        </li>
+                        
+                     </ul>
+               </li>
+               
+                        
+                        <li class=" has-collapse  active" id="dropdown-tab-our-corporate-governance" role="tabpanel" aria-labelledby="dropdown-tab-toggle-our-corporate-governance">
+                           <div class="dropdown-collapse">
+                              
+                              
+                                
+                                    <a class="dropdown-item" href="/about-rsm/our-reports" target="">Our corporate governance</a>
+                                
+                              
+                              
+                                 <button class="dropdown-collapse-toggle collapsed" type="button" data-toggle="collapse" data-target="#dropdown-collapse-our-corporate-governance" aria-expanded="false" aria-controls="dropdown-collapse-our-corporate-governance" aria-label="Submenu for Our corporate governance"></button>
+                              
+                           </div>
+                           <ul class="dropdown-collapse-menu collapse" id="dropdown-collapse-our-corporate-governance" data-parent="#primary-nav">
+                                 
+                              <li>
+                                       <ul >
+                                    
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="/about-rsm/our-reports/our-conduct-and-culture-statement" target="">Conduct and culture statement</a>
+                                        
+                                    
+                              </li>
+                              
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="/about-rsm/our-reports/diversity-pay-gap-report" target="">Diversity pay gap reporting</a>
+                                        
+                                    
+                              </li>
+                              
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="/about-rsm/our-reports/our-financial-reports" target="|Custom">Financial reports</a>
+                                        
+                                    
+                              </li>
+                              
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="/about-rsm/our-reports/impact-statement" target="|Custom">Impact statement</a>
+                                        
+                                    
+                              </li>
+                              
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="/about-rsm/our-reports/section-172-and-corporate-governance" target="|Custom">Section 172</a>
+                                        
+                                    
+                              </li>
+                              
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="/about-rsm/our-reports/our-transparency-reports" target="|Custom">Transparency</a>
+                                        
+                                    
+                              </li>
+                              
+                           </ul>
+                           
+                        </li>
+                        
+                     </ul>
+               </li>
+               
+               
+               <li class="dropdown-card">
+               <figure class="dropdown-card-fig">
+               
+               <img src="/-/media/project/rsm/rsm-uk/site-navigation/alumni-web-menu-360x240.jpg" alt="alt">
+               </figure>
+               <div class="dropdown-card-body">
+               <p class="dropdown-card-text">
+               The RSM Alumni Network
+               </p>
+              <p class="dropdown-card-tags">
+               Whether you&rsquo;ve moved onto other industries or are continuing along a similar path &ndash; we&rsquo;d love to stay in touch.
+               </p>
+               </div>
+               <div class="dropdown-card-footer"><a href="https://alumni.rsmuk.com/?_gl=1*ikkox9*_ga*OTczODk1NjIuMTY3MzI3NjM3Mg..*_ga_S8V8WTX8C7*MTcwNDczMjU0OC43MzcuMS4xNzA0NzMzMDY3LjAuMC4w" class="dropdown-item dropdown-card-link primary-link-green" target= "_blank">
+               Join our Alumni network
+               <span class="dropdown-card-link-icon icon-Chevron_Right"></span>
+               </a>
+               </div>
+               </li>
+               
+            </ul>
+            </div>
+            </li>
+            
+            
+               
+               <li class="nav-item dropdown">
+                  
+                  
+                    
+                        <a class="nav-link" href="https://careers.rsmuk.com/uk/en" target="_blank">Careers</a>
+                    
+                  
+                  <button class="dropdown-toggle" type="button" id="dropdown-careers" data-toggle="dropdown" aria-expanded="false" aria-label="Submenu for Careers"></button>
+                  <div class="dropdown-menu  has-card " aria-labelledby="dropdown-careers">
+                     <ul class="dropdown-tab-nav" role="tablist">
+                        <li class="dropdown-tab-item dropdown-tab-header">
+                           
+                           
+                                
+                                    <a class="dropdown-item dropdown-item-title" href="https://careers.rsmuk.com/uk/en" target="_blank">Careers</a>
+                                
+                           
+
+                           
+                              <p class="dropdown-item-text">
+                                 Make an impact, be our future
+                              </p>
+                           
+                        </li>
+                        
+                        
+                        <li class="dropdown-tab-item dropdown-tab">
+                           
+                           
+                                
+                                    <a class="dropdown-item" href="https://careers.rsmuk.com/uk/en/working-at-rsm" target="_blank">RSM and Me</a>
+                                
+                           
+                           
+                              <button class="dropdown-item dropdown-tab-toggle" id="dropdown-tab-toggle-rsm-and-me" type="button" data-toggle="dropdown-tab" data-target="#dropdown-tab-rsm-and-me" role="tab" aria-controls="dropdown-tab-rsm-and-me" aria-selected="true" aria-label="Submenu for RSM and Me"></button>
+                           
+                        </li>
+                        
+                        
+                        <li class="dropdown-tab-item dropdown-tab">
+                           
+                           
+                                
+                                    <a class="dropdown-item" href="https://careers.rsmuk.com/uk/en/early-careers" target="_blank">Early careers</a>
+                                
+                           
+                           
+                              <button class="dropdown-item dropdown-tab-toggle" id="dropdown-tab-toggle-early-careers" type="button" data-toggle="dropdown-tab" data-target="#dropdown-tab-early-careers" role="tab" aria-controls="dropdown-tab-early-careers" aria-selected="true" aria-label="Submenu for Early careers"></button>
+                           
+                        </li>
+                        
+                        
+                        <li class="dropdown-tab-item dropdown-tab">
+                           
+                           
+                                
+                                    <a class="dropdown-item" href="https://careers.rsmuk.com/uk/en/experienced-hire" target="_blank">Experienced hires</a>
+                                
+                           
+                           
+                              <button class="dropdown-item dropdown-tab-toggle" id="dropdown-tab-toggle-experienced-hires" type="button" data-toggle="dropdown-tab" data-target="#dropdown-tab-experienced-hires" role="tab" aria-controls="dropdown-tab-experienced-hires" aria-selected="true" aria-label="Submenu for Experienced hires"></button>
+                           
+                        </li>
+                        
+                        
+                        <li class="dropdown-tab-item ">
+                           
+                           
+                                
+                                    <a class="dropdown-item" href="https://careers.rsmuk.com/uk/en/leadership" target="_blank">Directors and Partners</a>
+                                
+                           
+                           
+                        </li>
+                        
+                        
+                        <li class="dropdown-tab-item dropdown-tab">
+                           
+                           
+                                
+                                    <a class="dropdown-item" href="https://careers.rsmuk.com/uk/en/development" target="_blank">Development</a>
+                                
+                           
+                           
+                              <button class="dropdown-item dropdown-tab-toggle" id="dropdown-tab-toggle-development" type="button" data-toggle="dropdown-tab" data-target="#dropdown-tab-development" role="tab" aria-controls="dropdown-tab-development" aria-selected="true" aria-label="Submenu for Development"></button>
+                           
+                        </li>
+                        
+                     </ul>
+                     <ul class="dropdown-tab-content">
+                        
+                        
+                        <li class=" has-collapse  active" id="dropdown-tab-rsm-and-me" role="tabpanel" aria-labelledby="dropdown-tab-toggle-rsm-and-me">
+                           <div class="dropdown-collapse">
+                              
+                              
+                                
+                                    <a class="dropdown-item" href="https://careers.rsmuk.com/uk/en/working-at-rsm" target="_blank">RSM and Me</a>
+                                
+                              
+                              
+                                 <button class="dropdown-collapse-toggle collapsed" type="button" data-toggle="collapse" data-target="#dropdown-collapse-rsm-and-me" aria-expanded="false" aria-controls="dropdown-collapse-rsm-and-me" aria-label="Submenu for RSM and Me"></button>
+                              
+                           </div>
+                           <ul class="dropdown-collapse-menu collapse" id="dropdown-collapse-rsm-and-me" data-parent="#primary-nav">
+                                 
+                              <li>
+                                       <ul >
+                                    
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="https://careers.rsmuk.com/uk/en/working-at-rsm" target="_blank">Working at RSM</a>
+                                        
+                                    
+                              </li>
+                              
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="https://careers.rsmuk.com/uk/en/benefits" target="_blank">Benefits</a>
+                                        
+                                    
+                              </li>
+                              
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="https://careers.rsmuk.com/uk/en/wellbeing" target="_blank">Wellbeing</a>
+                                        
+                                    
+                              </li>
+                              
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="https://careers.rsmuk.com/uk/en/diversityandinclusion" target="_blank">Diversity, inclusion and belonging at RSM</a>
+                                        
+                                    
+                              </li>
+                              
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="https://careers.rsmuk.com/uk/en/csr-work" target="_blank">Corporate social responsibility</a>
+                                        
+                                    
+                              </li>
+                              
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="https://careers.rsmuk.com/uk/en/blog" target="_blank">People stories</a>
+                                        
+                                    
+                              </li>
+                              
+                           </ul>
+                           
+                        </li>
+                        
+                     </ul>
+               </li>
+               
+                        
+                        <li class=" has-collapse  active" id="dropdown-tab-early-careers" role="tabpanel" aria-labelledby="dropdown-tab-toggle-early-careers">
+                           <div class="dropdown-collapse">
+                              
+                              
+                                
+                                    <a class="dropdown-item" href="https://careers.rsmuk.com/uk/en/early-careers" target="_blank">Early careers</a>
+                                
+                              
+                              
+                                 <button class="dropdown-collapse-toggle collapsed" type="button" data-toggle="collapse" data-target="#dropdown-collapse-early-careers" aria-expanded="false" aria-controls="dropdown-collapse-early-careers" aria-label="Submenu for Early careers"></button>
+                              
+                           </div>
+                           <ul class="dropdown-collapse-menu collapse" id="dropdown-collapse-early-careers" data-parent="#primary-nav">
+                                 
+                              <li>
+                                       <ul >
+                                    
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="https://careers.rsmuk.com/uk/en/graduates" target="_blank">Graduates</a>
+                                        
+                                    
+                              </li>
+                              
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="https://careers.rsmuk.com/uk/en/school-leavers" target="_blank">School leavers</a>
+                                        
+                                    
+                              </li>
+                              
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="https://careers.rsmuk.com/uk/en/work-experience" target="_blank">Work experience</a>
+                                        
+                                    
+                              </li>
+                              
+                           </ul>
+                           
+                        </li>
+                        
+                     </ul>
+               </li>
+               
+                        
+                        <li class=" has-collapse  active" id="dropdown-tab-experienced-hires" role="tabpanel" aria-labelledby="dropdown-tab-toggle-experienced-hires">
+                           <div class="dropdown-collapse">
+                              
+                              
+                                
+                                    <a class="dropdown-item" href="https://careers.rsmuk.com/uk/en/experienced-hire" target="_blank">Experienced hires</a>
+                                
+                              
+                              
+                                 <button class="dropdown-collapse-toggle collapsed" type="button" data-toggle="collapse" data-target="#dropdown-collapse-experienced-hires" aria-expanded="false" aria-controls="dropdown-collapse-experienced-hires" aria-label="Submenu for Experienced hires"></button>
+                              
+                           </div>
+                           <ul class="dropdown-collapse-menu collapse" id="dropdown-collapse-experienced-hires" data-parent="#primary-nav">
+                                 
+                              <li>
+                                       <ul >
+                                    
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="https://careers.rsmuk.com/uk/en/audit" target="_blank">Audit</a>
+                                        
+                                    
+                              </li>
+                              
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="https://careers.rsmuk.com/uk/en/business-services" target="_blank">Business services</a>
+                                        
+                                    
+                              </li>
+                              
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="https://careers.rsmuk.com/uk/en/outsourcing" target="_blank">Outsourcing</a>
+                                        
+                                    
+                              </li>
+                              
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="https://careers.rsmuk.com/uk/en/consulting-risk" target="_blank">Consulting and risk</a>
+                                        
+                                    
+                              </li>
+                              
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="https://careers.rsmuk.com/uk/en/technology-digital-advisory" target="_blank">Digital</a>
+                                        
+                                    
+                              </li>
+                              
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="https://careers.rsmuk.com/uk/en/tax" target="_blank">Tax</a>
+                                        
+                                    
+                              </li>
+                              
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="https://careers.rsmuk.com/uk/en/accounting-and-financial-reporting" target="_blank">Accounting and business advisory</a>
+                                        
+                                    
+                              </li>
+                              
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="https://careers.rsmuk.com/uk/en/transaction-and-restructuring-advisory" target="_blank">Transactions and restructuring advisory</a>
+                                        
+                                    
+                              </li>
+                              
+                           </ul>
+                           
+                        </li>
+                        
+                     </ul>
+               </li>
+               
+                        
+                        <li class=" active" id="dropdown-tab-directors-and-partners" role="tabpanel" aria-labelledby="dropdown-tab-toggle-directors-and-partners">
+                           <div class="dropdown-collapse">
+                              
+                              
+                                
+                                    <a class="dropdown-item" href="https://careers.rsmuk.com/uk/en/leadership" target="_blank">Directors and Partners</a>
+                                
+                              
+                              
+                           </div>
+                           <ul class="dropdown-collapse-menu collapse" id="dropdown-collapse-directors-and-partners" data-parent="#primary-nav">
+                              
+                     </ul>
+               </li>
+               
+                        
+                        <li class=" has-collapse  active" id="dropdown-tab-development" role="tabpanel" aria-labelledby="dropdown-tab-toggle-development">
+                           <div class="dropdown-collapse">
+                              
+                              
+                                
+                                    <a class="dropdown-item" href="https://careers.rsmuk.com/uk/en/development" target="_blank">Development</a>
+                                
+                              
+                              
+                                 <button class="dropdown-collapse-toggle collapsed" type="button" data-toggle="collapse" data-target="#dropdown-collapse-development" aria-expanded="false" aria-controls="dropdown-collapse-development" aria-label="Submenu for Development"></button>
+                              
+                           </div>
+                           <ul class="dropdown-collapse-menu collapse" id="dropdown-collapse-development" data-parent="#primary-nav">
+                                 
+                              <li>
+                                       <ul >
+                                    
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="https://careers.rsmuk.com/uk/en/professional-qualifications" target="_blank">Professional qualifications</a>
+                                        
+                                    
+                              </li>
+                              
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="https://careers.rsmuk.com/uk/en/professionaldevelopment" target="_blank">Professional development</a>
+                                        
+                                    
+                              </li>
+                              
+                                    
+                                    
+                                        
+                                            <a class="dropdown-item " href="https://careers.rsmuk.com/uk/en/global-opportunities" target="_blank">Global opportunities</a>
+                                        
+                                    
+                              </li>
+                              
+                           </ul>
+                           
+                        </li>
+                        
+                     </ul>
+               </li>
+               
+               
+               <li class="dropdown-card">
+               <figure class="dropdown-card-fig">
+               
+               <img src="/-/media/project/rsm/rsm-uk/site-navigation/careers-web-menu-360x240/0703-early-careers_promo-card_360x240.jpg" alt="alt">
+               </figure>
+               <div class="dropdown-card-body">
+               <p class="dropdown-card-text">
+               
+               </p>
+              <p class="dropdown-card-tags">
+               <p>We&rsquo;re always looking for new people who can broaden our scope and expertise. Could you be one of them?</p>
+               </p>
+               </div>
+               <div class="dropdown-card-footer"><a href="https://careers.rsmuk.com/uk/en" class="dropdown-item dropdown-card-link primary-link-green" target= "_blank">
+               Browse jobs at RSM
+               <span class="dropdown-card-link-icon icon-Chevron_Right"></span>
+               </a>
+               </div>
+               </li>
+               
+            </ul>
+            </div>
+            </li>
+            
+            
+            <li class="nav-item nav-item-cta d-xl-none">
+               <a class="primary-btn" href="/contact-us">Contact RSM</a>
+            </li>
+            <a href="/search" data-query-string="searchStudioQuery" class="d-none goSearch" target="_blank">Search</a>
+            <li class="nav-item nav-item-searchbar">
+               <div class="searchbar header-search">
+                  <span class="searchbar-icon fa icon-search" aria-hidden="true"></span>
+                  <input class="searchbar-input" id="searchBar" type="text" placeholder="Search" aria-label="Site Search"/>
+               </div>
+            </li>
+            <li class="nav-item nav-item-cta d-none d-xl-flex">
+               <a class="primary-btn" href="/contact-us">Contact RSM</a>
+            </li>
+            </ul>
+            <ul class="navbar-nav-secondary">
+               <li class="nav-item">
+                  
+               </li>
+               <li class="nav-item">
+                  <a class="nav-link" href="/news">News</a>
+               </li>
+               <li class="nav-item dropdown dropdown-language">
+                  
+                  <button class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false" data-display="static">
+                     <svg class="dropdown-toggle-icon" width="14" height="18" viewBox="0 0 14 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M7.00065 9.0013C6.08398 9.0013 5.33398 8.2513 5.33398 7.33464C5.33398 6.41797 6.08398 5.66797 7.00065 5.66797C7.91732 5.66797 8.66732 6.41797 8.66732 7.33464C8.66732 8.2513 7.91732 9.0013 7.00065 9.0013ZM12.0007 7.5013C12.0007 4.4763 9.79232 2.33464 7.00065 2.33464C4.20898 2.33464 2.00065 4.4763 2.00065 7.5013C2.00065 9.4513 3.62565 12.0346 7.00065 15.118C10.3757 12.0346 12.0007 9.4513 12.0007 7.5013ZM7.00065 0.667969C10.5006 0.667969 13.6673 3.3513 13.6673 7.5013C13.6673 10.268 11.4423 13.543 7.00065 17.3346C2.55898 13.543 0.333984 10.268 0.333984 7.5013C0.333984 3.3513 3.50065 0.667969 7.00065 0.667969Z" fill="white"></path>
+                     </svg>
+                     <span>Europe</span>                                         
+                  </button>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                   
+                  <ul class="dropdown-menu">
+                     
+                     <li>
+                        <a href="https://www.rsm.global/europe" rel="noopener noreferrer" class="dropdown-item" target="_blank">Europe</a>
+                     </li>
+                     
+                     <li>
+                        <a href="https://www.rsm.global/africa" rel="noopener noreferrer" class="dropdown-item" target="_blank">Africa</a>
+                     </li>
+                     
+                     <li>
+                        <a href="https://www.rsm.global/asiapacific" rel="noopener noreferrer" class="dropdown-item" target="_blank">Asia Pacific</a>
+                     </li>
+                     
+                     <li>
+                        <a href="https://www.rsm.global/latinamerica/en/region/latin-america" rel="noopener noreferrer" class="dropdown-item" target="_blank">Latin America</a>
+                     </li>
+                     
+                     <li>
+                        <a href="https://www.rsm.global/mena" rel="noopener noreferrer" class="dropdown-item" target="_blank">MENA</a>
+                     </li>
+                     
+                     <li>
+                        <a href="https://www.rsm.global/north-america" rel="noopener noreferrer" class="dropdown-item" target="_blank">North America</a>
+                     </li>
+                     
+                  </ul>
+               </li>
+            </ul>
+         </div>
+      </div>
+   </nav>
+</div>    </div>
+</div>
+</div>
+        </div>
+    </header>
+    <!-- /#header -->
+    <!-- #content -->
+    <main>
+        <div id="content" class="container-fluid">
+            <div class="row">
+<div class="component hero-banner-big-component col-12">
+    <div class="component-content">
+<div class="component hero hero-home hero-component">
+    <div class="component-content">
+        <figure class="hero-figure">
+            <picture>
+                
+
+                
+                    <source media="(max-width: 767px)" srcset="/-/media/project/rsm/rsm-uk/portraiture-2024/025a-homepage-banner-750x580-james.jpg, /-/media/project/rsm/rsm-uk/portraiture-2024/025-a-homepage-banner-2880x750_james-3.jpg">
+                    <img srcset="/-/media/project/rsm/rsm-uk/portraiture-2024/025-a-homepage-banner-2880x750_james-3.jpg" src="/-/media/project/rsm/rsm-uk/portraiture-2024/025-a-homepage-banner-2880x750_james-3.jpg" alt="" class="hero-image">
+                
+
+            </picture>
+        </figure>
+        
+            
+                <div class="hero-caption">
+                    <div class="hero-content max-w">
+                        <div class="hero-heading">
+                            <h1>
+                                RSM: Audit, tax and <br> consulting services
+                            </h1>
+                        </div>
+                    </div>
+                </div>
+            
+        
+    </div>
+</div>    </div>
+</div>
+
+<div class="component rcss-one-column-cta col-12">
+    <div class="component-content">
+<div class="container column-cta mt-3 mb-2" id="testanoop1">
+<div class="row">
+            <div class="px-0 d-block position-relative p-octa">
+                <div class="item" id="testtest">
+                  <div>
+                  
+                  
+            
+                <img alt=" " class="d-none d-md-block" src="/-/media/project/rsm/rsm-uk/real-economy/testing-folder/economic-outlook-1-col-cta-test.jpg">
+                 
+				    <img alt="UK quarterly economic outlook" class=" d-md-none" src="/-/media/project/rsm/rsm-uk/real-economy/uk-quarterly-economic-outlook/tre_eo-24_web_1-col-mob_750x920.jpg">
+		          
+		     
+        </div>
+		
+					
+                    <div class="column-caption">
+                        <div class="w-100 px-60 ">
+                            <div class="col-md-8 col-lg-7 one-column-cta-banner position-static">
+                                <div class="text-white body-subhead">The Real Economy </div>
+                                <h2 class="fw-light py-20 text-white">UK Quarterly Economic Outlook - Q1 2025</h2>
+                                    <div class="body-large pb-20 text-white">Following a period of stagnation, the UK economy is on track for sharp growth in 2025.</div>
+                                    <div class="one-column-cta-link"><a href="/insights/real-economy/uk-quarterly-economic-outlook" target="" class="primary-link-white remove-after-css">
+                                        <span>Explore our economic insights</span>
+                                    </a>
+
+                                    </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </div> 
+        <span> </span>    </div>
+</div>
+
+<div class="component rcss-two-column-cta col-12">
+    <div class="component-content">
+<div class="container column-cta mt-3 mb-2 px-0">
+    <div class="row">
+        
+        <div class="col-md-6">
+            <div class=" d-block position-relative">
+                <div class="item">
+                    <div>
+                    
+                        
+                        
+                <img alt="  " class="d-none d-md-block" src="/-/media/project/rsm/rsm-uk/insights/real-estate-360/2025/landing-page/re360_2025_homepage_1240x920-2_column-cta_desktop.jpg">
+                 
+				    <img alt="  " class=" d-md-none" src="/-/media/project/rsm/rsm-uk/insights/real-estate-360/2025/landing-page/re360_2025_homepage_750x920--2_columncta_mobile.jpg">
+		          
+		   
+                    
+					</div>
+                    <div class="column-caption">
+                        <div class="w-100 px-40 ">
+                            <div>
+                                <div class="text-white body-subhead"></div>
+                                <h2 class="fw-light py-20 text-white">Real Estate 360&#176;</h2>
+                                <div class="body-large pb-20 text-white">Explore the views of 200 business leaders on funding, asset classes, tax, government policy and ESG in our 2025 Real Estate 360 report.</div>
+                                <div class="two-column-cta-link"><a href="/insights/real-estate-360" target="" class="mt-4 btm primary-link-white remove-after-css">
+                                        <span>Read our insights</span>
+                                    </a>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-md-6">
+            <div class=" d-block position-relative">
+                <div class="item">
+                    <div>
+                    
+                        
+                        
+                <img alt=" " class="d-none d-md-block" src="/-/media/project/rsm/rsm-uk/insights/the-loop/talking-tech/hub-page/2-col-cta-desktop-1240-x-920px_talking-tech.jpg">
+                 
+				    <img alt=" " class=" d-md-none" src="/-/media/project/rsm/rsm-uk/insights/the-loop/talking-tech/hub-page/1-col-cta-mob-750-x-920px_talking-tech.jpg">
+		          
+		   
+                    
+					</div>
+                    <div class="column-caption">
+                        <div class="w-100 px-40 ">
+                            <div>
+                                <div class="text-white body-subhead"></div>
+                                <h2 class="fw-light py-20 text-white">Why do we need smart cities?</h2>
+                                <div class="body-large pb-20 text-white">Explore smart cities on The Loop Talking Tech. Learn how UK tech is transforming urban life into efficient, sustainable, user-friendly environments.</div>
+                                <div class="two-column-cta-link"><a href="/insights/the-loop/why-do-we-need-smart-cities" target="" class="mt-4 btm primary-link-white remove-after-css">
+                                        <span>Explore our Talking Tech podcast</span>
+                                    </a>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+    </div>
+</div>
+<span>  </span>    </div>
+</div>
+
+<div class="component rcss-one-column-cta col-12">
+    <div class="component-content">
+<div class="container column-cta mt-3 mb-2" id="testanoop1">
+<div class="row">
+            <div class="px-0 d-block position-relative p-octa">
+                <div class="item" id="testtest">
+                  <div>
+                  
+                  
+            
+                <img alt=" " class="d-none d-md-block" src="/-/media/project/rsm/rsm-uk/insights/image-bank/abstract/22-abstract_sea_of_light_dsk-1-col_2560x920.jpg">
+                 
+				    <img alt=" " class=" d-md-none" src="/-/media/project/rsm/rsm-uk/insights/image-bank/abstract/22-abstract_sea_of_light_mob-col-cta_750x920.jpg">
+		          
+		     
+        </div>
+		
+					
+                    <div class="column-caption">
+                        <div class="w-100 px-60 ">
+                            <div class="col-md-8 col-lg-7 one-column-cta-banner position-static">
+                                <div class="text-white body-subhead">Global highlights</div>
+                                <h2 class="fw-light py-20 text-white">RSM global revenue hits $10bn as demand from middle-market drives growth</h2>
+                                    <div class="body-large pb-20 text-white">RSM, the leading provider of audit, tax and consulting services to middle-market businesses, has today announced worldwide revenues of US$10bn for the 12 months to December 2024.</div>
+                                    <div class="one-column-cta-link"><a href="https://www.rsm.global/2024-global-financial-results" target="_blank" class="primary-link-white remove-after-css">
+                                        <span>Find out more</span>
+                                    </a>
+
+                                    </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </div> 
+        <span> </span>    </div>
+</div>
+
+<div class="component rcss-two-column-cta col-12">
+    <div class="component-content">
+<div class="container column-cta mt-3 mb-2 px-0">
+    <div class="row">
+        
+        <div class="col-md-6">
+            <div class=" d-block position-relative">
+                <div class="item">
+                    <div>
+                    
+                        
+                        
+                <img alt="" class="d-none d-md-block" src="/-/media/project/rsm/rsm-uk/homepage/2-column-cta_alumni_1240x920_desktop.jpg">
+                 
+				    <img alt="" class=" d-md-none" src="/-/media/project/rsm/rsm-uk/homepage/2-column-cta_alumni_750x920_mobile.jpg">
+		          
+		   
+                    
+					</div>
+                    <div class="column-caption">
+                        <div class="w-100 px-40 ">
+                            <div>
+                                <div class="text-white body-subhead">Who we are</div>
+                                <h2 class="fw-light py-20 text-white">The RSM Alumni Network</h2>
+                                <div class="body-large pb-20 text-white">Whether you’ve moved onto other industries or are continuing along a similar path – we’d love to stay in touch. </div>
+                                <div class="two-column-cta-link"><a href="https://alumni.rsmuk.com/" target="_blank" class="mt-4 btm primary-link-white remove-after-css">
+                                        <span>Learn more about our network</span>
+                                    </a>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-md-6">
+            <div class=" d-block position-relative">
+                <div class="item">
+                    <div>
+                    
+                        
+                        
+                <img alt="" class="d-none d-md-block" src="/-/media/project/rsm/rsm-uk/homepage/early-careers_2-col-cta_desktop_1240-x-920px-.jpg">
+                 
+				    <img alt="" class=" d-md-none" src="/-/media/project/rsm/rsm-uk/homepage/early-careers_2-col-cta_mob_750-x-920px-.jpg">
+		          
+		   
+                    
+					</div>
+                    <div class="column-caption">
+                        <div class="w-100 px-40 ">
+                            <div>
+                                <div class="text-white body-subhead">Careers</div>
+                                <h2 class="fw-light py-20 text-white">Early Careers</h2>
+                                <div class="body-large pb-20 text-white">Our early careers programmes are designed to broaden your mind from day one. </div>
+                                <div class="two-column-cta-link"><a href="https://careers.rsmuk.com/uk/en/early-careers" target="" class="mt-4 btm primary-link-white remove-after-css">
+                                        <span>Explore a career at RSM</span>
+                                    </a>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+    </div>
+</div>
+<span>  </span>    </div>
+</div>
+
+<div class="component rcss-one-column-cta col-12">
+    <div class="component-content">
+<div class="container column-cta mt-3 mb-2" id="testanoop1">
+<div class="row">
+            <div class="px-0 d-block position-relative p-octa">
+                <div class="item" id="testtest">
+                  <div>
+                  
+                  
+            
+                <img alt="" class="d-none d-md-block" src="/-/media/project/rsm/rsm-uk/hero-banner/news/corporate/8222-website-illustrations_corporate_2880x800-green.jpg">
+                 
+				    <img alt="1 column CTA_M" class=" d-md-none" src="/-/media/project/rsm/rsm-uk/hero-banner/news/corporate/8222-website-illustrations_corporate_2880x800-green.jpg">
+				   
+				 
+		     
+        </div>
+		
+					
+                    <div class="column-caption">
+                        <div class="w-100 px-60 ">
+                            <div class="col-md-8 col-lg-7 one-column-cta-banner position-static">
+                                <div class="text-white body-subhead">Preference centre</div>
+                                <h2 class="fw-light py-20 text-white">Follow the latest news and insights</h2>
+                                    <div class="body-large pb-20 text-white">Sign up to our insights or one of our newsletters for advice, news and changes in the world of audit, tax and consulting.</div>
+                                    <div class="one-column-cta-link"><a href="https://news.rsmuk.com/preference-centre/" target="" class="primary-link-white remove-after-css">
+                                        <span>Select your preferences</span>
+                                    </a>
+
+                                    </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </div> 
+        <span> </span>    </div>
+</div>
+
+<div class="component spacer col-12">
+    <div class="component-content">
+<div class="spacer"></div>    </div>
+</div>
+</div>
+        </div>
+    </main>
+    <!-- /#content -->
+    <!-- #footer -->
+    <footer>
+        <div id="footer" class="container-fluid">
+            <div class="row">
+
+<div class="component body-copy ui-dev col-12">
+    <div class="component-content">
+<footer aria-label="Footer" class="footer bg-gray-5">
+<div class="container demo">
+   <div class="row">
+      <div class="d-md-flex px-0  d-none justify-content-between">
+         <div>
+            <h3 class="pb-10 mt-4">THE POWER OF BEING UNDERSTOOD</h3>
+            <h5 class="text-uppercase">Audit | Tax | Consulting</h5>
+         </div>
+         
+         <div class="text-end">
+            <a href="/">                       
+            <img src="/-/media/project/rsm/rsm-uk/footer/rsm-footer-logo_desktop.png" height="45" alt="RSM Footer Logo Desktop" />
+            </a>
+            <ul class="social-footer">
+               <li>
+                  <h4 class="mb-0">Follow RSMUK:</h4>
+               </li>
+               <li>
+                   <a href="https://www.instagram.com/rsm.uk/" 
+                       title="INSTAGRAM" target="_blank">
+                       <i class="common_icon icon-Instagram_black"></i>
+                   </a>
+               </li> 
+               <li>
+                   <a href="https://www.linkedin.com/company/rsm-uk" 
+                       title="LINKEDIN" target="_blank">    
+                       <i class="common_icon icon-LinkedIN_black"></i>
+                   </a>
+               </li>
+               <li>    
+                   <a href="https://twitter.com/RSMUK" 
+                       title="TWITTER" target="_blank">
+                       <i class="common_icon icon-Twitter_black"></i>
+                   </a></li>
+               <li>
+                   <a href="http://www.youtube.com/c/Rsmuk1" 
+                       title="YOUTUBE" target="_blank">
+                        <i class="common_icon icon-Youtube_black"></i>
+                   </a>
+               </li>
+            </ul>
+         </div>
+      </div>
+      <div class="d-md-none text-center">
+         <a href="/">
+         <img
+            src="/-/media/project/rsm/rsm-uk/footer/rsm-footer-logo_mobile.png"
+            height="45" alt="RSM Footer Logo Mobile"/>
+         </a>
+         <div class="spacer"></div>
+         <div>
+            <h3 class="pb-10 wrap-text-mobileview">THE POWER OF BEING UNDERSTOOD</h3>
+            <h5 class="text-uppercase">Audit | Tax | Consulting</h5>
+         </div>
+         <div>
+            <ul class="social-footer">
+               <li class="d-block">
+                  <div class="spacer d-md-none"></div>
+                  <h4 class="mb-3 pb-1 mb-md-0 pb-md-0">Follow RSMUK:</h4>
+               </li>
+               <li>
+                   <a href="https://www.instagram.com/rsm.uk/" 
+                       title="INSTAGRAM" target="_blank">
+                       <i class="common_icon icon-Instagram_black"></i>
+                   </a>
+               </li>
+               <li>
+                   <a href="https://www.linkedin.com/company/rsm-uk" 
+                       title="LINKEDIN" target="_blank">    
+                       <i class="common_icon icon-LinkedIN_black"></i>
+                   </a>
+               </li>
+               <li>    
+                   <a href="https://twitter.com/RSMUK" 
+                       title="TWITTER" target="_blank">
+                       <i class="common_icon icon-Twitter_black"></i>
+                   </a></li>
+               <li>
+                   <a href="http://www.youtube.com/c/Rsmuk1" 
+                       title="YOUTUBE" target="_blank">
+                        <i class="common_icon icon-Youtube_black"></i>
+                   </a>
+               </li>
+            </ul>
+         </div>
+      </div>
+      <div class="footer-links">
+         <div class="container px-0 px-lg-0">
+            <div class="row">
+               <div class="col-md-4 col-lg-5">
+                  <h4>RSM links</h4>
+                  <div class="mbl-link-accordion">
+                     <ul class="footer-two-list">
+                                                           
+                        <li> 
+                           <a href="/offices">Local offices</a>
+                        </li>
+                                                           
+                        <li> 
+                           <a href="/our-people">Our people</a>
+                        </li>
+                                                           
+                        <li> 
+                           <a href="https://www.rsmuk.com/preferences" rel="noopener noreferrer" target="_blank">Choose your email preferences</a>
+                        </li>
+                                                           
+                        <li> 
+                           <a href="/accessibility">Accessibility</a>
+                        </li>
+                                                           
+                        <li> 
+                           <a href="/gender-pay-gap-information">Gender pay gap information</a>
+                        </li>
+                                                           
+                        <li> 
+                           <a href="/about-rsm/our-reports/our-transparency-reports">Our transparency reports</a>
+                        </li>
+                                                           
+                        <li> 
+                           <a href="/misuse-of-rsm-name-and-brand">Misuse of RSM name and brand</a>
+                        </li>
+                                                           
+                        <li> 
+                           <a href="/freedom-of-information-and-environmental-information">Freedom of Information and Environmental Information</a>
+                        </li>
+                                                           
+                        <li> 
+                           <a href="https://shareauction.rsmuk.com/" rel="noopener noreferrer" target="_blank">RSM shareholder login</a>
+                        </li>
+                                                           
+                        <li> 
+                           <a href="https://www.rsmlink.global/" rel="noopener noreferrer" target="_blank">RSM member login</a>
+                        </li>
+                        
+                     </ul>
+                  </div>
+               </div>
+               <div class="col-md-4 col-lg-5">
+                  <h4>International services</h4>
+                  <div class="mbl-link-accordion">
+                     <ul class="footer-two-list">
+                                                           
+                        <li> 
+                           <a href="/what-we-offer/services/audit-services">Audit services</a>
+                        </li>
+                                                           
+                        <li> 
+                           <a href="/what-we-offer/services/consulting/business-transformation">Business transformation</a>
+                        </li>
+                                                           
+                        <li> 
+                           <a href="/what-we-offer/services/consulting/deal-services">Deal services</a>
+                        </li>
+                                                           
+                        <li> 
+                           <a href="/what-we-offer/services/consulting/finance-function-support">Finance function support</a>
+                        </li>
+                                                           
+                        <li> 
+                           <a href="/what-we-offer/services/consulting/forensic-and-investigation-services">Fraud and investigations</a>
+                        </li>
+                                                           
+                        <li> 
+                           <a href="/what-we-offer/services/tax/legal-services">Legal services</a>
+                        </li>
+                                                           
+                        <li> 
+                           <a href="/what-we-offer/services/tax/people-advisory-services">People advisory services</a>
+                        </li>
+                                                           
+                        <li> 
+                           <a href="/what-we-offer/services/consulting/restructuring">Restructuring</a>
+                        </li>
+                                                           
+                        <li> 
+                           <a href="/what-we-offer/services/consulting/risk-and-governance">Risk and governance</a>
+                        </li>
+                                                           
+                        <li> 
+                           <a href="/what-we-offer/services/tax">Tax</a>
+                        </li>
+                        
+                     </ul>
+                  </div>
+               </div>
+               <div class="col-md-4 col-lg-2">
+                  <h4>Worldwide locations</h4>
+                  <div class="mbl-link-accordion">
+                     <ul>
+                                                           
+                        <li> 
+                           <a href="https://www.rsm.global/africa" rel="noopener noreferrer" target="_blank">Africa</a>
+                        </li>
+                                                           
+                        <li> 
+                           <a href="https://www.rsm.global/asiapacific" rel="noopener noreferrer" target="_blank">Asia Pacific</a>
+                        </li>
+                                                           
+                        <li> 
+                           <a href="https://www.rsm.global/europe" rel="noopener noreferrer" target="_blank">Europe</a>
+                        </li>
+                                                           
+                        <li> 
+                           <a href="https://www.rsm.global/latinamerica/en/region/latin-america" rel="noopener noreferrer" target="_blank">Latin America</a>
+                        </li>
+                                                           
+                        <li> 
+                           <a href="https://www.rsm.global/mena" rel="noopener noreferrer" target="_blank">Middle East and North Africa</a>
+                        </li>
+                                                           
+                        <li> 
+                           <a href="https://www.rsm.global/northamerica" rel="noopener noreferrer" target="_blank">North America</a>
+                        </li>
+                        
+                     </ul>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <div class="text-caption-large px-0">
+         The UK group of companies and LLPs trading as RSM is a member of the RSM network. RSM is the trading name used by the members of the RSM network. Each member of the  RSM network is an independent accounting and consulting firm which practises in its own right. The RSM network is not itself a separate legal entity in any jurisdiction.
+         <a class="body-caption" href="/legal-statements">Read more</a>
+      </div>
+      <div class="spacer"></div>
+      <div class="container-fluid px-0">
+         <div class="row">
+            <div class="col-lg-6">
+            <div class="my-4 my-lg-0">
+               <h4 class="h4 ">&#169; 2025 RSM UK Group LLP. All rights reserved.</h4>
+               </div>
+            </div>
+            <div class="col-lg-6">
+               <div class="spacer d-md-none"></div>
+               <div class="d-md-flex justify-content-center justify-content-lg-end">
+                  <div>                
+                     <a class="h4" href="/legal-statements">Legal statements</a>
+                  </div>
+                  <div>        
+                     <a class="h4" href="/privacy-and-cookies">Privacy and cookies</a>
+                  </div>
+                  <div>   
+                     <a class="h4" href="/slavery-and-human-trafficking">Slavery and human trafficking</a>
+                  </div>
+               </div>
+           </div>
+       </div>
+   </div>
+</div>
+</div>
+</div>
+</footer>
+
+
+<span>  </span>
+    </div>
+</div>
+</div>
+        </div>
+    </footer>
+    <!-- /#footer -->
+</div>
+<!-- /#wrapper -->
+
+  
+
+
+
+
+
+ <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.13.2/jquery-ui.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.js" integrity="sha512-gY25nC63ddE0LcLPhxUJGFxa2GoIyA5FLym4UJqHDEMHjp8RET6Zn/SHo1sltt3WuVtqfyxECP38/daUc/WVEA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.3/js/bootstrap.min.js"> </script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.sumoselect/3.4.6/jquery.sumoselect.js" integrity="sha512-pAVnXYGCOnOANkh8ifjaz39/QjQ3jCqsKZ6XA4Tep5Q+Pr7tO0pgzLKE1o4Ult2lsmaM8YjXBSuQgoyqiA+Vvw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script> $.each($(".author_name a"), function(index, item) { console.log( $(this).attr('href')); var oldUrl = $(this).attr("href"); var newUrl = oldUrl.replace("/rsm/rsm-uk/home/", "/"); $(this).attr("href", newUrl);console.log( $(this).attr('href')); }) </script>
+
+
+  <script src="/-/media/base-themes/core-libraries/scripts/optimized-min.js?t=20240203T062008Z"></script><script src="/-/media/base-themes/xa-api/scripts/optimized-min.js?t=20240203T060141Z"></script><script src="/-/media/base-themes/main-theme/scripts/optimized-min.js?t=20221219T110153Z"></script><script src="/-/media/base-themes/google-maps-js-connector/scripts/optimized-min.js?t=20240203T071443Z"></script><script src="/-/media/base-themes/maps/scripts/optimized-min.js?t=20240203T044458Z"></script><script src="/-/media/base-themes/searchtheme/scripts/optimized-min.js?t=20240203T045249Z"></script><script src="/-/media/base-themes/components-theme/scripts/optimized-min.js?t=20240203T044402Z"></script><script src="/-/media/base-themes/resolve-conflicts/scripts/optimized-min.js?t=20221219T110159Z"></script><script src="/-/media/themes/rsm/rsm-uk/rsmtheme/scripts/pre-optimized-min.js?t=20241127T125046Z"></script>  <!-- /#wrapper -->
+
+
+  <script>
+
+    completeAjaxCall = function completeAjaxCall(result) {
+      console.log('completeAjaxCall started');
+      localStorage.removeItem("EnquiryDDL");
+    };
+
+    successAjaxCall = function successAjaxCall(result) {
+      console.log('successAjaxCall started');
+
+      /*For Contact Us Form */
+      if ($('form').hasClass('ga-contact-us')) {
+        console.log('ga-contact-us');
+        console.log(localStorage.getItem('EnquiryDDL'));
+        var enquiryReson = localStorage.getItem('EnquiryDDL');
+        window.dataLayer = window.dataLayer || [];
+        dataLayer.push({
+          event: "form_submission",
+          form_type: enquiryReson //"{enquiry reason dropdown}"
+        });
+      }
+
+      /*For GA Product Enquiry */
+      if ($('form').hasClass('ga-product-enquiry')) {
+        console.log('ga-product-enquiry');
+        window.dataLayer = window.dataLayer || [];
+        dataLayer.push({
+          event: "form_submission",
+          form_type: "product enquiry"
+        });
+      }
+
+      /*For GA Campaign */
+      if ($('form').hasClass('ga-campaign')) {
+        console.log('ga-campaign');
+        window.dataLayer = window.dataLayer || [];
+        dataLayer.push({
+          event: "form_submission",
+          form_type: "campaign"
+        })
+      }
+
+      /*For GA Gated PDF */
+      if ($('form').hasClass('ga-gated-pdf')) {
+        console.log('ga-gated-pdf');
+        window.dataLayer = window.dataLayer || [];
+        dataLayer.push({
+          event: "form_submission",
+          form_type: "gated pdf"
+        })
+
+      }
+      console.log('successAjaxCall end');
+      // $(location).prop('href', '/thank-you')
+
+    }
+    onBeginAjaxCall = function onBeginAjaxCall(result) {
+    }
+  </script>
+</body>
+</html>

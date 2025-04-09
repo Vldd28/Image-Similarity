@@ -1,0 +1,2500 @@
+
+
+
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="da-DK">
+<!--<![endif]-->
+<head>
+    <!-- Load only critical fonts synchronusly -->
+    <link rel="preload" as="font" href="/-/media/themes/wolterskluwer/oneweb/www/oneweb/fonts/wk-icons/wk-icons-open.woff" crossorigin />
+    <link rel="preload" as="font" href="/-/media/themes/wolterskluwer/oneweb/www/oneweb/fonts/wk-icons/wk-icons-filled.woff" crossorigin />
+
+    <!-- Load scripts asynchronusly -->
+<script defer src="/-/media/themes/wolterskluwer/oneweb/www/oneweb/scripts/optimized-min.js?rev=7371b09d05f74ccd8935010cb0c3539b&t=20250313T123852Z&hash=A36F87BA9D17F606371373ED0B667557"></script>
+    <!-- Load third party scripts asynchronusly -->
+
+    <!-- Load all css files -->
+<link rel="stylesheet" as="style"  href="/-/media/feature/experience%20accelerator/bootstrap%204/bootstrap%204/styles/optimized-min.css?rev=c22e259ea8a24a019821dc2e0c1139b2&t=20231129T105033Z&hash=E3F83863AC58D0F469E45354ED97148D" rel="stylesheet" /><link rel="stylesheet" as="style"  href="/-/media/base%20themes/custom%20oneweb%20theme/styles/optimized-min.css?rev=bf898b1b71a54f858b46d804064f2deb&t=20220301T130335Z&hash=505C7A2BBB093CAD6DDA8A501DAB94C1" rel="stylesheet" /><link rel="stylesheet" as="style"  href="/-/media/themes/wolterskluwer/oneweb/www/oneweb/styles/optimized-min.css?rev=deea8cc32f1047f8ae736442951e1ab5&t=20250313T123952Z&hash=62C6F9F3521CF1D0119D053A87466968" rel="stylesheet" />
+    
+    
+    
+
+
+    <script type="text/javascript">
+        if (window.location.href.indexOf("fallback=true") > -1) {
+            var newUrl = window.location.href.replace("?fallback=true", "").replace("&fallback=true", "");
+            history.pushState({}, document.title, newUrl);
+        }
+    </script>
+
+
+    <title>Innovative cloudl&#248;sninger til skat &amp; &#248;konomi  | Wolters Kluwer</title>
+
+
+
+
+    <link href="/-/media/project/wolterskluwer/oneweb/www/images/logo/favicon.png?rev=6da9fe6962df4273b795c6cfb9e618b5&amp;hash=F016F8CFE5FDC03CC24E409A201396C3" rel="shortcut icon" />
+
+
+
+<meta property="og:description"  content="Wolters Kluwer tilbyder professionelle og cloud-baserede løsninger til skat og økonomi. Kom med på den digitale rejse med faglig sparring og nye cloudprodukter."><meta property="og:image"  content="https://www.wolterskluwer.com/-/media/feature/wolterskluwer/oneweb/cards/fallbackimage/wklogo_defaultcardimage.jpg?rev=9516134538da4cb6b7b55e6b9742fa00"><meta property="og:title"  content="Skat & Økonomi Danmark"><meta property="og:url"  content="https://www.wolterskluwer.com/da-dk/solutions/skat-okonomi">
+
+
+<meta  name="description" content="Wolters Kluwer tilbyder professionelle og cloud-baserede løsninger til skat og økonomi. Kom med på den digitale rejse med faglig sparring og nye cloudprodukter."><meta http-equiv="content-language" content="da-dk"/>
+
+
+
+
+<meta property="twitter:image"  content="https://www.wolterskluwer.com/-/media/feature/wolterskluwer/oneweb/cards/fallbackimage/wklogo_defaultcardimage.jpg?rev=9516134538da4cb6b7b55e6b9742fa00"><meta property="twitter:description"  content="Wolters Kluwer tilbyder professionelle og cloud-baserede løsninger til skat og økonomi. Kom med på den digitale rejse med faglig sparring og nye cloudprodukter."><meta property="twitter:title"  content="Skat & Økonomi Danmark"><meta property="twitter:card"  content="summary_large_image">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5" />
+
+
+
+<script>
+    var wkPageData = window.wkPageData || {};
+    wkPageData.page = {
+          pageInfo:
+          {
+                  pageID: "{A60AD1CE-40DB-4229-8618-1CE1E1EC02C1}",
+                  pageTitle: "Skat &amp; &#216;konomi Danmark",
+                  pageCreationDate: "2024-11-13",
+                  pageFirstPublishDate: "2022-12-14",
+                  contentUpdateDate: "2024-12-16",
+                  daysSincelLastEdit: "88"
+          },
+
+          category:
+          {
+                 businessUnit: "TAA - Europe - Denmark" ,
+                 division: "TAA" ,
+                 allocatedBU: "EU - Scandinavia" ,
+                 siteSection: "L&#248;sninger fra Wolters Kluwer" ,
+                 segments: "Accounting and CPAs|Accounting Firms_Tax Professionals|Advisors|External Audit|Tax Advisor|Tax Preparers|Corporations|General Corporation|Small Business|SME|Corporate Indirect|Financial Services|Insurance Companies|Internal Audit|Law Firms|Legal Professionals" 
+          },
+
+         attributes:
+         {
+                 pageTemplate: "Solution Hub Page",
+                 pageLanguage: "da-dk",
+                 audience: "Accountant|Assistant Bookkeeper|Audit Manager|Bookkeeper|Chief Audit Executive|Head of Audit|Head of Closing|Head of Consolidation|Head of IT|Head of Tax|Owner|Partner|Senior Auditor",
+                 areaOfInterest: "Tax &amp; Accounting",
+                 solutionHub: "Skat &amp; &#216;konomi Danmark",
+                 topic: "Audit|Client Accounting Services|Accounting and Audit Standards|Digital Audit Workflow|Audit Methodology|Advisory Services|Bookkeeping|Software Solutions|Tax news|Digital Tax Workflow",
+                 umbrellaTopics: "Enterprise software|Workflow automation|Digital transformation|Future of work",
+                 geoAvailability: "Denmark"
+         }
+    };
+</script>
+
+
+        <link rel="alternate" hreflang="da-DK" href="https://www.wolterskluwer.com/da-dk/solutions/skat-okonomi" />
+        <link rel="alternate" hreflang="x-default" href="https://www.wolterskluwer.com/en" />
+    <link rel="canonical" href="https://www.wolterskluwer.com/da-dk/solutions/skat-okonomi" />
+
+
+<!-- Google Tag Manager --><script data-xp-off>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-53VFLLN');</script><!-- End Google Tag Manager -->
+
+<!-- OneTrust Cookies Consent Notice start for wolterskluwer.com -->
+<script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" data-document-language="true" type="text/javascript" charset="UTF-8" data-domain-script="9ecb427c-f876-4779-aeff-62bba4f8889f" ></script>
+<script type="text/javascript">
+function OptanonWrapper() { }
+</script>
+<!-- OneTrust Cookies Consent Notice end for wolterskluwer.com -->
+
+<!-- Custom JS for OneTrust  -->
+<script type="text/javascript">
+	function waitForCookieBanner(selector, callback){
+	  var timesRun = 0;
+	  var waitInterval = setInterval(function(){
+		  timesRun += 1;
+		  if(timesRun === 500){
+			  clearInterval(waitInterval);
+		  }
+		  if(document.querySelector(selector)){
+			  clearInterval(waitInterval);
+			  callback();
+		  }
+	  }, 10);
+	};
+	window.addEventListener('load', () => {
+		waitForCookieBanner("#onetrust-banner-sdk", function(){
+			if(document.querySelector(".ot-sdk-container").offsetHeight>0){
+				document.querySelector(".onetrust-pc-dark-filter").style ='display : block !important';
+			};
+			var closeButton = document.querySelector("#close-pc-btn-handler");
+			closeButton.addEventListener('click',()=>{
+				if(document.querySelector(".ot-sdk-container").offsetHeight>0){
+					document.querySelector(".onetrust-pc-dark-filter").classList.add("ot-hide");
+					document.querySelector(".onetrust-pc-dark-filter").classList.add("display-overlay");
+				}
+			});
+			var allButtons = document.querySelectorAll("#onetrust-reject-all-handler,#onetrust-accept-btn-handler,#accept-recommended-btn-handler,.ot-pc-refuse-all-handler,.save-preference-btn-handler");
+						allButtons.forEach((button)=>{
+						button.addEventListener('click',()=>{
+							document.querySelector(".onetrust-pc-dark-filter").classList.remove("display-overlay");
+					});
+				});
+		});
+	});
+</script>
+
+    <link rel="preconnect" href="https://www.gstatic.com" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link rel="preconnect" href="https://www.google-analytics.com" />
+    <link rel="preconnect" href="https://www.googletagmanager.com" /><script optanon-category="C0003">
+window.addEventListener('OneTrustGroupsUpdated', function(event) {
+    if (!event.detail.includes("C0003")) { 
+        return;
+    }
+
+    if (document.querySelector('script[src^="//cdn.mouseflow.com/projects"]')) {
+        console.log("Mouseflow script is already loaded.");
+        return;
+    }
+
+    (function() {
+        var PROJECT_ID = "0adf4ddb-d4ab-44cf-a6be-368c4dc5b1c1";
+        var mf = document.createElement("script");
+        mf.type = "text/javascript"; 
+        mf.async = true;
+        mf.src = `//cdn.mouseflow.com/projects/${PROJECT_ID}.js`; // Use template literals
+        mf.setAttribute("crossorigin", "anonymous");
+        document.getElementsByTagName("head")[0].appendChild(mf);
+
+        mf.onload = function() {
+            const userData = wkPageData.page.category; 
+            if (typeof _mfq !== "undefined" && userData) {
+                Object.keys(userData).forEach((key, index) => {
+                    _mfq.push(["setVariable", index, key, userData[key]]);
+                });
+            } else {
+                console.log("Mouseflow is not initialized or no user data available.");
+            }
+        };
+    })();
+});
+</script>
+
+
+<!-- Site Name -->
+
+
+<!-- Logos -->
+
+
+<!-- Social Profile Links -->
+
+
+<!-- Breadcrumbs -->
+<script type="application/ld+json">{"@type":"BreadcrumbList","itemListElement":[{"position":1,"item":{"@id":"https://www.wolterskluwer.com/da-dk","name":"Startside"},"@type":"ListItem"},{"position":2,"item":{"@id":"https://www.wolterskluwer.com/da-dk/solutions","name":"Løsninger fra Wolters Kluwer"},"@type":"ListItem"},{"position":3,"item":{"@id":"https://www.wolterskluwer.com/da-dk/solutions/skat-okonomi","name":"Skat & Økonomi Danmark"},"@type":"ListItem"}],"@context":"https://schema.org"}</script>
+
+<!-- Page related info -->
+
+
+<!-- Featured Video -->
+
+<!-- Faq Page info -->
+
+
+<!-- Video Carousel -->
+
+
+<!-- Video -->
+
+
+<!-- Profile Page Schema-->
+
+
+<!-- Organization    -->
+
+
+<!-- Potential Action    -->
+
+
+
+
+</head>
+<body class="not-article-page default-device bodyclass" data-grecaptcha="6Lf6x-MUAAAAAATFy_Zy7Y9FezDcp0kmycrG1taQ">
+    
+
+
+<!-- Google Tag Manager (noscript) --><noscript data-xp-off><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-53VFLLN" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><!-- End Google Tag Manager (noscript) -->
+
+<div class="site-name" data-site-name="www"></div>
+
+   <script data-xp-off>
+            // Get cookie function to check existing cookie name
+            var getCookie = function(name) {
+                var value = "; " + document.cookie;
+                var parts = value.split("; " + name + "=");
+                if (parts.length == 2) return parts.pop().split(";").shift();
+            };
+        	
+          var urlComposer = function(lang) {
+                var u = window.location;
+                var path = u.pathname.replace(/(\/[a-z]{2}[-][a-zA-Z]{2})|(\/en$)|(en\/)/g, '');
+                path = path.substr(0, 1) !== "/" ? "/"+path : path;
+               return u.origin+lang+path;
+            }
+            
+        
+            function udtCookieboxClosed() {
+                if (typeof udt !== "undefined") {
+                    var consent = udt.Choices;
+                    // Check for cookie presence
+                    var cookieVal = getCookie('UserDataTrustConsent');        
+                    
+                }
+            }
+    </script>
+    
+<!-- #wrapper -->
+<div id="wrapper">
+    <!-- #header -->
+    <header>
+        <div id="header" class="container-fluid">
+            <div class="row">
+<div class="row">        <div id="alert-bar" class="alert-wrapper hide">
+            <div>
+                <div class="row"></div>
+            </div>
+            <div class="alert-bar language-alert false" role="alert">
+                <div class="alert-bar-wrapper">
+                            <img alt="alert-icon" src="https://assets.contenthub.wolterskluwer.com/api/public/content/f3d6188f99544aa9b6ed8cd95f76ffc4.svg?v=e6f18377" />
+                    <div class="alert-title">
+                        Der er kun begrænset materiale tilgængeligt på det valgte sprog. &nbsp;<a href="/en">Alt indhold er tilgængeligt på det globale site. </a>
+                    </div>
+                    <button title="Close Button" class="close-alert" data-action="language">
+                        <span class="sr-only">Close</span>
+                    </button>
+                </div>
+            </div>
+            <div>
+                <div class="row"></div>
+            </div>
+        </div>
+
+
+
+<div class="component row-splitter">
+        <div class="container-fluid">
+            <div >
+                <div class="row">    <div class="ow-corp-hat">
+        <nav class="ow-corp-hat-nav" aria-label="Wolters Kluwer Navigation">
+            <div class="ow-corp-hat-background">
+                <div class="ow-corp-hat-header">
+                    <button type="button" aria-controls="ow-hat-drawer-2" class="ow-corp-button-toggle ow-corp-hat-button">
+                            <span class="ow-button-text">Om Wolters Kluwer</span>
+                            <span aria-hidden="true" class="ow-button-icon wk-icon-chevron-down"></span>
+                    </button>
+                    <ul class="ow-corp-hat-quick-links ow-header-links">
+                                    <li class="ow-corp-hat-quick-link-list">
+                                        <a href="/da-dk/solutions" target="" class="ow-corp-hat-quick-link">L&#248;sninger</a>
+                                    </li>
+                                    <li class="ow-corp-hat-quick-link-list">
+                                        <a href="https://careers.wolterskluwer.com/en" target="_blank" class="ow-corp-hat-quick-link">Ledige stillinger</a>
+                                    </li>
+                                    <li class="ow-corp-hat-quick-link-list">
+                                        <a href="/da-dk/investors" target="" class="ow-corp-hat-quick-link">Investorer</a>
+                                    </li>
+                                                    <li class="ow-corp-hat-quick-link-list">
+                                <button type="button" aria-label="Select Language" class="ow-corp-language-button">
+                                    <span class="wk-icon-globe"></span>
+                                    <span class="wk-tag-text">Select Language</span>
+                                </button>
+                            </li>
+                    </ul>
+                </div>
+            </div>
+            <div id="ow-hat-drawer-2" class="ow-corp-hat-drawer">
+                <button aria-label="Close drawer." type="button" aria-controls="ow-hat-drawer-2" tabindex="0" class="ow-corp-hat-drawer-close ow-corp-hat-button"><span aria-hidden="true" class="wk-icon-close"></span></button>
+                <div id="ow-hat-drawer-container-2" class="ow-corp-hat-drawer-container">
+                    <div class="ow-corp-hat-drawer-col">
+                            <p class="ow-corp-hat-heading-about" role="heading" aria-level="4">
+                                Om Wolters Kluwer
+                            </p>
+                                                    <p class="ow-corp-hat-text">
+                                Wolters Kluwer er en global leverand&#248;r af professional information, softwarel&#248;sninger og tjenester for klinikere, sygeplejere, revisorer, advokater og sektorer indenfor skat, finans, revision, risiko, overholdelse og regulering.
+                            </p>
+                    </div>
+                    <div class="ow-divider"></div>
+                            <div class="ow-corp-hat-drawer-col">
+                                    <h6 class="ow-corp-hat-heading">
+                                        <span class="ow-corp-hat-heading-text">Om os</span>
+                                        <span aria-hidden="true" class="wk-icon-chevron-down"></span>
+                                    </h6>
+                                <ul class="ow-corp-hat-list">
+                                            <li class="ow-corp-hat-list-item">
+                                                <a href="/da-dk/about-us/organization" target="" tabindex="0" class="ow-corp-hat-list-link">Vores organisation</a>
+                                            </li>
+                                            <li class="ow-corp-hat-list-item">
+                                                <a href="/da-dk/about-us/strategy" target="" tabindex="0" class="ow-corp-hat-list-link">Strategi</a>
+                                            </li>
+                                            <li class="ow-corp-hat-list-item">
+                                                <a href="/da-dk/about-us" target="" tabindex="0" class="ow-corp-hat-list-link">Om Wolters Kluwer</a>
+                                            </li>
+                                </ul>
+                            </div>
+                            <div class="ow-corp-hat-drawer-col">
+                                    <h6 class="ow-corp-hat-heading">
+                                        <span class="ow-corp-hat-heading-text">Ekspertindsigt</span>
+                                        <span aria-hidden="true" class="wk-icon-chevron-down"></span>
+                                    </h6>
+                                <ul class="ow-corp-hat-list">
+                                            <li class="ow-corp-hat-list-item">
+                                                <a href="/da-dk/expert-insights" target="" tabindex="0" class="ow-corp-hat-list-link">Alle ekspertindsigter</a>
+                                            </li>
+                                            <li class="ow-corp-hat-list-item">
+                                                <a href="/da-dk/expert-insights/health" target="" tabindex="0" class="ow-corp-hat-list-link">Sundhed</a>
+                                            </li>
+                                            <li class="ow-corp-hat-list-item">
+                                                <a href="/da-dk/expert-insights/tax-and-accounting" target="" tabindex="0" class="ow-corp-hat-list-link">Skat &amp; &#216;konomi</a>
+                                            </li>
+                                            <li class="ow-corp-hat-list-item">
+                                                <a href="/da-dk/expert-insights/esg" target="" tabindex="0" class="ow-corp-hat-list-link">ESG</a>
+                                            </li>
+                                            <li class="ow-corp-hat-list-item">
+                                                <a href="/da-dk/expert-insights/finance" target="" tabindex="0" class="ow-corp-hat-list-link">Finans</a>
+                                            </li>
+                                            <li class="ow-corp-hat-list-item">
+                                                <a href="/da-dk/expert-insights/compliance" target="" tabindex="0" class="ow-corp-hat-list-link">Compliance</a>
+                                            </li>
+                                            <li class="ow-corp-hat-list-item">
+                                                <a href="/da-dk/expert-insights/legal" target="" tabindex="0" class="ow-corp-hat-list-link">Juridisk</a>
+                                            </li>
+                                </ul>
+                            </div>
+                            <div class="ow-corp-hat-drawer-col">
+                                    <h6 class="ow-corp-hat-heading">
+                                        <span class="ow-corp-hat-heading-text">F&#229; hj&#230;lp</span>
+                                        <span aria-hidden="true" class="wk-icon-chevron-down"></span>
+                                    </h6>
+                                <ul class="ow-corp-hat-list">
+                                            <li class="ow-corp-hat-list-item">
+                                                <a href="/da-dk/contact-us" target="" tabindex="0" class="ow-corp-hat-list-link">Kontakt os</a>
+                                            </li>
+                                            <li class="ow-corp-hat-list-item">
+                                                <a href="/da-dk/my-account-login" target="" tabindex="0" class="ow-corp-hat-list-link">Login</a>
+                                            </li>
+                                            <li class="ow-corp-hat-list-item">
+                                                <a href="/da-dk/know/bookstores" target="" tabindex="0" class="ow-corp-hat-list-link">eShop &amp; Bookstores</a>
+                                            </li>
+                                            <li class="ow-corp-hat-list-item">
+                                                <a href="/da-dk/solutions" target="" tabindex="0" class="ow-corp-hat-list-link">Vis liste med l&#248;sninger</a>
+                                            </li>
+                                            <li class="ow-corp-hat-list-item">
+                                                <a href="https://www.wolterskluwer.com/en/news?compositeLink=%7BB18EC43C-071F-4CE0-B997-3D06A89F9AD4%7D " target="" tabindex="0" class="ow-corp-hat-list-link">Mediecenter</a>
+                                            </li>
+                                            <li class="ow-corp-hat-list-item">
+                                                <a href="/da-dk/news" target="" tabindex="0" class="ow-corp-hat-list-link">Nyheder og pressemeddelelser</a>
+                                            </li>
+                                </ul>
+                            </div>
+
+                    <div class="ow-divider"></div>
+                    <ul class="ow-corp-hat-quick-links ow-drawer-links">
+                                    <li class="ow-corp-hat-quick-link-list">
+                                        <a href="/da-dk/solutions" target="" class="ow-corp-hat-quick-link">L&#248;sninger</a>
+                                    </li>
+                                    <li class="ow-corp-hat-quick-link-list">
+                                        <a href="https://careers.wolterskluwer.com/en" target="_blank" class="ow-corp-hat-quick-link">Ledige stillinger</a>
+                                    </li>
+                                    <li class="ow-corp-hat-quick-link-list">
+                                        <a href="/da-dk/investors" target="" class="ow-corp-hat-quick-link">Investorer</a>
+                                    </li>
+                                                    <li class="ow-corp-hat-quick-link-list">
+                                <button type="button" aria-label="Select Language" class="ow-corp-language-button">
+                                    <span class="wk-icon-globe"></span>
+                                    <p class="ow-corp-hat-quick-link">Select Language</p>
+                                </button>
+                            </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </div>
+</div>
+            </div>
+        </div>
+        <div class=" header header-minimal container-fluid">
+            <div >
+                <div class="row">
+
+<div class="row component column-splitter">
+        <div class="col-1 d-lg-none">
+            <div class="row">
+
+<div class="component link">
+    <div class="component-content">
+
+<div class="field-link"><a class="primary-nav-toggle" data-variantfieldname="Link" href="#" data-variantitemid="{BF9E4C5B-F661-46B3-88A9-AD160DB5285C}">PrimaryNav Button</a></div>    </div>
+</div></div>
+        </div>
+        <div class="col col-lg-6">
+            <div class="row">
+<div class="component image file-type-icon-media-link col-12 header-logo">
+    <div class="component-content">
+<a title="Logo" href="/da-dk"><picture title="Wolters Kluwer Logo"><source srcset="https://cdn.wolterskluwer.io/wk/fundamentals/1.15.2/logo/assets/small.svg" media="(max-width:767px)" width="144px" height="24px"></source><source srcset="https://cdn.wolterskluwer.io/wk/fundamentals/1.15.2/logo/assets/medium.svg" media="(max-width:991px)" width="144px" height="24px"></source><source srcset="https://cdn.wolterskluwer.io/wk/fundamentals/1.15.2/logo/assets/medium.svg" media="(max-width:1199px)" width="190px" height="31px"></source><img src="https://cdn.wolterskluwer.io/wk/fundamentals/1.15.2/logo/assets/medium.svg" alt="Wolters Kluwer Logo" width="190px" height="31px" /></picture></a>    </div>
+</div>
+</div>
+        </div>
+        <div class="col-1 col-lg-6">
+            <div class="row">
+
+
+
+<div class="component search-header" data-searchheader-settings-item-id="" data-database="web" tabindex="0">
+    <span class="search-header__placeholder-text">Search</span>
+    <div class="search-header__wrapper">
+        <label class="sr-only" for="search-input">Search</label>
+        <input id="search-input" data-redirection-url="/da-dk/search-results"
+               class="search-header__input"
+               type="search"
+               placeholder="Search">
+        <button class="search-header__button" type="submit"><span class="sr-only">Search</span></button>
+        <div class="search-header__suggestions"
+             data-delay="500">
+            <ul class="search-header__suggestions-items"></ul>
+            <div class="search-header__no-suggestions">No Suggestion</div>
+            <div class="search-header__suggestions-footer">
+                <a href="#" class="search-header__suggestions-footer-link"
+                   data-template="Show all results for &quot;${q}&quot;"></a>
+            </div>
+        </div>
+    </div>
+    <button class="search-header__toggle" type="button"><span class="sr-only">Expand Search</span></button>
+</div>
+</div>
+        </div>
+</div></div>
+            </div>
+        </div>
+        <div class="container-fluid">
+            <div >
+                <div class="row"></div>
+            </div>
+        </div>
+</div>    <div class="component modal" id="modal-language-selector" tabindex="-1" role="dialog" aria-hidden="true">
+        <button type="button" class="modal-close" data-dismiss="modal" aria-label="Close">
+            <span class="wk-icon-close"></span>
+        </button>
+        <div class="modal-content">
+<div class="modal-content"><div class="row">
+<div class="component image file-type-icon-media-link position-center">
+    <div class="component-content">
+<a title="Image 1" href="#"><image mediaid="" stylelabs-content-id="209968" thumbnailsrc="https://contenthub.wolterskluwer.com/api/gateway/209968/thumbnail" src="https://assets.contenthub.wolterskluwer.com/api/public/content/d09674905ed3409ab4ddab80d6b48268.svg?v=a2472b35" stylelabs-content-type="Image" alt="WK logo" height="31" width="190" srcset="https://assets.contenthub.wolterskluwer.com/api/public/content/d09674905ed3409ab4ddab80d6b48268.svg?v=a2472b35&amp;t=w507l 507w,https://assets.contenthub.wolterskluwer.com/api/public/content/d09674905ed3409ab4ddab80d6b48268.svg?v=a2472b35&amp;t=w628l 628w,https://assets.contenthub.wolterskluwer.com/api/public/content/d09674905ed3409ab4ddab80d6b48268.svg?v=a2472b35&amp;t=w634l 634w,https://assets.contenthub.wolterskluwer.com/api/public/content/d09674905ed3409ab4ddab80d6b48268.svg?v=a2472b35&amp;t=w735l 735w,https://assets.contenthub.wolterskluwer.com/api/public/content/d09674905ed3409ab4ddab80d6b48268.svg?v=a2472b35&amp;t=w768l 768w" loading="lazy" data-variantitemid="{C9D92AB5-D75F-41FF-A471-291D5EDBD11C}" sizes="(max-width:539px)507px,(max-width:767px)735px,(max-width:991px)634px,(max-width:1199px)628px,(max-width:1440px)768px,768px" format="" data-variantfieldname="Image" /></a>    </div>
+</div>
+
+
+
+    <div class="component mission bg-image bg-transparent" >
+        <div class="component-content">
+<div data-dm-wk="component.missiontext"><div class="mission--description--small field-description">Bes&oslash;g vores <a href="https://www.wolterskluwer.com/en">globale websted</a> p&aring; engelsk, eller v&aelig;lg et alternativt sted eller sprog nedenfor</div></div>        </div>
+    </div>
+
+
+    <div class="component language-selector-component">
+        <div class="component-content">
+                <div class="component tabs language-selector-modal">
+                    <div class="component-content">
+                        <div class="tabs-inner">
+                            <ul class="tabs-heading">
+                                    <li tabindex="0">
+                                        <div>
+                                            <div class="row">
+                                                <div class="component content">
+                                                    <div class="component-content">
+                                                        <div class="field-heading" data-dm-wk="tabshorizontal.button">
+                                                            Amerika
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li tabindex="0">
+                                        <div>
+                                            <div class="row">
+                                                <div class="component content">
+                                                    <div class="component-content">
+                                                        <div class="field-heading" data-dm-wk="tabshorizontal.button">
+                                                            Europa
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li tabindex="0">
+                                        <div>
+                                            <div class="row">
+                                                <div class="component content">
+                                                    <div class="component-content">
+                                                        <div class="field-heading" data-dm-wk="tabshorizontal.button">
+                                                            Asien &amp; Stillahavsregionen
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </li>
+                            </ul>
+                            <div class="tabs-container">
+                                    <div class="tab">
+                                        <div class="row">
+                                            <div class="row component column-splitter">
+                                                    <div class="col-12 col-md-3">
+                                                        <div class="row">
+
+
+<div class="component link-list">
+    <div class="component-content">
+        <h6 class="language-selector-modal__country-name">Brasilien</h6>
+
+            <div class="language-selector-modal__page">
+                <span class="language-selector-modal__page-name">Startside:</span>
+                <ul>
+
+                        <li>
+                            <div class="field-link">
+                                    <a href="/pt-br" data-variantfieldname="Link">Portugisisk</a>
+                            </div>
+                        </li>
+                </ul>
+            </div>
+    </div>
+</div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-12 col-md-3">
+                                                        <div class="row">
+
+
+<div class="component link-list">
+    <div class="component-content">
+        <h6 class="language-selector-modal__country-name">Canada</h6>
+
+            <div class="language-selector-modal__page">
+                <span class="language-selector-modal__page-name">Startside:</span>
+                <ul>
+
+                        <li>
+                            <div class="field-link">
+                                    <a href="/en-ca" data-variantfieldname="Link">Engelsk</a>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="field-link">
+                                    <a href="/fr-ca" data-variantfieldname="Link">Fransk</a>
+                            </div>
+                        </li>
+                </ul>
+            </div>
+    </div>
+</div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-12 col-md-3">
+                                                        <div class="row">
+
+
+<div class="component link-list">
+    <div class="component-content">
+        <h6 class="language-selector-modal__country-name">Latinamerika</h6>
+
+            <div class="language-selector-modal__page">
+                <span class="language-selector-modal__page-name">Startside:</span>
+                <ul>
+
+                        <li>
+                            <div class="field-link">
+                                    <a href="/es" data-variantfieldname="Link">Spansk</a>
+                            </div>
+                        </li>
+                </ul>
+            </div>
+    </div>
+</div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-12 col-md-3">
+                                                        <div class="row">
+
+
+<div class="component link-list">
+    <div class="component-content">
+        <h6 class="language-selector-modal__country-name">USA</h6>
+
+            <div class="language-selector-modal__page">
+                <span class="language-selector-modal__page-name">Startside:</span>
+                <ul>
+
+                        <li>
+                            <div class="field-link">
+                                    <a href="/en" data-variantfieldname="Link">Engelsk</a>
+                            </div>
+                        </li>
+                </ul>
+            </div>
+    </div>
+</div>
+                                                        </div>
+                                                    </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="tab">
+                                        <div class="row">
+                                            <div class="row component column-splitter">
+                                                    <div class="col-12 col-md-3">
+                                                        <div class="row">
+
+
+<div class="component link-list">
+    <div class="component-content">
+        <h6 class="language-selector-modal__country-name">Belgien</h6>
+
+            <div class="language-selector-modal__page">
+                <span class="language-selector-modal__page-name">Startside:</span>
+                <ul>
+
+                        <li>
+                            <div class="field-link">
+                                    <a href="/nl-be" data-variantfieldname="Link">Hollandsk</a>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="field-link">
+                                    <a href="/fr-be" data-variantfieldname="Link">Fransk</a>
+                            </div>
+                        </li>
+                </ul>
+            </div>
+    </div>
+</div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-12 col-md-3">
+                                                        <div class="row">
+
+
+<div class="component link-list">
+    <div class="component-content">
+        <h6 class="language-selector-modal__country-name">Tjekkiet</h6>
+
+            <div class="language-selector-modal__page">
+                <span class="language-selector-modal__page-name">Startside:</span>
+                <ul>
+
+                        <li>
+                            <div class="field-link">
+                                    <a href="/cs-cz" data-variantfieldname="Link">Tjekkisk</a>
+                            </div>
+                        </li>
+                </ul>
+            </div>
+    </div>
+</div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-12 col-md-3">
+                                                        <div class="row">
+
+
+<div class="component link-list">
+    <div class="component-content">
+        <h6 class="language-selector-modal__country-name">Danmark</h6>
+
+            <div class="language-selector-modal__page">
+                <span class="language-selector-modal__page-name">Startside:</span>
+                <ul>
+
+                        <li>
+                            <div class="field-link">
+                                    <a href="/da-dk" data-variantfieldname="Link">Dansk</a>
+                            </div>
+                        </li>
+                </ul>
+            </div>
+            <div class="language-selector-modal__page">
+                <span class="language-selector-modal__page-name">Nuv&#230;rende Side:</span>
+                <ul>
+
+                        <li>
+                            <div class="field-link">
+                                    <a href="/da-dk/solutions/skat-okonomi" data-variantfieldname="Link">Dansk</a>
+                            </div>
+                        </li>
+                </ul>
+            </div>
+    </div>
+</div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-12 col-md-3">
+                                                        <div class="row">
+
+
+<div class="component link-list">
+    <div class="component-content">
+        <h6 class="language-selector-modal__country-name">Frankrig</h6>
+
+            <div class="language-selector-modal__page">
+                <span class="language-selector-modal__page-name">Startside:</span>
+                <ul>
+
+                        <li>
+                            <div class="field-link">
+                                    <a href="/fr-fr" data-variantfieldname="Link">Fransk</a>
+                            </div>
+                        </li>
+                </ul>
+            </div>
+    </div>
+</div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-12 col-md-3">
+                                                        <div class="row">
+
+
+<div class="component link-list">
+    <div class="component-content">
+        <h6 class="language-selector-modal__country-name">Tyskland</h6>
+
+            <div class="language-selector-modal__page">
+                <span class="language-selector-modal__page-name">Startside:</span>
+                <ul>
+
+                        <li>
+                            <div class="field-link">
+                                    <a href="/de-de" data-variantfieldname="Link">Tysk</a>
+                            </div>
+                        </li>
+                </ul>
+            </div>
+    </div>
+</div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-12 col-md-3">
+                                                        <div class="row">
+
+
+<div class="component link-list">
+    <div class="component-content">
+        <h6 class="language-selector-modal__country-name">Ungarn</h6>
+
+            <div class="language-selector-modal__page">
+                <span class="language-selector-modal__page-name">Startside:</span>
+                <ul>
+
+                        <li>
+                            <div class="field-link">
+                                    <a href="/hu-hu" data-variantfieldname="Link">Ungarsk</a>
+                            </div>
+                        </li>
+                </ul>
+            </div>
+    </div>
+</div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-12 col-md-3">
+                                                        <div class="row">
+
+
+<div class="component link-list">
+    <div class="component-content">
+        <h6 class="language-selector-modal__country-name">Italien</h6>
+
+            <div class="language-selector-modal__page">
+                <span class="language-selector-modal__page-name">Startside:</span>
+                <ul>
+
+                        <li>
+                            <div class="field-link">
+                                    <a href="/it-it" data-variantfieldname="Link">Italiensk</a>
+                            </div>
+                        </li>
+                </ul>
+            </div>
+    </div>
+</div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-12 col-md-3">
+                                                        <div class="row">
+
+
+<div class="component link-list">
+    <div class="component-content">
+        <h6 class="language-selector-modal__country-name">Holland</h6>
+
+            <div class="language-selector-modal__page">
+                <span class="language-selector-modal__page-name">Startside:</span>
+                <ul>
+
+                        <li>
+                            <div class="field-link">
+                                    <a href="/nl-nl" data-variantfieldname="Link">Hollandsk</a>
+                            </div>
+                        </li>
+                </ul>
+            </div>
+    </div>
+</div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-12 col-md-3">
+                                                        <div class="row">
+
+
+<div class="component link-list">
+    <div class="component-content">
+        <h6 class="language-selector-modal__country-name">Norge</h6>
+
+            <div class="language-selector-modal__page">
+                <span class="language-selector-modal__page-name">Startside:</span>
+                <ul>
+
+                        <li>
+                            <div class="field-link">
+                                    <a href="/nb-no" data-variantfieldname="Link">Norsk</a>
+                            </div>
+                        </li>
+                </ul>
+            </div>
+    </div>
+</div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-12 col-md-3">
+                                                        <div class="row">
+
+
+<div class="component link-list">
+    <div class="component-content">
+        <h6 class="language-selector-modal__country-name">Polen</h6>
+
+            <div class="language-selector-modal__page">
+                <span class="language-selector-modal__page-name">Startside:</span>
+                <ul>
+
+                        <li>
+                            <div class="field-link">
+                                    <a href="/pl-pl" data-variantfieldname="Link">Polsk</a>
+                            </div>
+                        </li>
+                </ul>
+            </div>
+    </div>
+</div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-12 col-md-3">
+                                                        <div class="row">
+
+
+<div class="component link-list">
+    <div class="component-content">
+        <h6 class="language-selector-modal__country-name">Portugal</h6>
+
+            <div class="language-selector-modal__page">
+                <span class="language-selector-modal__page-name">Startside:</span>
+                <ul>
+
+                        <li>
+                            <div class="field-link">
+                                    <a href="/pt-pt" data-variantfieldname="Link">Portugisisk</a>
+                            </div>
+                        </li>
+                </ul>
+            </div>
+    </div>
+</div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-12 col-md-3">
+                                                        <div class="row">
+
+
+<div class="component link-list">
+    <div class="component-content">
+        <h6 class="language-selector-modal__country-name">Rum&#230;nien</h6>
+
+            <div class="language-selector-modal__page">
+                <span class="language-selector-modal__page-name">Startside:</span>
+                <ul>
+
+                        <li>
+                            <div class="field-link">
+                                    <a href="/ro-ro" data-variantfieldname="Link">Rum&#230;nsk</a>
+                            </div>
+                        </li>
+                </ul>
+            </div>
+    </div>
+</div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-12 col-md-3">
+                                                        <div class="row">
+
+
+<div class="component link-list">
+    <div class="component-content">
+        <h6 class="language-selector-modal__country-name">Slovakiet</h6>
+
+            <div class="language-selector-modal__page">
+                <span class="language-selector-modal__page-name">Startside:</span>
+                <ul>
+
+                        <li>
+                            <div class="field-link">
+                                    <a href="/sk-sk" data-variantfieldname="Link">Slovakisk</a>
+                            </div>
+                        </li>
+                </ul>
+            </div>
+    </div>
+</div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-12 col-md-3">
+                                                        <div class="row">
+
+
+<div class="component link-list">
+    <div class="component-content">
+        <h6 class="language-selector-modal__country-name">Spanien</h6>
+
+            <div class="language-selector-modal__page">
+                <span class="language-selector-modal__page-name">Startside:</span>
+                <ul>
+
+                        <li>
+                            <div class="field-link">
+                                    <a href="/es-es" data-variantfieldname="Link">Spansk</a>
+                            </div>
+                        </li>
+                </ul>
+            </div>
+    </div>
+</div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-12 col-md-3">
+                                                        <div class="row">
+
+
+<div class="component link-list">
+    <div class="component-content">
+        <h6 class="language-selector-modal__country-name">Sverige</h6>
+
+            <div class="language-selector-modal__page">
+                <span class="language-selector-modal__page-name">Startside:</span>
+                <ul>
+
+                        <li>
+                            <div class="field-link">
+                                    <a href="/sv-se" data-variantfieldname="Link">Svensk</a>
+                            </div>
+                        </li>
+                </ul>
+            </div>
+    </div>
+</div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-12 col-md-3">
+                                                        <div class="row">
+
+
+<div class="component link-list">
+    <div class="component-content">
+        <h6 class="language-selector-modal__country-name">Storbritannien</h6>
+
+            <div class="language-selector-modal__page">
+                <span class="language-selector-modal__page-name">Startside:</span>
+                <ul>
+
+                        <li>
+                            <div class="field-link">
+                                    <a href="/en-gb" data-variantfieldname="Link">Engelsk</a>
+                            </div>
+                        </li>
+                </ul>
+            </div>
+    </div>
+</div>
+                                                        </div>
+                                                    </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="tab">
+                                        <div class="row">
+                                            <div class="row component column-splitter">
+                                                    <div class="col-12 col-md-3">
+                                                        <div class="row">
+
+
+<div class="component link-list">
+    <div class="component-content">
+        <h6 class="language-selector-modal__country-name">Australien</h6>
+
+            <div class="language-selector-modal__page">
+                <span class="language-selector-modal__page-name">Startside:</span>
+                <ul>
+
+                        <li>
+                            <div class="field-link">
+                                    <a href="/en-au" data-variantfieldname="Link">Engelsk</a>
+                            </div>
+                        </li>
+                </ul>
+            </div>
+    </div>
+</div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-12 col-md-3">
+                                                        <div class="row">
+
+
+<div class="component link-list">
+    <div class="component-content">
+        <h6 class="language-selector-modal__country-name">Kina</h6>
+
+            <div class="language-selector-modal__page">
+                <span class="language-selector-modal__page-name">Startside:</span>
+                <ul>
+
+                        <li>
+                            <div class="field-link">
+                                    <a href="https://www.wolterskluwer.cn" data-variantfieldname="Link" target="_blank" rel="noopener noreferrer">Forenklet Kinesisk</a>
+                            </div>
+                        </li>
+                </ul>
+            </div>
+    </div>
+</div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-12 col-md-3">
+                                                        <div class="row">
+
+
+<div class="component link-list">
+    <div class="component-content">
+        <h6 class="language-selector-modal__country-name">Hongkong</h6>
+
+            <div class="language-selector-modal__page">
+                <span class="language-selector-modal__page-name">Startside:</span>
+                <ul>
+
+                        <li>
+                            <div class="field-link">
+                                    <a href="/en-hk" data-variantfieldname="Link">Engelsk</a>
+                            </div>
+                        </li>
+                </ul>
+            </div>
+    </div>
+</div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-12 col-md-3">
+                                                        <div class="row">
+
+
+<div class="component link-list">
+    <div class="component-content">
+        <h6 class="language-selector-modal__country-name">Indien</h6>
+
+            <div class="language-selector-modal__page">
+                <span class="language-selector-modal__page-name">Startside:</span>
+                <ul>
+
+                        <li>
+                            <div class="field-link">
+                                    <a href="/en-in" data-variantfieldname="Link">Engelsk</a>
+                            </div>
+                        </li>
+                </ul>
+            </div>
+    </div>
+</div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-12 col-md-3">
+                                                        <div class="row">
+
+
+<div class="component link-list">
+    <div class="component-content">
+        <h6 class="language-selector-modal__country-name">Japan</h6>
+
+            <div class="language-selector-modal__page">
+                <span class="language-selector-modal__page-name">Startside:</span>
+                <ul>
+
+                        <li>
+                            <div class="field-link">
+                                    <a href="/ja-jp" data-variantfieldname="Link">Japansk</a>
+                            </div>
+                        </li>
+                </ul>
+            </div>
+    </div>
+</div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-12 col-md-3">
+                                                        <div class="row">
+
+
+<div class="component link-list">
+    <div class="component-content">
+        <h6 class="language-selector-modal__country-name">Malaysia</h6>
+
+            <div class="language-selector-modal__page">
+                <span class="language-selector-modal__page-name">Startside:</span>
+                <ul>
+
+                        <li>
+                            <div class="field-link">
+                                    <a href="/en-my" data-variantfieldname="Link">Engelsk</a>
+                            </div>
+                        </li>
+                </ul>
+            </div>
+    </div>
+</div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-12 col-md-3">
+                                                        <div class="row">
+
+
+<div class="component link-list">
+    <div class="component-content">
+        <h6 class="language-selector-modal__country-name">New Zealand</h6>
+
+            <div class="language-selector-modal__page">
+                <span class="language-selector-modal__page-name">Startside:</span>
+                <ul>
+
+                        <li>
+                            <div class="field-link">
+                                    <a href="/en-nz" data-variantfieldname="Link">Engelsk</a>
+                            </div>
+                        </li>
+                </ul>
+            </div>
+    </div>
+</div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-12 col-md-3">
+                                                        <div class="row">
+
+
+<div class="component link-list">
+    <div class="component-content">
+        <h6 class="language-selector-modal__country-name">Filippinerne</h6>
+
+            <div class="language-selector-modal__page">
+                <span class="language-selector-modal__page-name">Startside:</span>
+                <ul>
+
+                        <li>
+                            <div class="field-link">
+                                    <a href="/en-ph" data-variantfieldname="Link">Engelsk</a>
+                            </div>
+                        </li>
+                </ul>
+            </div>
+    </div>
+</div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-12 col-md-3">
+                                                        <div class="row">
+
+
+<div class="component link-list">
+    <div class="component-content">
+        <h6 class="language-selector-modal__country-name">Singapore</h6>
+
+            <div class="language-selector-modal__page">
+                <span class="language-selector-modal__page-name">Startside:</span>
+                <ul>
+
+                        <li>
+                            <div class="field-link">
+                                    <a href="/en-sg" data-variantfieldname="Link">Engelsk</a>
+                            </div>
+                        </li>
+                </ul>
+            </div>
+    </div>
+</div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-12 col-md-3">
+                                                        <div class="row">
+
+
+<div class="component link-list">
+    <div class="component-content">
+        <h6 class="language-selector-modal__country-name">Sydkorea</h6>
+
+            <div class="language-selector-modal__page">
+                <span class="language-selector-modal__page-name">Startside:</span>
+                <ul>
+
+                        <li>
+                            <div class="field-link">
+                                    <a href="/ko-kr" data-variantfieldname="Link">Engelsk</a>
+                            </div>
+                        </li>
+                </ul>
+            </div>
+    </div>
+</div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-12 col-md-3">
+                                                        <div class="row">
+
+
+<div class="component link-list">
+    <div class="component-content">
+        <h6 class="language-selector-modal__country-name">Taiwan</h6>
+
+            <div class="language-selector-modal__page">
+                <span class="language-selector-modal__page-name">Startside:</span>
+                <ul>
+
+                        <li>
+                            <div class="field-link">
+                                    <a href="/zh-tw" data-variantfieldname="Link">Engelsk</a>
+                            </div>
+                        </li>
+                </ul>
+            </div>
+    </div>
+</div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-12 col-md-3">
+                                                        <div class="row">
+
+
+<div class="component link-list">
+    <div class="component-content">
+        <h6 class="language-selector-modal__country-name">Thailand</h6>
+
+            <div class="language-selector-modal__page">
+                <span class="language-selector-modal__page-name">Startside:</span>
+                <ul>
+
+                        <li>
+                            <div class="field-link">
+                                    <a href="/th-th" data-variantfieldname="Link">Engelsk</a>
+                            </div>
+                        </li>
+                </ul>
+            </div>
+    </div>
+</div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-12 col-md-3">
+                                                        <div class="row">
+
+
+<div class="component link-list">
+    <div class="component-content">
+        <h6 class="language-selector-modal__country-name">Vietnam</h6>
+
+            <div class="language-selector-modal__page">
+                <span class="language-selector-modal__page-name">Startside:</span>
+                <ul>
+
+                        <li>
+                            <div class="field-link">
+                                    <a href="/vi-vn" data-variantfieldname="Link">Engelsk</a>
+                            </div>
+                        </li>
+                </ul>
+            </div>
+    </div>
+</div>
+                                                        </div>
+                                                    </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+        </div>
+    </div>
+</div></div>        </div>
+    </div>
+</div>
+<div class="row">
+
+
+<div class="component row-splitter">
+        <div class="container-fluid">
+            <div >
+                <div class="row">
+
+
+    <div class="primary-nav">
+        <span class="primary-nav-overlay-mobile"></span>
+        <div class="ow-primary-nav-wrap">
+            <nav class="ow-primary-nav" aria-labelledby="primary-nav">
+                <h5 id="primary-nav" class="sr-only">Primary Navigation</h5>
+                <div class="ow-primary-nav-master">
+                    <div class="ow-primary-nav-level-1-container ow-nav-level-0-open">
+                            <ul class="ow-nav-level-1">
+                                    <li class="ow-nav-level-1-item">
+                                            <button type="button" class="wk-button wk-button-text ow-nav-level-1-trigger"><span class="ow-nav-level-1-trigger-text">Sundhed</span><span aria-hidden="true" class="wk-icon-chevron-down ow-nav-level-1-chevron"></span></button>
+                                            <div class="ow-primary-nav-level-2 ">
+                                                <span class="primary-nav-overlay-desktop"></span>
+                                                <div class="ow-primary-nav-level-2-wrapper ow-background-fill">
+                                                    <div class="ow-background-fill-container">
+                                                        <div class="ow-background-fill-region ow-background-fill-left"></div>
+                                                        <div class="ow-background-fill-region ow-background-fill-right"></div>
+                                                        <div class="ow-primary-nav-level-2-container ow-primary-nav-container">
+                                                            <div class="ow-primary-nav-group">
+                                                                <div class="ow-primary-nav-summary">
+                                                                    <div class="ow-primary-nav-content">
+                                                                        <h5 class="ow-nav-level-2-list-heading">Sundhed</h5>
+                                                                        <p class="ow-nav-level-2-copy">Robust klinisk teknologi og evidensbaserede løsninger, der giver effektiv beslutningstagen og resultater på tværs af sundhedsområdet. Specialiseret inden for klinisk effektivitet, læring, forskning og sikkerhed.</p>
+                                                                            <a href="/da-dk/health" class="ow-nav-level-2-view-all-link"><span>Sundhedsoversigt</span><span aria-hidden="true" class="wk-icon-arrow-right"></span></a>
+                                                                                                                                                                                                                                                                                            </div>
+                                                                </div>
+
+                                                                <div class="ow-primary-nav-items">
+                                                                                <div class="ow-primary-nav-item">
+                                                                                    <div class="ow-primary-nav-content">
+                                                                                        <h6 class="ow-nav-level-2-list-heading">L&#248;sninger</h6>
+                                                                                        <ul class="ow-nav-level-2-list ">
+                                                                                                    <li class="ow-nav-level-2-list-item ow-nav-level-2-list-item-with-text"><a href="/da-dk/solutions/uptodate" class="ow-nav-level-2-link">UpToDate</a><span class="ow-nav-level-2-text">Brancheførende klinisk beslutningsstøtte</span></li>
+                                                                                                    <li class="ow-nav-level-2-list-item ow-nav-level-2-list-item-with-text"><a href="/da-dk/solutions/ovid" class="ow-nav-level-2-link">Ovid</a><span class="ow-nav-level-2-text">Verdens mest betroede platform for medicinsk forskning</span></li>
+                                                                                                    <li class="ow-nav-level-2-list-item ow-nav-level-2-list-item-with-text"><a href="/da-dk/solutions/uptodate" class="ow-nav-level-2-link">UpToDate Lexidrug</a><span class="ow-nav-level-2-text">Evidensbaserede lægemiddelreferenceløsninger</span></li>
+                                                                                                    <li class="ow-nav-level-2-list-item ow-nav-level-2-list-item-with-text"><a href="/da-dk/solutions/ovid/ovid-synthesis" class="ow-nav-level-2-link">Ovid Synthesis</a><span class="ow-nav-level-2-text">Workflow-løsning til forbedringer af klinisk praksis</span></li>
+                                                                                        </ul>
+                                                                                            <a href="https://www.wolterskluwer.com/da-dk/solutions?compositeLink=%7B8688A3F8-30B0-41CF-B6DB-0DAF84173D42%7D" class="ow-nav-level-2-view-all-link"><span>Vis alle l&#248;sninger</span><span aria-hidden="true" class="wk-icon-arrow-right"></span></a>
+                                                                                    </div>
+                                                                                </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                    </li>
+                                    <li class="ow-nav-level-1-item">
+                                            <button type="button" class="wk-button wk-button-text ow-nav-level-1-trigger"><span class="ow-nav-level-1-trigger-text">Skat &amp; &#216;konomi</span><span aria-hidden="true" class="wk-icon-chevron-down ow-nav-level-1-chevron"></span></button>
+                                            <div class="ow-primary-nav-level-2 ">
+                                                <span class="primary-nav-overlay-desktop"></span>
+                                                <div class="ow-primary-nav-level-2-wrapper ow-background-fill">
+                                                    <div class="ow-background-fill-container">
+                                                        <div class="ow-background-fill-region ow-background-fill-left"></div>
+                                                        <div class="ow-background-fill-region ow-background-fill-right"></div>
+                                                        <div class="ow-primary-nav-level-2-container ow-primary-nav-container">
+                                                            <div class="ow-primary-nav-group">
+                                                                <div class="ow-primary-nav-summary">
+                                                                    <div class="ow-primary-nav-content">
+                                                                        <h5 class="ow-nav-level-2-list-heading">Skat &amp; &#216;konomi</h5>
+                                                                        <p class="ow-nav-level-2-copy">Vi st&oslash;tter fagfolk inden for skat og regnskab samt virksomheder af alle st&oslash;rrelser med at &oslash;ge produktiviteten, gennemg&aring; forandringer og levere et bedre resultat. Via processer, der er optimeret af teknologi og under vejledning af dyb dom&aelig;neekspertise, hj&aelig;lper vi organisationer med at skabe v&aelig;kst samt administrere og beskytte deres virksomheder og deres kunders virksomheder.</p>
+                                                                            <a href="/da-dk/tax-and-accounting" class="ow-nav-level-2-view-all-link"><span>Oversigt over Skat &amp; &#216;konomi</span><span aria-hidden="true" class="wk-icon-arrow-right"></span></a>
+                                                                                                                                                                                                                                                                                            </div>
+                                                                </div>
+
+                                                                <div class="ow-primary-nav-items">
+                                                                                <div class="ow-primary-nav-item">
+                                                                                    <div class="ow-primary-nav-content">
+                                                                                        <h6 class="ow-nav-level-2-list-heading">L&#248;sninger </h6>
+                                                                                        <ul class="ow-nav-level-2-list ">
+                                                                                                    <li class="ow-nav-level-2-list-item ow-nav-level-2-list-item-with-text"><a href="/da-dk/solutions/skat-okonomi" class="ow-nav-level-2-link">Skat &amp; &#216;konomi Danmark</a><span class="ow-nav-level-2-text">Innovative cloudløsninger </span></li>
+                                                                                                    <li class="ow-nav-level-2-list-item ow-nav-level-2-list-item-with-text"><a href="/da-dk/solutions/capego-dk/smartsign" class="ow-nav-level-2-link">Capego SmartSign</a><span class="ow-nav-level-2-text">Digitaliserer og effektiviserer signering</span></li>
+                                                                                                    <li class="ow-nav-level-2-list-item ow-nav-level-2-list-item-with-text"><a href="/da-dk/solutions/capego-dk/capego-teamwork-standard" class="ow-nav-level-2-link">Capego Teamwork Standard</a><span class="ow-nav-level-2-text">Capego Teamwork Standard er en digital samarbejdsplatform</span></li>
+                                                                                                    <li class="ow-nav-level-2-list-item ow-nav-level-2-list-item-with-text"><a href="/da-dk/solutions/capego-dk/smartflow" class="ow-nav-level-2-link">Capego SmartFlow</a><span class="ow-nav-level-2-text">Automatiseret, digital fakturahåndtering </span></li>
+                                                                                        </ul>
+                                                                                            <a href="https://www.wolterskluwer.com/da-dk/solutions?compositeLink=%7BFCEF2B59-251D-4C37-8240-331699DCB648%7D" class="ow-nav-level-2-view-all-link"><span>Vis alle l&#248;sninger</span><span aria-hidden="true" class="wk-icon-arrow-right"></span></a>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="ow-primary-nav-item">
+                                                                                    <div class="ow-primary-nav-content">
+                                                                                        <h6 class="ow-nav-level-2-list-heading">Ekspertindsigter</h6>
+                                                                                        <ul class="ow-nav-level-2-list ">
+                                                                                                    <li class="ow-nav-level-2-list-item"><a href="/da-dk/expert-insights/effektivisering-tidsbesparelse-og-compliance-med-wolters-kluwer" class="ow-nav-level-2-link">Effektivisering, tidsbesparelse og Compliance med Wolters Kluwer</a></li>
+                                                                                                    <li class="ow-nav-level-2-list-item"><a href="/da-dk/expert-insights/reducerede-omkostninger-og-bedre-kundeoplevelse-accountview" class="ow-nav-level-2-link">Reducerede omkostninger og bedre kundeoplevelse for Accountview</a></li>
+                                                                                                    <li class="ow-nav-level-2-list-item"><a href="/da-dk/expert-insights/tips-og-strategier-for-direktorer-i-revisionsfirmaer" class="ow-nav-level-2-link">Tips og strategier for direktører i revisionsfirmaer</a></li>
+                                                                                                    <li class="ow-nav-level-2-list-item"><a href="/da-dk/expert-insights/sadan-kan-du-bruge-business-intelligence-til-forretningsanalyse" class="ow-nav-level-2-link">Sådan kan du bruge Business Intelligence til forretningsanalyse</a></li>
+                                                                                                    <li class="ow-nav-level-2-list-item"><a href="/da-dk/expert-insights/kom-i-gang-med-mere-effektivt-kundekendskab-kyc" class="ow-nav-level-2-link">Kom i gang med mere effektivt kundekendskab (KYC) - 6 enkle trin</a></li>
+                                                                                                    <li class="ow-nav-level-2-list-item"><a href="/da-dk/expert-insights/the-power-of-ai" class="ow-nav-level-2-link">Styrken ved AI: hvad regnskabsbranchen har brug for at vide </a></li>
+                                                                                                    <li class="ow-nav-level-2-list-item"><a href="/da-dk/expert-insights/fra-svnls-til-smls" class="ow-nav-level-2-link">Fra søvnløs til sømløs med integrerede programmer</a></li>
+                                                                                                    <li class="ow-nav-level-2-list-item"><a href="/da-dk/expert-insights/hvilke-krav-skal-du-stille-til-digital-signering" class="ow-nav-level-2-link">Hvilke krav skal du stille til digital signering?</a></li>
+                                                                                        </ul>
+                                                                                            <a href="/da-dk/expert-insights/tax-and-accounting" class="ow-nav-level-2-view-all-link"><span>Vis alle ekspertindsigter</span><span aria-hidden="true" class="wk-icon-arrow-right"></span></a>
+                                                                                    </div>
+                                                                                </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                    </li>
+                                    <li class="ow-nav-level-1-item">
+                                            <button type="button" class="wk-button wk-button-text ow-nav-level-1-trigger"><span class="ow-nav-level-1-trigger-text">ESG</span><span aria-hidden="true" class="wk-icon-chevron-down ow-nav-level-1-chevron"></span></button>
+                                            <div class="ow-primary-nav-level-2 ">
+                                                <span class="primary-nav-overlay-desktop"></span>
+                                                <div class="ow-primary-nav-level-2-wrapper ow-background-fill">
+                                                    <div class="ow-background-fill-container">
+                                                        <div class="ow-background-fill-region ow-background-fill-left"></div>
+                                                        <div class="ow-background-fill-region ow-background-fill-right"></div>
+                                                        <div class="ow-primary-nav-level-2-container ow-primary-nav-container">
+                                                            <div class="ow-primary-nav-group">
+                                                                <div class="ow-primary-nav-summary">
+                                                                    <div class="ow-primary-nav-content">
+                                                                        <h5 class="ow-nav-level-2-list-heading">ESG</h5>
+                                                                        <p class="ow-nav-level-2-copy">Tilbyder omfattende v&aelig;rkt&oslash;jer og ekspertvejledning til virksomheder for at hj&aelig;lpe med at opfylde regulatoriske krav for at underst&oslash;tte b&aelig;redygtighedsindsatsen og h&aring;ndtere ESG-risici effektivt.</p>
+                                                                            <a href="/da-dk/esg" class="ow-nav-level-2-view-all-link"><span>Oversigt over ESG</span><span aria-hidden="true" class="wk-icon-arrow-right"></span></a>
+                                                                                                                                                                                                                                                                                            </div>
+                                                                </div>
+
+                                                                <div class="ow-primary-nav-items">
+                                                                                <div class="ow-primary-nav-item">
+                                                                                    <div class="ow-primary-nav-content">
+                                                                                        <h6 class="ow-nav-level-2-list-heading">L&#248;sninger</h6>
+                                                                                        <ul class="ow-nav-level-2-list ">
+                                                                                                    <li class="ow-nav-level-2-list-item ow-nav-level-2-list-item-with-text"><a href="/da-dk/solutions/cch-tagetik/esg-sustainability-performance-management" class="ow-nav-level-2-link">CCH Tagetik</a><span class="ow-nav-level-2-text">Software til styring af ensartede præstationer</span></li>
+                                                                                                    <li class="ow-nav-level-2-list-item ow-nav-level-2-list-item-with-text"><a href="/da-dk/solutions/onesumx-for-finance-risk-and-regulatory-reporting/onesumx-for-esg" class="ow-nav-level-2-link">OneSumX for Finance, Risk and Regulatory Reporting</a><span class="ow-nav-level-2-text">Opdag vores løsning til ESG-klimarisici og lovkrav</span></li>
+                                                                                                    <li class="ow-nav-level-2-list-item ow-nav-level-2-list-item-with-text"><a href="/da-dk/solutions/teammate/esg" class="ow-nav-level-2-link">TeamMate</a><span class="ow-nav-level-2-text">Løsninger for revisorer</span></li>
+                                                                                                    <li class="ow-nav-level-2-list-item ow-nav-level-2-list-item-with-text"><a href="/da-dk/solutions/enablon" class="ow-nav-level-2-link">Enablon</a><span class="ow-nav-level-2-text">Softwareløsninger til risiko og overholdelse, teknik og drift, og EHSQ og bæredygtighed</span></li>
+                                                                                        </ul>
+                                                                                            <a href="https://www.wolterskluwer.com/da-dk/solutions?compositeLink=%7BC7042A8D-FC59-4F2E-9092-F274BFD48F98%7D" class="ow-nav-level-2-view-all-link"><span>Vis alle l&#248;sninger </span><span aria-hidden="true" class="wk-icon-arrow-right"></span></a>
+                                                                                    </div>
+                                                                                </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                    </li>
+                                    <li class="ow-nav-level-1-item">
+                                            <button type="button" class="wk-button wk-button-text ow-nav-level-1-trigger"><span class="ow-nav-level-1-trigger-text">Finans</span><span aria-hidden="true" class="wk-icon-chevron-down ow-nav-level-1-chevron"></span></button>
+                                            <div class="ow-primary-nav-level-2 ">
+                                                <span class="primary-nav-overlay-desktop"></span>
+                                                <div class="ow-primary-nav-level-2-wrapper ow-background-fill">
+                                                    <div class="ow-background-fill-container">
+                                                        <div class="ow-background-fill-region ow-background-fill-left"></div>
+                                                        <div class="ow-background-fill-region ow-background-fill-right"></div>
+                                                        <div class="ow-primary-nav-level-2-container ow-primary-nav-container">
+                                                            <div class="ow-primary-nav-group">
+                                                                <div class="ow-primary-nav-summary">
+                                                                    <div class="ow-primary-nav-content">
+                                                                        <h5 class="ow-nav-level-2-list-heading">Finans</h5>
+                                                                        <p class="ow-nav-level-2-copy">Vores l&oslash;sninger for regulerede finansafdelinger og -institutioner hj&aelig;lper kunderne med at overholde kravene fra eksterne regulatorer. Vi specialiserer os i at forenkle og optimere processer for at levere et pr&aelig;cist overblik i realtid over din finansielle position.</p>
+                                                                            <a href="/da-dk/finance" class="ow-nav-level-2-view-all-link"><span>Finansoversigt</span><span aria-hidden="true" class="wk-icon-arrow-right"></span></a>
+                                                                                                                                                                                                                                                                                            </div>
+                                                                </div>
+
+                                                                <div class="ow-primary-nav-items">
+                                                                                <div class="ow-primary-nav-item">
+                                                                                    <div class="ow-primary-nav-content">
+                                                                                        <h6 class="ow-nav-level-2-list-heading">L&#248;sninger </h6>
+                                                                                        <ul class="ow-nav-level-2-list ow-less-than-3-list-items">
+                                                                                                    <li class="ow-nav-level-2-list-item ow-nav-level-2-list-item-with-text"><a href="/da-dk/solutions/cch-tagetik" class="ow-nav-level-2-link">CCH Tagetik</a><span class="ow-nav-level-2-text">Software til styring af ensartede præstationer</span></li>
+                                                                                                    <li class="ow-nav-level-2-list-item ow-nav-level-2-list-item-with-text"><a href="/da-dk/solutions/onesumx-for-finance-risk-and-regulatory-reporting" class="ow-nav-level-2-link">OneSumX Finance, Risk &amp; Reguatory Reporting</a><span class="ow-nav-level-2-text">Integreret suite til overholdelse af lovgivning og rapporteringsløsninger</span></li>
+                                                                                        </ul>
+                                                                                            <a href="https://www.wolterskluwer.com/da-dk/solutions?compositeLink=%7BEF8A4B4D-35C4-4828-A0C3-8467EACA3C69%7D" class="ow-nav-level-2-view-all-link"><span>Vis alle l&#248;sninger</span><span aria-hidden="true" class="wk-icon-arrow-right"></span></a>
+                                                                                    </div>
+                                                                                </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                    </li>
+                                    <li class="ow-nav-level-1-item">
+                                            <button type="button" class="wk-button wk-button-text ow-nav-level-1-trigger"><span class="ow-nav-level-1-trigger-text">Compliance</span><span aria-hidden="true" class="wk-icon-chevron-down ow-nav-level-1-chevron"></span></button>
+                                            <div class="ow-primary-nav-level-2 ">
+                                                <span class="primary-nav-overlay-desktop"></span>
+                                                <div class="ow-primary-nav-level-2-wrapper ow-background-fill">
+                                                    <div class="ow-background-fill-container">
+                                                        <div class="ow-background-fill-region ow-background-fill-left"></div>
+                                                        <div class="ow-background-fill-region ow-background-fill-right"></div>
+                                                        <div class="ow-primary-nav-level-2-container ow-primary-nav-container">
+                                                            <div class="ow-primary-nav-group">
+                                                                <div class="ow-primary-nav-summary">
+                                                                    <div class="ow-primary-nav-content">
+                                                                        <h5 class="ow-nav-level-2-list-heading">Compliance</h5>
+                                                                        <p class="ow-nav-level-2-copy">Vi g&oslash;r det muligt for organisationer at h&aring;ndtere risici, &oslash;ge effektiviteten, levere et bedre virksomhedsresultat og sikre overholdelse af politikker i en verden, hvor reguleringskravene altid &aelig;ndrer sig.</p>
+                                                                            <a href="/da-dk/compliance" class="ow-nav-level-2-view-all-link"><span>Compliance oversigt</span><span aria-hidden="true" class="wk-icon-arrow-right"></span></a>
+                                                                                                                                                                                                                                                                                            </div>
+                                                                </div>
+
+                                                                <div class="ow-primary-nav-items">
+                                                                                <div class="ow-primary-nav-item">
+                                                                                    <div class="ow-primary-nav-content">
+                                                                                        <h6 class="ow-nav-level-2-list-heading">L&#248;sninger </h6>
+                                                                                        <ul class="ow-nav-level-2-list ow-less-than-3-list-items">
+                                                                                                    <li class="ow-nav-level-2-list-item ow-nav-level-2-list-item-with-text"><a href="/da-dk/solutions/onesumx-for-finance-risk-and-regulatory-reporting" class="ow-nav-level-2-link">OneSumX Finance, Risk &amp; Reguatory Reporting</a><span class="ow-nav-level-2-text">Integreret suite til overholdelse af lovgivning og rapporteringsløsninger</span></li>
+                                                                                                    <li class="ow-nav-level-2-list-item ow-nav-level-2-list-item-with-text"><a href="/da-dk/solutions/enablon" class="ow-nav-level-2-link">Enablon</a><span class="ow-nav-level-2-text">Softwareløsninger til risiko og overholdelse, teknik og drift, og EHSQ og bæredygtighed</span></li>
+                                                                                        </ul>
+                                                                                            <a href="https://www.wolterskluwer.com/da-dk/solutions?compositeLink=%7BD51BD02E-72B1-40B2-B5CC-7ABBF5B66469%7D" class="ow-nav-level-2-view-all-link"><span>Vis alle l&#248;sninger</span><span aria-hidden="true" class="wk-icon-arrow-right"></span></a>
+                                                                                    </div>
+                                                                                </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                    </li>
+                                    <li class="ow-nav-level-1-item">
+                                            <button type="button" class="wk-button wk-button-text ow-nav-level-1-trigger"><span class="ow-nav-level-1-trigger-text">Jura</span><span aria-hidden="true" class="wk-icon-chevron-down ow-nav-level-1-chevron"></span></button>
+                                            <div class="ow-primary-nav-level-2 ">
+                                                <span class="primary-nav-overlay-desktop"></span>
+                                                <div class="ow-primary-nav-level-2-wrapper ow-background-fill">
+                                                    <div class="ow-background-fill-container">
+                                                        <div class="ow-background-fill-region ow-background-fill-left"></div>
+                                                        <div class="ow-background-fill-region ow-background-fill-right"></div>
+                                                        <div class="ow-primary-nav-level-2-container ow-primary-nav-container">
+                                                            <div class="ow-primary-nav-group">
+                                                                <div class="ow-primary-nav-summary">
+                                                                    <div class="ow-primary-nav-content">
+                                                                        <h5 class="ow-nav-level-2-list-heading">Jura</h5>
+                                                                        <p class="ow-nav-level-2-copy">Vi betjener juridiske fagfolk hos advokatfirmaer, virksomhedsr&aring;dgivende advokatkontorer og juridiske afdelinger hos virksomheder med datadrevne beslutningsv&aelig;rkt&oslash;jer. Vi str&oslash;mliner juridisk og regulatorisk forskning, analyse og processer for at levere v&aelig;rdi til organisationer og sikre mere gennemsigtige, retf&aelig;rdige og trygge samfund.</p>
+                                                                            <a href="/da-dk/legal" class="ow-nav-level-2-view-all-link"><span>Juridisk oversigt</span><span aria-hidden="true" class="wk-icon-arrow-right"></span></a>
+                                                                                                                                                                                                                                                                                            </div>
+                                                                </div>
+
+                                                                <div class="ow-primary-nav-items">
+                                                                                <div class="ow-primary-nav-item">
+                                                                                    <div class="ow-primary-nav-content">
+                                                                                        <h6 class="ow-nav-level-2-list-heading">Ekspertindsigter</h6>
+                                                                                        <ul class="ow-nav-level-2-list ow-less-than-3-list-items">
+                                                                                                    <li class="ow-nav-level-2-list-item"><a href="/da-dk/expert-insights/key-stages-of-contract-management-lifecycle" class="ow-nav-level-2-link">Få styr på din forretning med effektiv kontrakt-håndtering</a></li>
+                                                                                        </ul>
+                                                                                            <a href="/da-dk/legal" class="ow-nav-level-2-view-all-link"><span>Juridisk oversigt</span><span aria-hidden="true" class="wk-icon-arrow-right"></span></a>
+                                                                                    </div>
+                                                                                </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                    </li>
+                            </ul>
+                    </div>
+                </div>
+            </nav>
+        </div>
+    </div>
+<div class="breadcrumb-wrapper">
+    <div class="col-lg-12">
+        <div class="component breadcrumb breadcrumb-navigation js-breadcrumb-navigation initialized">
+            <div class="component-content">
+                <nav>
+                    <ol>
+                            <li class="breadcrumb-navigation__item home">
+                                    <a class="breadcrumb-navigation__link" href="/da-dk"><span class="breadcrumb-navigation__backtotext">Tilbage til</span> Startside </a>
+                                    <span class="breadcrumb-navigation__separator separator">></span>
+                            </li>
+                            <li class="breadcrumb-navigation__item home">
+                                    <a class="breadcrumb-navigation__link" href="/da-dk/solutions"><span class="breadcrumb-navigation__backtotext">Tilbage til</span> Løsninger fra Wolters Kluwer </a>
+                                    <span class="breadcrumb-navigation__separator separator">></span>
+                            </li>
+                            <li class="breadcrumb-navigation__item home">
+                                    <span class="breadcrumb-navigation__link">Skat & Økonomi Danmark</span>
+                            </li>
+                    </ol>
+                </nav>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+            </div>
+        </div>
+        <div class="container-fluid">
+            <div >
+                <div class="row"><div class="component hero-full hero-full--dark-overlay">
+  <div class="component-content full-bleed">
+<div class="hero-full__image field-image"><image height="1440" stylelabs-content-type="Image" alt="Copenhagen by winter time" stylelabs-content-id="2170507" width="3840" thumbnailsrc="https://contenthub.wolterskluwer.com/api/gateway/2170507/thumbnail" src="https://assets.contenthub.wolterskluwer.com/api/public/content/2170507-copenhagen-by-winter-time-de29ea2f05?v=fd3b84be" srcset="https://assets.contenthub.wolterskluwer.com/api/public/content/2170507-copenhagen-by-winter-time-de29ea2f05?v=fd3b84be&amp;t=w539l 539w,https://assets.contenthub.wolterskluwer.com/api/public/content/2170507-copenhagen-by-winter-time-de29ea2f05?v=fd3b84be&amp;t=w767l 767w,https://assets.contenthub.wolterskluwer.com/api/public/content/2170507-copenhagen-by-winter-time-de29ea2f05?v=fd3b84be&amp;t=w991l 991w,https://assets.contenthub.wolterskluwer.com/api/public/content/2170507-copenhagen-by-winter-time-de29ea2f05?v=fd3b84be&amp;t=w1199l 1199w,https://assets.contenthub.wolterskluwer.com/api/public/content/2170507-copenhagen-by-winter-time-de29ea2f05?v=fd3b84be&amp;t=w1440l 1440w,https://assets.contenthub.wolterskluwer.com/api/public/content/2170507-copenhagen-by-winter-time-de29ea2f05?v=fd3b84be&amp;t=w1920l 1920w" loading="lazy" data-variantitemid="{E39CD798-37D6-449B-B6AE-E6867FD1FC12}" sizes="(max-width:539px)539px, (max-width:767px)767px, (max-width:991px)991px,(max-width:1199px)1199px,(max-width:1440px)1440px,1920px" format="" data-variantfieldname="Image" /></div><div class="hero-full__wrapper"><div class="hero-full__text"><div class="hero-full__eyebrow field-eyebrow">T&#198;NK CLOUD NU</div><div class="hero-full__title-intro field-title-intro">Fremtiden er cloud</div><h1 class="hero-full__title field-currentpagetitle" role="presentation"><span>Skat & Økonomi Danmark</span></h1><div class="hero-full__description field-description">Wolters Kluwer ser innovative cloudløsninger som det vigtigste pejlemærke for regnskabs- og revisorbranchen.</div><div class="hero-full__cta-group"><div class="row"><div class="component wkbutton primary col-12 reverse">
+    <div class="component-content">
+<div class="wkbutton-link field-link"><a data-variantfieldname="Link" aria-label="Tænk Cloud Nu!" href="/da-dk/solutions/skat-okonomi/connected-cloud" data-variantitemid="{C667D2AE-AAE6-4233-8536-F9ABCCBD8407}">Connected-cloud</a></div><div class="wkbutton-wrapper"><span title="wk-icon-arrow-right" class="wkbutton-icon wk-icon-arrow-right"></span><div class="wkbutton-label field-label">T&#230;nk Cloud Nu!</div></div>    </div>
+</div>
+</div></div></div></div>  </div>
+</div>
+
+
+    <div id="secondary-nav-anchor"></div>
+    <nav class="ow-secondary-nav" aria-labelledby="secondary-nav">
+        <h5 id="secondary-nav" class="sr-only">Secondary Navigation</h5>
+        <div class="ow-nav-container">
+            <div class="ow-nav-wrapper">
+                <div class="ow-nav-main">
+                    <div class="ow-solution-container">
+                                <a class=""  href="/da-dk/solutions/skat-okonomi" target="">
+                                    <div class="ow-solution-name">Skat &amp; &#216;konomi</div>
+                                </a>
+
+                        <button class="ow-solution-menu-button" type="button" aria-haspopup="true" aria-expanded="false">
+                            <span class="sr-only">Skat &amp; &#216;konomi</span>
+                            <span class="arrow-label">Menu</span>
+                            <span aria-hidden="true" class="ow-dropdown-icon wk-icon-chevron-down"></span>
+                        </button>
+                    </div>
+                </div>
+                <div class="ow-nav-solution-menu">
+                    <div class="ow-nav-solution-menu-container">
+                        <span class="secondary-nav-overlay-mobile"></span>
+                        <ul class="ow-nav-list">
+                                    <li class="ow-nav-list-item ow-has-sub-nav">
+                                        <button class="ow-nav-link" type="button" aria-haspopup="true" aria-expanded="false">
+                                            Software
+                                            <span class="wk-icon-chevron-down" aria-hidden="true"></span>
+                                        </button>
+                                        <div class="ow-sub-nav xxx">
+                                            <span class="secondary-nav-overlay-desktop"></span>
+                                            <div class="ow-solution-about">
+                                                <p class="ow-solution-heading"></p>
+                                                <p class="ow-solution-body"></p>
+                                            </div>
+                                            <div class="ow-sub-nav-list-container">
+                                                            <div class="ow-sub-nav-column">
+                                                                <h6 class="ow-sub-nav-list-heading"> </h6>
+                                                                <ul class="ow-sub-nav-list">
+                                                                        <li class="ow-sub-nav-list-item">
+                                                                            <a class="ow-sub-nav-link"  href="/da-dk/solutions/capego-dk" target="">CAPEGO</a>
+                                                                        </li>
+                                                                        <li class="ow-sub-nav-list-item">
+                                                                            <a class="ow-sub-nav-link"  href="/da-dk/solutions/capego-dk/capego-accounting" target="">Accounting</a>
+                                                                        </li>
+                                                                        <li class="ow-sub-nav-list-item">
+                                                                            <a class="ow-sub-nav-link"  href="/da-dk/solutions/capego-dk/capego-accounting-virksomheder" target="">Accounting Virksomheder</a>
+                                                                        </li>
+                                                                        <li class="ow-sub-nav-list-item">
+                                                                            <a class="ow-sub-nav-link"  href="/da-dk/solutions/capego-dk/capego-kyc-dk" target="">KYC</a>
+                                                                        </li>
+                                                                        <li class="ow-sub-nav-list-item">
+                                                                            <a class="ow-sub-nav-link"  href="/da-dk/solutions/capego-dk/smartflow" target="">SmartFlow</a>
+                                                                        </li>
+                                                                        <li class="ow-sub-nav-list-item">
+                                                                            <a class="ow-sub-nav-link"  href="/da-dk/solutions/capego-dk/smartsign" target="">SmartSign</a>
+                                                                        </li>
+                                                                        <li class="ow-sub-nav-list-item">
+                                                                            <a class="ow-sub-nav-link"  href="/da-dk/solutions/capego-dk/capego-teamwork-standard" target="">Teamwork Standard</a>
+                                                                        </li>
+                                                                </ul>
+                                                            </div>
+                                                            <div class="ow-sub-nav-column">
+                                                                <h6 class="ow-sub-nav-list-heading"></h6>
+                                                                <ul class="ow-sub-nav-list">
+                                                                        <li class="ow-sub-nav-list-item">
+                                                                            <a class="ow-sub-nav-link"  href="/da-dk/solutions/oevrige-programmer/bluewhale-sikker-mail" target="">BlueWhale Sikker Mail</a>
+                                                                        </li>
+                                                                        <li class="ow-sub-nav-list-item">
+                                                                            <a class="ow-sub-nav-link"  href="/da-dk/solutions/capego-dk" target="">CAPEGO</a>
+                                                                        </li>
+                                                                        <li class="ow-sub-nav-list-item">
+                                                                            <a class="ow-sub-nav-link"  href="/da-dk/solutions/finsit-dk" target="">Finsit</a>
+                                                                        </li>
+                                                                        <li class="ow-sub-nav-list-item">
+                                                                            <a class="ow-sub-nav-link"  href="/da-dk/solutions/capego-dk/capego-practice-management-dk" target="">Practice Management</a>
+                                                                        </li>
+                                                                </ul>
+                                                            </div>
+                                                            <div class="ow-sub-nav-column">
+                                                                <h6 class="ow-sub-nav-list-heading"> </h6>
+                                                                <ul class="ow-sub-nav-list">
+                                                                        <li class="ow-sub-nav-list-item">
+                                                                            <a class="ow-sub-nav-link"  href="/da-dk/solutions/kundestyringsprogrammer" target="">KUNDESTYRING</a>
+                                                                        </li>
+                                                                        <li class="ow-sub-nav-list-item">
+                                                                            <a class="ow-sub-nav-link"  href="/da-dk/solutions/kundestyringsprogrammer/clientview" target="">ClientView</a>
+                                                                        </li>
+                                                                        <li class="ow-sub-nav-list-item">
+                                                                            <a class="ow-sub-nav-link"  href="/da-dk/solutions/kundestyringsprogrammer/faglig-service-i-clientview" target="">Faglig Service i ClientView</a>
+                                                                        </li>
+                                                                        <li class="ow-sub-nav-list-item">
+                                                                            <a class="ow-sub-nav-link"  href="/da-dk/solutions/kundestyringsprogrammer/clienttime" target="">ClientTime</a>
+                                                                        </li>
+                                                                        <li class="ow-sub-nav-list-item">
+                                                                            <a class="ow-sub-nav-link"  href="/da-dk/solutions/it-revisor/kundestyring-i-it-revisor" target="">Kundestyring IT Revisor</a>
+                                                                        </li>
+                                                                </ul>
+                                                            </div>
+                                                            <div class="ow-sub-nav-column">
+                                                                <h6 class="ow-sub-nav-list-heading"> </h6>
+                                                                <ul class="ow-sub-nav-list">
+                                                                        <li class="ow-sub-nav-list-item">
+                                                                            <a class="ow-sub-nav-link"  href="/da-dk/solutions/regnskabsprogrammer" target="">REGNSKAB</a>
+                                                                        </li>
+                                                                        <li class="ow-sub-nav-list-item">
+                                                                            <a class="ow-sub-nav-link"  href="/da-dk/solutions/regnskabsprogrammer/aarsafslutning" target="">&#197;rsafslutning</a>
+                                                                        </li>
+                                                                        <li class="ow-sub-nav-list-item">
+                                                                            <a class="ow-sub-nav-link"  href="/da-dk/solutions/regnskabsprogrammer/aarsafslutning-professionel" target="">&#197;rsafslutning Professionel</a>
+                                                                        </li>
+                                                                        <li class="ow-sub-nav-list-item">
+                                                                            <a class="ow-sub-nav-link"  href="/da-dk/solutions/it-revisor/regnskaber-i-it-revisor" target="">Regnskaber     IT Revisor</a>
+                                                                        </li>
+                                                                </ul>
+                                                            </div>
+                                                            <div class="ow-sub-nav-column">
+                                                                <h6 class="ow-sub-nav-list-heading"> </h6>
+                                                                <ul class="ow-sub-nav-list">
+                                                                        <li class="ow-sub-nav-list-item">
+                                                                            <a class="ow-sub-nav-link"  href="/da-dk/solutions/revisionsprogrammer" target="">REVISION</a>
+                                                                        </li>
+                                                                        <li class="ow-sub-nav-list-item">
+                                                                            <a class="ow-sub-nav-link"  href="/da-dk/solutions/revisionsprogrammer/revision" target="">Revision</a>
+                                                                        </li>
+                                                                        <li class="ow-sub-nav-list-item">
+                                                                            <a class="ow-sub-nav-link"  href="/da-dk/solutions/revisionsprogrammer/kvalitetsstyringsmanual" target="">Kvalitetsstyringsmanual</a>
+                                                                        </li>
+                                                                        <li class="ow-sub-nav-list-item">
+                                                                            <a class="ow-sub-nav-link"  href="/da-dk/solutions/teammate/teammate-analytics" target="">TeamMate Analytics</a>
+                                                                        </li>
+                                                                        <li class="ow-sub-nav-list-item">
+                                                                            <a class="ow-sub-nav-link"  href="/da-dk/solutions/it-revisor/kvalitetsstyring-i-it-revisor" target="">Kvalitetsstyring IT Revisor</a>
+                                                                        </li>
+                                                                </ul>
+                                                            </div>
+                                                            <div class="ow-sub-nav-column">
+                                                                <h6 class="ow-sub-nav-list-heading"> </h6>
+                                                                <ul class="ow-sub-nav-list">
+                                                                        <li class="ow-sub-nav-list-item">
+                                                                            <a class="ow-sub-nav-link"  href="/da-dk/solutions/skatteprogrammer" target="">SKAT</a>
+                                                                        </li>
+                                                                        <li class="ow-sub-nav-list-item">
+                                                                            <a class="ow-sub-nav-link"  href="/da-dk/solutions/skatteprogrammer/skat-nova" target="">Skat Nova</a>
+                                                                        </li>
+                                                                        <li class="ow-sub-nav-list-item">
+                                                                            <a class="ow-sub-nav-link"  href="/da-dk/solutions/skatteprogrammer/skat-professionel-nova" target="">Skat Professionel Nova</a>
+                                                                        </li>
+                                                                        <li class="ow-sub-nav-list-item">
+                                                                            <a class="ow-sub-nav-link"  href="/da-dk/solutions/skatteprogrammer/vaerdipapir-nova" target="">V&#230;rdipapir Nova</a>
+                                                                        </li>
+                                                                        <li class="ow-sub-nav-list-item">
+                                                                            <a class="ow-sub-nav-link"  href="/da-dk/solutions/skatteprogrammer/vaerdipapir-professionel" target="">V&#230;rdipapir Professionel</a>
+                                                                        </li>
+                                                                </ul>
+                                                            </div>
+                                                            <div class="ow-sub-nav-column">
+                                                                <h6 class="ow-sub-nav-list-heading"> </h6>
+                                                                <ul class="ow-sub-nav-list">
+                                                                        <li class="ow-sub-nav-list-item">
+                                                                            <a class="ow-sub-nav-link"  href="/da-dk/solutions/hosting-loesning" target="">HOSTING</a>
+                                                                        </li>
+                                                                        <li class="ow-sub-nav-list-item">
+                                                                            <a class="ow-sub-nav-link"  href="/da-dk/solutions/hosting-loesning/revisky" target="">ReviSky</a>
+                                                                        </li>
+                                                                        <li class="ow-sub-nav-list-item">
+                                                                            <a class="ow-sub-nav-link"  href="/da-dk/solutions/hosting-loesning/regnskabsky" target="">Regnskabsky</a>
+                                                                        </li>
+                                                                        <li class="ow-sub-nav-list-item">
+                                                                            <a class="ow-sub-nav-link"  href="/da-dk/solutions/hosting-loesning/revisorhosting" target="">RevisorHosting</a>
+                                                                        </li>
+                                                                        <li class="ow-sub-nav-list-item">
+                                                                            <a class="ow-sub-nav-link"  href="" target=""></a>
+                                                                        </li>
+                                                                        <li class="ow-sub-nav-list-item">
+                                                                            <a class="ow-sub-nav-link"  href="" target=""></a>
+                                                                        </li>
+                                                                        <li class="ow-sub-nav-list-item">
+                                                                            <a class="ow-sub-nav-link"  href="" target=""></a>
+                                                                        </li>
+                                                                </ul>
+                                                            </div>
+                                                            <div class="ow-sub-nav-column">
+                                                                <h6 class="ow-sub-nav-list-heading"></h6>
+                                                                <ul class="ow-sub-nav-list">
+                                                                        <li class="ow-sub-nav-list-item">
+                                                                            <a class="ow-sub-nav-link"  href="" target=""></a>
+                                                                        </li>
+                                                                        <li class="ow-sub-nav-list-item">
+                                                                            <a class="ow-sub-nav-link"  href="/da-dk/solutions/it-revisor/it-revisor-standard" target="">IT Revisor Standard</a>
+                                                                        </li>
+                                                                        <li class="ow-sub-nav-list-item">
+                                                                            <a class="ow-sub-nav-link"  href="/da-dk/solutions/it-revisor/it-revisor-professionel" target="">IT Revisor Professionel</a>
+                                                                        </li>
+                                                                        <li class="ow-sub-nav-list-item">
+                                                                            <a class="ow-sub-nav-link"  href="/da-dk/solutions/oevrige-programmer/it-business" target="">IT Business</a>
+                                                                        </li>
+                                                                        <li class="ow-sub-nav-list-item">
+                                                                            <a class="ow-sub-nav-link"  href="/da-dk/solutions/oevrige-programmer/revisor-whistleblower" target="">ITwhistleblower.dk</a>
+                                                                        </li>
+                                                                        <li class="ow-sub-nav-list-item">
+                                                                            <a class="ow-sub-nav-link"  href="/da-dk/solutions/oevrige-programmer/consulting" target="">Consulting</a>
+                                                                        </li>
+                                                                </ul>
+                                                            </div>
+
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="ow-nav-list-item">
+                                        <a class="ow-nav-link "  href="https://www.wolterskluwer.com/da-dk/expert-insights/search-results?f:interestarea=Tax%20%26%20Accounting&amp;f:contenttype=Insight%20Article%20Page%7CInsight%20Case%20Study%20Page%7CInsight%20Event%20Page%7CInsight%20Infographic%20Page%7CInsight%20Podcast%20%20Page%7CInsight%20Video%20Page%7CInsight%20Webinar%20Page" target="_blank">Ekspertindsigter</a>
+                                    </li>
+                                    <li class="ow-nav-list-item">
+                                        <a class="ow-nav-link "  href="/da-dk/solutions/skat-okonomi/kurser-webinarer" target="">Kurser &amp; Webinarer</a>
+                                    </li>
+                                    <li class="ow-nav-list-item ow-has-sub-nav">
+                                        <button class="ow-nav-link" type="button" aria-haspopup="true" aria-expanded="false">
+                                            Downloads
+                                            <span class="wk-icon-chevron-down" aria-hidden="true"></span>
+                                        </button>
+                                        <div class="ow-sub-nav xxx">
+                                            <span class="secondary-nav-overlay-desktop"></span>
+                                            <div class="ow-solution-about">
+                                                <p class="ow-solution-heading"></p>
+                                                <p class="ow-solution-body"></p>
+                                            </div>
+                                            <div class="ow-sub-nav-list-container">
+                                                            <div class="ow-sub-nav-column">
+                                                                <h6 class="ow-sub-nav-list-heading">Demoversioner</h6>
+                                                                <ul class="ow-sub-nav-list">
+                                                                        <li class="ow-sub-nav-list-item">
+                                                                            <a class="ow-sub-nav-link"  href="/da-dk/solutions/regnskabsprogrammer/aarsafslutning/demo-arsafslutning" target="">&#197;rsafslutning Demoversion</a>
+                                                                        </li>
+                                                                        <li class="ow-sub-nav-list-item">
+                                                                            <a class="ow-sub-nav-link"  href="/da-dk/solutions/revisionsprogrammer/revision/demo-revision" target="">Revision Demoversion</a>
+                                                                        </li>
+                                                                        <li class="ow-sub-nav-list-item">
+                                                                            <a class="ow-sub-nav-link"  href="/da-dk/solutions/skatteprogrammer/skat-nova/demo-skatnova" target="">Skat Nova Demoversion</a>
+                                                                        </li>
+                                                                        <li class="ow-sub-nav-list-item">
+                                                                            <a class="ow-sub-nav-link"  href="/da-dk/solutions/skatteprogrammer/vaerdipapir-nova/demo-vaerdipapirnova" target="">V&#230;rdipapir Demoversion </a>
+                                                                        </li>
+                                                                </ul>
+                                                            </div>
+                                                            <div class="ow-sub-nav-column">
+                                                                <h6 class="ow-sub-nav-list-heading"> </h6>
+                                                                <ul class="ow-sub-nav-list">
+                                                                        <li class="ow-sub-nav-list-item">
+                                                                            <a class="ow-sub-nav-link"  href="https://wktaaeu.my.site.com/dk/s/" target="_blank">Opdateringer</a>
+                                                                        </li>
+                                                                </ul>
+                                                            </div>
+
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="ow-nav-list-item">
+                                        <a class="ow-nav-link "  href="/da-dk/solutions/it-revisor/it-revisor-bogforingsloven" target="">Ny Bogf&#248;ringslov</a>
+                                    </li>
+                                    <li class="ow-nav-list-item">
+                                        <a class="ow-nav-link "  href="/da-dk/solutions/skat-okonomi/abonnere-insight" target="">Insight Nyhedsbrev</a>
+                                    </li>
+                                    <li class="ow-nav-list-item">
+                                        <a class="ow-nav-link "  href="/da-dk/solutions/skat-okonomi/connected-cloud" target="">T&#230;nk Cloud nu</a>
+                                    </li>
+                                    <li class="ow-nav-list-item ow-has-sub-nav">
+                                        <button class="ow-nav-link" type="button" aria-haspopup="true" aria-expanded="false">
+                                            Login
+                                            <span class="wk-icon-chevron-down" aria-hidden="true"></span>
+                                        </button>
+                                        <div class="ow-sub-nav xxx">
+                                            <span class="secondary-nav-overlay-desktop"></span>
+                                            <div class="ow-solution-about">
+                                                <p class="ow-solution-heading"></p>
+                                                <p class="ow-solution-body"></p>
+                                            </div>
+                                            <div class="ow-sub-nav-list-container">
+                                                            <div class="ow-sub-nav-column">
+                                                                <h6 class="ow-sub-nav-list-heading"> </h6>
+                                                                <ul class="ow-sub-nav-list">
+                                                                        <li class="ow-sub-nav-list-item">
+                                                                            <a class="ow-sub-nav-link"  href="https://kyc.capego.net/login" target="_blank">Capego KYC</a>
+                                                                        </li>
+                                                                        <li class="ow-sub-nav-list-item">
+                                                                            <a class="ow-sub-nav-link"  href="https://smartsign.capego.net/login" target="_blank">Capego SmartSign</a>
+                                                                        </li>
+                                                                        <li class="ow-sub-nav-list-item">
+                                                                            <a class="ow-sub-nav-link" goal="{66722F52-2D13-4DCC-90FC-EA7117CF2298}"  href="https://app.s-flow.dk/#/auth/login" target="_blank">Capego SmartFlow</a>
+                                                                        </li>
+                                                                        <li class="ow-sub-nav-list-item">
+                                                                            <a class="ow-sub-nav-link"  href="https://capego.net/advisor" target="_blank">Capego Teamwork Standard</a>
+                                                                        </li>
+                                                                        <li class="ow-sub-nav-list-item">
+                                                                            <a class="ow-sub-nav-link"  href="https://cpm.capego.net" target="_blank">Capego Teamwork Plus</a>
+                                                                        </li>
+                                                                        <li class="ow-sub-nav-list-item">
+                                                                            <a class="ow-sub-nav-link"  href="https://finsitapp.wolterskluwer.dk/External#!/login" target="_blank">Capego Finsit</a>
+                                                                        </li>
+                                                                        <li class="ow-sub-nav-list-item">
+                                                                            <a class="ow-sub-nav-link"  href="https://file.wolterskluwer.se/login.html" target="_blank">Consulting Login</a>
+                                                                        </li>
+                                                                </ul>
+                                                            </div>
+
+                                            </div>
+                                        </div>
+                                    </li>
+                        </ul>
+                    </div>
+                    <div class="ow-nav-optional">
+                        <ul class="ow-nav-optional-list">
+                                    <li class="ow-nav-optional-list-item">
+                                        <a class="ow-nav-optional-link"  href="https://wktaaeu.my.site.com/dk/s/" target="_blank">
+                                            <span aria-hidden="true" class="ow-icon "></span>
+                                            <span class="ow-nav-optional-link-text">Support</span>
+                                        </a>
+                                    </li>
+                                                    </ul>
+
+                            <div class="ow-nav-cta">
+                                <a class="ow-cta-button"  href="/da-dk/solutions/skat-okonomi/kontakt" target="">
+                                    Kontakt
+                                </a>
+                            </div>
+
+                        <div class="row"></div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </nav>
+</div>
+            </div>
+        </div>
+        <div class=" placeholder-gap container-fluid">
+            <div >
+                <div class="row"></div>
+            </div>
+        </div>
+</div></div></div>
+        </div>
+    </header>
+    <!-- /#header -->
+    <!-- #content -->
+    <main>
+        <div id="content" class="container">
+            <div class="row">
+
+    <div class="component wk-container small">
+        <div class="component-content">
+<div class="title field-title" role="heading" aria-level="2"><p>Udvalgte programmer</p></div><div class="row">
+
+<div class="row component column-splitter">
+        <div class="col-12 col-md-6 col-lg-4 full-height-card">
+            <div class="row">    <div class="component cards">
+        <div class="component-content">
+<div class="link-wrapper"><div class="card-image field-cardimage"><image height="1024" stylelabs-content-type="Image" alt="woman working on her laptop" stylelabs-content-id="810640" width="1536" thumbnailsrc="https://contenthub.wolterskluwer.com/api/gateway/810640/thumbnail" src="https://assets.contenthub.wolterskluwer.com/api/public/content/810640-woman-working-on-her-laptop-716c6c5afc?v=b8f1412e" srcset="https://assets.contenthub.wolterskluwer.com/api/public/content/810640-woman-working-on-her-laptop-716c6c5afc?v=b8f1412e&amp;t=w479l 479w,https://assets.contenthub.wolterskluwer.com/api/public/content/810640-woman-working-on-her-laptop-716c6c5afc?v=b8f1412e&amp;t=w505l 505w,https://assets.contenthub.wolterskluwer.com/api/public/content/810640-woman-working-on-her-laptop-716c6c5afc?v=b8f1412e&amp;t=w543l 543w,https://assets.contenthub.wolterskluwer.com/api/public/content/810640-woman-working-on-her-laptop-716c6c5afc?v=b8f1412e&amp;t=w672l 672w,https://assets.contenthub.wolterskluwer.com/api/public/content/810640-woman-working-on-her-laptop-716c6c5afc?v=b8f1412e&amp;t=w733l 733w" loading="lazy" data-variantitemid="{80FC2359-7CC9-4524-BD90-2FC662C78AA6}" sizes="(max-width:539px) 505px, (max-width:767px) 733px, (max-width:991px) 479px, (max-width:1199px) 543px, (max-width:1440px) 672px, 672px" format="" data-variantfieldname="CardImage" /></div><div class="card-content"><div class="text-wrapper"><div class="card-title field-cardtitle" role="heading" aria-level="3"><p>Capego&nbsp;</p></div><div class="card-description field-carddescription"><p>Capego er cloudbaserede softwareløsninger med høj brugervenlighed og intelligent flow, der støtter sikker håndtering af store beslutninger.</p></div></div><div class="card-cta field-cardbuttonlabel" data-dm-wk="cards.link"><a href="/da-dk/solutions/capego-dk">L&#230;s Mere</a></div></div></div>        </div>
+    </div>
+</div>
+        </div>
+        <div class="col-12 col-md-6 col-lg-4 full-height-card">
+            <div class="row">    <div class="component cards col-12">
+        <div class="component-content">
+<div class="link-wrapper"><div class="card-image field-cardimage"><image height="1024" stylelabs-content-type="Image" alt="Capego Accouting" stylelabs-content-id="2142187" width="1536" thumbnailsrc="https://contenthub.wolterskluwer.com/api/gateway/2142187/thumbnail" src="https://assets.contenthub.wolterskluwer.com/api/public/content/2142187-capego-accouting-0109e7c27e?v=7a12bcf3" srcset="https://assets.contenthub.wolterskluwer.com/api/public/content/2142187-capego-accouting-0109e7c27e?v=7a12bcf3&amp;t=w479l 479w,https://assets.contenthub.wolterskluwer.com/api/public/content/2142187-capego-accouting-0109e7c27e?v=7a12bcf3&amp;t=w505l 505w,https://assets.contenthub.wolterskluwer.com/api/public/content/2142187-capego-accouting-0109e7c27e?v=7a12bcf3&amp;t=w543l 543w,https://assets.contenthub.wolterskluwer.com/api/public/content/2142187-capego-accouting-0109e7c27e?v=7a12bcf3&amp;t=w672l 672w,https://assets.contenthub.wolterskluwer.com/api/public/content/2142187-capego-accouting-0109e7c27e?v=7a12bcf3&amp;t=w733l 733w" loading="lazy" data-variantitemid="{78BB90E4-2BF4-4AD3-A0E7-1211C93B7587}" sizes="(max-width:539px) 505px, (max-width:767px) 733px, (max-width:991px) 479px, (max-width:1199px) 543px, (max-width:1440px) 672px, 672px" format="" data-variantfieldname="CardImage"></image></div><div class="card-content"><div class="text-wrapper"><div class="card-title field-cardtitle" role="heading" aria-level="3"><p>Capego Accounting</p></div><div class="card-description field-carddescription">Den nye cloud-baserede løsning sikrer et effektivt samarbejde med dine kunder. Et brugervenligt regnskabsprogram.</div></div><div class="card-cta field-cardbuttonlabel" data-dm-wk="cards.link"><a href="/da-dk/solutions/capego-dk/capego-accounting">L&#230;s Mere</a></div></div></div>        </div>
+    </div>
+</div>
+        </div>
+        <div class="col-12 col-md-6 col-lg-4 full-height-card">
+            <div class="row">    <div class="component cards col-12">
+        <div class="component-content">
+<div class="link-wrapper"><div class="card-image field-cardimage"><image stylelabs-content-type="Image" src="https://assets.contenthub.wolterskluwer.com/api/public/content/20d8b3dff99d42959f14a3b55e8a16e7?v=486188ed" height="1024" thumbnailsrc="https://contenthub.wolterskluwer.com/api/gateway/1170652/thumbnail" stylelabs-content-id="1170652" width="1536" alt="businessman w laptop at office" srcset="https://assets.contenthub.wolterskluwer.com/api/public/content/20d8b3dff99d42959f14a3b55e8a16e7?v=486188ed&amp;t=w479l 479w,https://assets.contenthub.wolterskluwer.com/api/public/content/20d8b3dff99d42959f14a3b55e8a16e7?v=486188ed&amp;t=w505l 505w,https://assets.contenthub.wolterskluwer.com/api/public/content/20d8b3dff99d42959f14a3b55e8a16e7?v=486188ed&amp;t=w543l 543w,https://assets.contenthub.wolterskluwer.com/api/public/content/20d8b3dff99d42959f14a3b55e8a16e7?v=486188ed&amp;t=w672l 672w,https://assets.contenthub.wolterskluwer.com/api/public/content/20d8b3dff99d42959f14a3b55e8a16e7?v=486188ed&amp;t=w733l 733w" loading="lazy" data-variantitemid="{D5FD3CC2-E0EF-45CB-98EE-D485A5A21264}" sizes="(max-width:539px) 505px, (max-width:767px) 733px, (max-width:991px) 479px, (max-width:1199px) 543px, (max-width:1440px) 672px, 672px" format="" data-variantfieldname="CardImage" /></div><div class="card-content"><div class="text-wrapper"><div class="card-title field-cardtitle" role="heading" aria-level="3">Capego KYC</div><div class="card-description field-carddescription">Capego KYC er et webbaseret værktøj, som hjælper dig med onboarding af nye kunder og at leve op til kravene til kundekendskab.</div></div><div class="card-cta field-cardbuttonlabel" data-dm-wk="cards.link"><a href="/da-dk/solutions/capego-dk/capego-kyc-dk">L&#230;s Mere</a></div></div></div>        </div>
+    </div>
+</div>
+        </div>
+</div>
+
+<div class="row component column-splitter">
+        <div class="col-12 col-md-6 col-lg-4 full-height-card">
+            <div class="row">    <div class="component cards">
+        <div class="component-content">
+<div class="link-wrapper"><div class="card-image field-cardimage"><image stylelabs-content-type="Image" mediaid="" src="https://assets.contenthub.wolterskluwer.com/api/public/content/337402850168495fad8153b3930963ba?v=695e51ad" height="1280" alt="Basecone" stylelabs-content-id="383360" width="1920" thumbnailsrc="https://contenthub.wolterskluwer.com/api/gateway/383360/thumbnail" srcset="https://assets.contenthub.wolterskluwer.com/api/public/content/337402850168495fad8153b3930963ba?v=695e51ad&amp;t=w479l 479w,https://assets.contenthub.wolterskluwer.com/api/public/content/337402850168495fad8153b3930963ba?v=695e51ad&amp;t=w505l 505w,https://assets.contenthub.wolterskluwer.com/api/public/content/337402850168495fad8153b3930963ba?v=695e51ad&amp;t=w543l 543w,https://assets.contenthub.wolterskluwer.com/api/public/content/337402850168495fad8153b3930963ba?v=695e51ad&amp;t=w672l 672w,https://assets.contenthub.wolterskluwer.com/api/public/content/337402850168495fad8153b3930963ba?v=695e51ad&amp;t=w733l 733w" loading="lazy" data-variantitemid="{86A28C68-6607-4595-8C01-05FE1EFA6671}" sizes="(max-width:539px) 505px, (max-width:767px) 733px, (max-width:991px) 479px, (max-width:1199px) 543px, (max-width:1440px) 672px, 672px" format="" data-variantfieldname="CardImage" /></div><div class="card-content"><div class="text-wrapper"><div class="card-title field-cardtitle" role="heading" aria-level="3"><p>Capego Smartflow</p></div><div class="card-description field-carddescription">Automatiseret, digital fakturahåndtering via web/mobil sætter hastigheden i vejret, styrker brugervenligheden og minimerer risikoen for fejl.<br /></div></div><div class="card-cta field-cardbuttonlabel" data-dm-wk="cards.link"><a href="/da-dk/solutions/capego-dk/smartflow">L&#230;s Mere</a></div></div></div>        </div>
+    </div>
+</div>
+        </div>
+        <div class="col-12 col-md-6 col-lg-4 full-height-card">
+            <div class="row">    <div class="component cards">
+        <div class="component-content">
+<div class="link-wrapper"><div class="card-image field-cardimage"><image stylelabs-content-type="Image" mediaid="" src="https://assets.contenthub.wolterskluwer.com/api/public/content/f29f78f29ac549b38eae9ac3f75e0532?v=5bdfa8af" height="1024" alt="Smartsign mobile computer" stylelabs-content-id="707988" width="1536" thumbnailsrc="https://contenthub.wolterskluwer.com/api/gateway/707988/thumbnail" srcset="https://assets.contenthub.wolterskluwer.com/api/public/content/f29f78f29ac549b38eae9ac3f75e0532?v=5bdfa8af&amp;t=w479l 479w,https://assets.contenthub.wolterskluwer.com/api/public/content/f29f78f29ac549b38eae9ac3f75e0532?v=5bdfa8af&amp;t=w505l 505w,https://assets.contenthub.wolterskluwer.com/api/public/content/f29f78f29ac549b38eae9ac3f75e0532?v=5bdfa8af&amp;t=w543l 543w,https://assets.contenthub.wolterskluwer.com/api/public/content/f29f78f29ac549b38eae9ac3f75e0532?v=5bdfa8af&amp;t=w672l 672w,https://assets.contenthub.wolterskluwer.com/api/public/content/f29f78f29ac549b38eae9ac3f75e0532?v=5bdfa8af&amp;t=w733l 733w" loading="lazy" data-variantitemid="{79A6F667-5899-4185-A255-0E15E65CFFF9}" sizes="(max-width:539px) 505px, (max-width:767px) 733px, (max-width:991px) 479px, (max-width:1199px) 543px, (max-width:1440px) 672px, 672px" format="" data-variantfieldname="CardImage" /></div><div class="card-content"><div class="text-wrapper"><div class="card-title field-cardtitle" role="heading" aria-level="3">Capego SmartSign</div><div class="card-description field-carddescription"><p>Med Capego SmartSign er det nemt at bevare overblikket og sikre, at alle lovpligtige underskriftsprocesser bliver overholdt i et intuitivt og sikkert dokumentflow.&nbsp;</p></div></div><div class="card-cta field-cardbuttonlabel" data-dm-wk="cards.link"><a href="/da-dk/solutions/capego-dk/smartsign">L&#230;s Mere</a></div></div></div>        </div>
+    </div>
+</div>
+        </div>
+        <div class="col-12 col-md-6 col-lg-4 full-height-card">
+            <div class="row">    <div class="component cards">
+        <div class="component-content">
+<div class="link-wrapper"><div class="card-image field-cardimage"><image height="1024" stylelabs-content-type="Image" alt="Cooperation process of professional male and female colleagues,business woman in formal suit communicate with operator via smartphone gadget while reading email from partners touch pad during teamwork" stylelabs-content-id="1482704" width="1536" thumbnailsrc="https://contenthub.wolterskluwer.com/api/gateway/1482704/thumbnail" src="https://assets.contenthub.wolterskluwer.com/api/public/content/1482704-cooperation-process-of-professional-male-and-female-colleagues-business-woman-in-formal-suit-communicate-with-operator-via-smartphone-gadget-while-reading-email-from-partners-touch-pad-during-teamwork-787ef75275?v=3e896efe" srcset="https://assets.contenthub.wolterskluwer.com/api/public/content/1482704-cooperation-process-of-professional-male-and-female-colleagues-business-woman-in-formal-suit-communicate-with-operator-via-smartphone-gadget-while-reading-email-from-partners-touch-pad-during-teamwork-787ef75275?v=3e896efe&amp;t=w479l 479w,https://assets.contenthub.wolterskluwer.com/api/public/content/1482704-cooperation-process-of-professional-male-and-female-colleagues-business-woman-in-formal-suit-communicate-with-operator-via-smartphone-gadget-while-reading-email-from-partners-touch-pad-during-teamwork-787ef75275?v=3e896efe&amp;t=w505l 505w,https://assets.contenthub.wolterskluwer.com/api/public/content/1482704-cooperation-process-of-professional-male-and-female-colleagues-business-woman-in-formal-suit-communicate-with-operator-via-smartphone-gadget-while-reading-email-from-partners-touch-pad-during-teamwork-787ef75275?v=3e896efe&amp;t=w543l 543w,https://assets.contenthub.wolterskluwer.com/api/public/content/1482704-cooperation-process-of-professional-male-and-female-colleagues-business-woman-in-formal-suit-communicate-with-operator-via-smartphone-gadget-while-reading-email-from-partners-touch-pad-during-teamwork-787ef75275?v=3e896efe&amp;t=w672l 672w,https://assets.contenthub.wolterskluwer.com/api/public/content/1482704-cooperation-process-of-professional-male-and-female-colleagues-business-woman-in-formal-suit-communicate-with-operator-via-smartphone-gadget-while-reading-email-from-partners-touch-pad-during-teamwork-787ef75275?v=3e896efe&amp;t=w733l 733w" loading="lazy" data-variantitemid="{AD879058-E380-4939-B587-A365745CAF73}" sizes="(max-width:539px) 505px, (max-width:767px) 733px, (max-width:991px) 479px, (max-width:1199px) 543px, (max-width:1440px) 672px, 672px" format="" data-variantfieldname="CardImage" /></div><div class="card-content"><div class="text-wrapper"><div class="card-title field-cardtitle" role="heading" aria-level="3"><p>Capego Teamwork Standard</p></div><div class="card-description field-carddescription">Med Capego Teamwork Standard kan du tilbyde hver af dine kunder en individuel kundeportal med arkivplads i cloud, så I kan arkivere og dele dokumenter sikkert og nemt.</div></div><div class="card-cta field-cardbuttonlabel" data-dm-wk="cards.link"><a href="/da-dk/solutions/capego-dk/capego-teamwork-standard">L&#230;s Mere</a></div></div></div>        </div>
+    </div>
+</div>
+        </div>
+</div></div>        </div>
+    </div>
+
+
+
+
+    <div class="query-card">
+        <div class="component no-carousel carousel col-12 mobile-card"
+             data-properties='{"timeout":2147483647,"isPauseEnabled":true,"transition":"BasicTransition"}'>
+            <div class="component-content">
+                <h2 class="query-card--title">Ekspertindsigter</h2>
+                <div data-id="divCarousel_77dbce3d-5a8f-468a-ae0e-a1cbed780c4a" class="carousel-inner">
+                    <ul class="slides">
+                            <li class="slide">
+                                <div class="row">
+                                    <div class="component cards ">
+                                        <div class="component-content">
+
+                                                <div class="link-wrapper link-wrapper--left">
+                                                    <div class="card-image field-image">
+<img loading="lazy" src="https://assets.contenthub.wolterskluwer.com/api/public/content/4b3b128fb54c4772bfb758f65fc0ac9c?v=4a5a346e" srcset="https://assets.contenthub.wolterskluwer.com/api/public/content/4b3b128fb54c4772bfb758f65fc0ac9c?v=4a5a346e&t=w638l 638w,https://assets.contenthub.wolterskluwer.com/api/public/content/4b3b128fb54c4772bfb758f65fc0ac9c?v=4a5a346e&t=w679l 679w" sizes="(Max-Width: 767px) 679px, 638px" alt="Hvilke krav skal du stille til digital signering?"/>
+                                                    </div>
+
+                                                    <div class="card-content">
+                                                        <div class="card-label">
+                                                            <span>
+                                                                Artikel
+                                                            </span>
+                                                        </div>
+                                                        <div class="text-wrapper">
+                                                            <div class="card-eyebrow">
+                                                                        <div class="interest-area field-name">Skat &amp; &#216;konomi</div>
+                                                                                                                                    <div class="date field-editorial-revision-date">
+                                                                        <span class="updatedText">Opdateret</span>
+                                                                        <span class="card-result__revisiondate">marts 06, 2025</span>
+                                                                    </div>
+                                                            </div>
+                                                            <h3 class="card-title field-title">Hvilke krav skal du stille til digital signering?</h3>
+                                                            <div class="card-description field-abstract">At g&#229; fra h&#229;ndskreven til digital signering g&#248;r underskriftsprocessen b&#229;de enklere og sikrere. Men hvilke krav skal man stille til en digital signeringstjeneste?</div>
+                                                        </div>
+                                                        <div class="card-cta"><a title="Hvilke krav skal du stille til digital signering?" href="/da-dk/expert-insights/hvilke-krav-skal-du-stille-til-digital-signering">L&#230;s mere</a></div>
+                                                    </div>
+                                                </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="slide">
+                                <div class="row">
+                                    <div class="component cards ">
+                                        <div class="component-content">
+
+                                                <div class="link-wrapper link-wrapper--left">
+                                                    <div class="card-image field-image">
+<img loading="lazy" src="https://assets.contenthub.wolterskluwer.com/api/public/content/4dd0628846064df787c480baeed51474?v=f0951404" srcset="https://assets.contenthub.wolterskluwer.com/api/public/content/4dd0628846064df787c480baeed51474?v=f0951404&t=w638l 638w,https://assets.contenthub.wolterskluwer.com/api/public/content/4dd0628846064df787c480baeed51474?v=f0951404&t=w679l 679w" sizes="(Max-Width: 767px) 679px, 638px" alt="Overhold hvidvaskloven og undg&#229; b&#248;der"/>
+                                                    </div>
+
+                                                    <div class="card-content">
+                                                        <div class="card-label">
+                                                            <span>
+                                                                Artikel
+                                                            </span>
+                                                        </div>
+                                                        <div class="text-wrapper">
+                                                            <div class="card-eyebrow">
+                                                                        <div class="interest-area field-name">Skat &amp; &#216;konomi</div>
+                                                                                                                                    <div class="date field-editorial-revision-date">
+                                                                        <span class="updatedText">Opdateret</span>
+                                                                        <span class="card-result__revisiondate">marts 04, 2025</span>
+                                                                    </div>
+                                                            </div>
+                                                            <h3 class="card-title field-title">Overhold hvidvaskloven og undgå bøder</h3>
+                                                            <div class="card-description field-abstract">Hvad siger den danske lovgivning egentlig om, hvilket ansvar et regnskabs- eller revisionsfirma har for at opdage en kriminel virksomhed? </div>
+                                                        </div>
+                                                        <div class="card-cta"><a title="Overhold hvidvaskloven og undgå bøder" href="/da-dk/expert-insights/sadan-sikrer-du-at-du-overholder-hvidvaskloven-og-undgar-boder">L&#230;s mere</a></div>
+                                                    </div>
+                                                </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="slide">
+                                <div class="row">
+                                    <div class="component cards ">
+                                        <div class="component-content">
+
+                                                <div class="link-wrapper link-wrapper--left">
+                                                    <div class="card-image field-image">
+<img loading="lazy" src="https://assets.contenthub.wolterskluwer.com/api/public/content/4a882b7146044f4fa49daf66bb1092e3?v=e8be541e" srcset="https://assets.contenthub.wolterskluwer.com/api/public/content/4a882b7146044f4fa49daf66bb1092e3?v=e8be541e&t=w638l 638w,https://assets.contenthub.wolterskluwer.com/api/public/content/4a882b7146044f4fa49daf66bb1092e3?v=e8be541e&t=w679l 679w" sizes="(Max-Width: 767px) 679px, 638px" alt="Effektivisering, tidsbesparelse og Compliance med Wolters Kluwer"/>
+                                                    </div>
+
+                                                    <div class="card-content">
+                                                        <div class="card-label">
+                                                            <span>
+                                                                Casestudie
+                                                            </span>
+                                                        </div>
+                                                        <div class="text-wrapper">
+                                                            <div class="card-eyebrow">
+                                                                        <div class="interest-area field-name">Skat &amp; &#216;konomi</div>
+                                                                                                                                    <div class="date field-editorial-publish-date">februar 21, 2025</div>
+                                                            </div>
+                                                            <h3 class="card-title field-title">Effektivisering, tidsbesparelse og Compliance med Wolters Kluwer</h3>
+                                                            <div class="card-description field-abstract">Helledie Revision har optimeret deres arbejdsprocesser, forbedret kundetilfredsheden og sikret overholdelse af lovgivningen ved at implementere Wolters Kluwers produkter som revision, &#229;rsafslutning, Capego KYC og Capego Smartsign.</div>
+                                                        </div>
+                                                        <div class="card-cta"><a title="Effektivisering, tidsbesparelse og Compliance med Wolters Kluwer" href="/da-dk/expert-insights/effektivisering-tidsbesparelse-og-compliance-med-wolters-kluwer">L&#230;s mere</a></div>
+                                                    </div>
+                                                </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="slide">
+                                <div class="row">
+                                    <div class="component cards ">
+                                        <div class="component-content">
+
+                                                <div class="link-wrapper link-wrapper--left">
+                                                    <div class="card-image field-image">
+<img loading="lazy" src="https://assets.contenthub.wolterskluwer.com/api/public/content/d792b04a9b784c29acc5a95372d1fa49?v=412d3769" srcset="https://assets.contenthub.wolterskluwer.com/api/public/content/d792b04a9b784c29acc5a95372d1fa49?v=412d3769&t=w638l 638w,https://assets.contenthub.wolterskluwer.com/api/public/content/d792b04a9b784c29acc5a95372d1fa49?v=412d3769&t=w679l 679w" sizes="(Max-Width: 767px) 679px, 638px" alt="Strategisk r&#229;dgivning: N&#248;glen til at hj&#230;lpe dine kunder"/>
+                                                    </div>
+
+                                                    <div class="card-content">
+                                                        <div class="card-label">
+                                                            <span>
+                                                                Artikel
+                                                            </span>
+                                                        </div>
+                                                        <div class="text-wrapper">
+                                                            <div class="card-eyebrow">
+                                                                        <div class="interest-area field-name">Skat &amp; &#216;konomi</div>
+                                                                                                                                    <div class="date field-editorial-revision-date">
+                                                                        <span class="updatedText">Opdateret</span>
+                                                                        <span class="card-result__revisiondate">december 19, 2024</span>
+                                                                    </div>
+                                                            </div>
+                                                            <h3 class="card-title field-title">Strategisk rådgivning: Nøglen til at hjælpe dine kunder</h3>
+                                                            <div class="card-description field-abstract">Strategisk r&#229;dgivning styrker regnskabsfirmaer i en automatiseret verden. Opdag 3 n&#248;gleomr&#229;der: strategiske m&#229;l og strategiske beslutninger.</div>
+                                                        </div>
+                                                        <div class="card-cta"><a title="Strategisk rådgivning: Nøglen til at hjælpe dine kunder" href="/da-dk/expert-insights/udbyg-din-strategiske-radgivning">L&#230;s mere</a></div>
+                                                    </div>
+                                                </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+        </div>
+    </main>
+    <!-- /#content -->
+    <!-- #footer -->
+    <footer role="contentinfo" aria-labelledby="footer-nav">
+        <h5 id="footer-nav" class="sr-only">Footer Navigation</h5>
+        <div id="footer" class="container-fluid">
+            <div class="row">
+<div class="row">
+
+
+<div class="component row-splitter">
+        <div class=" footer-content legal-footer container-fluid">
+            <div >
+                <div class="row">
+
+<div class="row component column-splitter">
+        <div class="col-12 col-sm-6 col-lg-2">
+            <div class="row">
+
+
+<div class="component link-list footer-links">
+    <div class="component-content">
+        
+                <ul>
+                    <li class="item0 odd first">
+<div class="field-link"><a data-variantfieldname="Link" href="/da-dk/about-us" data-variantitemid="{A9B60E9A-5620-4E75-80D2-442D66F5F4A8}">Om Wolters Kluwer</a></div>                    </li>
+                    <li class="item1 even">
+<div class="field-link"><a data-variantfieldname="Link" href="/da-dk/about-us/strategy" data-variantitemid="{1B95F13A-95E1-499D-9E91-B8F15AA26C93}">Strategi</a></div>                    </li>
+                    <li class="item2 odd">
+<div class="field-link"><a data-variantfieldname="Link" href="/da-dk/about-us/organization" data-variantitemid="{62A7CAF5-F0C1-4E24-AB59-174B26B4B4A0}">Organisation</a></div>                    </li>
+                    <li class="item3 even">
+<div class="field-link"><a data-variantfieldname="Link" href="/da-dk/about-us/management" data-variantitemid="{C30001EF-6F20-4E8E-A2F4-74A0F8308E05}">Administration</a></div>                    </li>
+                    <li class="item4 odd">
+<div class="field-link"><a data-variantfieldname="Link" href="/da-dk/news" data-variantitemid="{5D5BF977-7E2A-496F-ABDD-4FEFAB5CBFF2}">Nyheder og pressemeddelelser</a></div>                    </li>
+                    <li class="item5 even last">
+<div class="field-link"><a data-variantfieldname="Link" href="/da-dk/events" data-variantitemid="{51FF515D-F338-4E79-9FC3-7EA075C9CD30}">Begivenheder</a></div>                    </li>
+        </ul>
+    </div>
+</div>
+</div>
+        </div>
+        <div class="col-12 col-sm-6 col-lg-2">
+            <div class="row">
+
+
+<div class="component link-list footer-links col-12">
+    <div class="component-content">
+        
+                <ul>
+                    <li class="item0 odd first">
+<div class="field-link"><a data-variantfieldname="Link" href="/da-dk/solutions" data-variantitemid="{36AFCB32-44F3-4A12-84F3-9091F0CC78AE}">L&#248;sninger</a></div>                    </li>
+                    <li class="item1 even">
+<div class="field-link"><a data-variantfieldname="Link" href="/da-dk/health" data-variantitemid="{06B36278-4164-4349-8EB9-5768BD1BC9FE}">Sundhed</a></div>                    </li>
+                    <li class="item2 odd">
+<div class="field-link"><a data-variantfieldname="Link" href="/da-dk/tax-and-accounting" data-variantitemid="{847D6795-621F-451E-91A9-28FFAAFD1BF3}">Skat og regnskab</a></div>                    </li>
+                    <li class="item3 even">
+<div class="field-link"><a data-variantfieldname="Link" title="ESG" href="/da-dk/esg" data-variantitemid="{540C37C8-B07D-4282-A0D3-A287F0C9A60E}">ESG</a></div>                    </li>
+                    <li class="item4 odd">
+<div class="field-link"><a data-variantfieldname="Link" href="/da-dk/finance" data-variantitemid="{00F58B36-20AB-4655-BCB6-A399E3FE45E7}">Finans</a></div>                    </li>
+                    <li class="item5 even">
+<div class="field-link"><a data-variantfieldname="Link" href="/da-dk/compliance" data-variantitemid="{8E71F6B1-8419-4DA4-AE2B-B11E73F13A1A}">Compliance</a></div>                    </li>
+                    <li class="item6 odd last">
+<div class="field-link"><a data-variantfieldname="Link" href="/da-dk/legal" data-variantitemid="{4103DB64-9E9F-4C18-B087-0EF42DE839E2}">Jura</a></div>                    </li>
+        </ul>
+    </div>
+</div>
+</div>
+        </div>
+        <div class="col-12 col-sm-6 col-lg-2">
+            <div class="row">
+
+
+<div class="component link-list footer-links col-12">
+    <div class="component-content">
+        
+                <ul>
+                    <li class="item0 odd first">
+<div class="field-link"><a data-variantfieldname="Link" href="/da-dk/expert-insights" data-variantitemid="{E1C93E35-1169-4532-83D0-EB33E50ED4DC}">Ekspertindsigter</a></div>                    </li>
+                    <li class="item1 even">
+<div class="field-link"><a data-variantfieldname="Link" href="https://careers.wolterskluwer.com/en" data-variantitemid="{5679BDC9-EF38-4398-9EA0-22E5FE714255}">Ledige stillinger</a></div>                    </li>
+                    <li class="item2 odd">
+<div class="field-link"><a data-variantfieldname="Link" href="/da-dk/investors" data-variantitemid="{EDACEBEB-937E-4311-9C14-97B1DF3EC7C7}">Investorer</a></div>                    </li>
+                    <li class="item3 even">
+<div class="field-link"><a data-variantfieldname="Link" href="/da-dk/sitemap" data-variantitemid="{9F5D5548-3AD6-401E-B4A7-A7FD299648D0}">Sitemap</a></div>                    </li>
+                    <li class="item4 odd">
+<div class="field-link"><a data-variantfieldname="Link" title="Site Owner" href="/da-dk/site-owner" data-variantitemid="{3598D0B9-52E2-4393-BC78-71ED3E47C69A}">Webstedsejer</a></div>                    </li>
+        </ul>
+    </div>
+</div>
+</div>
+        </div>
+        <div class="col-12 col-sm-6 col-lg-2">
+            <div class="row">
+<div class="component link-list">
+    <div class="component-content">
+        <h3>Skat &amp;&#160;&#216;konomi Danmark</h3>
+                <ul>
+                <li class="item0 odd first">
+<div class="field-link"><a data-variantfieldname="Link" href="/da-dk/solutions/skat-okonomi/kontakt" data-variantitemid="{62AD48C8-444F-4698-B3C7-4D30F745C51D}">Kontakt os</a></div>                </li>
+                <li class="item1 even">
+<div class="field-link"><a data-variantfieldname="Link" href="/da-dk/solutions/skat-okonomi/abonnementsbetingelser-generelle" data-variantitemid="{1522B8D4-0309-4C5F-B7D2-7FB3F5FABCD4}">Generelle abonnementsbetingelser</a></div>                </li>
+                <li class="item2 odd">
+                </li>
+                <li class="item3 even">
+                </li>
+                <li class="item4 odd last">
+<div class="field-link"><a data-variantfieldname="Link" href="/da-dk/solutions/skat-okonomi/abonnementsbetingelser-bluewhale" data-variantitemid="{4DDE665D-3025-415B-B54C-161BCA64E464}">Abonnementsbetingelser - Bluewhale</a></div>                </li>
+        </ul>
+    </div>
+</div>
+</div>
+        </div>
+        <div class="col-12 col-lg-1 vertical-divider">
+            <div class="row"></div>
+        </div>
+        <div class="col-12 col-lg-3 media-contacts">
+            <div class="row">
+<div class="component link-list">
+    <div class="component-content">
+        <h6>Follow Wolters Kluwer</h6>
+                <ul>
+                <li class="item0 odd first">
+<div class="field-link"><a class="media-icons wk-icon-facebook" data-variantfieldname="Link" target="_blank" href="https://www.facebook.com/wolterskluwer" data-variantitemid="{E7CD9851-C9E6-4D8F-ACB6-D156F5E82345}" rel="noopener noreferrer">Facebook</a></div>                </li>
+                <li class="item1 even">
+<div class="field-link"><a class="media-icons wk-icon-instagram" data-variantfieldname="Link" target="_blank" href="https://www.instagram.com/_wolterskluwer/ " data-variantitemid="{274599C5-B1DF-445B-ADD2-295874DD6C50}" rel="noopener noreferrer">Instagram</a></div>                </li>
+                <li class="item2 odd">
+<div class="field-link"><a class="media-icons wk-icon-linkedin" data-variantfieldname="Link" target="_blank" href="https://www.linkedin.com/company/wolters-kluwer/" data-variantitemid="{D7AF6D9B-9E5B-4D66-9101-F5A367C821F9}" rel="noopener noreferrer">LinkedIn</a></div>                </li>
+                <li class="item3 even last">
+<div class="field-link"><a class="media-icons wk-icon-youtube" data-variantfieldname="Link" target="_blank" href="https://www.youtube.com/user/WoltersKluwerComms" data-variantitemid="{8B2788B5-C350-47A2-AB10-EFB9327F9769}" rel="noopener noreferrer">YouTube</a></div>                </li>
+        </ul>
+    </div>
+</div>
+</div>
+        </div>
+</div>
+
+
+<div class="component row-splitter">
+        <div class=" footer-content footer-content-bottom container-fluid">
+            <div >
+                <div class="row">
+
+<div class="row component column-splitter">
+        <div class="col-12 col-lg-6">
+            <div class="row">
+<div class="component image file-type-icon-media-link col-12">
+    <div class="component-content">
+<a title="WK Logo" href="/da-dk"><picture title="Wolters Kluwer Logo"><source srcset="https://cdn.wolterskluwer.io/wk/fundamentals/1.15.2/logo/assets/white-medium.svg" media="(max-width:767px)" width="144px" height="24px"></source><source srcset="https://cdn.wolterskluwer.io/wk/fundamentals/1.15.2/logo/assets/white-medium.svg" media="(max-width:991px)" width="144px" height="24px"></source><source srcset="https://cdn.wolterskluwer.io/wk/fundamentals/1.15.2/logo/assets/white-medium.svg" media="(max-width:1199px)" width="190px" height="31px"></source><img src="https://cdn.wolterskluwer.io/wk/fundamentals/1.15.2/logo/assets/white-medium.svg" alt="Wolters Kluwer Logo" width="190px" height="31px" /></picture></a>    </div>
+</div>
+</div>
+        </div>
+        <div class="col-12 col-lg-6">
+            <div class="row">
+
+    <div class="component rich-text col-12">
+        <div class="component-content">
+<p class="footer-bottom-text">When you have to be right</p>        </div>
+    </div>
+</div>
+        </div>
+</div></div>
+            </div>
+        </div>
+        <div class=" minimal-content container-fluid">
+            <div >
+                <div class="row">
+
+
+<div class="component link-list footer-links">
+    <div class="component-content">
+        
+                <ul>
+                    <li class="item0 odd first">
+<div class="field-link"><a data-variantfieldname="Link" href="/da-dk/terms-of-use" data-variantitemid="{3554BE4A-FCA0-4391-B46D-2CC79E78F6FD}">Brugsvilk&#229;r</a></div>                    </li>
+                    <li class="item1 even">
+<div class="field-link"><a data-variantfieldname="Link" href="/da-dk/privacy-cookies" data-variantitemid="{AC65F5A7-0494-4F0C-B600-5A1518440BB5}">Privatliv og cookies</a></div>                    </li>
+                    <li class="item2 odd last">
+<div class="field-link"><a data-variantfieldname="Link" onclick="javascript:window.open('https://privacyportal-de.onetrust.com/webform/2217e117-526b-4696-8a98-8c402f8f2b81/5b049ba3-0106-4b77-a7da-5d12238c90a4?cookieId='+OneTrust.getDataSubjectId(),  '_blank');" href="#" data-variantitemid="{AA0641C3-AC8C-469D-A2F3-306FE673EAB9}" rel="noopener noreferrer">Dine valg af beskyttelse af personlige oplysninger i Californien</a></div><div class="field-icon"><image width="30" height="14" alt="Your California privacy Choices" src="https://assets.contenthub.wolterskluwer.com/api/public/content/e44fce5ebae24bba824439ddcbfd7a2a.svg?v=db68952a" stylelabs-content-id="1971214" stylelabs-content-type="Image" thumbnailsrc="https://contenthub.wolterskluwer.com/api/gateway/1971214/thumbnail" vspace="" hspace="" data-variantitemid="{AA0641C3-AC8C-469D-A2F3-306FE673EAB9}" format="" data-variantfieldname="Image URL" /></div>                    </li>
+        </ul>
+    </div>
+</div>
+
+
+
+<div class="component container">
+    <div class="component-content" >
+<div class="row"></div>    </div>
+</div></div>
+            </div>
+        </div>
+        <div class=" minimal-content container-fluid">
+            <div >
+                <div class="row">
+
+    <div class="component rich-text article-text">
+        <div class="component-content">
+<p class="copyright-text">&copy; 2025 Wolters Kluwer N.V. og/eller dets datterselskaber. Alle rettigheder forbeholdes.</p>        </div>
+    </div>
+</div>
+            </div>
+        </div>
+</div></div>
+            </div>
+        </div>
+</div></div></div>
+        </div>
+    </footer>
+    <!-- /#footer -->
+</div>
+<!-- /#wrapper -->
+
+    
+
+
+        <div class="component controlled-rich-text">
+            <div class="component-content">
+<a id="backToTop" class="back-to-top" title="Back to top" data-dm-wk="back-to-top.button">
+<span class="wk-sr-only">Back To Top</span>
+<span class="arrow-icon wk-icon-arrow-up">
+</span>
+</a>            </div>
+        </div>
+<!-- Dictionary json -->
+<script id="wk-dictionary-values" type="application/javascript">[{"Key":"/Feature/WoltersKluwer/OneWeb/Accessibility/Close Video Modal","Phrase":"Close"},{"Key":"/Feature/WoltersKluwer/OneWeb/Accessibility/Focus Retriever","Phrase":"Input box to get the focus back to the page on mouse move"},{"Key":"/Feature/WoltersKluwer/OneWeb/Accessibility/Google reCAPTCHA","Phrase":"Google reCAPTCHA"},{"Key":"/Feature/WoltersKluwer/OneWeb/Accessibility/Pagination Next","Phrase":"Navigate to Next Page"},{"Key":"/Feature/WoltersKluwer/OneWeb/Accessibility/Pagination Previous","Phrase":"Navigate to Previous Page"},{"Key":"/Feature/WoltersKluwer/OneWeb/Accessibility/Pause Video","Phrase":"Pause the video"},{"Key":"/Feature/WoltersKluwer/OneWeb/Accessibility/Play Video","Phrase":"Play the video"},{"Key":"/Feature/WoltersKluwer/OneWeb/SearchBox/Search Bar Clear","Phrase":"Search Bar Clear"},{"Key":"/Feature/WoltersKluwer/OneWeb/Accessibility/Select Language","Phrase":"Select Language"},{"Key":"/Feature/WoltersKluwer/OneWeb/Accessibility/Wolters Kluwer Navigation","Phrase":"Wolters Kluwer Navigation"}]</script>
+<script type="text/javascript"  optanon-category="C0002">
+    window.addEventListener('OneTrustGroupsUpdated', function(event) {
+    if (!event.detail.includes("C0002")) {
+        return;
+    }
+ 
+    var pardotMapping = [
+        ['^TAA - APAC$', ['50122', '56871', '']],
+        ['^TAA - Europe - Netherlands$', ['921163', '52005', 'https://e.wolterskluwer.com/pd.js']],
+        ['^TAA - North America - Canada$', ['264702', '1026', '']],
+        ['^TAA - North America - US$', ['340101', '1035', '']],
+        ['^TAA - Europe - UK$', ['931173', '1049', 'https://taa1.uk.wolterskluwer.com/pd.js']],
+        ['^TAA - Europe - Belgium$', ['941253', '123788', 'https://taa.be.wolterskluwer.com/pd.js']],
+        ['^TAA - Europe - (Denmark|Norway|Sweden)$', ['957672', '82498', 'https://taa.scan.wolterskluwer.com/pd.js']],
+        ['^TAA - Europe - Italy$', ['400122', '172139', 'https://taa.it.wolterskluwer.com/pd.js']]
+    ];
+ 
+    function findPardotValues(key) {
+        for (let [regex, values] of pardotMapping) {
+            const regexObj = new RegExp(regex);
+            if (regexObj.test(key)) {
+                return values;
+            }
+        }
+        return null;
+    }
+ 
+    var businessUnit = wkPageData?.page?.category?.businessUnit || '';
+    var pardotConfig = findPardotValues(businessUnit);
+ 
+ 
+    if (!pardotConfig) {
+        console.error('No matching Pardot Tracking configuration found for businessUnit:', businessUnit);
+    } else {
+        window.piAId = pardotConfig[0];
+        window.piCId = pardotConfig[1];
+ 
+        var srcPardot = pardotConfig[2];
+        (function() {
+            function pardot_async_load() {
+                var s = document.createElement('script');
+                s.type = 'text/javascript';
+                s.src = (srcPardot) ? srcPardot : ('https:' == document.location.protocol ? 'https://pi' : 'http:cdn') + '.pardot.com/pd.js';
+                var c = document.getElementsByTagName('script')[0];
+                c.parentNode.insertBefore(s, c);
+            }
+            if (!document.querySelector('script[src="'+ srcPardot +'"]')) {
+                if (document.readyState === 'complete') {
+                    pardot_async_load();
+                } else {
+                    window.addEventListener('load', pardot_async_load, false);
+                }
+            } else {
+                console.error("Pardot Tracking script already loaded: ", srcPardot);
+            }
+        })();
+    }
+ 
+});
+ 
+</script>
+
+
+
+
+
+
+    <!-- Load all js files -->
+<script src="/-/media/base%20themes/custom%20oneweb%20theme/scripts/optimized-min.js?rev=a6fb367a01fb430289a29b3a3ff8a545&t=20240321T172720Z&hash=C8EB7ED7F87F822E8ACE77390B309878"></script>
+    
+    <script type="application/javascript" src="https://www.google.com/recaptcha/api.js?render=6Lf6x-MUAAAAAATFy_Zy7Y9FezDcp0kmycrG1taQ"></script>
+</body>
+</html>

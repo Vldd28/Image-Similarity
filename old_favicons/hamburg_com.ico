@@ -1,0 +1,3212 @@
+
+
+
+  <!DOCTYPE html>
+  <html class="no-js" lang="en" dir="ltr"     data-js-iconsprite="/resource/crblob/5368/43d6917a931dd7c9467f456d313dcf99/icon-sprite-svg-data.svg">
+<head >
+<meta charset="UTF-8">
+<!-- ID = 768386 -->
+<title >hamburg.com – Your Guide to Exploring, Living &amp; Working in Hamburg </title>
+<meta name="description" content="hamburg.com ist the official English-language homepage of the city of Hamburg, Germany, and your guide to exploring, living and working in Hamburg.">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<link rel="apple-touch-icon" sizes="180x180" href="/resource/crblob/5434/55e7f7a5a99cdf5ffb9916800ea6079c/apple-touch-icon-png-data.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/resource/crblob/5440/ee44bdf656f31ecb1a0b5a7c4d3f3a15/favicon-32x32-png-data.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/resource/crblob/5438/03e4a09bcab2004ad43b587d1532bdfa/favicon-16x16-png-data.png">
+<link rel="mask-icon" href="/resource/crblob/5444/68c7fab0ff7d3f827165dbb11c434394/safari-pinned-tab-svg-data.svg" color="#e30613">
+<link rel="shortcut icon" href="/resource/crblob/5436/f18fa8c1c89d66f29e6091680bebf3c6/favicon-ico-data.ico" />
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/resource/crblob/5442/3b094bb1c12f6ecb0af921d0b645c424/mstile-150x150-png-data.png">
+<meta name="theme-color" content="#ffffff"> <link rel="canonical" href="//www.hamburg.com">
+<script>document.documentElement.className = document.documentElement.className.replace(/no-js/g, "js");</script>
+<script src="https://cdn.contentflow.net/sdk/beta/sdk.js"></script>
+<link rel="stylesheet" href="/resource/themes/km-i/css/km-i-5430-16.css" ></head><body class="km1-page km1-page--one-col">
+<header class="km1-header" data-js-header>
+<div class="km1-container km1-header__main" data-js-header-main>
+<div class="km1-header__container">
+<nav class="km1-main-navigation" data-js-main-nav="">
+<button
+id="km1-main-navigation-toggle"
+class="km1-button km1-button--transparent km1-button--icon-top km1-main-navigation__menu-toggle"
+aria-controls="km1-header-main-navigation-menu-panel" data-js-collapse="{&#39;actionOutside&#39;: false}"
+>
+<span class="km1-label km1-button__label"
+> Topics
+</span>
+<svg class="km1-icon km1-icon--menu km1-button__icon"
+role="img"
+width="30"
+height="24"
+focusable="false"
+aria-hidden="true"
+>
+<use xlink:href="#icon-menu" />
+</svg>
+</button>
+<div id="km1-header-main-navigation-menu-panel" class="km1-main-navigation__panel" >
+<svg class="km1-icon km1-icon--bow km1-main-navigation__bow"
+role="img"
+width="267"
+height="32"
+focusable="false"
+aria-hidden="true"
+>
+<use xlink:href="#icon-bow" />
+</svg>
+<div class="km1-main-navigation__panel-head">
+<button
+class="km1-button km1-button--transparent km1-button--icon-top km1-main-navigation__close-toggle"
+aria-controls="km1-header-main-navigation-menu-panel" data-js-collapse="{&#39;actionOutside&#39;: false}"
+>
+<span class="km1-label km1-button__label"
+> Close
+</span>
+<svg class="km1-icon km1-icon--close km1-button__icon"
+role="img"
+width="40"
+height="40"
+focusable="false"
+aria-hidden="true"
+>
+<use xlink:href="#icon-close" />
+</svg>
+</button>
+<ul class="km1-meta-navigation">
+<li class="km1-meta-navigation__item km1-meta-navigation__item--search">
+<a href="/768368!search"
+class="km1-button km1-button--transparent km1-meta-navigation__item-button"
+data-js-prevent-default="" data-js-role-button="" data-a11y-dialog-show="km1-search-dialog"
+>
+<svg class="km1-icon km1-icon--search km1-button__icon"
+role="img"
+width="36"
+height="36"
+focusable="false"
+aria-hidden="true"
+>
+<use xlink:href="#icon-search" />
+</svg>
+<span class="km1-label km1-button__label"
+> Search
+</span>
+</a>
+</li>
+<li class="km1-meta-navigation__item km1-meta-navigation__item--language">
+<a href="//www.hamburg.de"
+class="km1-link km1-link km1-link--no-underline km1-link--icon-left" title="German" aria-label="Switch to German version">
+<svg class="km1-icon km1-icon--globe km1-link__icon"
+role="img"
+width="20"
+height="20"
+focusable="false"
+aria-hidden="true"
+>
+<use xlink:href="#icon-globe" />
+</svg>
+<span class="km1-label km1-link__text"
+> DE
+</span>
+</a>
+</li>
+</ul>
+<a class="km1-logo km1-header__logo km1-header__logo--large" href="//www.hamburg.com" title="Hamburg.com">
+<img class="km1-img" src="/resource/crblob/768380/e1f035cda5b256e3eb2684f6c0eb853f/hamburg-com-logo-data.png" alt="Hamburg.de Logo" />
+</a>
+<a class="km1-logo km1-header__logo" href="//www.hamburg.com" title="Hamburg.com">
+<img class="km1-img" src="" alt="" />
+</a>
+</div>
+<div class="km1-container">
+<ul class="km1-main-navigation__language-list">
+</ul>
+<nav class="km1-main-navigation__link-container">
+<div id="km1-main-navigation__level-1" class="km1-main-navigation__level km1-main-navigation__level--1"
+data-js-level="1"
+aria-hidden="false" tabindex="-1">
+<span class="km1-icon-label km1-main-navigation__notice" >
+<svg class="km1-icon km1-icon--arrow-m km1-icon-label__icon"
+role="img"
+width="24"
+height="24"
+focusable="false"
+aria-hidden="true"
+>
+<use xlink:href="#icon-arrow-m" />
+</svg>
+<span class="km1-icon-label__text">Show more</span>
+</span>
+<div class="km1-main-navigation__level-1-head">
+<!-- Disabled link of current page -->
+<strong class="km1-heading km1-heading--3 km1-main-navigation__link-group-heading" >
+<a
+class="km1-link km1-main-navigation__link--current km1-main-navigation__link" >
+<span class="km1-label km1-link__text"
+> Hamburg.com
+</span>
+</a>
+</strong>
+<ul class="km1-main-navigation__top-topics">
+</ul>
+</div>
+<ul class="km1-main-navigation__link-list">
+<li class='km1-main-navigation__link-list-item '>
+<button
+type="button"
+class="km1-button km1-button--icon-right km1-button--transparent km1-main-navigation__link-list-button"
+data-js-navigation-btn="" aria-expanded="false" aria-controls="km1-nav-main__level-level1-803896" tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Business
+</span>
+<svg class="km1-icon km1-icon--arrow-m km1-button__icon"
+role="img"
+width="24"
+height="24"
+focusable="false"
+aria-hidden="true"
+>
+<use xlink:href="#icon-arrow-m" />
+</svg>
+</button>
+<div id="km1-nav-main__level-level1-803896"
+class="km1-main-navigation__level km1-main-navigation__level--2"
+data-js-level="2" aria-hidden="true" tabindex="-1">
+<span class="km1-icon-label km1-main-navigation__notice" >
+<svg class="km1-icon km1-icon--arrow-m km1-icon-label__icon"
+role="img"
+width="24"
+height="24"
+focusable="false"
+aria-hidden="true"
+>
+<use xlink:href="#icon-arrow-m" />
+</svg>
+<span class="km1-icon-label__text">Show more</span>
+</span>
+<ul class="km1-main-navigation__link-list">
+<li class="km1-main-navigation__link-list-item km1-main-navigation__link-list-item--top">
+<button
+type="button"
+class="km1-button km1-button--icon-right km1-button--transparent km1-main-navigation__back-button"
+data-js-back-btn="" tabindex="-1" aria-expanded="false" aria-controls="km1-main-navigation__level-1"
+>
+<svg class="km1-icon km1-icon--arrow-m km1-button__icon"
+role="img"
+width="24"
+height="24"
+focusable="false"
+aria-hidden="true"
+>
+<use xlink:href="#icon-arrow-m" />
+</svg>
+<span class="km1-label km1-button__label"
+> Back
+</span>
+</button>
+<a href="/business"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link--active km1-main-navigation__link-list-link"
+aria-hidden="true" tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Business
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/business/after-work"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> After Work
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/business/ai-in-hamburg"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> AI in Hamburg
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/business/cch-congress-centre-hamburg"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> CCH – Congress Centre Hamburg
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/business/economic-clusters"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Economic Clusters
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/business/energy-supply"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Energy Supply
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/business/g-20-summit-2017"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> G 20 - Summit 2017
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/business/location-factors"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Location Factors
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/business/made-in-hamburg"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Made in Hamburg
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/business/mobility"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Mobility
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/business/network"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Network
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/business/port-of-hamburg"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Port of Hamburg
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/business/visit"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Visit
+</span>
+</a>
+</li>
+</ul>
+</div>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<button
+type="button"
+class="km1-button km1-button--icon-right km1-button--transparent km1-main-navigation__link-list-button"
+data-js-navigation-btn="" aria-expanded="false" aria-controls="km1-nav-main__level-level1-804202" tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Residents
+</span>
+<svg class="km1-icon km1-icon--arrow-m km1-button__icon"
+role="img"
+width="24"
+height="24"
+focusable="false"
+aria-hidden="true"
+>
+<use xlink:href="#icon-arrow-m" />
+</svg>
+</button>
+<div id="km1-nav-main__level-level1-804202"
+class="km1-main-navigation__level km1-main-navigation__level--2"
+data-js-level="2" aria-hidden="true" tabindex="-1">
+<span class="km1-icon-label km1-main-navigation__notice" >
+<svg class="km1-icon km1-icon--arrow-m km1-icon-label__icon"
+role="img"
+width="24"
+height="24"
+focusable="false"
+aria-hidden="true"
+>
+<use xlink:href="#icon-arrow-m" />
+</svg>
+<span class="km1-icon-label__text">Show more</span>
+</span>
+<ul class="km1-main-navigation__link-list">
+<li class="km1-main-navigation__link-list-item km1-main-navigation__link-list-item--top">
+<button
+type="button"
+class="km1-button km1-button--icon-right km1-button--transparent km1-main-navigation__back-button"
+data-js-back-btn="" tabindex="-1" aria-expanded="false" aria-controls="km1-main-navigation__level-1"
+>
+<svg class="km1-icon km1-icon--arrow-m km1-button__icon"
+role="img"
+width="24"
+height="24"
+focusable="false"
+aria-hidden="true"
+>
+<use xlink:href="#icon-arrow-m" />
+</svg>
+<span class="km1-label km1-button__label"
+> Back
+</span>
+</button>
+<a href="/residents"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link--active km1-main-navigation__link-list-link"
+aria-hidden="true" tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Residents
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/residents/about-hamburg"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> About Hamburg
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<button
+type="button"
+class="km1-button km1-button--icon-right km1-button--transparent km1-main-navigation__link-list-button"
+data-js-navigation-btn="" aria-expanded="false" aria-controls="km1-nav-main__level-level2-807246" tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Civil Services Guide
+</span>
+<svg class="km1-icon km1-icon--arrow-m km1-button__icon"
+role="img"
+width="24"
+height="24"
+focusable="false"
+aria-hidden="true"
+>
+<use xlink:href="#icon-arrow-m" />
+</svg>
+</button>
+<div id="km1-nav-main__level-level2-807246"
+class="km1-main-navigation__level km1-main-navigation__level--3"
+data-js-level="3" aria-hidden="true" tabindex="-1">
+<span class="km1-icon-label km1-main-navigation__notice" >
+<svg class="km1-icon km1-icon--arrow-m km1-icon-label__icon"
+role="img"
+width="24"
+height="24"
+focusable="false"
+aria-hidden="true"
+>
+<use xlink:href="#icon-arrow-m" />
+</svg>
+<span class="km1-icon-label__text">Show more</span>
+</span>
+<ul class="km1-main-navigation__link-list">
+<li class="km1-main-navigation__link-list-item km1-main-navigation__link-list-item--top">
+<button
+type="button"
+class="km1-button km1-button--icon-right km1-button--transparent km1-main-navigation__back-button"
+data-js-back-btn="" tabindex="-1" aria-expanded="false" aria-controls="km1-nav-main__level-level1-804202"
+>
+<svg class="km1-icon km1-icon--arrow-m km1-button__icon"
+role="img"
+width="24"
+height="24"
+focusable="false"
+aria-hidden="true"
+>
+<use xlink:href="#icon-arrow-m" />
+</svg>
+<span class="km1-label km1-button__label"
+> Back
+</span>
+</button>
+<a href="/residents/civil-services-guide"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link--active km1-main-navigation__link-list-link"
+aria-hidden="true" tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Civil Services Guide
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/residents/civil-services-guide/child-care-and-education"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Child Care and Education
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/residents/civil-services-guide/consumer-protection"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Consumer Protection
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/residents/civil-services-guide/hamburg-service-vor-ort"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Hamburg Service vor Ort
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/residents/civil-services-guide/saving-energy"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Saving Energy
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/residents/civil-services-guide/urban-planning"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Urban Planning
+</span>
+</a>
+</li>
+</ul>
+</div>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/residents/construction"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Construction
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/residents/green"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Green
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/residents/housing"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Housing
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/residents/learn"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Learn
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/residents/lgbtqi-"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> LGBTQI+
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/residents/media"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Media
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/residents/neighbourhoods"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Neighbourhoods
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/residents/hamburg-for-refugees"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Hamburg for Refugees
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<button
+type="button"
+class="km1-button km1-button--icon-right km1-button--transparent km1-main-navigation__link-list-button"
+data-js-navigation-btn="" aria-expanded="false" aria-controls="km1-nav-main__level-level2-807264" tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Science &amp; Research
+</span>
+<svg class="km1-icon km1-icon--arrow-m km1-button__icon"
+role="img"
+width="24"
+height="24"
+focusable="false"
+aria-hidden="true"
+>
+<use xlink:href="#icon-arrow-m" />
+</svg>
+</button>
+<div id="km1-nav-main__level-level2-807264"
+class="km1-main-navigation__level km1-main-navigation__level--3"
+data-js-level="3" aria-hidden="true" tabindex="-1">
+<span class="km1-icon-label km1-main-navigation__notice" >
+<svg class="km1-icon km1-icon--arrow-m km1-icon-label__icon"
+role="img"
+width="24"
+height="24"
+focusable="false"
+aria-hidden="true"
+>
+<use xlink:href="#icon-arrow-m" />
+</svg>
+<span class="km1-icon-label__text">Show more</span>
+</span>
+<ul class="km1-main-navigation__link-list">
+<li class="km1-main-navigation__link-list-item km1-main-navigation__link-list-item--top">
+<button
+type="button"
+class="km1-button km1-button--icon-right km1-button--transparent km1-main-navigation__back-button"
+data-js-back-btn="" tabindex="-1" aria-expanded="false" aria-controls="km1-nav-main__level-level1-804202"
+>
+<svg class="km1-icon km1-icon--arrow-m km1-button__icon"
+role="img"
+width="24"
+height="24"
+focusable="false"
+aria-hidden="true"
+>
+<use xlink:href="#icon-arrow-m" />
+</svg>
+<span class="km1-label km1-button__label"
+> Back
+</span>
+</button>
+<a href="/residents/science-research"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link--active km1-main-navigation__link-list-link"
+aria-hidden="true" tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Science &amp; Research
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/residents/science-research/climate-research"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Climate Research
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/residents/science-research/clusters-of-excellence"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Clusters of Excellence
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/residents/science-research/research-facilities"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Research Facilities
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/residents/science-research/science-city-bahrenfeld"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Science City Bahrenfeld
+</span>
+</a>
+</li>
+</ul>
+</div>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/residents/settle"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Settle
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/residents/social"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Social
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/residents/study"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Study
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/residents/work"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Work
+</span>
+</a>
+</li>
+</ul>
+</div>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<button
+type="button"
+class="km1-button km1-button--icon-right km1-button--transparent km1-main-navigation__link-list-button"
+data-js-navigation-btn="" aria-expanded="false" aria-controls="km1-nav-main__level-level1-804204" tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Visitors
+</span>
+<svg class="km1-icon km1-icon--arrow-m km1-button__icon"
+role="img"
+width="24"
+height="24"
+focusable="false"
+aria-hidden="true"
+>
+<use xlink:href="#icon-arrow-m" />
+</svg>
+</button>
+<div id="km1-nav-main__level-level1-804204"
+class="km1-main-navigation__level km1-main-navigation__level--2"
+data-js-level="2" aria-hidden="true" tabindex="-1">
+<span class="km1-icon-label km1-main-navigation__notice" >
+<svg class="km1-icon km1-icon--arrow-m km1-icon-label__icon"
+role="img"
+width="24"
+height="24"
+focusable="false"
+aria-hidden="true"
+>
+<use xlink:href="#icon-arrow-m" />
+</svg>
+<span class="km1-icon-label__text">Show more</span>
+</span>
+<ul class="km1-main-navigation__link-list">
+<li class="km1-main-navigation__link-list-item km1-main-navigation__link-list-item--top">
+<button
+type="button"
+class="km1-button km1-button--icon-right km1-button--transparent km1-main-navigation__back-button"
+data-js-back-btn="" tabindex="-1" aria-expanded="false" aria-controls="km1-main-navigation__level-1"
+>
+<svg class="km1-icon km1-icon--arrow-m km1-button__icon"
+role="img"
+width="24"
+height="24"
+focusable="false"
+aria-hidden="true"
+>
+<use xlink:href="#icon-arrow-m" />
+</svg>
+<span class="km1-label km1-button__label"
+> Back
+</span>
+</button>
+<a href="/visitors"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link--active km1-main-navigation__link-list-link"
+aria-hidden="true" tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Visitors
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/visitors/dom"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Hamburg DOM
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/visitors/port-anniversary"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Hamburg Port Anniversary
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/visitors/elbphilharmonie"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Elbphilharmonie
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<button
+type="button"
+class="km1-button km1-button--icon-right km1-button--transparent km1-main-navigation__link-list-button"
+data-js-navigation-btn="" aria-expanded="false" aria-controls="km1-nav-main__level-level2-807312" tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Sights
+</span>
+<svg class="km1-icon km1-icon--arrow-m km1-button__icon"
+role="img"
+width="24"
+height="24"
+focusable="false"
+aria-hidden="true"
+>
+<use xlink:href="#icon-arrow-m" />
+</svg>
+</button>
+<div id="km1-nav-main__level-level2-807312"
+class="km1-main-navigation__level km1-main-navigation__level--3"
+data-js-level="3" aria-hidden="true" tabindex="-1">
+<span class="km1-icon-label km1-main-navigation__notice" >
+<svg class="km1-icon km1-icon--arrow-m km1-icon-label__icon"
+role="img"
+width="24"
+height="24"
+focusable="false"
+aria-hidden="true"
+>
+<use xlink:href="#icon-arrow-m" />
+</svg>
+<span class="km1-icon-label__text">Show more</span>
+</span>
+<ul class="km1-main-navigation__link-list">
+<li class="km1-main-navigation__link-list-item km1-main-navigation__link-list-item--top">
+<button
+type="button"
+class="km1-button km1-button--icon-right km1-button--transparent km1-main-navigation__back-button"
+data-js-back-btn="" tabindex="-1" aria-expanded="false" aria-controls="km1-nav-main__level-level1-804204"
+>
+<svg class="km1-icon km1-icon--arrow-m km1-button__icon"
+role="img"
+width="24"
+height="24"
+focusable="false"
+aria-hidden="true"
+>
+<use xlink:href="#icon-arrow-m" />
+</svg>
+<span class="km1-label km1-button__label"
+> Back
+</span>
+</button>
+<a href="/visitors/sights"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link--active km1-main-navigation__link-list-link"
+aria-hidden="true" tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Sights
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/visitors/sights/alternative"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Alternative
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/visitors/sights/architecture"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Architecture
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/visitors/sights/history-heritage"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> History &amp; Heritage
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/visitors/sights/maritime"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Maritime
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/visitors/sights/memorials"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Memorials
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/visitors/sights/places-of-worship"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Places of Worship
+</span>
+</a>
+</li>
+</ul>
+</div>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/visitors/cruises"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Cruises
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<button
+type="button"
+class="km1-button km1-button--icon-right km1-button--transparent km1-main-navigation__link-list-button"
+data-js-navigation-btn="" aria-expanded="false" aria-controls="km1-nav-main__level-level2-807282" tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Dine &amp; Drink
+</span>
+<svg class="km1-icon km1-icon--arrow-m km1-button__icon"
+role="img"
+width="24"
+height="24"
+focusable="false"
+aria-hidden="true"
+>
+<use xlink:href="#icon-arrow-m" />
+</svg>
+</button>
+<div id="km1-nav-main__level-level2-807282"
+class="km1-main-navigation__level km1-main-navigation__level--3"
+data-js-level="3" aria-hidden="true" tabindex="-1">
+<span class="km1-icon-label km1-main-navigation__notice" >
+<svg class="km1-icon km1-icon--arrow-m km1-icon-label__icon"
+role="img"
+width="24"
+height="24"
+focusable="false"
+aria-hidden="true"
+>
+<use xlink:href="#icon-arrow-m" />
+</svg>
+<span class="km1-icon-label__text">Show more</span>
+</span>
+<ul class="km1-main-navigation__link-list">
+<li class="km1-main-navigation__link-list-item km1-main-navigation__link-list-item--top">
+<button
+type="button"
+class="km1-button km1-button--icon-right km1-button--transparent km1-main-navigation__back-button"
+data-js-back-btn="" tabindex="-1" aria-expanded="false" aria-controls="km1-nav-main__level-level1-804204"
+>
+<svg class="km1-icon km1-icon--arrow-m km1-button__icon"
+role="img"
+width="24"
+height="24"
+focusable="false"
+aria-hidden="true"
+>
+<use xlink:href="#icon-arrow-m" />
+</svg>
+<span class="km1-label km1-button__label"
+> Back
+</span>
+</button>
+<a href="/visitors/dine-and-drink"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link--active km1-main-navigation__link-list-link"
+aria-hidden="true" tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Dine &amp; Drink
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/visitors/dine-and-drink/bars-and-pubs"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Bars by Category
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/visitors/dine-and-drink/bars-by-location"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Bars by Location
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/visitors/dine-and-drink/cafes"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Cafés
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/visitors/dine-and-drink/restaurants"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Restaurants by Category
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/visitors/dine-and-drink/restaurants-by-location"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Restaurants by Location
+</span>
+</a>
+</li>
+</ul>
+</div>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<button
+type="button"
+class="km1-button km1-button--icon-right km1-button--transparent km1-main-navigation__link-list-button"
+data-js-navigation-btn="" aria-expanded="false" aria-controls="km1-nav-main__level-level2-807288" tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Events
+</span>
+<svg class="km1-icon km1-icon--arrow-m km1-button__icon"
+role="img"
+width="24"
+height="24"
+focusable="false"
+aria-hidden="true"
+>
+<use xlink:href="#icon-arrow-m" />
+</svg>
+</button>
+<div id="km1-nav-main__level-level2-807288"
+class="km1-main-navigation__level km1-main-navigation__level--3"
+data-js-level="3" aria-hidden="true" tabindex="-1">
+<span class="km1-icon-label km1-main-navigation__notice" >
+<svg class="km1-icon km1-icon--arrow-m km1-icon-label__icon"
+role="img"
+width="24"
+height="24"
+focusable="false"
+aria-hidden="true"
+>
+<use xlink:href="#icon-arrow-m" />
+</svg>
+<span class="km1-icon-label__text">Show more</span>
+</span>
+<ul class="km1-main-navigation__link-list">
+<li class="km1-main-navigation__link-list-item km1-main-navigation__link-list-item--top">
+<button
+type="button"
+class="km1-button km1-button--icon-right km1-button--transparent km1-main-navigation__back-button"
+data-js-back-btn="" tabindex="-1" aria-expanded="false" aria-controls="km1-nav-main__level-level1-804204"
+>
+<svg class="km1-icon km1-icon--arrow-m km1-button__icon"
+role="img"
+width="24"
+height="24"
+focusable="false"
+aria-hidden="true"
+>
+<use xlink:href="#icon-arrow-m" />
+</svg>
+<span class="km1-label km1-button__label"
+> Back
+</span>
+</button>
+<a href="/visitors/events"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link--active km1-main-navigation__link-list-link"
+aria-hidden="true" tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Events
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/visitors/events/culture"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Culture
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/visitors/events/film-festivals"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Film Festivals
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/visitors/events/food-drink"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Food &amp; Drink
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/visitors/events/highlights-on-the-month"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Highlights on the Month
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/visitors/events/maritime"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Maritime Events
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/visitors/events/music"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Music Festivals
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/visitors/events/parades-and-funfairs"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Parades and Funfairs
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/visitors/events/sports"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Sports Events
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/visitors/events/street-festivals"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Street Festivals
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/visitors/events/trade-fairs"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Trade Fairs and Conventions
+</span>
+</a>
+</li>
+</ul>
+</div>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<button
+type="button"
+class="km1-button km1-button--icon-right km1-button--transparent km1-main-navigation__link-list-button"
+data-js-navigation-btn="" aria-expanded="false" aria-controls="km1-nav-main__level-level2-807290" tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Explore
+</span>
+<svg class="km1-icon km1-icon--arrow-m km1-button__icon"
+role="img"
+width="24"
+height="24"
+focusable="false"
+aria-hidden="true"
+>
+<use xlink:href="#icon-arrow-m" />
+</svg>
+</button>
+<div id="km1-nav-main__level-level2-807290"
+class="km1-main-navigation__level km1-main-navigation__level--3"
+data-js-level="3" aria-hidden="true" tabindex="-1">
+<span class="km1-icon-label km1-main-navigation__notice" >
+<svg class="km1-icon km1-icon--arrow-m km1-icon-label__icon"
+role="img"
+width="24"
+height="24"
+focusable="false"
+aria-hidden="true"
+>
+<use xlink:href="#icon-arrow-m" />
+</svg>
+<span class="km1-icon-label__text">Show more</span>
+</span>
+<ul class="km1-main-navigation__link-list">
+<li class="km1-main-navigation__link-list-item km1-main-navigation__link-list-item--top">
+<button
+type="button"
+class="km1-button km1-button--icon-right km1-button--transparent km1-main-navigation__back-button"
+data-js-back-btn="" tabindex="-1" aria-expanded="false" aria-controls="km1-nav-main__level-level1-804204"
+>
+<svg class="km1-icon km1-icon--arrow-m km1-button__icon"
+role="img"
+width="24"
+height="24"
+focusable="false"
+aria-hidden="true"
+>
+<use xlink:href="#icon-arrow-m" />
+</svg>
+<span class="km1-label km1-button__label"
+> Back
+</span>
+</button>
+<a href="/visitors/explore"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link--active km1-main-navigation__link-list-link"
+aria-hidden="true" tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Explore
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/visitors/explore/activities"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Activities
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/visitors/explore/arts"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Art Museums and Galleries
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/visitors/explore/city-tours"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> City Tours
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/visitors/explore/day-trips"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Day Trips
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/visitors/explore/film"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Film &amp; Cinema
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/visitors/explore/music-and-nightlife"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Music and Nightlife
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/visitors/explore/musicals"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Musicals
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/visitors/explore/outdoors"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Outdoors
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/visitors/explore/sports"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Sports
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/visitors/explore/theatre"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Theatre
+</span>
+</a>
+</li>
+</ul>
+</div>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/visitors/getting-around"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Getting Around
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/visitors/getting-here"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Getting Here
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/visitors/hamburg-by"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Hamburg by ...
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/visitors/hamburg-for"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Hamburg for ...
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<button
+type="button"
+class="km1-button km1-button--icon-right km1-button--transparent km1-main-navigation__link-list-button"
+data-js-navigation-btn="" aria-expanded="false" aria-controls="km1-nav-main__level-level2-807300" tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Holidays
+</span>
+<svg class="km1-icon km1-icon--arrow-m km1-button__icon"
+role="img"
+width="24"
+height="24"
+focusable="false"
+aria-hidden="true"
+>
+<use xlink:href="#icon-arrow-m" />
+</svg>
+</button>
+<div id="km1-nav-main__level-level2-807300"
+class="km1-main-navigation__level km1-main-navigation__level--3"
+data-js-level="3" aria-hidden="true" tabindex="-1">
+<span class="km1-icon-label km1-main-navigation__notice" >
+<svg class="km1-icon km1-icon--arrow-m km1-icon-label__icon"
+role="img"
+width="24"
+height="24"
+focusable="false"
+aria-hidden="true"
+>
+<use xlink:href="#icon-arrow-m" />
+</svg>
+<span class="km1-icon-label__text">Show more</span>
+</span>
+<ul class="km1-main-navigation__link-list">
+<li class="km1-main-navigation__link-list-item km1-main-navigation__link-list-item--top">
+<button
+type="button"
+class="km1-button km1-button--icon-right km1-button--transparent km1-main-navigation__back-button"
+data-js-back-btn="" tabindex="-1" aria-expanded="false" aria-controls="km1-nav-main__level-level1-804204"
+>
+<svg class="km1-icon km1-icon--arrow-m km1-button__icon"
+role="img"
+width="24"
+height="24"
+focusable="false"
+aria-hidden="true"
+>
+<use xlink:href="#icon-arrow-m" />
+</svg>
+<span class="km1-label km1-button__label"
+> Back
+</span>
+</button>
+<a href="/visitors/holidays"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link--active km1-main-navigation__link-list-link"
+aria-hidden="true" tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Holidays
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/visitors/holidays/christmas"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Christmas
+</span>
+</a>
+</li>
+</ul>
+</div>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/visitors/museums"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Museums
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/visitors/plan-ahead"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Plan Ahead
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<button
+type="button"
+class="km1-button km1-button--icon-right km1-button--transparent km1-main-navigation__link-list-button"
+data-js-navigation-btn="" aria-expanded="false" aria-controls="km1-nav-main__level-level2-807310" tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Shopping
+</span>
+<svg class="km1-icon km1-icon--arrow-m km1-button__icon"
+role="img"
+width="24"
+height="24"
+focusable="false"
+aria-hidden="true"
+>
+<use xlink:href="#icon-arrow-m" />
+</svg>
+</button>
+<div id="km1-nav-main__level-level2-807310"
+class="km1-main-navigation__level km1-main-navigation__level--3"
+data-js-level="3" aria-hidden="true" tabindex="-1">
+<span class="km1-icon-label km1-main-navigation__notice" >
+<svg class="km1-icon km1-icon--arrow-m km1-icon-label__icon"
+role="img"
+width="24"
+height="24"
+focusable="false"
+aria-hidden="true"
+>
+<use xlink:href="#icon-arrow-m" />
+</svg>
+<span class="km1-icon-label__text">Show more</span>
+</span>
+<ul class="km1-main-navigation__link-list">
+<li class="km1-main-navigation__link-list-item km1-main-navigation__link-list-item--top">
+<button
+type="button"
+class="km1-button km1-button--icon-right km1-button--transparent km1-main-navigation__back-button"
+data-js-back-btn="" tabindex="-1" aria-expanded="false" aria-controls="km1-nav-main__level-level1-804204"
+>
+<svg class="km1-icon km1-icon--arrow-m km1-button__icon"
+role="img"
+width="24"
+height="24"
+focusable="false"
+aria-hidden="true"
+>
+<use xlink:href="#icon-arrow-m" />
+</svg>
+<span class="km1-label km1-button__label"
+> Back
+</span>
+</button>
+<a href="/visitors/shopping"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link--active km1-main-navigation__link-list-link"
+aria-hidden="true" tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Shopping
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/visitors/shopping/affordable-fashion"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Affordable Fashion
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/visitors/shopping/books-and-stationery"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Books &amp; Stationery
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/visitors/shopping/design-and-furniture"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Design &amp; Furniture
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/visitors/shopping/destinations"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Destinations
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/visitors/shopping/fair"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Fair &amp; Sustainable
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/visitors/shopping/food-and-drinks"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Food &amp; Drink
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/visitors/shopping/high-end-fashion"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> High-End Fashion
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/visitors/shopping/jewellery-and-accessiores"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Jewellery &amp; Accessories
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/visitors/shopping/kids"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Kids
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/visitors/shopping/lingerie"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Lingerie
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/visitors/shopping/local-fashion-labels"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Local Fashion Labels
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/visitors/shopping/music"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Music
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/visitors/shopping/second-hand-and-vintage"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Second Hand &amp; Vintage
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/visitors/shopping/shoes"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Shoes
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/visitors/shopping/shopping-malls"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Shopping Malls
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/visitors/shopping/souvenirs"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Souvenirs
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/visitors/shopping/special-interest"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Special Interest
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/visitors/shopping/sports"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Sports
+</span>
+</a>
+</li>
+</ul>
+</div>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<button
+type="button"
+class="km1-button km1-button--icon-right km1-button--transparent km1-main-navigation__link-list-button"
+data-js-navigation-btn="" aria-expanded="false" aria-controls="km1-nav-main__level-level2-807314" tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Stay
+</span>
+<svg class="km1-icon km1-icon--arrow-m km1-button__icon"
+role="img"
+width="24"
+height="24"
+focusable="false"
+aria-hidden="true"
+>
+<use xlink:href="#icon-arrow-m" />
+</svg>
+</button>
+<div id="km1-nav-main__level-level2-807314"
+class="km1-main-navigation__level km1-main-navigation__level--3"
+data-js-level="3" aria-hidden="true" tabindex="-1">
+<span class="km1-icon-label km1-main-navigation__notice" >
+<svg class="km1-icon km1-icon--arrow-m km1-icon-label__icon"
+role="img"
+width="24"
+height="24"
+focusable="false"
+aria-hidden="true"
+>
+<use xlink:href="#icon-arrow-m" />
+</svg>
+<span class="km1-icon-label__text">Show more</span>
+</span>
+<ul class="km1-main-navigation__link-list">
+<li class="km1-main-navigation__link-list-item km1-main-navigation__link-list-item--top">
+<button
+type="button"
+class="km1-button km1-button--icon-right km1-button--transparent km1-main-navigation__back-button"
+data-js-back-btn="" tabindex="-1" aria-expanded="false" aria-controls="km1-nav-main__level-level1-804204"
+>
+<svg class="km1-icon km1-icon--arrow-m km1-button__icon"
+role="img"
+width="24"
+height="24"
+focusable="false"
+aria-hidden="true"
+>
+<use xlink:href="#icon-arrow-m" />
+</svg>
+<span class="km1-label km1-button__label"
+> Back
+</span>
+</button>
+<a href="/visitors/stay"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link--active km1-main-navigation__link-list-link"
+aria-hidden="true" tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Stay
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/visitors/stay/by-category"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Hotels by Category
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/visitors/stay/by-location"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Hotels by Location
+</span>
+</a>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/visitors/stay/luxury-hotels"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Luxury Hotels
+</span>
+</a>
+</li>
+</ul>
+</div>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/visitors/useful-information"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Useful Information
+</span>
+</a>
+</li>
+</ul>
+</div>
+</li>
+<li class='km1-main-navigation__link-list-item '>
+<a href="/publicservice"
+class="km1-button km1-button--transparent km1-main-navigation__link-list-link"
+tabindex="-1"
+>
+<span class="km1-label km1-button__label"
+> Hamburg Public Services
+</span>
+</a>
+</li>
+</ul>
+</div>
+</nav>
+</div>
+</div>
+</nav>
+<div class="km1-popup" id="km1-popup" data-a11y-popup="km1-popup" aria-hidden="true" role="dialog" aria-label="Copyright Hinweis" aria-modal="true" tabindex="-1" data-js-popup>
+<div class="km1-popup__container">
+<div class="km1-popup__header">
+<div class="km1-popup__title">Copyright</div>
+<button
+class="km1-button km1-button--transparent km1-popup__close"
+data-js-popup-close=""
+>
+<span class="km1-label km1-button__label"
+> Close
+</span>
+<svg class="km1-icon km1-icon--close km1-button__icon"
+role="img"
+width="40"
+height="40"
+focusable="false"
+aria-hidden="true"
+>
+<use xlink:href="#icon-close" />
+</svg>
+</button>
+</div>
+<p class="km1-paragraph km1-popup__text" data-js-popup-inner="" >
+</p>
+</div>
+</div>
+<div class="km1-service-drawer" >
+<button
+class="km1-button km1-button--transparent km1-service-drawer__toggle"
+data-js-collapse="{ &#39;actionOutside&#39;: false }" aria-controls="km1-service-drawer-169" aria-expanded="false"
+>
+<span class="km1-label km1-button__label sr-only"
+> Open
+</span>
+<svg class="km1-icon km1-icon--chevron-down km1-button__icon"
+role="img"
+width="37"
+height="37"
+focusable="false"
+aria-hidden="true"
+>
+<use xlink:href="#icon-chevron-down" />
+</svg>
+</button>
+<div id="km1-service-drawer-169" class="km1-service-drawer__panel" aria-hidden="true">
+<div class="km1-container km1-service-drawer__panel-container">
+<div class="km1-service-drawer__left">
+<button
+class="km1-button km1-button--transparent km1-service-drawer__button"
+data-a11y-dialog-show="km1-search-dialog" data-js-search-dialog-opener=""
+>
+<svg class="km1-icon km1-icon--search km1-button__icon"
+role="img"
+width="36"
+height="36"
+focusable="false"
+aria-hidden="true"
+>
+<use xlink:href="#icon-search" />
+</svg>
+<span class="km1-label km1-button__label"
+> Search
+</span>
+</button>
+</div>
+<div class="km1-service-drawer__right">
+<a href="//www.hamburg.de"
+class="km1-link km1-link km1-link--no-underline km1-link--icon-left" title="German" aria-label="Switch to German version">
+<svg class="km1-icon km1-icon--globe km1-link__icon"
+role="img"
+width="20"
+height="20"
+focusable="false"
+aria-hidden="true"
+>
+<use xlink:href="#icon-globe" />
+</svg>
+<span class="km1-label km1-link__text"
+> DE
+</span>
+</a>
+</div>
+</div>
+</div>
+</div><ul class="km1-meta-navigation">
+<li class="km1-meta-navigation__item km1-meta-navigation__item--search">
+<a href="/768368!search"
+class="km1-button km1-button--transparent km1-meta-navigation__item-button"
+data-js-prevent-default="" data-js-role-button="" data-a11y-dialog-show="km1-search-dialog"
+>
+<svg class="km1-icon km1-icon--search km1-button__icon"
+role="img"
+width="36"
+height="36"
+focusable="false"
+aria-hidden="true"
+>
+<use xlink:href="#icon-search" />
+</svg>
+<span class="km1-label km1-button__label"
+> Search
+</span>
+</a>
+</li>
+<li class="km1-meta-navigation__item km1-meta-navigation__item--language">
+<a href="//www.hamburg.de"
+class="km1-link km1-link km1-link--no-underline km1-link--icon-left" title="German" aria-label="Switch to German version">
+<svg class="km1-icon km1-icon--globe km1-link__icon"
+role="img"
+width="20"
+height="20"
+focusable="false"
+aria-hidden="true"
+>
+<use xlink:href="#icon-globe" />
+</svg>
+<span class="km1-label km1-link__text"
+> DE
+</span>
+</a>
+</li>
+</ul>
+<a class="km1-logo km1-header__logo km1-header__logo--large" href="//www.hamburg.com" title="Hamburg.com">
+<img class="km1-img" src="/resource/crblob/768380/e1f035cda5b256e3eb2684f6c0eb853f/hamburg-com-logo-data.png" alt="Hamburg.de Logo" />
+</a>
+<a class="km1-logo km1-header__logo" href="//www.hamburg.com" title="Hamburg.com">
+<img class="km1-img" src="" alt="" />
+</a>
+</div>
+</div>
+<svg class="km1-icon km1-icon--bow km1-header__bow"
+role="img"
+width="267"
+height="32"
+focusable="false"
+aria-hidden="true"
+>
+<use xlink:href="#icon-bow" />
+</svg>
+</header>
+<main class="km1-main km1-page__main">
+<div class="km1-text-opener km1-text-opener--startpage km1-theme-midnight" >
+<div class="km1-container">
+<div class="km1-row">
+<div class="km1-text-opener__content">
+<div class="km1-article-intro">
+<svg class="km1-icon km1-icon--hamburg km1-article-intro__icon"
+role="img"
+width="101"
+height="47"
+focusable="false"
+aria-hidden="true"
+>
+<use xlink:href="#icon-hamburg" />
+</svg>
+<h1 class="km1-heading km1-article__heading" >
+<a href="/898670-898670" class="km1-article-intro__link">
+Welcome to Hamburg
+</a>
+</h1>
+<p class="km1-paragraph km1-paragraph--shorttext" >
+Hamburg is northern Germany's hub for business, tourism and culture. hamburg.com provides international readers with everything they need to know about Hamburg, whether they're just here for a visit, making the city home, or even starting a business.
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="km1-image-opener" >
+<div class="km1-image-opener__container">
+<figure class="km1-figure km1-figure--popup km1-image-opener__figure" >
+<div class="km1-figure__picture-wrapper">
+<span class="km1-icon-label km1-image-opener__notice" >
+<svg class="km1-icon km1-icon--arrow-m km1-icon-label__icon"
+role="img"
+width="24"
+height="24"
+focusable="false"
+aria-hidden="true"
+>
+<use xlink:href="#icon-arrow-m" />
+</svg>
+<span class="km1-icon-label__text">find out more</span>
+</span>
+<picture class="km1-picture" >
+</picture>
+</div>
+</figure>
+</div>
+</div>
+<div class="km1-teaser-slider km1-teaser-slider--default km1-theme-athens" data-js-image-gallery >
+<div class="km1-slider km1-slider--teaser km1-teaser-slider__slider" data-js-pager="numbers" >
+<div class="km1-slider__container"
+data-js-slider="{
+&quot;slidesToShow&quot;: {&quot;sm&quot;: 1, &quot;md&quot;: 1, &quot;lg&quot;: 1, &quot;xl&quot;: 1},
+&quot;fade&quot;: {&quot;sm&quot;: false, &quot;md&quot;: false, &quot;lg&quot;: false, &quot;xl&quot;: false}
+}" >
+<div class="km1-teaser-slider__item">
+<div class="km1-teaser-slider__item-container">
+<figure class="km1-figure km1-figure--popup km1-teaser-slider__item-figure" >
+<a href="/visitors/plan-ahead/winter-in-hamburg-935644" class="km1-figure__link">
+<div class="km1-figure__picture-wrapper">
+<picture class="km1-picture km1-teaser-slider__item-picture" >
+<source srcset="/resource/image/23024/landscape_ratio4x3/768/576/e0c3a65495f999e03a41246b507ecee5/F7FB0D11DA111BCEBAB794CFE4B4620B/winter-in-hamburg-img.jpg" media="(min-width: 0px) and (max-width: 767px)">
+<source srcset="/resource/image/23024/portrait_ratio4x5/512/640/41630a00dca99ad7b40035817e1ebede/B0475825354B17E47BA7D2B63B24012E/winter-in-hamburg-img.jpg" media="(min-width: 768px) and (max-width: 1023px)">
+<source srcset="/resource/image/23024/landscape_ratio4x3/600/450/e0c3a65495f999e03a41246b507ecee5/CAFBE833202AC97783B76BE4928A8DBA/winter-in-hamburg-img.jpg" media="(min-width: 1024px) and (max-width: 1199px)">
+<source srcset="/resource/image/23024/landscape_ratio4x3/800/600/e0c3a65495f999e03a41246b507ecee5/61ED088B22A9DA7D8F9FB613616CF081/winter-in-hamburg-img.jpg" media="(min-width: 1200px) and (max-width: 1599px)">
+<source srcset="/resource/image/23024/landscape_ratio4x3/1000/750/e0c3a65495f999e03a41246b507ecee5/CA26BE5E249E058EC1EA1BD25BEEADEA/winter-in-hamburg-img.jpg" media="(min-width: 1600px)">
+<img class="km1-img" src="/resource/image/23024/landscape_ratio4x3/1000/750/e0c3a65495f999e03a41246b507ecee5/CA26BE5E249E058EC1EA1BD25BEEADEA/winter-in-hamburg-img.jpg" alt="The Alster lake and the Hamburg skyline draped in snow" />
+</picture>
+</div>
+</a>
+<figcaption class="km1-figure__caption">
+<span class="km1-figure__caption-credit">
+<svg class="km1-icon km1-icon--copyright km1-figure__caption-credit-icon"
+role="img"
+width="18"
+height="18"
+focusable="false"
+aria-hidden="true"
+>
+<use xlink:href="#icon-copyright" />
+</svg>
+Olle August / Pixabay
+</span>
+</figcaption>
+</figure>
+<div class="km1-teaser km1-teaser-slider__item-teaser" >
+<div class="km1-teaser__container">
+<div class="km1-teaser__content">
+<span class="km1-topline km1-teaser__topline" >Plan Ahead</span>
+<a href="/visitors/plan-ahead/winter-in-hamburg-935644" class="km1-teaser__heading-link">
+<h2 class="km1-heading km1-heading--3 km1-teaser__heading" >
+Winter in Hamburg
+</h2>
+</a>
+<p class="km1-paragraph km1-teaser__paragraph" >
+Things become quieter, sure, but Hamburg doesn't fall into hibernation once the temperatures drop. Find out what to do and see!
+</p>
+</div>
+</div>
+</div>
+</div>
+</div><div class="km1-teaser-slider__item">
+<div class="km1-teaser-slider__item-container">
+<figure class="km1-figure km1-figure--popup km1-teaser-slider__item-figure" >
+<a href="/visitors/events/highlights-on-the-month" class="km1-figure__link">
+<div class="km1-figure__picture-wrapper">
+<picture class="km1-picture km1-teaser-slider__item-picture" >
+<source srcset="/resource/image/21424/landscape_ratio4x3/768/576/69b3315af0fad89398b441aaa7b3a90c/8544DBC5AECAFFC60681386211690A4D/highlights-of-the-month-img.jpg" media="(min-width: 0px) and (max-width: 767px)">
+<source srcset="/resource/image/21424/portrait_ratio4x5/512/640/23a7a1445d89a6bd7035ec6724c93c65/26E7F8B4B1FC4E45997B59085E96799B/highlights-of-the-month-img.jpg" media="(min-width: 768px) and (max-width: 1023px)">
+<source srcset="/resource/image/21424/landscape_ratio4x3/600/450/69b3315af0fad89398b441aaa7b3a90c/3B154AEFE40BB4DAB84EC68DFC14958C/highlights-of-the-month-img.jpg" media="(min-width: 1024px) and (max-width: 1199px)">
+<source srcset="/resource/image/21424/landscape_ratio4x3/800/600/69b3315af0fad89398b441aaa7b3a90c/6641FBC9A6AFC24C0C41D779E51ADCFD/highlights-of-the-month-img.jpg" media="(min-width: 1200px) and (max-width: 1599px)">
+<source srcset="/resource/image/21424/landscape_ratio4x3/1000/750/69b3315af0fad89398b441aaa7b3a90c/B8C15A808695FA28246F27867A0FE72F/highlights-of-the-month-img.jpg" media="(min-width: 1600px)">
+<img class="km1-img" src="/resource/image/21424/landscape_ratio4x3/1000/750/69b3315af0fad89398b441aaa7b3a90c/B8C15A808695FA28246F27867A0FE72F/highlights-of-the-month-img.jpg" alt="View of the Hamburg harbourfront at Landungsbrücken" />
+</picture>
+</div>
+</a>
+<figcaption class="km1-figure__caption">
+<span class="km1-figure__caption-credit">
+<svg class="km1-icon km1-icon--copyright km1-figure__caption-credit-icon"
+role="img"
+width="18"
+height="18"
+focusable="false"
+aria-hidden="true"
+>
+<use xlink:href="#icon-copyright" />
+</svg>
+Mediaserver Hamburg / Jörg Modrow
+</span>
+</figcaption>
+</figure>
+<div class="km1-teaser km1-teaser-slider__item-teaser" >
+<div class="km1-teaser__container">
+<div class="km1-teaser__content">
+<span class="km1-topline km1-teaser__topline" >Events in Hamburg</span>
+<a href="/visitors/events/highlights-on-the-month" class="km1-teaser__heading-link">
+<h2 class="km1-heading km1-heading--3 km1-teaser__heading" >
+Highlights of the Month
+</h2>
+</a>
+<p class="km1-paragraph km1-teaser__paragraph" >
+Sports, exhibitions, concerts, trade shows, street festivals — there's always something going on. See this month's highlights at a glance.
+</p>
+</div>
+</div>
+</div>
+</div>
+</div><div class="km1-teaser-slider__item">
+<div class="km1-teaser-slider__item-container">
+<figure class="km1-figure km1-figure--popup km1-teaser-slider__item-figure" >
+<a href="/visitors/events" class="km1-figure__link">
+<div class="km1-figure__picture-wrapper">
+<picture class="km1-picture km1-teaser-slider__item-picture" >
+<source srcset="/resource/image/21246/landscape_ratio4x3/768/576/960e06e8f5b96a8091981f96c584bd99/5789A1CB959084DDADCD67856D5C2F0E/events-background-img.jpg" media="(min-width: 0px) and (max-width: 767px)">
+<source srcset="/resource/image/21246/portrait_ratio4x5/512/640/ab6479721f97d93ef03b77accf859984/8EC5A6A28515C0E3B5071837BCF049CC/events-background-img.jpg" media="(min-width: 768px) and (max-width: 1023px)">
+<source srcset="/resource/image/21246/landscape_ratio4x3/600/450/960e06e8f5b96a8091981f96c584bd99/2AD4D5F9BB2F56AF7A6C9CDB6F6F7747/events-background-img.jpg" media="(min-width: 1024px) and (max-width: 1199px)">
+<source srcset="/resource/image/21246/landscape_ratio4x3/800/600/960e06e8f5b96a8091981f96c584bd99/8D1F88FFD08E9FB9BE8B60D2882E3589/events-background-img.jpg" media="(min-width: 1200px) and (max-width: 1599px)">
+<source srcset="/resource/image/21246/landscape_ratio4x3/1000/750/960e06e8f5b96a8091981f96c584bd99/AC229D2EA6166250F39B0ADD7BEC3636/events-background-img.jpg" media="(min-width: 1600px)">
+<img class="km1-img" src="/resource/image/21246/landscape_ratio4x3/1000/750/960e06e8f5b96a8091981f96c584bd99/AC229D2EA6166250F39B0ADD7BEC3636/events-background-img.jpg" alt="Celebrate Hamburg&#39;s port anniversary and many more events." />
+</picture>
+</div>
+</a>
+<figcaption class="km1-figure__caption">
+<span class="km1-figure__caption-credit">
+<svg class="km1-icon km1-icon--copyright km1-figure__caption-credit-icon"
+role="img"
+width="18"
+height="18"
+focusable="false"
+aria-hidden="true"
+>
+<use xlink:href="#icon-copyright" />
+</svg>
+www.mediaserver.hamburg.de / Christian Spahrbier
+</span>
+</figcaption>
+</figure>
+<div class="km1-teaser km1-teaser-slider__item-teaser" >
+<div class="km1-teaser__container">
+<div class="km1-teaser__content">
+<a href="/visitors/events" class="km1-teaser__heading-link">
+<h2 class="km1-heading km1-heading--3 km1-teaser__heading" >
+Events
+</h2>
+</a>
+<p class="km1-paragraph km1-teaser__paragraph" >
+Stay up-to-date on festivals, street fairs and recurring events like the Port Anniversary, Christmas markets and the Hamburg DOM.
+</p>
+</div>
+</div>
+</div>
+</div>
+</div><div class="km1-teaser-slider__item">
+<div class="km1-teaser-slider__item-container">
+<figure class="km1-figure km1-figure--popup km1-teaser-slider__item-figure" >
+<a href="/visitors/getting-around/d-ticket-22592" class="km1-figure__link">
+<div class="km1-figure__picture-wrapper">
+<picture class="km1-picture km1-teaser-slider__item-picture" >
+<source srcset="/resource/image/22590/landscape_ratio4x3/768/576/eda9dbdc82bbd77ae676a88db401fd80/48B376938F5E693A83A603035697792B/km1-deutschlandticket-img.jpg" media="(min-width: 0px) and (max-width: 767px)">
+<source srcset="/resource/image/22590/portrait_ratio4x5/512/640/4547cb12a023235134dadbac1f208971/9A098BEBC20C1BEB10EA91D947378589/km1-deutschlandticket-img.jpg" media="(min-width: 768px) and (max-width: 1023px)">
+<source srcset="/resource/image/22590/landscape_ratio4x3/600/450/eda9dbdc82bbd77ae676a88db401fd80/86929BC0ABE587C1E7C99274FDBB07D7/km1-deutschlandticket-img.jpg" media="(min-width: 1024px) and (max-width: 1199px)">
+<source srcset="/resource/image/22590/landscape_ratio4x3/800/600/eda9dbdc82bbd77ae676a88db401fd80/76BD110A47D51BFBC9A832A151C24BFF/km1-deutschlandticket-img.jpg" media="(min-width: 1200px) and (max-width: 1599px)">
+<source srcset="/resource/image/22590/landscape_ratio4x3/1000/750/eda9dbdc82bbd77ae676a88db401fd80/2EC885C3D75EC138C5C2656B32A62D62/km1-deutschlandticket-img.jpg" media="(min-width: 1600px)">
+<img class="km1-img" src="/resource/image/22590/landscape_ratio4x3/1000/750/eda9dbdc82bbd77ae676a88db401fd80/2EC885C3D75EC138C5C2656B32A62D62/km1-deutschlandticket-img.jpg" alt="A hand holding a Deutschlandticket card with underground train station in background" />
+</picture>
+</div>
+</a>
+<figcaption class="km1-figure__caption">
+<span class="km1-figure__caption-credit">
+<svg class="km1-icon km1-icon--copyright km1-figure__caption-credit-icon"
+role="img"
+width="18"
+height="18"
+focusable="false"
+aria-hidden="true"
+>
+<use xlink:href="#icon-copyright" />
+</svg>
+Imago / Hanno Bode
+</span>
+</figcaption>
+</figure>
+<div class="km1-teaser km1-teaser-slider__item-teaser" >
+<div class="km1-teaser__container">
+<div class="km1-teaser__content">
+<span class="km1-topline km1-teaser__topline" >Mobility</span>
+<a href="/visitors/getting-around/d-ticket-22592" class="km1-teaser__heading-link">
+<h2 class="km1-heading km1-heading--3 km1-teaser__heading" >
+hvv Deutschlandticket
+</h2>
+</a>
+<p class="km1-paragraph km1-teaser__paragraph" >
+Travelling around Hamburg and the metropolitan region by public transport is cheap and easy thanks to the hvv Deutschlandticket.
+</p>
+<div class="km1-teaser__meta-list">
+<span class="km1-icon-label km1-teaser__meta-label" >
+<span class="km1-icon-label__text">
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div><div class="km1-teaser-slider__item">
+<div class="km1-teaser-slider__item-container">
+<figure class="km1-figure km1-figure--popup km1-teaser-slider__item-figure" >
+<a href="/visitors/useful-information/hamburg-card-22612" class="km1-figure__link">
+<div class="km1-figure__picture-wrapper">
+<picture class="km1-picture km1-teaser-slider__item-picture" >
+<source srcset="/resource/image/936746/landscape_ratio4x3/768/576/4c48d0ed6188064ed458491b2eabacd8/805398A0081A766D32FCEA09436DF512/hamburg-card-img.jpg" media="(min-width: 0px) and (max-width: 767px)">
+<source srcset="/resource/image/936746/portrait_ratio4x5/512/640/e575cb35a05d3caa2000b986c0193b94/2835D1D84F6DBD777EEFC379F9074742/hamburg-card-img.jpg" media="(min-width: 768px) and (max-width: 1023px)">
+<source srcset="/resource/image/936746/landscape_ratio4x3/600/450/4c48d0ed6188064ed458491b2eabacd8/02F2A013854ECDCF375ECF607096A4AC/hamburg-card-img.jpg" media="(min-width: 1024px) and (max-width: 1199px)">
+<source srcset="/resource/image/936746/landscape_ratio4x3/800/600/4c48d0ed6188064ed458491b2eabacd8/214F49CA7815EAC5914BCE7037F6DE27/hamburg-card-img.jpg" media="(min-width: 1200px) and (max-width: 1599px)">
+<source srcset="/resource/image/936746/landscape_ratio4x3/1000/750/4c48d0ed6188064ed458491b2eabacd8/1C2962AC0AD8C81A2521D515A5EBDD02/hamburg-card-img.jpg" media="(min-width: 1600px)">
+<img class="km1-img" src="/resource/image/936746/landscape_ratio4x3/1000/750/4c48d0ed6188064ed458491b2eabacd8/1C2962AC0AD8C81A2521D515A5EBDD02/hamburg-card-img.jpg" alt="Hamburg Tourismus" />
+</picture>
+</div>
+</a>
+<figcaption class="km1-figure__caption">
+<span class="km1-figure__caption-credit">
+<svg class="km1-icon km1-icon--copyright km1-figure__caption-credit-icon"
+role="img"
+width="18"
+height="18"
+focusable="false"
+aria-hidden="true"
+>
+<use xlink:href="#icon-copyright" />
+</svg>
+Hamburg Tourismus
+</span>
+</figcaption>
+</figure>
+<div class="km1-teaser km1-teaser-slider__item-teaser" >
+<div class="km1-teaser__container">
+<div class="km1-teaser__content">
+<span class="km1-topline km1-teaser__topline" >Useful Information</span>
+<a href="/visitors/useful-information/hamburg-card-22612" class="km1-teaser__heading-link">
+<h2 class="km1-heading km1-heading--3 km1-teaser__heading" >
+Hamburg CARD
+</h2>
+</a>
+<p class="km1-paragraph km1-teaser__paragraph" >
+Enjoy free public transport and up to 50% discounts on museums, musicals and tourist attractions with the Hamburg CARD and Hamburg CARD Local.​​​​​​ ​
+</p>
+<div class="km1-teaser__meta-list">
+<span class="km1-icon-label km1-teaser__meta-label" >
+<span class="km1-icon-label__text">
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div><div class="km1-teaser-slider__item">
+<div class="km1-teaser-slider__item-container">
+<figure class="km1-figure km1-figure--popup km1-teaser-slider__item-figure" >
+<a href="/residents/hamburg-for-refugees/ukraine-refugees-19442" class="km1-figure__link">
+<div class="km1-figure__picture-wrapper">
+<picture class="km1-picture km1-teaser-slider__item-picture" >
+<source srcset="/resource/image/19444/landscape_ratio4x3/768/576/61181e3c48bce4bcfbb124b3fa023df5/4431DE8E55A7B71C436BEA8CE0A4C500/km1-refugees-from-ukraine-img.jpg" media="(min-width: 0px) and (max-width: 767px)">
+<source srcset="/resource/image/19444/portrait_ratio4x5/512/640/88623e115c37e79deb2cd799e0c45fc5/9189C512E21AA139D739F89962D788F5/km1-refugees-from-ukraine-img.jpg" media="(min-width: 768px) and (max-width: 1023px)">
+<source srcset="/resource/image/19444/landscape_ratio4x3/600/450/61181e3c48bce4bcfbb124b3fa023df5/3FBA261CC9B77497DE4B890E4DC01D26/km1-refugees-from-ukraine-img.jpg" media="(min-width: 1024px) and (max-width: 1199px)">
+<source srcset="/resource/image/19444/landscape_ratio4x3/800/600/61181e3c48bce4bcfbb124b3fa023df5/FFE9C19814BB5CE92C7A506A487D823A/km1-refugees-from-ukraine-img.jpg" media="(min-width: 1200px) and (max-width: 1599px)">
+<source srcset="/resource/image/19444/landscape_ratio4x3/1000/750/61181e3c48bce4bcfbb124b3fa023df5/D9E82C4F6242656A3C729E1AFB5E9B9C/km1-refugees-from-ukraine-img.jpg" media="(min-width: 1600px)">
+<img class="km1-img" src="/resource/image/19444/landscape_ratio4x3/1000/750/61181e3c48bce4bcfbb124b3fa023df5/D9E82C4F6242656A3C729E1AFB5E9B9C/km1-refugees-from-ukraine-img.jpg" alt="The Ukrainian national flag in blue and yellow flying from the Hamburg Rathaus city hall" />
+</picture>
+</div>
+</a>
+<figcaption class="km1-figure__caption">
+<span class="km1-figure__caption-credit">
+<svg class="km1-icon km1-icon--copyright km1-figure__caption-credit-icon"
+role="img"
+width="18"
+height="18"
+focusable="false"
+aria-hidden="true"
+>
+<use xlink:href="#icon-copyright" />
+</svg>
+Senatskanzlei Hamburg / Jan Pries
+</span>
+</figcaption>
+</figure>
+<div class="km1-teaser km1-teaser-slider__item-teaser" >
+<div class="km1-teaser__container">
+<div class="km1-teaser__content">
+<span class="km1-topline km1-teaser__topline" >Refugee Aid</span>
+<a href="/residents/hamburg-for-refugees/ukraine-refugees-19442" class="km1-teaser__heading-link">
+<h2 class="km1-heading km1-heading--3 km1-teaser__heading" >
+Refugees from Ukraine
+</h2>
+</a>
+<p class="km1-paragraph km1-teaser__paragraph" >
+As the current situation in Ukraine forces people out of their homes and their home country, Hamburg stands prepared and ready to help.
+</p>
+<div class="km1-teaser__meta-list">
+<span class="km1-icon-label km1-teaser__meta-label" >
+<span class="km1-icon-label__text">
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div> </div>
+<div class="km1-slider__controls km1-container">
+<button
+class="km1-button km1-button--transparent km1-slider__btn--prev km1-slider__btn"
+>
+<svg class="km1-icon km1-icon--chevron-right km1-button__icon"
+role="img"
+width="36"
+height="36"
+focusable="false"
+aria-hidden="true"
+>
+<use xlink:href="#icon-chevron-right" />
+</svg>
+</button>
+<div class="km1-slider__dots">
+<div class="km1-slider__counter">
+<span class="km1-slider__current-slide">1</span>
+/
+<span class="km1-slider__total-slide"></span>
+</div>
+</div>
+<button
+class="km1-button km1-button--transparent km1-slider__btn km1-slider__btn--next"
+>
+<svg class="km1-icon km1-icon--chevron-right km1-button__icon"
+role="img"
+width="36"
+height="36"
+focusable="false"
+aria-hidden="true"
+>
+<use xlink:href="#icon-chevron-right" />
+</svg>
+</button>
+</div>
+</div>
+</div><div class="km1-teaser-row km1-teaser-row--2-col km1-theme-snow" >
+<div class="km1-teaser-row__container">
+<h2 class="km1-heading km1-module-headline km1-teaser-row__headline" >
+Residents
+</h2>
+<div class="km1-teaser-row__teasers-container">
+<!-- use quadratic cropping for every first or fourth teaser in masonry -->
+<div class="km1-teaser km1-teaser-row__teaser" >
+<div class="km1-teaser__container">
+<div class="km1-teaser__media-container">
+<div class="km1-teaser__media-container-content">
+<figure class="km1-figure km1-figure--popup km1-teaser__figure" >
+<a href="/residents/work" class="km1-figure__link">
+<div class="km1-figure__picture-wrapper">
+<picture class="km1-picture" >
+<source srcset="/resource/image/20152/landscape_ratio4x3/681/511/1e5151de1dd50d47bfe1dc97a6203b48/CA9F8DE120F525C3488AF3629F29B8B5/km1-work-deichtorcenter.jpg" media="(min-width: 0px) and (max-width: 767px)">
+<source srcset="/resource/image/20152/landscape_ratio4x3/370/278/1e5151de1dd50d47bfe1dc97a6203b48/760192D41C5994B025BF2B7FAC614E11/km1-work-deichtorcenter.jpg" media="(min-width: 768px) and (max-width: 1024px)">
+<source srcset="/resource/image/20152/landscape_ratio4x3/338/254/1e5151de1dd50d47bfe1dc97a6203b48/98299469A7AEA9612CEF35BCE523F4F2/km1-work-deichtorcenter.jpg" media="(min-width: 1025px) and (max-width: 1199px)">
+<source srcset="/resource/image/20152/landscape_ratio4x3/610/458/1e5151de1dd50d47bfe1dc97a6203b48/9293B3B804532619690ECACF17DDA97C/km1-work-deichtorcenter.jpg" media="(min-width: 1200px)">
+<img class="km1-img" src="/resource/image/20152/landscape_ratio4x3/610/458/1e5151de1dd50d47bfe1dc97a6203b48/9293B3B804532619690ECACF17DDA97C/km1-work-deichtorcenter.jpg" alt="" />
+</picture>
+</div>
+</a>
+</figure>
+</div>
+<span class="km1-figure__caption-credit">
+<svg class="km1-icon km1-icon--copyright km1-figure__caption-credit-icon"
+role="img"
+width="18"
+height="18"
+focusable="false"
+aria-hidden="true"
+>
+<use xlink:href="#icon-copyright" />
+</svg>
+Hamburg Marketing GmbH
+</span>
+</div>
+<div class="km1-teaser__content">
+<span class="km1-topline km1-teaser__topline" >Residents</span>
+<a href="/residents/work" class="km1-teaser__heading-link">
+<h3 class="km1-heading km1-heading--3 km1-teaser__heading" >
+Work
+</h3>
+</a>
+<p class="km1-paragraph km1-teaser__paragraph" >
+Are you looking for a job in Hamburg are you already employed? Find out all about the job market, application...
+</p>
+</div>
+</div>
+</div> <!-- use quadratic cropping for every first or fourth teaser in masonry -->
+<div class="km1-teaser km1-teaser-row__teaser" >
+<div class="km1-teaser__container">
+<div class="km1-teaser__media-container">
+<div class="km1-teaser__media-container-content">
+<figure class="km1-figure km1-figure--popup km1-teaser__figure" >
+<a href="/residents/study" class="km1-figure__link">
+<div class="km1-figure__picture-wrapper">
+<picture class="km1-picture" >
+<source srcset="/resource/image/20056/landscape_ratio4x3/681/511/9ecd27fe031390b29df50ce8ffc3e165/E10088AB1D70F8DC7DE5B95405EC99C6/km1-universities-hamburg-2.jpg" media="(min-width: 0px) and (max-width: 767px)">
+<source srcset="/resource/image/20056/landscape_ratio4x3/370/278/9ecd27fe031390b29df50ce8ffc3e165/4EA24BFF17E50803F108A5675F3E90D5/km1-universities-hamburg-2.jpg" media="(min-width: 768px) and (max-width: 1024px)">
+<source srcset="/resource/image/20056/landscape_ratio4x3/338/254/9ecd27fe031390b29df50ce8ffc3e165/34A8BA1204F00C5739F97FB8CF376D6B/km1-universities-hamburg-2.jpg" media="(min-width: 1025px) and (max-width: 1199px)">
+<source srcset="/resource/image/20056/landscape_ratio4x3/610/458/9ecd27fe031390b29df50ce8ffc3e165/9C24C5CE38F11D491530D0F972015C99/km1-universities-hamburg-2.jpg" media="(min-width: 1200px)">
+<img class="km1-img" src="/resource/image/20056/landscape_ratio4x3/610/458/9ecd27fe031390b29df50ce8ffc3e165/9C24C5CE38F11D491530D0F972015C99/km1-universities-hamburg-2.jpg" alt="" />
+</picture>
+</div>
+</a>
+</figure>
+</div>
+<span class="km1-figure__caption-credit">
+<svg class="km1-icon km1-icon--copyright km1-figure__caption-credit-icon"
+role="img"
+width="18"
+height="18"
+focusable="false"
+aria-hidden="true"
+>
+<use xlink:href="#icon-copyright" />
+</svg>
+UHH / Dichant
+</span>
+</div>
+<div class="km1-teaser__content">
+<span class="km1-topline km1-teaser__topline" >Residents</span>
+<a href="/residents/study" class="km1-teaser__heading-link">
+<h3 class="km1-heading km1-heading--3 km1-teaser__heading" >
+Study
+</h3>
+</a>
+<p class="km1-paragraph km1-teaser__paragraph" >
+Hamburg is a great city for higher education. Here is a guide to Hamburg's universities, entry requirements...
+</p>
+</div>
+</div>
+</div> <!-- use quadratic cropping for every first or fourth teaser in masonry -->
+<div class="km1-teaser km1-teaser-row__teaser" >
+<div class="km1-teaser__container">
+<div class="km1-teaser__media-container">
+<div class="km1-teaser__media-container-content">
+<figure class="km1-figure km1-figure--popup km1-teaser__figure" >
+<a href="/residents/housing" class="km1-figure__link">
+<div class="km1-figure__picture-wrapper">
+<picture class="km1-picture" >
+<source srcset="/resource/image/19232/landscape_ratio4x3/681/511/d918fa79318b13a1df400da4f7e5db71/D616893D08A5FF3425491D6479C59968/housing-img.jpg" media="(min-width: 0px) and (max-width: 767px)">
+<source srcset="/resource/image/19232/landscape_ratio4x3/370/278/d918fa79318b13a1df400da4f7e5db71/FFFC8A13459B048B8AD9DEE7975F2CCE/housing-img.jpg" media="(min-width: 768px) and (max-width: 1024px)">
+<source srcset="/resource/image/19232/landscape_ratio4x3/338/254/d918fa79318b13a1df400da4f7e5db71/6FA2131A43F0FD86EC27EE0BE9BE3164/housing-img.jpg" media="(min-width: 1025px) and (max-width: 1199px)">
+<source srcset="/resource/image/19232/landscape_ratio4x3/610/458/d918fa79318b13a1df400da4f7e5db71/78A6A16EBF13D1F317386924ED4152AA/housing-img.jpg" media="(min-width: 1200px)">
+<img class="km1-img" src="/resource/image/19232/landscape_ratio4x3/610/458/d918fa79318b13a1df400da4f7e5db71/78A6A16EBF13D1F317386924ED4152AA/housing-img.jpg" alt="" />
+</picture>
+</div>
+</a>
+</figure>
+</div>
+<span class="km1-figure__caption-credit">
+<svg class="km1-icon km1-icon--copyright km1-figure__caption-credit-icon"
+role="img"
+width="18"
+height="18"
+focusable="false"
+aria-hidden="true"
+>
+<use xlink:href="#icon-copyright" />
+</svg>
+www.mediaserver.hamburg.de / Sven Schwarze
+</span>
+</div>
+<div class="km1-teaser__content">
+<span class="km1-topline km1-teaser__topline" >Residents</span>
+<a href="/residents/housing" class="km1-teaser__heading-link">
+<h3 class="km1-heading km1-heading--3 km1-teaser__heading" >
+Housing
+</h3>
+</a>
+<p class="km1-paragraph km1-teaser__paragraph" >
+Need a place to live? nderstand the real estate market, renting, residential neighbourhoods and housing...
+</p>
+</div>
+</div>
+</div> <!-- use quadratic cropping for every first or fourth teaser in masonry -->
+<div class="km1-teaser km1-teaser-row__teaser" >
+<div class="km1-teaser__container">
+<div class="km1-teaser__media-container">
+<div class="km1-teaser__media-container-content">
+<figure class="km1-figure km1-figure--popup km1-teaser__figure" >
+<a href="/residents/settle" class="km1-figure__link">
+<div class="km1-figure__picture-wrapper">
+<picture class="km1-picture" >
+<source srcset="/resource/image/19918/landscape_ratio4x3/681/511/68778aa9e617f1bbd2cace6c48bb459b/DBB0DF5A95C0AF8224918607CD5D2404/settle-img.jpg" media="(min-width: 0px) and (max-width: 767px)">
+<source srcset="/resource/image/19918/landscape_ratio4x3/370/278/68778aa9e617f1bbd2cace6c48bb459b/1B5D1172428FF9186BD498F370C24355/settle-img.jpg" media="(min-width: 768px) and (max-width: 1024px)">
+<source srcset="/resource/image/19918/landscape_ratio4x3/338/254/68778aa9e617f1bbd2cace6c48bb459b/4777BE20CC5444DC621ADD10CFF47100/settle-img.jpg" media="(min-width: 1025px) and (max-width: 1199px)">
+<source srcset="/resource/image/19918/landscape_ratio4x3/610/458/68778aa9e617f1bbd2cace6c48bb459b/CCB824ADF1C195C6EE76F2552297E926/settle-img.jpg" media="(min-width: 1200px)">
+<img class="km1-img" src="/resource/image/19918/landscape_ratio4x3/610/458/68778aa9e617f1bbd2cace6c48bb459b/CCB824ADF1C195C6EE76F2552297E926/settle-img.jpg" alt="" />
+</picture>
+</div>
+</a>
+</figure>
+</div>
+<span class="km1-figure__caption-credit">
+<svg class="km1-icon km1-icon--copyright km1-figure__caption-credit-icon"
+role="img"
+width="18"
+height="18"
+focusable="false"
+aria-hidden="true"
+>
+<use xlink:href="#icon-copyright" />
+</svg>
+www.mediaserver.hamburg.de/Roberto Kai Hegeler
+</span>
+</div>
+<div class="km1-teaser__content">
+<span class="km1-topline km1-teaser__topline" >Residents</span>
+<a href="/residents/settle" class="km1-teaser__heading-link">
+<h3 class="km1-heading km1-heading--3 km1-teaser__heading" >
+Settle
+</h3>
+</a>
+<p class="km1-paragraph km1-teaser__paragraph" >
+Hamburg is a wonderful city to live in. Catch up on housing, finance, insurance and local culture, and soon you...
+</p>
+</div>
+</div>
+</div> </div>
+</div>
+</div><div class="km1-teaser-row km1-teaser-row--2-col km1-theme-snow" >
+<div class="km1-teaser-row__container">
+<h2 class="km1-heading km1-module-headline km1-teaser-row__headline" >
+Visitors
+</h2>
+<div class="km1-teaser-row__teasers-container">
+<!-- use quadratic cropping for every first or fourth teaser in masonry -->
+<div class="km1-teaser km1-teaser-row__teaser" >
+<div class="km1-teaser__container">
+<div class="km1-teaser__media-container">
+<div class="km1-teaser__media-container-content">
+<figure class="km1-figure km1-figure--popup km1-teaser__figure" >
+<a href="/visitors/dom" class="km1-figure__link">
+<div class="km1-figure__picture-wrapper">
+<picture class="km1-picture" >
+<source srcset="/resource/image/20256/landscape_ratio4x3/681/511/ede34c66d492b4e80460eb71f7e47ef/CAEAE7B350A9A7FA3C54DF98D3AA2CE6/dom-img.jpg" media="(min-width: 0px) and (max-width: 767px)">
+<source srcset="/resource/image/20256/landscape_ratio4x3/370/278/ede34c66d492b4e80460eb71f7e47ef/A68CF3FE9349DEC28A015F34A6F47EE0/dom-img.jpg" media="(min-width: 768px) and (max-width: 1024px)">
+<source srcset="/resource/image/20256/landscape_ratio4x3/338/254/ede34c66d492b4e80460eb71f7e47ef/752A20A0196D166FD48EF91C7222CED7/dom-img.jpg" media="(min-width: 1025px) and (max-width: 1199px)">
+<source srcset="/resource/image/20256/landscape_ratio4x3/610/458/ede34c66d492b4e80460eb71f7e47ef/6D8AC1567C7864B7821EDF23C4604A75/dom-img.jpg" media="(min-width: 1200px)">
+<img class="km1-img" src="/resource/image/20256/landscape_ratio4x3/610/458/ede34c66d492b4e80460eb71f7e47ef/6D8AC1567C7864B7821EDF23C4604A75/dom-img.jpg" alt="" />
+</picture>
+</div>
+</a>
+</figure>
+</div>
+<span class="km1-figure__caption-credit">
+<svg class="km1-icon km1-icon--copyright km1-figure__caption-credit-icon"
+role="img"
+width="18"
+height="18"
+focusable="false"
+aria-hidden="true"
+>
+<use xlink:href="#icon-copyright" />
+</svg>
+imago stock & people / Hoch Zwei Stock / Angerer
+</span>
+</div>
+<div class="km1-teaser__content">
+<span class="km1-topline km1-teaser__topline" >Main Events</span>
+<a href="/visitors/dom" class="km1-teaser__heading-link">
+<h3 class="km1-heading km1-heading--3 km1-teaser__heading" >
+Hamburg DOM
+</h3>
+</a>
+<p class="km1-paragraph km1-teaser__paragraph" >
+Held three times year, the DOM funfair is northern Germany's biggest public festival. Summer DOM 2024 takes...
+</p>
+</div>
+</div>
+</div> <!-- use quadratic cropping for every first or fourth teaser in masonry -->
+<div class="km1-teaser km1-teaser-row__teaser" >
+<div class="km1-teaser__container">
+<div class="km1-teaser__media-container">
+<div class="km1-teaser__media-container-content">
+<figure class="km1-figure km1-figure--popup km1-teaser__figure" >
+<a href="/visitors/port-anniversary" class="km1-figure__link">
+<div class="km1-figure__picture-wrapper">
+<picture class="km1-picture" >
+<source srcset="/resource/image/23140/landscape_ratio4x3/681/511/15b118e9286a561595ffc5e4be38a3f1/94FCE0A8369E02613D664EFBDFF4D48B/km1-port-anniversary-11.jpg" media="(min-width: 0px) and (max-width: 767px)">
+<source srcset="/resource/image/23140/landscape_ratio4x3/370/278/15b118e9286a561595ffc5e4be38a3f1/44C08DDDC3C18CF9EAD573A31CD2FE24/km1-port-anniversary-11.jpg" media="(min-width: 768px) and (max-width: 1024px)">
+<source srcset="/resource/image/23140/landscape_ratio4x3/338/254/15b118e9286a561595ffc5e4be38a3f1/0B6C2ECE5D8E67DF05EB925034372553/km1-port-anniversary-11.jpg" media="(min-width: 1025px) and (max-width: 1199px)">
+<source srcset="/resource/image/23140/landscape_ratio4x3/610/458/15b118e9286a561595ffc5e4be38a3f1/EE67F9A85BED1D33509ECBA4F4761F99/km1-port-anniversary-11.jpg" media="(min-width: 1200px)">
+<img class="km1-img" src="/resource/image/23140/landscape_ratio4x3/610/458/15b118e9286a561595ffc5e4be38a3f1/EE67F9A85BED1D33509ECBA4F4761F99/km1-port-anniversary-11.jpg" alt="" />
+</picture>
+</div>
+</a>
+</figure>
+</div>
+<span class="km1-figure__caption-credit">
+<svg class="km1-icon km1-icon--copyright km1-figure__caption-credit-icon"
+role="img"
+width="18"
+height="18"
+focusable="false"
+aria-hidden="true"
+>
+<use xlink:href="#icon-copyright" />
+</svg>
+Frank Burmester
+</span>
+</div>
+<div class="km1-teaser__content">
+<span class="km1-topline km1-teaser__topline" >Main Events</span>
+<a href="/visitors/port-anniversary" class="km1-teaser__heading-link">
+<h3 class="km1-heading km1-heading--3 km1-teaser__heading" >
+Hamburg Port Anniversary
+</h3>
+</a>
+<p class="km1-paragraph km1-teaser__paragraph" >
+Maritime parades, historic sailboats and ships, music, fireworks and food: Hamburg's biggest festival along the...
+</p>
+</div>
+</div>
+</div> <!-- use quadratic cropping for every first or fourth teaser in masonry -->
+<div class="km1-teaser km1-teaser-row__teaser" >
+<div class="km1-teaser__container">
+<div class="km1-teaser__media-container">
+<div class="km1-teaser__media-container-content">
+<figure class="km1-figure km1-figure--popup km1-teaser__figure" >
+<a href="/visitors/events" class="km1-figure__link">
+<div class="km1-figure__picture-wrapper">
+<picture class="km1-picture" >
+<source srcset="/resource/image/21246/landscape_ratio4x3/681/511/960e06e8f5b96a8091981f96c584bd99/7BF6A40BA265151DF231FFD2722F7F99/events-background-img.jpg" media="(min-width: 0px) and (max-width: 767px)">
+<source srcset="/resource/image/21246/landscape_ratio4x3/370/278/960e06e8f5b96a8091981f96c584bd99/454AE3A3621784FAAD550541E5D8C7E0/events-background-img.jpg" media="(min-width: 768px) and (max-width: 1024px)">
+<source srcset="/resource/image/21246/landscape_ratio4x3/338/254/960e06e8f5b96a8091981f96c584bd99/85C9D04D100141189ABD4D8651AEAFF7/events-background-img.jpg" media="(min-width: 1025px) and (max-width: 1199px)">
+<source srcset="/resource/image/21246/landscape_ratio4x3/610/458/960e06e8f5b96a8091981f96c584bd99/3FBE6C4EA63C5A0247C615DD3E0B8FEF/events-background-img.jpg" media="(min-width: 1200px)">
+<img class="km1-img" src="/resource/image/21246/landscape_ratio4x3/610/458/960e06e8f5b96a8091981f96c584bd99/3FBE6C4EA63C5A0247C615DD3E0B8FEF/events-background-img.jpg" alt="" />
+</picture>
+</div>
+</a>
+</figure>
+</div>
+<span class="km1-figure__caption-credit">
+<svg class="km1-icon km1-icon--copyright km1-figure__caption-credit-icon"
+role="img"
+width="18"
+height="18"
+focusable="false"
+aria-hidden="true"
+>
+<use xlink:href="#icon-copyright" />
+</svg>
+www.mediaserver.hamburg.de / Christian Spahrbier
+</span>
+</div>
+<div class="km1-teaser__content">
+<a href="/visitors/events" class="km1-teaser__heading-link">
+<h3 class="km1-heading km1-heading--3 km1-teaser__heading" >
+Events
+</h3>
+</a>
+<p class="km1-paragraph km1-teaser__paragraph" >
+Stay up-to-date on festivals, street fairs and recurring events like the Port Anniversary, Christmas markets...
+</p>
+</div>
+</div>
+</div> <!-- use quadratic cropping for every first or fourth teaser in masonry -->
+<div class="km1-teaser km1-teaser-row__teaser" >
+<div class="km1-teaser__container">
+<div class="km1-teaser__media-container">
+<div class="km1-teaser__media-container-content">
+<figure class="km1-figure km1-figure--popup km1-teaser__figure" >
+<a href="/visitors/getting-around" class="km1-figure__link">
+<div class="km1-figure__picture-wrapper">
+<picture class="km1-picture" >
+<source srcset="/resource/image/22676/landscape_ratio4x3/681/511/cc51a2c658f117c0c8b56f089ba80d22/66F818EBFFA43BD385E359D6D031392C/getting-around-img.jpg" media="(min-width: 0px) and (max-width: 767px)">
+<source srcset="/resource/image/22676/landscape_ratio4x3/370/278/cc51a2c658f117c0c8b56f089ba80d22/B1183828040DE205BE336CED6558986E/getting-around-img.jpg" media="(min-width: 768px) and (max-width: 1024px)">
+<source srcset="/resource/image/22676/landscape_ratio4x3/338/254/cc51a2c658f117c0c8b56f089ba80d22/75472B847885EC178CE0C7BEF39B7FBC/getting-around-img.jpg" media="(min-width: 1025px) and (max-width: 1199px)">
+<source srcset="/resource/image/22676/landscape_ratio4x3/610/458/cc51a2c658f117c0c8b56f089ba80d22/AC5EEFA5B39582765D03E1A3F9E34AD8/getting-around-img.jpg" media="(min-width: 1200px)">
+<img class="km1-img" src="/resource/image/22676/landscape_ratio4x3/610/458/cc51a2c658f117c0c8b56f089ba80d22/AC5EEFA5B39582765D03E1A3F9E34AD8/getting-around-img.jpg" alt="" />
+</picture>
+</div>
+</a>
+</figure>
+</div>
+<span class="km1-figure__caption-credit">
+<svg class="km1-icon km1-icon--copyright km1-figure__caption-credit-icon"
+role="img"
+width="18"
+height="18"
+focusable="false"
+aria-hidden="true"
+>
+<use xlink:href="#icon-copyright" />
+</svg>
+www.mediaserver.hamburg.de / Museum für Kunst & Gewerbe
+</span>
+</div>
+<div class="km1-teaser__content">
+<span class="km1-topline km1-teaser__topline" >Visitors</span>
+<a href="/visitors/getting-around" class="km1-teaser__heading-link">
+<h3 class="km1-heading km1-heading--3 km1-teaser__heading" >
+Getting Around
+</h3>
+</a>
+<p class="km1-paragraph km1-teaser__paragraph" >
+Hamburg has a number of transport options, both public and private, that will let you navigate the city with ease.
+</p>
+</div>
+</div>
+</div> </div>
+</div>
+</div><div class="km1-teaser-row km1-teaser-row--2-col km1-theme-snow" >
+<div class="km1-teaser-row__container">
+<h2 class="km1-heading km1-module-headline km1-teaser-row__headline" >
+Business
+</h2>
+<div class="km1-teaser-row__teasers-container">
+<!-- use quadratic cropping for every first or fourth teaser in masonry -->
+<div class="km1-teaser km1-teaser-row__teaser" >
+<div class="km1-teaser__container">
+<div class="km1-teaser__media-container">
+<div class="km1-teaser__media-container-content">
+<figure class="km1-figure km1-figure--popup km1-teaser__figure" >
+<a href="/business/port-of-hamburg" class="km1-figure__link">
+<div class="km1-figure__picture-wrapper">
+<picture class="km1-picture" >
+<source srcset="/resource/image/17200/landscape_ratio4x3/681/511/939ff2fba2534a5b85e5b628d31090dd/F06AD7A9614BC3BA46F7F31554326250/port-of-hamburg-img.jpg" media="(min-width: 0px) and (max-width: 767px)">
+<source srcset="/resource/image/17200/landscape_ratio4x3/370/278/939ff2fba2534a5b85e5b628d31090dd/90FD9634E6B3AD3F9298C06746B9BF3F/port-of-hamburg-img.jpg" media="(min-width: 768px) and (max-width: 1024px)">
+<source srcset="/resource/image/17200/landscape_ratio4x3/338/254/939ff2fba2534a5b85e5b628d31090dd/2BBE3C8FD4827170689D4E62CE0EBAA2/port-of-hamburg-img.jpg" media="(min-width: 1025px) and (max-width: 1199px)">
+<source srcset="/resource/image/17200/landscape_ratio4x3/610/458/939ff2fba2534a5b85e5b628d31090dd/0FFA224254C0EA6843C8F6DB5BEC4440/port-of-hamburg-img.jpg" media="(min-width: 1200px)">
+<img class="km1-img" src="/resource/image/17200/landscape_ratio4x3/610/458/939ff2fba2534a5b85e5b628d31090dd/0FFA224254C0EA6843C8F6DB5BEC4440/port-of-hamburg-img.jpg" alt="" />
+</picture>
+</div>
+</a>
+</figure>
+</div>
+<span class="km1-figure__caption-credit">
+<svg class="km1-icon km1-icon--copyright km1-figure__caption-credit-icon"
+role="img"
+width="18"
+height="18"
+focusable="false"
+aria-hidden="true"
+>
+<use xlink:href="#icon-copyright" />
+</svg>
+Hafen Hamburg / Ingo Boelter
+</span>
+</div>
+<div class="km1-teaser__content">
+<span class="km1-topline km1-teaser__topline" >Business</span>
+<a href="/business/port-of-hamburg" class="km1-teaser__heading-link">
+<h3 class="km1-heading km1-heading--3 km1-teaser__heading" >
+Port of Hamburg
+</h3>
+</a>
+<p class="km1-paragraph km1-teaser__paragraph" >
+From the latest ship arrivals to high-tech port logistics and a multitude of responsible bodies: we'll help you...
+</p>
+</div>
+</div>
+</div> <!-- use quadratic cropping for every first or fourth teaser in masonry -->
+<div class="km1-teaser km1-teaser-row__teaser" >
+<div class="km1-teaser__container">
+<div class="km1-teaser__media-container">
+<div class="km1-teaser__media-container-content">
+<figure class="km1-figure km1-figure--popup km1-teaser__figure" >
+<a href="/business/cch-congress-centre-hamburg/main-17424" class="km1-figure__link">
+<div class="km1-figure__picture-wrapper">
+<picture class="km1-picture" >
+<source srcset="/resource/image/17392/landscape_ratio4x3/681/511/22f178ba291c6fa80b3bb90fc74347e7/8DCD79427824DE5EBB273026DBCEA3D2/km1-cch-img1.jpg" media="(min-width: 0px) and (max-width: 767px)">
+<source srcset="/resource/image/17392/landscape_ratio4x3/370/278/22f178ba291c6fa80b3bb90fc74347e7/88E513DB45C4614D96546593119BCB26/km1-cch-img1.jpg" media="(min-width: 768px) and (max-width: 1024px)">
+<source srcset="/resource/image/17392/landscape_ratio4x3/338/254/22f178ba291c6fa80b3bb90fc74347e7/899712DABB48BA7ECA1CE14209DF0003/km1-cch-img1.jpg" media="(min-width: 1025px) and (max-width: 1199px)">
+<source srcset="/resource/image/17392/landscape_ratio4x3/610/458/22f178ba291c6fa80b3bb90fc74347e7/5ACE1F30870CCA6D7D2032774696E5A2/km1-cch-img1.jpg" media="(min-width: 1200px)">
+<img class="km1-img" src="/resource/image/17392/landscape_ratio4x3/610/458/22f178ba291c6fa80b3bb90fc74347e7/5ACE1F30870CCA6D7D2032774696E5A2/km1-cch-img1.jpg" alt="" />
+</picture>
+</div>
+</a>
+</figure>
+</div>
+<span class="km1-figure__caption-credit">
+<svg class="km1-icon km1-icon--copyright km1-figure__caption-credit-icon"
+role="img"
+width="18"
+height="18"
+focusable="false"
+aria-hidden="true"
+>
+<use xlink:href="#icon-copyright" />
+</svg>
+Hamburg Messe und Congress / Michael Zapf
+</span>
+</div>
+<div class="km1-teaser__content">
+<span class="km1-topline km1-teaser__topline" >CCH – Congress Center Hamburg</span>
+<a href="/business/cch-congress-centre-hamburg/main-17424" class="km1-teaser__heading-link">
+<h3 class="km1-heading km1-heading--3 km1-teaser__heading" >
+Location for Conventions, Trade Fairs, Concerts and Exhibitions
+</h3>
+</a>
+<p class="km1-paragraph km1-teaser__paragraph" >
+Hamburg has been waiting for its reopening for a long time: The new CCH sets standards in functionality and...
+</p>
+</div>
+</div>
+</div> <!-- use quadratic cropping for every first or fourth teaser in masonry -->
+<div class="km1-teaser km1-teaser-row__teaser" >
+<div class="km1-teaser__container">
+<div class="km1-teaser__media-container">
+<div class="km1-teaser__media-container-content">
+<figure class="km1-figure km1-figure--popup km1-teaser__figure" >
+<a href="/business/economic-clusters" class="km1-figure__link">
+<div class="km1-figure__picture-wrapper">
+<picture class="km1-picture" >
+<source srcset="/resource/image/17000/landscape_ratio4x3/681/511/521be7b3d4946be530fdc69b238cf163/734649D3A9244C54F318EC64BB09F3CA/km1-clusters-hamburg.jpg" media="(min-width: 0px) and (max-width: 767px)">
+<source srcset="/resource/image/17000/landscape_ratio4x3/370/278/521be7b3d4946be530fdc69b238cf163/92EDE0E69AA1B4CBBEAC4D732BF9FE78/km1-clusters-hamburg.jpg" media="(min-width: 768px) and (max-width: 1024px)">
+<source srcset="/resource/image/17000/landscape_ratio4x3/338/254/521be7b3d4946be530fdc69b238cf163/DDF0A103FBBCF96BB23C47CCE764E20C/km1-clusters-hamburg.jpg" media="(min-width: 1025px) and (max-width: 1199px)">
+<source srcset="/resource/image/17000/landscape_ratio4x3/610/458/521be7b3d4946be530fdc69b238cf163/0012FB96D040CA27BCF9306B30B3157E/km1-clusters-hamburg.jpg" media="(min-width: 1200px)">
+<img class="km1-img" src="/resource/image/17000/landscape_ratio4x3/610/458/521be7b3d4946be530fdc69b238cf163/0012FB96D040CA27BCF9306B30B3157E/km1-clusters-hamburg.jpg" alt="" />
+</picture>
+</div>
+</a>
+</figure>
+</div>
+<span class="km1-figure__caption-credit">
+<svg class="km1-icon km1-icon--copyright km1-figure__caption-credit-icon"
+role="img"
+width="18"
+height="18"
+focusable="false"
+aria-hidden="true"
+>
+<use xlink:href="#icon-copyright" />
+</svg>
+imago stock & people / Westend61
+</span>
+</div>
+<div class="km1-teaser__content">
+<span class="km1-topline km1-teaser__topline" >Business</span>
+<a href="/business/economic-clusters" class="km1-teaser__heading-link">
+<h3 class="km1-heading km1-heading--3 km1-teaser__heading" >
+Economic Clusters
+</h3>
+</a>
+<p class="km1-paragraph km1-teaser__paragraph" >
+It's no surprise that Hamburg is dominated by the maritime industry. But aviation, bio-tech, media and more...
+</p>
+</div>
+</div>
+</div> <!-- use quadratic cropping for every first or fourth teaser in masonry -->
+<div class="km1-teaser km1-teaser-row__teaser" >
+<div class="km1-teaser__container">
+<div class="km1-teaser__media-container">
+<div class="km1-teaser__media-container-content">
+<figure class="km1-figure km1-figure--popup km1-teaser__figure" >
+<a href="/business/made-in-hamburg" class="km1-figure__link">
+<div class="km1-figure__picture-wrapper">
+<picture class="km1-picture" >
+<source srcset="/resource/image/17170/landscape_ratio4x3/681/511/d3b913fe2c04735812f429d507338d44/67644B40B8A9FDE170E96ED47782479F/made-in-hh-img.jpg" media="(min-width: 0px) and (max-width: 767px)">
+<source srcset="/resource/image/17170/landscape_ratio4x3/370/278/d3b913fe2c04735812f429d507338d44/EB2B3F7AA338AC3470C41171EE772427/made-in-hh-img.jpg" media="(min-width: 768px) and (max-width: 1024px)">
+<source srcset="/resource/image/17170/landscape_ratio4x3/338/254/d3b913fe2c04735812f429d507338d44/82852C4DC54AD37439655D5411DDE05C/made-in-hh-img.jpg" media="(min-width: 1025px) and (max-width: 1199px)">
+<source srcset="/resource/image/17170/landscape_ratio4x3/610/458/d3b913fe2c04735812f429d507338d44/A215F667F7C414FB74533D4225E9CDD4/made-in-hh-img.jpg" media="(min-width: 1200px)">
+<img class="km1-img" src="/resource/image/17170/landscape_ratio4x3/610/458/d3b913fe2c04735812f429d507338d44/A215F667F7C414FB74533D4225E9CDD4/made-in-hh-img.jpg" alt="" />
+</picture>
+</div>
+</a>
+</figure>
+</div>
+<span class="km1-figure__caption-credit">
+<svg class="km1-icon km1-icon--copyright km1-figure__caption-credit-icon"
+role="img"
+width="18"
+height="18"
+focusable="false"
+aria-hidden="true"
+>
+<use xlink:href="#icon-copyright" />
+</svg>
+www.mediaserver.hamburg.de / Christian Spahrbier
+</span>
+</div>
+<div class="km1-teaser__content">
+<span class="km1-topline km1-teaser__topline" >Business</span>
+<a href="/business/made-in-hamburg" class="km1-teaser__heading-link">
+<h3 class="km1-heading km1-heading--3 km1-teaser__heading" >
+Made in Hamburg
+</h3>
+</a>
+<p class="km1-paragraph km1-teaser__paragraph" >
+What do Germany's leading paper, the 8 p.m. news, and the country's best-selling lotion have in common? They're...
+</p>
+</div>
+</div>
+</div> </div>
+</div>
+</div>
+<div
+data-a11y-dialog="km1-search-dialog"
+id="km1-search-dialog"
+aria-hidden="true"
+class="km1-dialog km1-dialog--lightbox km1-search-dialog"
+data-js-search-dialog=""
+>
+<div class="km1-dialog__overlay" ></div>
+<div role="document" class="km1-dialog__content">
+<button
+class="km1-button km1-button--transparent km1-dialog__close-button"
+data-a11y-dialog-hide="true"
+>
+<span class="km1-label km1-button__label"
+> Close
+</span>
+<svg class="km1-icon km1-icon--close km1-button__icon"
+role="img"
+width="40"
+height="40"
+focusable="false"
+aria-hidden="true"
+>
+<use xlink:href="#icon-close" />
+</svg>
+</button>
+<div class="km1-searchbox" >
+<div class="km1-searchbox__container">
+<h2 class="km1-heading km1-searchbox__headline" >
+What are you searching for? </h2>
+<div class="km1-searchbox__flex-wrapper">
+<form class="km1-form km1-searchbox__search-form" action="/768368!search" method="get" enctype="multipart/form-data" role="search">
+<div id="km1-searchbox-search-panel-280" class="km1-searchbox__search-panel"
+aria-labelledby="km1-searchbox-search-toggle">
+<input type="search" value="" name="query" data-js-search-autocomplete="/768368!suggest" id="km1-searchbox-search-input-280" aria-label="Search input field" spellcheck="true" placeholder="Enter search term" class="km1-input km1-input--search km1-searchbox__search-input" />
+<input type="search" name="searchInputAutoComplete" aria-label="Autocomplete"
+class="km1-input km1-input--search km1-searchbox__search-input km1-autocomplete-hint"
+disabled="disabled" />
+</div>
+<button
+type="submit"
+class="km1-button km1-button--transparent km1-searchbox__search-toggle"
+>
+<span class="km1-label km1-button__label sr-only"
+> Search
+</span>
+<svg class="km1-icon km1-icon--search km1-button__icon"
+role="img"
+width="36"
+height="36"
+focusable="false"
+aria-hidden="true"
+>
+<use xlink:href="#icon-search" />
+</svg>
+</button>
+</form>
+</div>
+</div>
+</div>
+<div class="km1-search-dialog__link-lists-wrapper">
+<div class="km1-link-list km1-search-dialog__link-list" >
+<div class="km1-link-list__container">
+<h2 class="km1-heading km1-module-headline km1-link-list__headline" >
+Important topics
+</h2>
+<ul class="km1-link-list__list">
+<li class="km1-link-list__item">
+<a href="//www.hamburg.de"
+class="km1-link km1-link-list__item-link" >
+<span class="km1-label km1-link__text"
+> Hamburg.de Startseite
+</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="km1-link-list km1-link-list--button-links km1-search-dialog__link-list" >
+<div class="km1-link-list__container">
+<h2 class="km1-heading km1-module-headline km1-link-list__headline" >
+Frequently searched
+</h2>
+<ul class="km1-link-list__list">
+<li class="km1-link-list__item">
+<a href="//www.hamburg.de"
+class="km1-button km1-button--border km1-link-list__item-link-button"
+>
+<span class="km1-label km1-button__label"
+> Hamburg.de Startseite
+</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div></main>
+<footer class="km1-footer km1-theme-midnight" >
+<div class="km1-footer__main">
+<div class="km1-container km1-footer__inner">
+<span class="km1-footer__line"></span>
+<div class="km1-footer__grid km1-footer__small-nav">
+<div class="km1-footer__grid-item">
+</div>
+<div class="km1-footer__grid-item">
+</div>
+<div class="km1-footer__grid-item">
+<div class="km1-footer__grid-subItem">
+<p class="km1-footer__grid-subItem__title"></p>
+</div>
+<div class="km1-footer__grid-subItem">
+<p class="km1-footer__grid-subItem__title"></p>
+</div>
+<div class="km1-footer__grid-subItem">
+<p class="km1-footer__grid-subItem__title"></p>
+</div>
+</div>
+</div>
+</div>
+<div class="km1-footer__subfooter">
+<div class="km1-container km1-footer__inner">
+<div class="km1-footer__subfooter-upper">
+<p>Imprint and Legal Notes</p>
+<div class="km1-footer__subfooter-wrap">
+<ul class="km1-footer__list">
+<li class="km1-footer__list-item">
+<a href="/imprint-20164"
+class="km1-link km1-footer__link" >
+<span class="km1-label km1-link__text"
+> Imprint
+</span>
+</a>
+</li>
+<li class="km1-footer__list-item">
+<a href="/privacy-policy-20154"
+class="km1-link km1-footer__link" >
+<span class="km1-label km1-link__text"
+> Privacy Policy
+</span>
+</a>
+</li>
+<li class="km1-footer__list-item">
+<a href="/media-contacts-20166"
+class="km1-link km1-footer__link" >
+<span class="km1-label km1-link__text"
+> Media Contacts
+</span>
+</a>
+</li>
+<li class="km1-footer__list-item">
+<a href="/declaration-of-accessibility--20162"
+class="km1-link km1-footer__link" >
+<span class="km1-label km1-link__text"
+> Declaration of Accessibility
+</span>
+</a>
+</li>
+<li class="km1-footer__list-item">
+<a href="https://marketing.hamburg.de/homepage.html" target="_blank"
+class="km1-link km1-footer__link" >
+<span class="km1-label km1-link__text"
+> Hamburg Marketing
+</span>
+</a>
+</li>
+</ul>
+<div class="km1-footer__subfooter-wrapInner">
+</div>
+</div>
+</div>
+<span class="km1-footer__line"></span>
+<p>
+© hamburg.de | All rights reserved – No materials may be reproduced without prior permission of hamburg.de | hamburg.de uses images from imago images, pixelio.de and "Minicons Free Vektor Icons Pack" – The copyright owners are listed in the copyright-box
+</p>
+</div>
+</div>
+</div>
+</footer>
+<noscript class="cm-javascript">
+</noscript>
+<script src="/resource/themes/km-i/js/commons-5446-6.js" defer="false" ></script><script src="/resource/themes/km-i/js/index-863840-10.js" defer="false" ></script>
+<script>
+window.addEventListener('load', function () {
+if (typeof Tracking != "undefined" && 'true' === 'true') {
+window.tracking = window.tracking || new Tracking('PEgDBV', document.title, 'hamburg-com_768386.navigationspunkt');
+window.tracking.initialize();
+}
+}, false);
+</script>
+</body>  </html>
+
+
+

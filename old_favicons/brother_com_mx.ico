@@ -1,0 +1,1312 @@
+
+
+
+<!DOCTYPE html>
+<html class="no-js" lang="es-MX">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+            <title>Página Principal | Brother M&#233;xico</title>
+    <!-- Google data -->
+    <meta name="application-name" content="Brother USA" />
+    <link rel="canonical" href="https://www.brother.com.mx/" />
+    <!-- Twitter Card data -->
+        <meta name="twitter:title" content="P&amp;#225;gina Principal" />
+    <!-- Twitter Summary card images must be at least 120x120px -->
+    <!-- Open Graph data: fallback for most social media service basic tags -->
+        <meta property="og:title" content="P&amp;#225;gina Principal" />
+        <meta property="og:url" content="https://www.brother.com.mx/" />
+<link rel="alternate" href=https://www.brother.pt/blog hreflang="pt-PT" />
+<link rel="alternate" href=https://www.brother.es/blog hreflang="es-ES" />
+    <meta name="description" content=" ">
+    <meta name="keywords" content=" ">
+
+
+
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1">
+
+    <!-- The above 3 meta tags must come first in the head; any other head content must come after these tags -->
+    <title>P&#225;gina Principal | Brother M&#233;xico</title>
+
+    <link href="https://fonts.googleapis.com/css?family=Catamaran:100,400,600" rel="preload" as="style" type="text/css">
+    <link href="https://fonts.googleapis.com/css2?family=Catamaran:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <!-- Bootstrap -->
+    
+
+    
+
+    
+
+    <script src="https://use.fontawesome.com/e8a6b1b49d.js"></script>
+
+    
+    <!-- Custom JavaScript for this theme -->
+    
+
+    
+<meta name="VIcurrentDateTime" content="638775808981895592" />
+<script type="text/javascript" src="/layouts/system/VisitorIdentification.js"></script>
+
+    
+<link href="https://www.brother.com.mx/-/media/themes/neptune/lac/site-theme-name/styles/optimized-min.css?t=20231118T080055Z" rel="stylesheet" />    
+</head>
+<body class="default-device wireframe-images" class="agentbot">
+<script src="https://www.brother.com.mx/-/media/base-themes/core-libraries/scripts/optimized-min.js?t=20230810T091713Z"></script><script src="https://www.brother.com.mx/-/media/base-themes/xa-api/scripts/optimized-min.js?t=20230810T091640Z"></script><script src="https://www.brother.com.mx/-/media/base-themes/main-theme/scripts/optimized-min.js?t=20230810T091702Z"></script><script src="https://www.brother.com.mx/-/media/base-themes/google-maps-js-connector/scripts/optimized-min.js?t=20230810T091521Z"></script><script src="https://www.brother.com.mx/-/media/base-themes/maps/scripts/optimized-min.js?t=20230810T091527Z"></script><script src="https://www.brother.com.mx/-/media/base-themes/components-theme/scripts/optimized-min.js?t=20230810T091530Z"></script><script src="https://www.brother.com.mx/-/media/base-themes/resolve-conflicts/scripts/optimized-min.js?t=20230810T091712Z"></script><script src="https://www.brother.com.mx/-/media/base-themes/searchtheme/scripts/optimized-min.js?t=20230810T091528Z"></script><script src="https://www.brother.com.mx/-/media/themes/neptune/lac/site-theme-name/scripts/optimized-min.js?t=20231121T092611Z"></script><script src="https://www.brother.com.mx/-/media/themes/wireframe/scripts/optimized-min.js?t=20230227T113850Z"></script>    <script type="text/javascript">
+var utag_data = {
+  item_id: "{2144A11C-E877-41E9-97EE-6CE63CB5F227}",
+  item_language: "es-MX",
+  item_name: "Home",
+  item_path: "/sitecore/content/neptune/mexico/home"
+};
+</script>
+<script type="text/javascript"> (function(a,b,c,d){ a='//tags.tiqcdn.com/utag/brother/brothermexico/prod/utag.js'; b=document; c='script'; d=b.createElement(c); d.src=a; d.type='text/java'+c; d.async=true; a=b.getElementsByTagName(c)[0]; a.parentNode.insertBefore(d,a); })(); </script>
+
+    <!-- meta renderings placeholder "body-top" -->
+
+    <div id="wrapper">
+        <div id="header" class="main clearfix">
+            
+    <div class="component neptune-header">
+        <div class="component-content">
+            <header class="neptune-main-header">
+                <div class="neptune-container">
+                    <div class="container">
+                        <div class="row">
+                            <div class="neptune-left-col">
+                                <div class="neptune-logo">
+<a href="https://www.brother.com.mx/" title="Home" ><img src="https://www.brother.com.mx/-/media/project/neptune/lac/icons/logo-white.svg?la=es-MX&amp;hash=FE0D02370ADAC9D66AF0D674F9373EE7" class="janus-logo img-responsive" alt="" /></a>                                </div>
+                            </div>
+                            <div class="neptune-right-col">
+                                <div class="neptune-lang-drop-down">
+                                    
+    <div class="component country-selector">
+        <div class="component-content">
+            <div>
+                <select class="neptune_lang">
+                        <option link="#">
+
+                            Seleccionar Pais
+                        </option>
+                        <option link="http://www.brother.com.ar">
+
+                            Argentina
+                        </option>
+                        <option link="https://www.brother.cl/">
+
+                            Bolivia
+                        </option>
+                        <option link="http://www.brother.com.br">
+
+                            Brasil
+                        </option>
+                        <option link="https://www.brother.ca/">
+
+                            Canadá
+                        </option>
+                        <option link="https://www.brother.cl/">
+
+                            Chile
+                        </option>
+                        <option link="https://latinamerica.brother.com/">
+
+                            Colombia
+                        </option>
+                        <option link="https://latinamerica.brother.com/">
+
+                            Costa Rica
+                        </option>
+                        <option link="https://latinamerica.brother.com/">
+
+                            Ecuador
+                        </option>
+                        <option link="https://latinamerica.brother.com/">
+
+                            El Salvador
+                        </option>
+                        <option link="https://www.brother-usa.com/">
+
+                            English Caribbean
+                        </option>
+                        <option link="https://www.brother-usa.com/">
+
+                            Estados Unidos
+                        </option>
+                        <option link="https://latinamerica.brother.com/">
+
+                            Guatemala
+                        </option>
+                        <option link="https://latinamerica.brother.com/">
+
+                            Honduras
+                        </option>
+                        <option link="https://latinamerica.brother.com/">
+
+                            Jamaica
+                        </option>
+                        <option link="https://www.brother.com.mx/">
+
+                            México
+                        </option>
+                        <option link="https://latinamerica.brother.com/">
+
+                            Nicaragua
+                        </option>
+                        <option link="https://latinamerica.brother.com/">
+
+                            Panamá
+                        </option>
+                        <option link="https://www.brother.com.py">
+
+                            Paraguay
+                        </option>
+                        <option link="https://www.brother.com.pe/">
+
+                            Perú
+                        </option>
+                        <option link="https://latinamerica.brother.com/">
+
+                            República Dominicana
+                        </option>
+                        <option link="https://www.brother.com.uy/">
+
+                            Uruguay
+                        </option>
+                        <option link="https://latinamerica.brother.com/">
+
+                            Otros Países de Latinoamerica
+                        </option>
+                </select>
+                <div class="dropdown-menu open">
+
+                    <ul class="dropdown-menu inner" role="menu">
+                            <li data-original-index=0 class="selected">
+                                <a tabindex=0 class="" data-normalized-text="<span class=&quot;text&quot;>Seleccionar Pais</span>" data-tokens="null">
+                                    <span class="text">Seleccionar Pais</span>
+                                </a>
+                            </li>
+                            <li data-original-index=1 class="selected">
+                                <a tabindex=1 class="" data-normalized-text="<span class=&quot;text&quot;></span>" data-tokens="null">
+                                    <span class="text"></span>
+                                </a>
+                            </li>
+                            <li data-original-index=2 class="selected">
+                                <a tabindex=2 class="" data-normalized-text="<span class=&quot;text&quot;></span>" data-tokens="null">
+                                    <span class="text"></span>
+                                </a>
+                            </li>
+                            <li data-original-index=3 class="selected">
+                                <a tabindex=3 class="" data-normalized-text="<span class=&quot;text&quot;></span>" data-tokens="null">
+                                    <span class="text"></span>
+                                </a>
+                            </li>
+                            <li data-original-index=4 class="selected">
+                                <a tabindex=4 class="" data-normalized-text="<span class=&quot;text&quot;></span>" data-tokens="null">
+                                    <span class="text"></span>
+                                </a>
+                            </li>
+                            <li data-original-index=5 class="selected">
+                                <a tabindex=5 class="" data-normalized-text="<span class=&quot;text&quot;></span>" data-tokens="null">
+                                    <span class="text"></span>
+                                </a>
+                            </li>
+                            <li data-original-index=6 class="selected">
+                                <a tabindex=6 class="" data-normalized-text="<span class=&quot;text&quot;></span>" data-tokens="null">
+                                    <span class="text"></span>
+                                </a>
+                            </li>
+                            <li data-original-index=7 class="selected">
+                                <a tabindex=7 class="" data-normalized-text="<span class=&quot;text&quot;></span>" data-tokens="null">
+                                    <span class="text"></span>
+                                </a>
+                            </li>
+                            <li data-original-index=8 class="selected">
+                                <a tabindex=8 class="" data-normalized-text="<span class=&quot;text&quot;></span>" data-tokens="null">
+                                    <span class="text"></span>
+                                </a>
+                            </li>
+                            <li data-original-index=9 class="selected">
+                                <a tabindex=9 class="" data-normalized-text="<span class=&quot;text&quot;></span>" data-tokens="null">
+                                    <span class="text"></span>
+                                </a>
+                            </li>
+                            <li data-original-index=10 class="selected">
+                                <a tabindex=10 class="" data-normalized-text="<span class=&quot;text&quot;></span>" data-tokens="null">
+                                    <span class="text"></span>
+                                </a>
+                            </li>
+                            <li data-original-index=11 class="selected">
+                                <a tabindex=11 class="" data-normalized-text="<span class=&quot;text&quot;></span>" data-tokens="null">
+                                    <span class="text"></span>
+                                </a>
+                            </li>
+                            <li data-original-index=12 class="selected">
+                                <a tabindex=12 class="" data-normalized-text="<span class=&quot;text&quot;></span>" data-tokens="null">
+                                    <span class="text"></span>
+                                </a>
+                            </li>
+                            <li data-original-index=13 class="selected">
+                                <a tabindex=13 class="" data-normalized-text="<span class=&quot;text&quot;></span>" data-tokens="null">
+                                    <span class="text"></span>
+                                </a>
+                            </li>
+                            <li data-original-index=14 class="selected">
+                                <a tabindex=14 class="" data-normalized-text="<span class=&quot;text&quot;></span>" data-tokens="null">
+                                    <span class="text"></span>
+                                </a>
+                            </li>
+                            <li data-original-index=15 class="selected">
+                                <a tabindex=15 class="" data-normalized-text="<span class=&quot;text&quot;></span>" data-tokens="null">
+                                    <span class="text"></span>
+                                </a>
+                            </li>
+                            <li data-original-index=16 class="selected">
+                                <a tabindex=16 class="" data-normalized-text="<span class=&quot;text&quot;></span>" data-tokens="null">
+                                    <span class="text"></span>
+                                </a>
+                            </li>
+                            <li data-original-index=17 class="selected">
+                                <a tabindex=17 class="" data-normalized-text="<span class=&quot;text&quot;></span>" data-tokens="null">
+                                    <span class="text"></span>
+                                </a>
+                            </li>
+                            <li data-original-index=18 class="selected">
+                                <a tabindex=18 class="" data-normalized-text="<span class=&quot;text&quot;></span>" data-tokens="null">
+                                    <span class="text"></span>
+                                </a>
+                            </li>
+                            <li data-original-index=19 class="selected">
+                                <a tabindex=19 class="" data-normalized-text="<span class=&quot;text&quot;></span>" data-tokens="null">
+                                    <span class="text"></span>
+                                </a>
+                            </li>
+                            <li data-original-index=20 class="selected">
+                                <a tabindex=20 class="" data-normalized-text="<span class=&quot;text&quot;></span>" data-tokens="null">
+                                    <span class="text"></span>
+                                </a>
+                            </li>
+                            <li data-original-index=21 class="selected">
+                                <a tabindex=21 class="" data-normalized-text="<span class=&quot;text&quot;></span>" data-tokens="null">
+                                    <span class="text"></span>
+                                </a>
+                            </li>
+                            <li data-original-index=22 class="selected">
+                                <a tabindex=22 class="" data-normalized-text="<span class=&quot;text&quot;></span>" data-tokens="null">
+                                    <span class="text"></span>
+                                </a>
+                            </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+                                </div>
+                              
+                                <ul class="neptune-nav-utility">
+                                    <li class="neptune-search"><a href="#search-box" data-toggle="collapse" id="header_search" role="button" aria-expanded="false" aria-controls="search-box"><span class="search" /></a></li>
+                                    <li class="nep-mobile-trigger">
+                                        <a href="#">
+                                            <div class="nep-mobil-menu-btn">
+                                                <span class="nep-mm-bar"></span>
+                                            </div>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="neptune-nav mega-nav nep-mega-menu" data-spy="affix" data-offset-top="128" data-offset-bottom="100">
+                    <div class="container">
+                        <div class="row">
+                            <div class="mega-menu-container">
+                                <nav class="navbar">
+                                    <div class="">
+                                        <div class="menu-wrap">
+                                            <div class="container">
+                                                <ul class="menu-block clearfix">
+                                                        <li class="has-dropdown menu-block-item">
+                                                                <a href="#">Productos</a>
+    <div class="sub-menu">
+        <div class="container clearfix">
+    <div class="special-submenu">
+        <h6>Nuestros Productos</h6>
+        <ul>
+                <li class="has-dropdown">
+                    <a href="#">Impresoras y Multifuncionales</a>
+                </li>
+                <li class="has-dropdown">
+                    <a href="#">Costura y Bordado</a>
+                </li>
+                <li class="has-dropdown">
+                    <a href="#">Rotuladores y Etiquetadoras</a>
+                </li>
+                <li class="has-dropdown">
+                    <a href="#">Impresoras Térmicas</a>
+                </li>
+                <li>
+<a href="https://www.brother.com.mx/escaners/escaners" >Escaners</a>    </li>
+    <li>
+<a href="https://www.brother.com.mx/scan-cut" >ScanNCut</a>    </li>
+    <li>
+<a href="https://www.brother.com.mx/impresoras-textiles" >Impresoras Textiles</a>    </li>
+    <li>
+<a href="https://machinetool.global.brother/es-mx/index.aspx" >Maquinaria Herramienta</a>    </li>
+        </ul>
+    </div>
+        <div class="normal-menu-block" id="d1">
+
+
+            <div class="submenu-block">
+                <div class="normal-submenu">
+<a href="https://www.brother.com.mx/nuestras-impresoras" >                                    <div class="menu-link-underline">
+                                        Nuestras Impresoras/Multifuncionales
+                                    </div>
+</a>                                            <h5>Láser</h5>
+                        <ul>
+    <li>
+<a href="https://www.brother.com.mx/nuestras-impresoras/mono" >Blanco y Negro</a>    </li>
+    <li>
+<a href="https://www.brother.com.mx/nuestras-impresoras/color" >Color</a>    </li>
+    <li>
+<a href="https://www.brother.com.mx/nuestras-impresoras/ver-todo" >Todos los Equipos Láser</a>    </li>
+                        </ul>
+                        <h5>Inkjet</h5>
+                        <ul>
+    <li>
+<a href="https://www.brother.com.mx/impresoras-inkjet/inktank" >Tanque de Tinta</a>    </li>
+    <li>
+<a href="https://www.brother.com.mx/impresoras-inkjet/inkjet" >Cartucho de Tinta</a>    </li>
+    <li>
+<a href="https://www.brother.com.mx/impresoras-inkjet/ver-todo" >Todos los Equipos Inkjet</a>    </li>
+                        </ul>
+                </div>
+            </div>
+
+            
+    <div class="need-supplies">
+        <h4>Conozca Nuestras Impresoras</h4>
+        <figure>
+
+        </figure>
+        <p>
+          </p>
+    </div>
+
+        </div>
+        <div class="normal-menu-block" id="d2">
+
+
+            <div class="submenu-block">
+                <div class="normal-submenu">
+                                            <h5>Costura y Bordado</h5>
+                        <ul>
+    <li>
+<a href="https://www.brother.com.mx/costura-y-bordado" >Nuestras Máquinas de Coser y Bordar</a>    </li>
+    <li>
+<a href="https://www.brother.com.mx/costura-y-bordado/costura" >Costura</a>    </li>
+    <li>
+<a href="https://www.brother.com.mx/costura-y-bordado/bordado" >Bordado</a>    </li>
+    <li>
+<a href="https://www.brother.com.mx/costura-y-bordado/costura-y-bordado" >Costura y Bordado</a>    </li>
+    <li>
+<a href="https://www.brother.com.mx/costura-y-bordado/overlock-y-collareta" >Overlock y Collareta</a>    </li>
+    <li>
+<a href="https://www.brother.com.mx/costura-y-bordado/semi-industrial" >Bordado semi industrial</a>    </li>
+    <li>
+<a href="https://www.brother.com.mx/costura-y-bordado/artspira" >Artspira</a>    </li>
+    <li>
+<a href="https://www.brother.com.mx/costura-y-bordado/software" >Software</a>    </li>
+    <li>
+<a href="https://www.brother.com.mx/costura-y-bordado/ver-todo" >Ver Todo</a>    </li>
+                        </ul>
+                </div>
+            </div>
+
+            
+    <div class="need-supplies">
+        <h4>¡Equipa tu taller!</h4>
+        <figure>
+
+<a href="https://modaycreatividad.brother.com.mx/catalogo-de-productos/" target="_blank" rel="noopener noreferrer" ><img src="https://www.brother.com.mx/-/media/project/neptune/mexico/banner/banner_catalogo_mx.jpg?h=528&amp;w=400&amp;la=es-MX&amp;hash=D4177C548DBE20A05EAD4FB07900CAD3" alt="" /></a>        </figure>
+        <p>
+            <span>
+              Vea nuestro Catálogo
+
+              <a href="https://modaycreatividad.brother.com.mx/catalogo-de-productos/" class="link link-arrow"> Descarg&#225; la nueva edici&#243;n</a>
+            </span>
+          </p>
+    </div>
+
+        </div>
+        <div class="normal-menu-block" id="d3">
+
+
+            <div class="submenu-block">
+                <div class="normal-submenu">
+                                            <h5>Rotuladores y Etiquetadoras</h5>
+                        <ul>
+    <li>
+<a href="https://www.brother.com.mx/rotuladores-y-etiquetadoras" >Nuestros Rotuladores y Etiquetadoras</a>    </li>
+    <li>
+<a href="https://www.brother.com.mx/rotuladores-y-etiquetadoras/etiquetadoras" >Etiquetadoras</a>    </li>
+    <li>
+<a href="https://www.brother.com.mx/rotuladores-y-etiquetadoras/rotuladores" >Rotuladores P-touch</a>    </li>
+    <li>
+<a href="https://www.brother.com.mx/rotuladores-y-etiquetadoras/ver-todo" >Ver Todo</a>    </li>
+                        </ul>
+                </div>
+            </div>
+
+            
+    <div class="need-supplies">
+        <h4></h4>
+        <figure>
+
+        </figure>
+        <p>
+          </p>
+    </div>
+
+        </div>
+        <div class="normal-menu-block" id="d4">
+
+
+            <div class="submenu-block">
+                <div class="normal-submenu">
+                                            <h5>Portátiles</h5>
+                        <ul>
+    <li>
+<a href="https://www.brother.com.mx/products/RJ3250WBL" >RUGGEDJET 3250WBL</a>    </li>
+    <li>
+<a href="https://www.brother.com.mx/products/RJ4230BL" >RUGGEDJET 4230BL</a>    </li>
+    <li>
+<a href="https://www.brother.com.mx/products/RJ4250WBL" >RUGGEDJET 4250WBL</a>    </li>
+                        </ul>
+                        <h5>Escritorio</h5>
+                        <ul>
+    <li>
+<a href="https://www.brother.com.mx/products/TD4410D" >TD4410D</a>    </li>
+    <li>
+<a href="https://www.brother.com.mx/products/TD4420TN" >TD4420TN</a>    </li>
+                        </ul>
+                        <h5>Industrial</h5>
+                        <ul>
+    <li>
+<a href="https://www.brother.com.mx/products/TJ4420TN" >TJ4420TN</a>    </li>
+                        </ul>
+                </div>
+            </div>
+
+            
+    <div class="need-supplies">
+        <h4></h4>
+        <figure>
+
+        </figure>
+        <p>
+          </p>
+    </div>
+
+        </div>
+        </div>
+    </div>
+
+                                                        </li>
+
+                                                        <li class="has-dropdown menu-block-item">
+                                                            <a href="#">Soporte</a>
+                                                            <div class="sub-menu">
+                                                                <div class="container clearfix">
+                                                                    <div class="special-submenu">
+                                                                        <ul>
+    <li>
+<a href="https://www.brother.com.mx/soporte--tecnico" >Soporte Técnico</a>    </li>
+    <li>
+<a href="https://www.brother.com.mx/donde-comprar#tab=3" >Centros de Servicio</a>    </li>
+    <li>
+<a href="https://support.brother.com/g/b/productsearch.aspx?c=mx&amp;lang=es&amp;content=dl" target="_blank" rel="noopener noreferrer" >Descargas</a>    </li>
+    <li>
+<a href="https://support.brother.com/g/b/productsearch.aspx?c=mx&amp;lang=es&amp;content=ml" target="_blank" rel="noopener noreferrer" >Manuales</a>    </li>
+    <li>
+<a href="https://support.brother.com/g/b/productsearch.aspx?c=mx&amp;lang=es&amp;content=faq" target="_blank" rel="noopener noreferrer" >Preguntas Frecuentes</a>    </li>
+    <li>
+<a href="https://www.brother.com.mx/registro-producto" >Registre su Producto</a>    </li>
+    <li>
+<a href="https://www.brother.com.mx/contactenos" >Contáctenos</a>    </li>
+                                                                        </ul>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </li>
+
+    <li>
+<a href="https://www.brother.com.mx/donde-comprar" >Dónde Comprar</a>    </li>
+    <li>
+<a href="https://www.brother.com.mx/consumibles" >Consumibles</a>    </li>
+    <li>
+<a href="https://solucionesbrother.com.mx/" target="_blank" rel="noopener noreferrer" >MPS Empresarial</a>    </li>
+    <li>
+<a href="https://www.brother.com.mx/quienes-somos" >Quiénes Somos</a>    </li>
+    <li>
+<a href="https://www.brother.com.mx/medioambiente" >Medio Ambiente</a>    </li>
+                                                </ul>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                </nav>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="search-input collapse" id="search-box">
+                    <div class="search-input-container container">
+                        
+<script src="https://cdn.jsdelivr.net/npm/es6-promise@4/dist/es6-promise.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/es6-promise@4/dist/es6-promise.auto.min.js"></script>
+
+<link rel="stylesheet" href="//www.brother.com.mx/Coveo/css/CoveoFullSearchNewDesign.css" />
+<script type="text/javascript" src="//www.brother.com.mx/Coveo/js/CoveoJsSearch.Dependencies.min.js"></script>
+<script type="text/javascript" src="//www.brother.com.mx/Coveo/js/CoveoJsSearch.Searchbox.min.js"></script>
+<script>
+    $.noConflict();
+</script>
+
+
+    <script type="text/javascript" src="/Coveo/js/cultures/en.js"></script>
+    <script type="text/javascript">
+        Coveo.$(function () {
+            var searchbox = Coveo.$('#_6faab237db8840519232877fc717258b');
+            if (typeof (CoveoForSitecore) !== 'undefined') {
+                CoveoForSitecore.componentsOptions = {"analyticsCustomMetadata" : {"sitename" : "Mexico" , "siteName" : "Mexico" , "pageFullPath" : "/sitecore/content/Neptune/Mexico/Home/search"},"analyticsEndpointUri" : "/coveo/rest/v6/analytics" , "boostExpressions" : "" , "clientLanguageFieldName" : "@z95xlanguage" , "clientLanguageName" : "es-MX" , "defaultSortType" : "" , "defaultSortField" : "" , "defaultSortCriteriaNoSpace" : "Relevancy" , "defaultSortCriteriaLowercase" : "relevancy" , "enableClientSideLogging" : false,"externalCollections" : [],"externalSources" : [],"filterResultsOnCurrentCulture" : true,"filterExpression" : "NOT @templateid==(\"adb6ca4f-03ef-4f47-b9ac-9ce2ba53ff97\",\"fe5dd826-48c6-436d-b87a-7c4210c7413b\")" , "id" : "coveoecb2cb14" , "indexSourceName" : "Coveo_web_index - BrotherCommerce93" , "isEditingInPageEditor" : false,"isPreviewingInPageEditor" : false,"isPreviewingInPageEditorWithSimulatedDevice" : false,"latestVersionFieldName" : "@z95xlatestversion" , "pageFullPath" : "/sitecore/content/Neptune/Mexico/Home/search" , "pageName" : "search" , "restEndpointUri" : "/coveo/rest" , "searchboxPlaceholderText" : " Escriba aquí...." , "sendToSitecoreAnalytics" : false,"sitecoreItemId" : "a2c78235-0100-426f-b56b-b836ee8686bb" , "sitecoreItemUri" : "sitecore://web/{A2C78235-0100-426F-B56B-B836EE8686BB}?lang=es-MX\u0026ver=1" , "siteName" : "Mexico" , "searchRedirectionItemName" : "search" , "searchRedirectionUrl" : "https://www.brother.com.mx/search" , "keepOmniboxSuggestionsProvidersDefaultOrdering" : false};
+                searchbox.coveoForSitecore('initSearchbox',
+                                           CoveoForSitecore.componentsOptions);
+            } else {
+                Coveo.SearchEndpoint.endpoints["default"] = new Coveo.SearchEndpoint({"restUri" : "/coveo/rest" , "queryStringArguments" : {"sitecoreItemUri" : "sitecore://web/{A2C78235-0100-426F-B56B-B836EE8686BB}?lang=es-MX\u0026ver=1" , "siteName" : "Mexico"}});
+                searchbox.coveo('initSearchbox',
+                    window.location.origin + "/search");
+            }
+            searchbox.find(".CoveoSearchbox input").attr("placeholder", ' Escriba aqu&#237;....');
+        });
+    </script>
+    <div id="_6faab237db8840519232877fc717258b">
+            <div class="CoveoAnalytics"
+                 data-anonymous="True"
+                 data-endpoint="/coveo/rest/coveoanalytics"
+                 data-search-hub="search"
+                 data-send-to-cloud="True">
+            </div>
+        <div class="CoveoSearchbox coveo-search-box-container"
+             data-auto-focus="True"
+             data-enable-lowercase-operators="False"
+             data-enable-partial-match="True"
+             data-partial-match-keywords="1"
+             data-partial-match-threshold="10%"
+             data-enable-question-marks="False"
+             data-enable-wildcards="True"
+             data-enable-omnibox="true"
+             data-omnibox-timeout="2000"
+             data-enable-field-addon="False"
+             data-enable-simple-field-addon="False"
+             data-enable-top-query-addon="False"
+             data-enable-reveal-query-suggest-addon="True"
+             data-enable-query-extension-addon="False"
+             ></div>
+        
+    </div>
+
+                    </div>
+                </div>
+            </header>
+            <div class="nep-mobile-menu">
+                <div class="mobile-menu">
+                    <ul class="menu-block clearfix">
+
+                            <li class="has-dropdown">
+                                <a href="#">Productos</a>
+                                    <ul>
+                                                <li class="has-dropdown">
+                                                    <a href="#">Impresoras y Multifuncionales</a>
+                                                    <ul>
+<a href="https://www.brother.com.mx/nuestras-impresoras" >                                                                        <div class="menu-link-underline">
+                                                                            Nuestras Impresoras/Multifuncionales
+                                                                        </div>
+</a>                                                                                                                    <li class="multi-list">
+                                                                <h6>Láser</h6>
+                                                                <ul>
+    <li>
+<a href="https://www.brother.com.mx/nuestras-impresoras/mono" >Blanco y Negro</a>    </li>
+    <li>
+<a href="https://www.brother.com.mx/nuestras-impresoras/color" >Color</a>    </li>
+    <li>
+<a href="https://www.brother.com.mx/nuestras-impresoras/ver-todo" >Todos los Equipos Láser</a>    </li>
+                                                                </ul>
+                                                            </li>
+                                                            <li class="multi-list">
+                                                                <h6>Inkjet</h6>
+                                                                <ul>
+    <li>
+<a href="https://www.brother.com.mx/impresoras-inkjet/inktank" >Tanque de Tinta</a>    </li>
+    <li>
+<a href="https://www.brother.com.mx/impresoras-inkjet/inkjet" >Cartucho de Tinta</a>    </li>
+    <li>
+<a href="https://www.brother.com.mx/impresoras-inkjet/ver-todo" >Todos los Equipos Inkjet</a>    </li>
+                                                                </ul>
+                                                            </li>
+                                                                                                            </ul>
+                                                </li>
+                                                <li class="has-dropdown">
+                                                    <a href="#">Costura y Bordado</a>
+                                                    <ul>
+                                                                                                                    <li class="multi-list">
+                                                                <h6>Costura y Bordado</h6>
+                                                                <ul>
+    <li>
+<a href="https://www.brother.com.mx/costura-y-bordado" >Nuestras Máquinas de Coser y Bordar</a>    </li>
+    <li>
+<a href="https://www.brother.com.mx/costura-y-bordado/costura" >Costura</a>    </li>
+    <li>
+<a href="https://www.brother.com.mx/costura-y-bordado/bordado" >Bordado</a>    </li>
+    <li>
+<a href="https://www.brother.com.mx/costura-y-bordado/costura-y-bordado" >Costura y Bordado</a>    </li>
+    <li>
+<a href="https://www.brother.com.mx/costura-y-bordado/overlock-y-collareta" >Overlock y Collareta</a>    </li>
+    <li>
+<a href="https://www.brother.com.mx/costura-y-bordado/semi-industrial" >Bordado semi industrial</a>    </li>
+    <li>
+<a href="https://www.brother.com.mx/costura-y-bordado/artspira" >Artspira</a>    </li>
+    <li>
+<a href="https://www.brother.com.mx/costura-y-bordado/software" >Software</a>    </li>
+    <li>
+<a href="https://www.brother.com.mx/costura-y-bordado/ver-todo" >Ver Todo</a>    </li>
+                                                                </ul>
+                                                            </li>
+                                                                                                            </ul>
+                                                </li>
+                                                <li class="has-dropdown">
+                                                    <a href="#">Rotuladores y Etiquetadoras</a>
+                                                    <ul>
+                                                                                                                    <li class="multi-list">
+                                                                <h6>Rotuladores y Etiquetadoras</h6>
+                                                                <ul>
+    <li>
+<a href="https://www.brother.com.mx/rotuladores-y-etiquetadoras" >Nuestros Rotuladores y Etiquetadoras</a>    </li>
+    <li>
+<a href="https://www.brother.com.mx/rotuladores-y-etiquetadoras/etiquetadoras" >Etiquetadoras</a>    </li>
+    <li>
+<a href="https://www.brother.com.mx/rotuladores-y-etiquetadoras/rotuladores" >Rotuladores P-touch</a>    </li>
+    <li>
+<a href="https://www.brother.com.mx/rotuladores-y-etiquetadoras/ver-todo" >Ver Todo</a>    </li>
+                                                                </ul>
+                                                            </li>
+                                                                                                            </ul>
+                                                </li>
+                                                <li class="has-dropdown">
+                                                    <a href="#">Impresoras Térmicas</a>
+                                                    <ul>
+                                                                                                                    <li class="multi-list">
+                                                                <h6>Portátiles</h6>
+                                                                <ul>
+    <li>
+<a href="https://www.brother.com.mx/products/RJ3250WBL" >RUGGEDJET 3250WBL</a>    </li>
+    <li>
+<a href="https://www.brother.com.mx/products/RJ4230BL" >RUGGEDJET 4230BL</a>    </li>
+    <li>
+<a href="https://www.brother.com.mx/products/RJ4250WBL" >RUGGEDJET 4250WBL</a>    </li>
+                                                                </ul>
+                                                            </li>
+                                                            <li class="multi-list">
+                                                                <h6>Escritorio</h6>
+                                                                <ul>
+    <li>
+<a href="https://www.brother.com.mx/products/TD4410D" >TD4410D</a>    </li>
+    <li>
+<a href="https://www.brother.com.mx/products/TD4420TN" >TD4420TN</a>    </li>
+                                                                </ul>
+                                                            </li>
+                                                            <li class="multi-list">
+                                                                <h6>Industrial</h6>
+                                                                <ul>
+    <li>
+<a href="https://www.brother.com.mx/products/TJ4420TN" >TJ4420TN</a>    </li>
+                                                                </ul>
+                                                            </li>
+                                                                                                            </ul>
+                                                </li>
+
+    <li>
+<a href="https://www.brother.com.mx/escaners/escaners" >Escaners</a>    </li>
+    <li>
+<a href="https://www.brother.com.mx/scan-cut" >ScanNCut</a>    </li>
+    <li>
+<a href="https://www.brother.com.mx/impresoras-textiles" >Impresoras Textiles</a>    </li>
+    <li>
+<a href="https://machinetool.global.brother/es-mx/index.aspx" >Maquinaria Herramienta</a>    </li>
+
+                                    </ul>
+                            </li>
+                                                    <li class="has-dropdown">
+                                <a href="#">Soporte</a>
+                                <ul>
+    <li>
+<a href="https://www.brother.com.mx/soporte--tecnico" >Soporte Técnico</a>    </li>
+    <li>
+<a href="https://www.brother.com.mx/donde-comprar#tab=3" >Centros de Servicio</a>    </li>
+    <li>
+<a href="https://support.brother.com/g/b/productsearch.aspx?c=mx&amp;lang=es&amp;content=dl" target="_blank" rel="noopener noreferrer" >Descargas</a>    </li>
+    <li>
+<a href="https://support.brother.com/g/b/productsearch.aspx?c=mx&amp;lang=es&amp;content=ml" target="_blank" rel="noopener noreferrer" >Manuales</a>    </li>
+    <li>
+<a href="https://support.brother.com/g/b/productsearch.aspx?c=mx&amp;lang=es&amp;content=faq" target="_blank" rel="noopener noreferrer" >Preguntas Frecuentes</a>    </li>
+    <li>
+<a href="https://www.brother.com.mx/registro-producto" >Registre su Producto</a>    </li>
+    <li>
+<a href="https://www.brother.com.mx/contactenos" >Contáctenos</a>    </li>
+                                </ul>
+                            </li>
+                            <li>
+<a href="https://www.brother.com.mx/donde-comprar" >Dónde Comprar</a>    </li>
+    <li>
+<a href="https://www.brother.com.mx/consumibles" >Consumibles</a>    </li>
+    <li>
+<a href="https://solucionesbrother.com.mx/" target="_blank" rel="noopener noreferrer" >MPS Empresarial</a>    </li>
+    <li>
+<a href="https://www.brother.com.mx/quienes-somos" >Quiénes Somos</a>    </li>
+    <li>
+<a href="https://www.brother.com.mx/medioambiente" >Medio Ambiente</a>    </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="mob-social-media">
+    <ul class="sticky-social-1 sticky-social-mob">
+
+                <li><a href=https://www.brother.com.mx/redes-sociales class="fa fa-facebook"><span> </span></a></li>
+                <li><a href=https://www.brother.com.mx/redes-sociales class="fa fa-linkedin"><span> </span></a></li>
+                <li><a href=https://www.brother.com.mx/redes-sociales class="fa fa-youtube"><span> </span></a></li>
+                <li><a href=https://www.brother.com.mx/redes-sociales class="fa fa-instagram"><span> </span></a></li>
+
+    </ul>
+</div>
+
+
+        </div>
+    </div>
+
+        </div>
+        
+<ul class="sticky-social-1">
+
+    <li><a href=https://www.brother.com.mx/redes-sociales class="fa fa-facebook"><span> </span></a></li>
+    <li><a href=https://www.brother.com.mx/redes-sociales class="fa fa-linkedin"><span> </span></a></li>
+    <li><a href=https://www.brother.com.mx/redes-sociales class="fa fa-youtube"><span> </span></a></li>
+    <li><a href=https://www.brother.com.mx/redes-sociales class="fa fa-instagram"><span> </span></a></li>
+
+</ul>
+
+
+        <div id="content" class="main clearfix">
+            
+
+    <div class="component billboard">
+        <div class="component-content">
+            <section class="neptune-home-hero business-open left-open m-b-60">
+                
+                <div class="hero">
+
+
+                        <!--.hero-slide-->
+                        <div class="hero-slide">
+
+                            
+                            <div><img src="https://www.brother.com.mx/-/media/project/neptune/mexico/banner/banner-brother.jpg" class="sliderImage" alt="Banner"></div>
+                                <div class="header-content content-position-left slide-content" style="background-color:#0045E6;">
+
+                                    <h1 class="">Conoce la nueva l&#237;nea InkBenefit Tank</h1>
+                                    <p style="margin: 10px 0px; font-size:14px;">Imprime tu actitud en cada proyecto con los nuevos multifuncionales InkBenefit Tank, ideales para tu hogar, home office o negocio.</p>
+                                        <a class="btn btn-primary mybutton" href="https://imprimetuactitud.brother.com.mx/" style="color:#0045E6;">Ver M&#225;s</a>
+
+                                </div>
+
+                        </div>
+                        <!--.hero-slide-->
+                        <div class="hero-slide">
+
+                            
+                            <div><img src="https://www.brother.com.mx/-/media/project/neptune/mexico/banner/bannerpsledpaginaweblow.jpg" class="sliderImage" alt="Banner"></div>
+                                <div class="header-content content-position-left slide-content" style="background-color:#008393;">
+
+                                    <h1 class="">Multifuncionales l&#225;ser y color led</h1>
+                                    <p style="margin: 10px 0px; font-size:14px;">Maxim&#237;za la rentabilidad de tu negocio y descubre el multifuncional ideal para tus necesidades. </p>
+                                        <a class="btn btn-primary mybutton" href="https://impresionlaserbrother.com.mx/" style="color:#008393;">Ver M&#225;s</a>
+
+                                </div>
+
+                        </div>
+                        <!--.hero-slide-->
+                        <div class="hero-slide">
+
+                            
+                            <div><img src="https://www.brother.com.mx/-/media/project/neptune/mexico/banner/banner-ph--digitalizadas.png" class="sliderImage" alt="Banner"></div>
+                                <div class="header-content content-position-left slide-content" style="background-color:#6600FF;">
+
+                                    <h1 class="">Digitaliza tu pr&#243;xima puntada</h1>
+                                    <p style="margin: 10px 0px; font-size:14px;">Conoce nuestros equipos digitalizados que har&#225; m&#225;s f&#225;cil tu proceso de creaci&#243;n </p>
+                                        <a class="btn btn-primary mybutton" href="https://modaycreatividad.brother.com.mx/" style="color:#6600FF;">Ver M&#225;s</a>
+
+                                </div>
+
+                        </div>
+                        <!--.hero-slide-->
+                        <div class="hero-slide">
+
+                            
+                            <div><img src="https://www.brother.com.mx/-/media/project/neptune/mexico/banner/banner-personaliza-tu-marca.png" class="sliderImage" alt="Banner"></div>
+                                <div class="header-content content-position-right slide-content" style="background-color:#1965e1;">
+
+                                    <h1 class="">Impresi&#243;n Textil Brother</h1>
+                                    <p style="margin: 10px 0px; font-size:14px;">La mejor inversi&#243;n para iniciar tu negocio </p>
+                                        <a class="btn btn-primary mybutton" href="https://www.brother.com.mx/impresoras-textiles" style="color:#1965e1;">Ver M&#225;s</a>
+
+                                </div>
+
+                        </div>
+                        <!--.hero-slide-->
+                        <div class="hero-slide">
+
+                            
+                            <div><img src="https://www.brother.com.mx/-/media/project/neptune/mexico/banner/banner-lanzamiento-combos-ph.jpg" class="sliderImage" alt="Banner"></div>
+                                <div class="header-content content-position-left slide-content" style="background-color:#6600FF;">
+
+                                    <h1 class="">Nuevas m&#225;quinas combos </h1>
+                                    <p style="margin: 10px 0px; font-size:14px;">Tu creatividad descubre la combinaci&#243;n perfecta </p>
+                                        <a class="btn btn-primary mybutton" href="https://www.brother.com.mx/costura-y-bordado/costura-y-bordado" style="color:#6600FF;">Ver M&#225;s</a>
+
+                                </div>
+
+                        </div>
+
+
+
+                </div>
+            </section>
+        </div>
+    </div>
+<div class="component image-promo">
+    <div class="component-content">
+        <div class="container">
+            
+            <div class="row">
+                    <div class="col-xs-12 col-md-4">
+                        <div class="neptune-promo-container">
+<a href="https://www.brother.com.mx/impresoras-inkjet/ver-todo" ><img src="https://www.brother.com.mx/-/media/project/neptune/mexico/banner/tanquemini19_f_720.jpg?h=182&amp;w=331&amp;la=es-MX&amp;hash=988786D7DA6ED3FA881F59CB789D53E8" class="nep-promo-img" alt="" /></a>                                <div class="neptune-promo-content">
+                                    <h4> <a href="https://www.brother.com.mx/impresoras-inkjet/ver-todo">Inkjet</a></h4>
+                                    <p>
+                                        Multifuncionales de inyección de tinta continua y cartucho que ofrecen el máximo ahorro. Equipos para hogar, oficina en casa, negocio o empresarial. 
+                                    </p>
+                                </div>
+                            </div>
+                    </div>
+                    <div class="col-xs-12 col-md-4">
+                        <div class="neptune-promo-container">
+<a href="https://www.brother.com.mx/nuestras-impresoras/ver-todo" ><img src="https://www.brother.com.mx/-/media/project/neptune/mexico/banner/home_prod/02_monolaser.jpg?h=182&amp;w=331&amp;la=es-MX&amp;hash=4A0E1D15EF62FA372892193793996B60" class="nep-promo-img" alt="Brother Mono Laser DCPL2551DW" /></a>                                <div class="neptune-promo-content">
+                                    <h4> <a href="https://www.brother.com.mx/nuestras-impresoras/ver-todo">L&#225;ser</a></h4>
+                                    <p>
+                                        Impresoras y multifuncionales monocromáticos o color con lo último en tecnología. Ideales para oficina en casa, negocios o empresarial.
+                                    </p>
+                                </div>
+                            </div>
+                    </div>
+                    <div class="col-xs-12 col-md-4">
+                        <div class="neptune-promo-container">
+<a href="https://www.brother.com.mx/rotuladores-y-etiquetadoras" ><img src="https://www.brother.com.mx/-/media/project/neptune/mexico/banner/home_prod/03_identificacion.jpg?h=182&amp;w=331&amp;la=es-MX&amp;hash=200445F8B48A7C3BC4BBBE4D7A624736" class="nep-promo-img" alt="Brother Identificacion QL800" /></a>                                <div class="neptune-promo-content">
+                                    <h4> <a href="https://www.brother.com.mx/rotuladores-y-etiquetadoras">Rotuladores y Etiquetadoras</a></h4>
+                                    <p>
+                                        Soluciones de etiquetado, identificación y oganización para el hogar, oficina y usos industriales.
+                                    </p>
+                                </div>
+                            </div>
+                    </div>
+                    <div class="col-xs-12 col-md-4">
+                        <div class="neptune-promo-container">
+<a href="https://www.brother.com.mx/costura-y-bordado" ><img src="https://www.brother.com.mx/-/media/project/neptune/mexico/banner/home_prod/04_se600_costura.jpg?h=182&amp;w=331&amp;la=es-MX&amp;hash=218EDD74789447E7A4ABE0495A1079F3" class="nep-promo-img" alt="Brother Costura SE600" /></a>                                <div class="neptune-promo-content">
+                                    <h4> <a href="https://www.brother.com.mx/costura-y-bordado">M&#225;quinas de Coser y Bordar</a></h4>
+                                    <p>
+                                        Explore nuestras máquinas accesorios y software, todos diseñados para ayudar a que su creatividad se exprese.
+                                    </p>
+                                </div>
+                            </div>
+                    </div>
+                    <div class="col-xs-12 col-md-4">
+                        <div class="neptune-promo-container">
+<a href="https://www.brother.com.mx/scan-n-cut" ><img src="https://www.brother.com.mx/-/media/project/neptune/mexico/banner/home_prod/05_sdx225_scanncut.jpg?h=182&amp;w=331&amp;la=es-MX&amp;hash=0FDA6D19D7C5C383B1E8980DF8E654C9" class="nep-promo-img" alt="Brother Scanncut SDX225" /></a>                                <div class="neptune-promo-content">
+                                    <h4> <a href="https://www.brother.com.mx/scan-n-cut">ScanNCut</a></h4>
+                                    <p>
+                                        Los mini plotters de corte le ayudarán a hacer magia de diseño permitiéndole, escanear, dibujar, cortar y crear como un profesional en poco tiempo.
+                                    </p>
+                                </div>
+                            </div>
+                    </div>
+                    <div class="col-xs-12 col-md-4">
+                        <div class="neptune-promo-container">
+<a href="https://www.brother.com.mx/impresoras-textiles" ><img src="https://www.brother.com.mx/-/media/project/neptune/mexico/banner/home_prod/gtx_pro_1.jpg?h=182&amp;w=331&amp;la=es-MX&amp;hash=D4A7908700BB1F193E630D11EBFB03B2" class="nep-promo-img" alt="" /></a>                                <div class="neptune-promo-content">
+                                    <h4> <a href="https://www.brother.com.mx/impresoras-textiles">Impresora Textil GTX</a></h4>
+                                    <p>
+                                        Diseñada para impresiones textiles de alta calidad,  tiene todo lo que usted necesita para iniciar su propia empresa de impresión textil.
+                                    </p>
+                                </div>
+                            </div>
+                    </div>
+
+            </div>
+        </div>
+     </div>
+</div>
+
+<div class="component image-promo">
+    <div class="component-content">
+        <div class="container">
+            <div class="row">
+
+                <div class="clearfix"><br></div>
+                <div class="col-xs-12 col-md-12">
+
+                    <div class="nep-container-cta">
+                        <div class="row">
+                            <div class="col-md-6 col-l">
+                                    <h4>La fiesta se extiende para siempre</h4>
+
+
+                                    <p>Adquiere tu plotter de corte a un incre&#237;ble precio y crea sin que tu imaginaci&#243;n se detenga</p>
+                                <ul class="no-bullets link-arrows">
+                                        <li>
+                                            <a href="https://scanncut.brother.com.mx/" class="link link-arrow" rel="noopener noreferrer" target="_blank" >Quiero saber m&#225;s</a>
+                                        </li>
+                                </ul>
+
+                            </div>
+                            <div class="col-md-6 text-center col-r redes-sociales-img">
+
+                                <img src="https://www.brother.com.mx/-/media/project/neptune/mexico/banner/caja-de-texto.jpg?h=185&amp;w=430&amp;la=es-MX&amp;hash=4055339F7A91CD3CB20243898B20F19F" class="img-responsive" alt="" />
+                            </div>
+                        </div>
+                        </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div><div class="container">
+    <div class="row">
+<div class="col-md-6">
+    <div class="nep-container-cta">
+        <div class="col-l">
+                                <h4>Centro Creativo Brother</h4>
+                <div class="nep-two-col-wrap">
+                    <div class="nep-two-col1">
+                            <p>Descarga plantillas predise&#241;adas como tarjetas, invitaciones, y p&#225;ginas para colorear.</p>
+                        <ul class="no-bullets link-arrows">
+                                <li>
+                                    <a href="https://www.creativecenter.brother/es-es" class="link link-arrow" rel="noopener noreferrer" target="_blank" > Obtenga m&#225;s informaci&#243;n sobre Brother Creative Center</a>
+                                </li>
+                        </ul>
+                    </div>
+                    <div class="nep-two-col2">
+                        <img src="https://www.brother.com.mx/-/media/project/neptune/lac/test/creative-center.jpg?h=185&amp;w=430&amp;la=es-MX&amp;hash=F84212FC4A235082929C3461E5200D1E" class="img-responsive" alt="" />
+                    </div>
+                </div>
+        </div>
+    </div>
+</div>
+<div class="col-md-6">
+    <div class="nep-container-cta">
+        <div class="col-l">
+                                <h4>Servicio T&#233;cnico</h4>
+                <div class="nep-two-col-wrap">
+                    <div class="nep-two-col1">
+                            <p>Obtenga respuestas a cualquier pregunta que tenga sobre los productos, accesorios, compatibilidad del sistema operativo, datos de seguridad, programas de reciclaje de Brother y mucho m&#225;s.</p>
+                        <ul class="no-bullets link-arrows">
+                                <li>
+                                    <a href="https://www.brother.com.mx/sitecore/content/neptune/lac/home/soporte-tecnico" class="link link-arrow" >Estamos aqu&#237; para ayudarlo</a>
+                                </li>
+                        </ul>
+                    </div>
+                    <div class="nep-two-col2">
+                        <img src="https://www.brother.com.mx/-/media/project/neptune/lac/test/servicio-tecnico.jpg?h=185&amp;w=430&amp;la=es-MX&amp;hash=7D59DA3E6AD263594138844B9DE64EDE" class="img-responsive" alt="" />
+                    </div>
+                </div>
+        </div>
+    </div>
+</div>
+
+    </div>
+</div>
+<script>
+            
+            $("body").addClass("body-support")
+</script>
+<div class="component centered-promo">
+    <div class="component-content">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 col-md-12">
+                    <div class="nep-container-cta">
+                        <div class="row">
+
+                            <div class="col-md-12 col-l text-center">
+                                <h1>
+                                    Dónde Comprar
+                                </h1>
+                                <p>
+                                    Descubra dónde adquirir nuestro portafolio de impresión, escáneres, rotuladoras, máquinas de coser y bordar.
+                                </p>
+                                <div class="btn-container">
+                                    <button onclick="window.location.href = 'https://www.brother.com.mx/donde-comprar';" class="btn btn-primary-blue btn-lg">
+                                        Dónde Comprar
+                                    </button>
+                                </div>
+
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    <div class="component maincontent">
+        <div class="component-content">
+            <style type='text/css'>
+    .embeddedServiceHelpButton .helpButton .uiButton {
+        background-color: #005290;
+        font-family: "Arial", sans-serif;
+    }
+    .embeddedServiceHelpButton .helpButton .uiButton:focus {
+        outline: 1px solid #005290;
+    }
+</style>
+
+<script type='text/javascript' src='https://service.force.com/embeddedservice/5.0/esw.min.js'></script>
+<script type='text/javascript'>
+    var initESW = function(gslbBaseURL) {
+        embedded_svc.settings.displayHelpButton = true; //O falso
+        embedded_svc.settings.language = ''; //Por ejemplo, introduzca 'en' o 'en-US'
+
+        embedded_svc.settings.defaultMinimizedText = 'Contáctanos'; //(Toma como valor predeterminado Sesión de chat con un experto)
+        //embedded_svc.settings.disabledMinimizedText = '...'; //(Toma como valor predeterminado Agente sin conexión)
+
+        embedded_svc.settings.loadingText = 'Cargando'; //(Toma como valor predeterminado Cargando)
+        //embedded_svc.settings.storageDomain = 'yourdomain.com'; //(Establece el dominio para su desarrollo de modo que los visitantes puedan navegar por subdominios durante una sesión de chat)
+
+        // Configuración para Chat
+        //embedded_svc.settings.directToButtonRouting = function(prechatFormData) {
+            // Dynamically changes the button ID based on what the visitor enters in the pre-chat form.
+            // Returns a valid button ID.
+        //};
+        //embedded_svc.settings.prepopulatedPrechatFields = {}; //Establece la cumplimentación automática de los campos del formulario previo al chat
+        //embedded_svc.settings.fallbackRouting = []; //Una matriz de identificadores de botones, de usuario o userId_buttonId
+        //embedded_svc.settings.offlineSupportMinimizedText = '...'; //(Toma como valor predeterminado la opción Contacto)
+
+        embedded_svc.settings.enabledFeatures = ['LiveAgent'];
+        embedded_svc.settings.entryFeature = 'LiveAgent';
+
+        embedded_svc.init(
+            'https://brothermexico.my.salesforce.com',
+            'https://brothermexico.my.site.com/',
+            gslbBaseURL,
+            '00DU0000000Indr',
+            'Agente_ChatBot',
+            {
+                baseLiveAgentContentURL: 'https://c.la2-c1-ia5.salesforceliveagent.com/content',
+                deploymentId: '5724U000000PJWh',
+                buttonId: '5734U000000PKN2',
+                baseLiveAgentURL: 'https://d.la2-c1-ia5.salesforceliveagent.com/chat',
+                eswLiveAgentDevName: 'Agente_ChatBot',
+                isOfflineSupportEnabled: false
+            }
+        );
+    };
+
+    if (!window.embedded_svc) {
+        var s = document.createElement('script');
+        s.setAttribute('src', 'https://brothermexico.my.salesforce.com/embeddedservice/5.0/esw.min.js');
+        s.onload = function() {
+            initESW(null);
+        };
+        document.body.appendChild(s);
+    } else {
+        initESW('https://service.force.com');
+    }
+</script>
+        </div>
+    </div>
+
+        </div>
+        <div id="footer" class="main clearfix">
+                <div class="component neptune-footer">
+        <div class="component-content">
+            <div class="footer">
+                <div class="clearfix"></div>
+                <div class="container footer-content">
+                    <div class="row">
+                            <div class="col col-sm-3">
+                                <div class="link-container">
+                                    <h3 class="no-top-margin">Productos</h3>
+                                    <ul class="no-bullets">
+                                            <li>
+                                                <a href="https://www.brother.com.mx/nuestras-impresoras" >Impresoras y Multifuncionales</a>
+                                            </li>
+                                            <li>
+                                                <a href="https://www.brother.com.mx/costura-y-bordado" >Costura y Bordado</a>
+                                            </li>
+                                            <li>
+                                                <a href="https://www.brother.com.mx/rotuladores-y-etiquetadoras" >Rotuladores y Etiquetadoras</a>
+                                            </li>
+                                            <li>
+                                                <a href="https://www.brother.com.mx/escaners/escaners" >Escaners</a>
+                                            </li>
+                                            <li>
+                                                <a href="https://www.brother.com.mx/scan-n-cut" >ScanNCut</a>
+                                            </li>
+                                            <li>
+                                                <a href="https://www.brother.com.mx/impresoras-textiles" >Impresoras Textiles</a>
+                                            </li>
+                                            <li>
+                                                <a href="https://machinetool.global.brother/es-mx/index.aspx" >Maquinaria Herramienta</a>
+                                            </li>
+                                    </ul>
+                                    <div><br></div>
+                                </div>
+                            </div>
+                            <div class="col col-sm-3">
+                                <div class="link-container">
+                                    <h3 class="no-top-margin">Soporte</h3>
+                                    <ul class="no-bullets">
+                                            <li>
+                                                <a href="https://www.brother.com.mx/soporte--tecnico" >Soporte T&#233;cnico</a>
+                                            </li>
+                                            <li>
+                                                <a href="https://www.brother.com.mx/donde-comprar" >Centros de Servicio</a>
+                                            </li>
+                                            <li>
+                                                <a href="https://support.brother.com/g/b/productsearch.aspx?c=mx&amp;lang=es&amp;content=dl" target="_blank" rel="noopener noreferrer" >Descargas</a>
+                                            </li>
+                                            <li>
+                                                <a href="https://support.brother.com/g/b/productsearch.aspx?c=mx&amp;lang=es&amp;content=ml" target="_blank" rel="noopener noreferrer" >Manuales</a>
+                                            </li>
+                                            <li>
+                                                <a href="https://www.brother.com.mx/registro-producto" >Registre su Producto</a>
+                                            </li>
+                                            <li>
+                                                <a href="https://www.brother.com.mx/contactenos" >Cont&#225;ctenos</a>
+                                            </li>
+                                            <li>
+                                                <a href="https://www.brother.com.mx/donde-comprar" >D&#243;nde Comprar</a>
+                                            </li>
+                                    </ul>
+                                    <div><br></div>
+                                </div>
+                            </div>
+                            <div class="col col-sm-3">
+                                <div class="link-container">
+                                    <h3 class="no-top-margin">Quiénes Somos</h3>
+                                    <ul class="no-bullets">
+                                            <li>
+                                                <a href="https://www.brother.com.mx/quienes-somos" >Acerca de Brother</a>
+                                            </li>
+                                            <li>
+                                                <a href="https://global.brother/es/" target="_blank" rel="noopener noreferrer" >Nuestras Oficinas</a>
+                                            </li>
+                                            <li>
+                                                <a href="https://www.brotherearth.com/es/top.html" target="_blank" rel="noopener noreferrer" >Brother Earth</a>
+                                            </li>
+                                            <li>
+                                                <a href="https://www.brother.com.mx/medioambiente" >Medio Ambiente</a>
+                                            </li>
+                                            <li>
+                                                <a href="https://www.brother.com.mx/-/media/project/neptune/mexico/pdfs/covid-19_info.pdf" >Informaci&#243;n COVID-19</a>
+                                            </li>
+                                            <li>
+                                                <a href="https://www.brother.com.mx/mapa-del-sitio" >Mapa del Sitio</a>
+                                            </li>
+                                    </ul>
+                                    <div><br></div>
+                                </div>
+                            </div>
+                            <div class="col col-sm-3">
+                                <div class="link-container">
+                                    <h3 class="no-top-margin">Nuestro Sitio</h3>
+                                    <ul class="no-bullets">
+                                            <li>
+                                                <a href="https://www.brother.com.mx/aviso-privacidad" >Aviso de Privacidad</a>
+                                            </li>
+                                            <li>
+                                                <a href="https://www.brother.com.mx/politica-privacidad" >Pol&#237;tica de Privacidad</a>
+                                            </li>
+                                            <li>
+                                                <a href="https://www.brother.com.mx/terminos-de-uso" >T&#233;rminos de Uso</a>
+                                            </li>
+                                    </ul>
+                                    <div><br></div>
+                                </div>
+                            </div>
+                            <div class="col col-sm-3">
+                                <div class="link-container">
+                                    <h3 class="no-top-margin">Nuestras Redes</h3>
+                                    <ul class="no-bullets">
+                                    </ul>
+                                    <div><br></div>
+                                </div>
+                            </div>
+                        
+    <div class="component social-icons">
+        <div class="component-content">
+            <div class="nep-footer-social-list nep-header-social-list">
+<a href="https://www.brother.com.mx/redes-sociales" >                            <span class="fa fa-facebook"></span>
+</a><a href="https://www.brother.com.mx/redes-sociales" >                            <span class="fa fa-linkedin"></span>
+</a><a href="https://www.brother.com.mx/redes-sociales" >                            <span class="fa fa-youtube"></span>
+</a><a href="https://www.brother.com.mx/redes-sociales" >                            <span class="fa fa-instagram"></span>
+</a>            </div>
+        </div>
+    </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+<div class="footer-copyright">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+
+                <div class="footer-copyright-inner">
+                    <div>
+                        M&#233;xico | &#169; 1995-2020, Brother International Corporation. Todos los derechos reservados.
+                    </div>
+
+                    <a href="https://prodmexicocm.brother.com/globalapipage" class="link" target="_blank">Brother Global</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+        </div>
+    </div>
+    <!-- meta renderings placeholder "body-bottom" -->
+
+    <script type="text/javascript">
+		window.BIC = window.BIC || {};
+
+        window.BIC.GoogleMaps = {
+           ApiUrl: "AIzaSyDbFIMS93Gtz-WIUpLZRO8Aj2mJMgouhdw"
+        };
+    </script>
+    
+    
+</body>
+</html>

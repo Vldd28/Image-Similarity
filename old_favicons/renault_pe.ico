@@ -1,0 +1,1903 @@
+
+<!doctype html>
+<html lang="es-CL">
+<script src="fwb/ajaxhook.min.js"></script>
+
+<head>
+
+    <link rel="dns-prefetch" href="https://www.googletagmanager.com/">
+
+    <!-- Google Tag Manager -->
+    <script>
+        !function (e, t, a, n, g) {
+            e[n] = e[n] || [];
+            e[n].push({ "gtm.start": (new Date).getTime(), event: "gtm.js" });
+            var m = t.getElementsByTagName(a)[0],
+                r = t.createElement(a);
+            r.async = !0;
+            r.src = "https://www.googletagmanager.com/gtm.js?id=GTM-M2QNTNL";
+            m.parentNode.insertBefore(r, m);
+        }(window, document, "script", "dataLayer");
+    </script>
+    <!-- End Google Tag Manager -->
+    <script type="text/javascript">
+        (function (w, d, s, r, k, h, m) {
+            if (w.performance && w.performance.timing && w.performance.navigation && !w.s247r) {
+                w[r] = w[r] || function () { (w[r].q = w[r].q || []).push(arguments) };
+                h = d.createElement('script'); h.async = true; h.setAttribute('src', s + k);
+                d.getElementsByTagName('head')[0].appendChild(h);
+                (m = window.onerror), (window.onerror = function (b, c, d, f, g) {
+                    m && m(b, c, d, f, g), g || (g = new Error(b)), (w[r].q = w[r].q || []).push(["captureException", g]);
+                })
+            }
+        })(window, document, '//static.site24x7rum.com/beacon/site24x7rum-min.js?appKey=', 's247r', '9112556bb93fc6e1300eb54b1e8087a5');
+    </script>
+    <link rel="canonical" href="https://www.renault.pe/" />
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+
+    <meta name="title" content='Renault Per&#xFA;' />
+    <meta name="description" content='' />
+    <meta name="keywords" content='' />
+    <meta name="author" content='' />
+    <meta name="copyright" content='' />
+                <meta name="robots" content="index, follow">
+    <meta property="og:url" content="https://www.renault.pe/">
+    <meta property="og:title" content="Renault Per&#xFA;">
+    <meta property="og:description" content="">
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="Renault Per&#xFA;" />
+    <meta name="twitter:creator" />
+    <meta property="og:image" content="https://www.renault.pe/icons/logo_renault.png">
+    <title>Renault Per&#xFA;</title>
+
+    <link rel="preload" as="style" onload="this.rel='stylesheet'" href="/css/global.css" />
+    <link rel="preload" as="style" onload="this.rel='stylesheet'" href="/css/header.css" />
+    <link rel="preload" as="style" onload="this.rel='stylesheet'" href="/css/sideMenu.css" />
+    <link rel="preload" as="style" onload="this.rel='stylesheet'" href="/css/cookies.css" />
+    <link rel="preload" as="style" onload="this.rel='stylesheet'" href="/vendors/bootstrap/bootstrap.min.css" />
+    <link rel="preload" as="style" onload="this.rel='stylesheet'" href="/vendors/ui-kit/button-link/button-link.css" />
+    <link rel="preload" as="script" href="/vendors/swiperJS/swiper-bundle.min.js">
+    <link rel="preload" as="style" href="/vendors/swiperJS/swiper-bundle.min.css">
+
+    <link rel="stylesheet" href="/vendors/swiperJS/swiper-bundle.min.css">
+    <script src="/vendors/swiperJS/swiper-bundle.min.js"></script>
+
+
+
+    <script crossorigin src="https://cdn.jsdelivr.net/npm/react@18/umd/react.production.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/react-dom@18/umd/react-dom.production.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-polyfill/7.6.0/polyfill.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/formdata-polyfill@3.0.12/formdata.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/url-search-params/1.1.0/url-search-params.js"></script>
+
+    
+  <link rel="preload" as="style" onload="this.rel='stylesheet'" href="/css/global.css" />
+  <link rel="preload" as="style" onload="this.rel='stylesheet'" href="/vendors/swiperJS/swiper-bundle.min.css">
+  <link rel="preload" as="style" onload="this.rel='stylesheet'" href="/vendors/bootstrap/bootstrap.min.css" />
+  <link rel="preload" as="style" href="/css/[blocklist]_components/editableView.css">
+  <link rel="stylesheet" href="/vendors/swiperJS/swiper-bundle.min.css">
+  <link rel="preload" as="style" href="/vendors/swiperJS/swiper-bundle.min.css">
+  <link rel="preload" as="script" href="/vendors/swiperJS/swiper-bundle.min.js">
+
+
+</head>
+
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M2QNTNL" height="0" width="0"
+                style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    
+
+
+
+<header class="header-wrapper">
+    <div class="left-wrapper">
+        <div class="icon-menu">
+            <svg width="24" height="22" viewBox="0 0 24 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M17.1265 18.6327H0V22H17.1265V18.6327Z" fill="#FFFFFF" />
+                <path d="M24 9.31628H0V12.6836H24V9.31628Z" fill="#FFFFFF" />
+                <path d="M17.1265 0H0V3.36735H17.1265V0Z" fill="#FFFFFF" />
+            </svg>
+        </div>
+    </div>
+    <div class="logotipo">
+                <a href="/" id="link-logo">
+                        <img src="/media/f2mbnaej/logotipo-vector.svg" alt="Logo" width="100%" />
+                </a>
+        </div>
+    <div class="right-wrapper">
+        <nav class="menu-wrapper">
+            <ul class="menu">
+                <li class="title-mobile align-left">
+                    <a href="#" class="close-menu-mobile">
+                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none"
+                             xmlns="http://www.w3.org/2000/svg">
+                            <g clip-path="url(#clip0_376_654)">
+                                <path d="M18.3 5.70997C17.91 5.31997 17.28 5.31997 16.89 5.70997L12 10.59L7.10997 5.69997C6.71997 5.30997 6.08997 5.30997 5.69997 5.69997C5.30997 6.08997 5.30997 6.71997 5.69997 7.10997L10.59 12L5.69997 16.89C5.30997 17.28 5.30997 17.91 5.69997 18.3C6.08997 18.69 6.71997 18.69 7.10997 18.3L12 13.41L16.89 18.3C17.28 18.69 17.91 18.69 18.3 18.3C18.69 17.91 18.69 17.28 18.3 16.89L13.41 12L18.3 7.10997C18.68 6.72997 18.68 6.08997 18.3 5.70997Z"
+                                      fill="#969696" />
+                            </g>
+                            <defs>
+                                <clipPath id="clip0_376_654">
+                                    <rect width="24" height="24" fill="white" />
+                                </clipPath>
+                            </defs>
+                        </svg>
+                    </a>
+                </li>
+
+
+                        <li class="submenu-wrapper">
+                            <a href="#" class="option with-icon">GAMA RENAULT</a>
+                            <ul class="submenu tabs">
+                                <li class="title-mobile">
+                                    <button class="go-back-mobile">
+                                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none"
+                                            xmlns="http://www.w3.org/2000/svg">
+                                            <path fill-rule="evenodd" clip-rule="evenodd"
+                                                d="M16.414 3.897C16.901 4.31656 16.9313 5.02513 16.4818 5.47965L10.0331 12L16.4818 18.5203C16.9313 18.9748 16.901 19.6834 16.414 20.1029C15.927 20.5225 15.1678 20.4942 14.7183 20.0396L7.51828 12.7596C7.09397 12.3306 7.09397 11.6693 7.51828 11.2403L14.7183 3.96031C15.1678 3.50579 15.927 3.47745 16.414 3.897Z"
+                                                fill="var(--brand)" />
+                                        </svg>
+                                    </button>
+                                    <span>GAMA RENAULT</span>
+                                    <button class="close-menu-mobile">
+                                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none"
+                                            xmlns="http://www.w3.org/2000/svg">
+                                            <g clip-path="url(#clip0_376_654)">
+                                                <path d="M18.3 5.70997C17.91 5.31997 17.28 5.31997 16.89 5.70997L12 10.59L7.10997 5.69997C6.71997 5.30997 6.08997 5.30997 5.69997 5.69997C5.30997 6.08997 5.30997 6.71997 5.69997 7.10997L10.59 12L5.69997 16.89C5.30997 17.28 5.30997 17.91 5.69997 18.3C6.08997 18.69 6.71997 18.69 7.10997 18.3L12 13.41L16.89 18.3C17.28 18.69 17.91 18.69 18.3 18.3C18.69 17.91 18.69 17.28 18.3 16.89L13.41 12L18.3 7.10997C18.68 6.72997 18.68 6.08997 18.3 5.70997Z"
+                                                />
+                                            </g>
+                                            <defs>
+                                                <clipPath id="clip0_376_654">
+                                                    <rect width="24" height="24" fill="var(--white)" />
+                                                </clipPath>
+                                            </defs>
+                                        </svg>
+                                    </button>
+                                </li>
+
+        <li class="submenu-wrapper2">
+            <a href="#"
+               class="option inactive active" menuModelo="GAMA RENAULT">TODOS</a>
+            <div class="content-wrapper">
+                <div class="title-mobile label">
+                    <button class="go-back-mobile">
+                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none"
+                            xmlns="http://www.w3.org/2000/svg">
+                            <path fill-rule="evenodd" clip-rule="evenodd"
+                                d="M16.414 3.897C16.901 4.31656 16.9313 5.02513 16.4818 5.47965L10.0331 12L16.4818 18.5203C16.9313 18.9748 16.901 19.6834 16.414 20.1029C15.927 20.5225 15.1678 20.4942 14.7183 20.0396L7.51828 12.7596C7.09397 12.3306 7.09397 11.6693 7.51828 11.2403L14.7183 3.96031C15.1678 3.50579 15.927 3.47745 16.414 3.897Z"
+                                fill="var(--brand)" />
+                        </svg>
+                    </button>                                                    
+                    <span>TODOS</span>                                                    
+                    <button class="close-menu-mobile">
+                        <svg width="24"
+                            height="24" viewBox="0 0 24 24" fill="none"
+                            xmlns="http://www.w3.org/2000/svg">
+                            <g clip-path="url(#clip0_376_654)">
+                                <path d="M18.3 5.70997C17.91 5.31997 17.28 5.31997 16.89 5.70997L12 10.59L7.10997 5.69997C6.71997 5.30997 6.08997 5.30997 5.69997 5.69997C5.30997 6.08997 5.30997 6.71997 5.69997 7.10997L10.59 12L5.69997 16.89C5.30997 17.28 5.30997 17.91 5.69997 18.3C6.08997 18.69 6.71997 18.69 7.10997 18.3L12 13.41L16.89 18.3C17.28 18.69 17.91 18.69 18.3 18.3C18.69 17.91 18.69 17.28 18.3 16.89L13.41 12L18.3 7.10997C18.68 6.72997 18.68 6.08997 18.3 5.70997Z"
+                                    fill="var(--brand)"/>
+                            </g>
+                            <defs>
+                                <clipPath id="clip0_376_654">
+                                    <rect width="24" height="24" fill="var(--white)" />
+                                </clipPath>
+                            </defs>
+                        </svg>
+                    </button>
+                </div>
+        
+                <div class="content-models col-md-12">
+                                <div class="card-wrapper col-sm-12 col-md-3 col-xxl-2">
+                                    <a class="model-area" href="/vehiculo/new-renault-arkana/">
+                                        <img src="/media/perilezi/thumbnail-arkana-h_600x400-1-slider-home.webp" alt="ALL NEW RENAULT ARKANA" />
+                                        <p>Renault</p>
+                                        <h3>ALL NEW RENAULT ARKANA</h3>
+                                    </a>
+                                    <p>Desde:  <strong>$28.990</strong>
+                                            <span>- S/ 130.182</span>
+                                    </p>
+                                    <p class="text-bold"> </p>
+                                    <ul class="footer-links">
+                                            <li><a class="footer-links-cotizar" href="/formulario/cotizacion/?id_model=ARNAKAH">cotizar</a></li>
+                                                <li>|</li>
+                                                <li><a href="/busqueda/?model=ARNAKAH" class="footer-link-version">Busqueda</a></li>
+                                    </ul>
+                                </div>
+                                <div class="card-wrapper col-sm-12 col-md-3 col-xxl-2">
+                                    <a class="model-area" href="/vehiculo/new-renault-kardian/">
+                                        <img src="/media/webh3n1j/thumbnail-kardan_png24-slider-home.webp" alt="NEW RENAULT KARDIAN " />
+                                        <p>Renault</p>
+                                        <h3>NEW RENAULT KARDIAN </h3>
+                                    </a>
+                                    <p>Desde:  <strong>$16.990</strong>
+                                            <span>- S/78.477</span>
+                                    </p>
+                                    <p class="text-bold"> </p>
+                                    <ul class="footer-links">
+                                            <li><a class="footer-links-cotizar" href="/formulario/cotizacion/?id_model=KARDIAN">cotizar</a></li>
+                                                <li>|</li>
+                                                <li><a href="/busqueda/?model=KARDIAN" class="footer-link-version">Busqueda</a></li>
+                                    </ul>
+                                </div>
+                                <div class="card-wrapper col-sm-12 col-md-3 col-xxl-2">
+                                    <a class="model-area" href="/vehiculo/koleos/">
+                                        <img src="/media/om5dgqjq/thumbnail-2023-05-02-05_new-koleos-min-slider-home.webp" alt="KOLEOS" />
+                                        <p>Renault</p>
+                                        <h3>KOLEOS</h3>
+                                    </a>
+                                    <p>Desde:  <strong>$25.990</strong>
+                                            <span>- S/98.762</span>
+                                    </p>
+                                    <p class="text-bold"> </p>
+                                    <ul class="footer-links">
+                                            <li><a class="footer-links-cotizar" href="/formulario/cotizacion/?id_model=KOLEOS" target="_self">cotizar</a></li>
+                                                <li>|</li>
+                                                <li><a href="/busqueda/?model=KOLEOS" class="footer-link-version" target="_self">versiones</a></li>
+                                    </ul>
+                                </div>
+                                <div class="card-wrapper col-sm-12 col-md-3 col-xxl-2">
+                                    <a class="model-area" href="/vehiculo/kwid-e-tech/">
+                                        <img src="/media/ekehp3t1/thumbnail-2024-05-23-1-imagen-destacada-600x400-slider-home.webp" alt="KWID E-TECH" />
+                                        <p>Renault</p>
+                                        <h3>KWID E-TECH</h3>
+                                    </a>
+                                    <p>Desde:  <strong>$25.740</strong>
+                                            <span>- S/105.287</span>
+                                    </p>
+                                    <p class="text-bold"> </p>
+                                    <ul class="footer-links">
+                                            <li><a class="footer-links-cotizar" href="/formulario/cotizacion/?id_model=KWID E-TECH" target="_self">cotizar</a></li>
+                                                <li>|</li>
+                                                <li><a href="/busqueda/?model=KWID&#x2B;E-TECH" class="footer-link-version" target="_self">versiones</a></li>
+                                    </ul>
+                                </div>
+                                <div class="card-wrapper col-sm-12 col-md-3 col-xxl-2">
+                                    <a class="model-area" href="/vehiculo/stepway/">
+                                        <img src="/media/rrnlinn5/thumbnail-2023-05-02-06_new-stepway-min-1-slider-home.webp" alt="STEPWAY" />
+                                        <p>Renault</p>
+                                        <h3>STEPWAY</h3>
+                                    </a>
+                                    <p>Desde:  <strong>$15.990</strong>
+                                            <span>- S/60.762</span>
+                                    </p>
+                                    <p class="text-bold"> </p>
+                                    <ul class="footer-links">
+                                            <li><a class="footer-links-cotizar" href="/formulario/cotizacion/?id_model=STEPWAY">Cotizar</a></li>
+                                                <li>|</li>
+                                                <li><a href="/busqueda/?model=STEPWAY" class="footer-link-version" target="_self">versiones</a></li>
+                                    </ul>
+                                </div>
+                                <div class="card-wrapper col-sm-12 col-md-3 col-xxl-2">
+                                    <a class="model-area" href="/vehiculo/duster/">
+                                        <img src="/media/m2wmlnyf/thumbnail-duster-22-slider-home.webp" alt="DUSTER" />
+                                        <p>Renault</p>
+                                        <h3>DUSTER</h3>
+                                    </a>
+                                    <p>Desde:  <strong>$22.490</strong>
+                                            <span>- S/85.462</span>
+                                    </p>
+                                    <p class="text-bold"> </p>
+                                    <ul class="footer-links">
+                                            <li><a class="footer-links-cotizar" href="/formulario/cotizacion/?id_model=DUSTER" target="_self">cotizar</a></li>
+                                                <li>|</li>
+                                                <li><a href="/busqueda/?model=DUSTER" class="footer-link-version" target="_self">versiones</a></li>
+                                    </ul>
+                                </div>
+                                <div class="card-wrapper col-sm-12 col-md-3 col-xxl-2">
+                                    <a class="model-area" href="/vehiculo/minibus/">
+                                        <img src="/media/l4zlcghz/thumbnail-minubus-slider-home.webp" alt="MASTER MINIBUS" />
+                                        <p>Renault</p>
+                                        <h3>MASTER MINIBUS</h3>
+                                    </a>
+                                    <p>Desde:  <strong>$50.790</strong>
+                                            <span>- S/206.016</span>
+                                    </p>
+                                    <p class="text-bold"> </p>
+                                    <ul class="footer-links">
+                                            <li><a class="footer-links-cotizar" href="/formulario/cotizacion/?id_model=MINIBUS" target="_self">cotizar</a></li>
+                                                <li>|</li>
+                                                <li><a href="/busqueda/?id_model=MINIBUS" class="footer-link-version">versiones</a></li>
+                                    </ul>
+                                </div>
+                                <div class="card-wrapper col-sm-12 col-md-3 col-xxl-2">
+                                    <a class="model-area" href="/vehiculo/master/">
+                                        <img src="/media/pcumdbbl/thumbnail-2023-05-02-08_new-master-min-slider-home.webp" alt="MASTER" />
+                                        <p>Renault</p>
+                                        <h3>MASTER</h3>
+                                    </a>
+                                    <p>Desde:  <strong>$43.990</strong>
+                                            <span>- S/168.482</span>
+                                    </p>
+                                    <p class="text-bold"> </p>
+                                    <ul class="footer-links">
+                                            <li><a class="footer-links-cotizar" href="/formulario/cotizacion/?id_model=MASTERFURGON" target="_self">cotizar</a></li>
+                                                <li>|</li>
+                                                <li><a href="/busqueda/?model=MASTER" class="footer-link-version" target="_self">versiones</a></li>
+                                    </ul>
+                                </div>
+                                <div class="card-wrapper col-sm-12 col-md-3 col-xxl-2">
+                                    <a class="model-area" href="/vehiculo/kwid/">
+                                        <img src="/media/3umapb5d/thumbnail-2023-05-02-01_new-kwid-min-slider-home.webp" alt="KWID" />
+                                        <p>Renault</p>
+                                        <h3>KWID</h3>
+                                    </a>
+                                    <p>Desde:  <strong>$10.990</strong>
+                                            <span>- S/41.762</span>
+                                    </p>
+                                    <p class="text-bold"> </p>
+                                    <ul class="footer-links">
+                                            <li><a class="footer-links-cotizar" href="/formulario/cotizacion/?id_model=KWID">Cotizar</a></li>
+                                                <li>|</li>
+                                                <li><a href="/busqueda/?model=KWID" class="footer-link-version">Versiones</a></li>
+                                    </ul>
+                                </div>
+                                <div class="card-wrapper col-sm-12 col-md-3 col-xxl-2">
+                                    <a class="model-area" href="/vehiculo/oroch/">
+                                        <img src="/media/ecwhcqcw/thumbnail-2023-05-02-02_new-oroch-min-slider-home.webp" alt="OROCH " />
+                                        <p>Renault</p>
+                                        <h3>OROCH </h3>
+                                    </a>
+                                    <p>Desde:  <strong>$16.490</strong>
+                                            <span>- S/62.662</span>
+                                    </p>
+                                    <p class="text-bold"> </p>
+                                    <ul class="footer-links">
+                                            <li><a class="footer-links-cotizar" href="/formulario/cotizacion/?id_model=OROCH" target="_self">cotizar</a></li>
+                                                <li>|</li>
+                                                <li><a href="/busqueda/?id_model=OROCH&amp;id_version=U1KC2ND_PE" class="footer-link-version" target="_self">versiones</a></li>
+                                    </ul>
+                                </div>
+                </div>
+            </div>
+        </li>
+        <li class="submenu-wrapper2">
+            <a href="#"
+               class="option inactive " menuModelo="GAMA RENAULT">PASAJEROS</a>
+            <div class="content-wrapper">
+                <div class="title-mobile label">
+                    <button class="go-back-mobile">
+                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none"
+                            xmlns="http://www.w3.org/2000/svg">
+                            <path fill-rule="evenodd" clip-rule="evenodd"
+                                d="M16.414 3.897C16.901 4.31656 16.9313 5.02513 16.4818 5.47965L10.0331 12L16.4818 18.5203C16.9313 18.9748 16.901 19.6834 16.414 20.1029C15.927 20.5225 15.1678 20.4942 14.7183 20.0396L7.51828 12.7596C7.09397 12.3306 7.09397 11.6693 7.51828 11.2403L14.7183 3.96031C15.1678 3.50579 15.927 3.47745 16.414 3.897Z"
+                                fill="var(--brand)" />
+                        </svg>
+                    </button>                                                    
+                    <span>PASAJEROS</span>                                                    
+                    <button class="close-menu-mobile">
+                        <svg width="24"
+                            height="24" viewBox="0 0 24 24" fill="none"
+                            xmlns="http://www.w3.org/2000/svg">
+                            <g clip-path="url(#clip0_376_654)">
+                                <path d="M18.3 5.70997C17.91 5.31997 17.28 5.31997 16.89 5.70997L12 10.59L7.10997 5.69997C6.71997 5.30997 6.08997 5.30997 5.69997 5.69997C5.30997 6.08997 5.30997 6.71997 5.69997 7.10997L10.59 12L5.69997 16.89C5.30997 17.28 5.30997 17.91 5.69997 18.3C6.08997 18.69 6.71997 18.69 7.10997 18.3L12 13.41L16.89 18.3C17.28 18.69 17.91 18.69 18.3 18.3C18.69 17.91 18.69 17.28 18.3 16.89L13.41 12L18.3 7.10997C18.68 6.72997 18.68 6.08997 18.3 5.70997Z"
+                                    fill="var(--brand)"/>
+                            </g>
+                            <defs>
+                                <clipPath id="clip0_376_654">
+                                    <rect width="24" height="24" fill="var(--white)" />
+                                </clipPath>
+                            </defs>
+                        </svg>
+                    </button>
+                </div>
+        
+                <div class="content-models col-md-12">
+                                <div class="card-wrapper col-sm-12 col-md-3 col-xxl-2">
+                                    <a class="model-area" href="/vehiculo/new-renault-arkana/">
+                                        <img src="/media/perilezi/thumbnail-arkana-h_600x400-1-slider-home.webp" alt="ALL NEW RENAULT ARKANA" />
+                                        <p>Renault</p>
+                                        <h3>ALL NEW RENAULT ARKANA</h3>
+                                    </a>
+                                    <p>Desde:  <strong>$28.990</strong>
+                                            <span>- S/ 130.182</span>
+                                    </p>
+                                    <p class="text-bold"> </p>
+                                    <ul class="footer-links">
+                                            <li><a class="footer-links-cotizar" href="/formulario/cotizacion/?id_model=ARNAKAH">cotizar</a></li>
+                                                <li>|</li>
+                                                <li><a href="/busqueda/?model=ARNAKAH" class="footer-link-version">Busqueda</a></li>
+                                    </ul>
+                                </div>
+                                <div class="card-wrapper col-sm-12 col-md-3 col-xxl-2">
+                                    <a class="model-area" href="/vehiculo/new-renault-kardian/">
+                                        <img src="/media/webh3n1j/thumbnail-kardan_png24-slider-home.webp" alt="NEW RENAULT KARDIAN " />
+                                        <p>Renault</p>
+                                        <h3>NEW RENAULT KARDIAN </h3>
+                                    </a>
+                                    <p>Desde:  <strong>$16.990</strong>
+                                            <span>- S/78.477</span>
+                                    </p>
+                                    <p class="text-bold"> </p>
+                                    <ul class="footer-links">
+                                            <li><a class="footer-links-cotizar" href="/formulario/cotizacion/?id_model=KARDIAN">cotizar</a></li>
+                                                <li>|</li>
+                                                <li><a href="/busqueda/?model=KARDIAN" class="footer-link-version">Busqueda</a></li>
+                                    </ul>
+                                </div>
+                                <div class="card-wrapper col-sm-12 col-md-3 col-xxl-2">
+                                    <a class="model-area" href="/vehiculo/koleos/">
+                                        <img src="/media/om5dgqjq/thumbnail-2023-05-02-05_new-koleos-min-slider-home.webp" alt="KOLEOS" />
+                                        <p>Renault</p>
+                                        <h3>KOLEOS</h3>
+                                    </a>
+                                    <p>Desde:  <strong>$25.990</strong>
+                                            <span>- S/98.762</span>
+                                    </p>
+                                    <p class="text-bold"> </p>
+                                    <ul class="footer-links">
+                                            <li><a class="footer-links-cotizar" href="/formulario/cotizacion/?id_model=KOLEOS" target="_self">cotizar</a></li>
+                                                <li>|</li>
+                                                <li><a href="/busqueda/?model=KOLEOS" class="footer-link-version" target="_self">versiones</a></li>
+                                    </ul>
+                                </div>
+                                <div class="card-wrapper col-sm-12 col-md-3 col-xxl-2">
+                                    <a class="model-area" href="/vehiculo/kwid-e-tech/">
+                                        <img src="/media/ekehp3t1/thumbnail-2024-05-23-1-imagen-destacada-600x400-slider-home.webp" alt="KWID E-TECH" />
+                                        <p>Renault</p>
+                                        <h3>KWID E-TECH</h3>
+                                    </a>
+                                    <p>Desde:  <strong>$25.740</strong>
+                                            <span>- S/105.287</span>
+                                    </p>
+                                    <p class="text-bold"> </p>
+                                    <ul class="footer-links">
+                                            <li><a class="footer-links-cotizar" href="/formulario/cotizacion/?id_model=KWID E-TECH" target="_self">cotizar</a></li>
+                                                <li>|</li>
+                                                <li><a href="/busqueda/?model=KWID&#x2B;E-TECH" class="footer-link-version" target="_self">versiones</a></li>
+                                    </ul>
+                                </div>
+                                <div class="card-wrapper col-sm-12 col-md-3 col-xxl-2">
+                                    <a class="model-area" href="/vehiculo/stepway/">
+                                        <img src="/media/rrnlinn5/thumbnail-2023-05-02-06_new-stepway-min-1-slider-home.webp" alt="STEPWAY" />
+                                        <p>Renault</p>
+                                        <h3>STEPWAY</h3>
+                                    </a>
+                                    <p>Desde:  <strong>$15.990</strong>
+                                            <span>- S/60.762</span>
+                                    </p>
+                                    <p class="text-bold"> </p>
+                                    <ul class="footer-links">
+                                            <li><a class="footer-links-cotizar" href="/formulario/cotizacion/?id_model=STEPWAY">Cotizar</a></li>
+                                                <li>|</li>
+                                                <li><a href="/busqueda/?model=STEPWAY" class="footer-link-version" target="_self">versiones</a></li>
+                                    </ul>
+                                </div>
+                                <div class="card-wrapper col-sm-12 col-md-3 col-xxl-2">
+                                    <a class="model-area" href="/vehiculo/duster/">
+                                        <img src="/media/m2wmlnyf/thumbnail-duster-22-slider-home.webp" alt="DUSTER" />
+                                        <p>Renault</p>
+                                        <h3>DUSTER</h3>
+                                    </a>
+                                    <p>Desde:  <strong>$22.490</strong>
+                                            <span>- S/85.462</span>
+                                    </p>
+                                    <p class="text-bold"> </p>
+                                    <ul class="footer-links">
+                                            <li><a class="footer-links-cotizar" href="/formulario/cotizacion/?id_model=DUSTER" target="_self">cotizar</a></li>
+                                                <li>|</li>
+                                                <li><a href="/busqueda/?model=DUSTER" class="footer-link-version" target="_self">versiones</a></li>
+                                    </ul>
+                                </div>
+                                <div class="card-wrapper col-sm-12 col-md-3 col-xxl-2">
+                                    <a class="model-area" href="/vehiculo/minibus/">
+                                        <img src="/media/l4zlcghz/thumbnail-minubus-slider-home.webp" alt="MASTER MINIBUS" />
+                                        <p>Renault</p>
+                                        <h3>MASTER MINIBUS</h3>
+                                    </a>
+                                    <p>Desde:  <strong>$50.790</strong>
+                                            <span>- S/206.016</span>
+                                    </p>
+                                    <p class="text-bold"> </p>
+                                    <ul class="footer-links">
+                                            <li><a class="footer-links-cotizar" href="/formulario/cotizacion/?id_model=MINIBUS" target="_self">cotizar</a></li>
+                                                <li>|</li>
+                                                <li><a href="/busqueda/?id_model=MINIBUS" class="footer-link-version">versiones</a></li>
+                                    </ul>
+                                </div>
+                                <div class="card-wrapper col-sm-12 col-md-3 col-xxl-2">
+                                    <a class="model-area" href="/vehiculo/master/">
+                                        <img src="/media/pcumdbbl/thumbnail-2023-05-02-08_new-master-min-slider-home.webp" alt="MASTER" />
+                                        <p>Renault</p>
+                                        <h3>MASTER</h3>
+                                    </a>
+                                    <p>Desde:  <strong>$43.990</strong>
+                                            <span>- S/168.482</span>
+                                    </p>
+                                    <p class="text-bold"> </p>
+                                    <ul class="footer-links">
+                                            <li><a class="footer-links-cotizar" href="/formulario/cotizacion/?id_model=MASTERFURGON" target="_self">cotizar</a></li>
+                                                <li>|</li>
+                                                <li><a href="/busqueda/?model=MASTER" class="footer-link-version" target="_self">versiones</a></li>
+                                    </ul>
+                                </div>
+                                <div class="card-wrapper col-sm-12 col-md-3 col-xxl-2">
+                                    <a class="model-area" href="/vehiculo/kwid/">
+                                        <img src="/media/3umapb5d/thumbnail-2023-05-02-01_new-kwid-min-slider-home.webp" alt="KWID" />
+                                        <p>Renault</p>
+                                        <h3>KWID</h3>
+                                    </a>
+                                    <p>Desde:  <strong>$10.990</strong>
+                                            <span>- S/41.762</span>
+                                    </p>
+                                    <p class="text-bold"> </p>
+                                    <ul class="footer-links">
+                                            <li><a class="footer-links-cotizar" href="/formulario/cotizacion/?id_model=KWID">Cotizar</a></li>
+                                                <li>|</li>
+                                                <li><a href="/busqueda/?model=KWID" class="footer-link-version">Versiones</a></li>
+                                    </ul>
+                                </div>
+                                <div class="card-wrapper col-sm-12 col-md-3 col-xxl-2">
+                                    <a class="model-area" href="/vehiculo/oroch/">
+                                        <img src="/media/ecwhcqcw/thumbnail-2023-05-02-02_new-oroch-min-slider-home.webp" alt="OROCH " />
+                                        <p>Renault</p>
+                                        <h3>OROCH </h3>
+                                    </a>
+                                    <p>Desde:  <strong>$16.490</strong>
+                                            <span>- S/62.662</span>
+                                    </p>
+                                    <p class="text-bold"> </p>
+                                    <ul class="footer-links">
+                                            <li><a class="footer-links-cotizar" href="/formulario/cotizacion/?id_model=OROCH" target="_self">cotizar</a></li>
+                                                <li>|</li>
+                                                <li><a href="/busqueda/?id_model=OROCH&amp;id_version=U1KC2ND_PE" class="footer-link-version" target="_self">versiones</a></li>
+                                    </ul>
+                                </div>
+                </div>
+            </div>
+        </li>
+        <li class="submenu-wrapper2">
+            <a href="#"
+               class="option inactive " menuModelo="GAMA RENAULT">PICK UP</a>
+            <div class="content-wrapper">
+                <div class="title-mobile label">
+                    <button class="go-back-mobile">
+                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none"
+                            xmlns="http://www.w3.org/2000/svg">
+                            <path fill-rule="evenodd" clip-rule="evenodd"
+                                d="M16.414 3.897C16.901 4.31656 16.9313 5.02513 16.4818 5.47965L10.0331 12L16.4818 18.5203C16.9313 18.9748 16.901 19.6834 16.414 20.1029C15.927 20.5225 15.1678 20.4942 14.7183 20.0396L7.51828 12.7596C7.09397 12.3306 7.09397 11.6693 7.51828 11.2403L14.7183 3.96031C15.1678 3.50579 15.927 3.47745 16.414 3.897Z"
+                                fill="var(--brand)" />
+                        </svg>
+                    </button>                                                    
+                    <span>PICK UP</span>                                                    
+                    <button class="close-menu-mobile">
+                        <svg width="24"
+                            height="24" viewBox="0 0 24 24" fill="none"
+                            xmlns="http://www.w3.org/2000/svg">
+                            <g clip-path="url(#clip0_376_654)">
+                                <path d="M18.3 5.70997C17.91 5.31997 17.28 5.31997 16.89 5.70997L12 10.59L7.10997 5.69997C6.71997 5.30997 6.08997 5.30997 5.69997 5.69997C5.30997 6.08997 5.30997 6.71997 5.69997 7.10997L10.59 12L5.69997 16.89C5.30997 17.28 5.30997 17.91 5.69997 18.3C6.08997 18.69 6.71997 18.69 7.10997 18.3L12 13.41L16.89 18.3C17.28 18.69 17.91 18.69 18.3 18.3C18.69 17.91 18.69 17.28 18.3 16.89L13.41 12L18.3 7.10997C18.68 6.72997 18.68 6.08997 18.3 5.70997Z"
+                                    fill="var(--brand)"/>
+                            </g>
+                            <defs>
+                                <clipPath id="clip0_376_654">
+                                    <rect width="24" height="24" fill="var(--white)" />
+                                </clipPath>
+                            </defs>
+                        </svg>
+                    </button>
+                </div>
+        
+                <div class="content-models col-md-12">
+                                <div class="card-wrapper col-sm-12 col-md-3 col-xxl-2">
+                                    <a class="model-area" href="/vehiculo/oroch/">
+                                        <img src="/media/ecwhcqcw/thumbnail-2023-05-02-02_new-oroch-min-slider-home.webp" alt="OROCH " />
+                                        <p>Renault</p>
+                                        <h3>OROCH </h3>
+                                    </a>
+                                    <p>Desde:  <strong>$16.490</strong>
+                                            <span>- S/62.662</span>
+                                    </p>
+                                    <p class="text-bold"> </p>
+                                    <ul class="footer-links">
+                                            <li><a class="footer-links-cotizar" href="/formulario/cotizacion/?id_model=OROCH" target="_self">cotizar</a></li>
+                                                <li>|</li>
+                                                <li><a href="/busqueda/?id_model=OROCH&amp;id_version=U1KC2ND_PE" class="footer-link-version" target="_self">versiones</a></li>
+                                    </ul>
+                                </div>
+                </div>
+            </div>
+        </li>
+        <li class="submenu-wrapper2">
+            <a href="#"
+               class="option inactive " menuModelo="GAMA RENAULT">COMERCIALES</a>
+            <div class="content-wrapper">
+                <div class="title-mobile label">
+                    <button class="go-back-mobile">
+                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none"
+                            xmlns="http://www.w3.org/2000/svg">
+                            <path fill-rule="evenodd" clip-rule="evenodd"
+                                d="M16.414 3.897C16.901 4.31656 16.9313 5.02513 16.4818 5.47965L10.0331 12L16.4818 18.5203C16.9313 18.9748 16.901 19.6834 16.414 20.1029C15.927 20.5225 15.1678 20.4942 14.7183 20.0396L7.51828 12.7596C7.09397 12.3306 7.09397 11.6693 7.51828 11.2403L14.7183 3.96031C15.1678 3.50579 15.927 3.47745 16.414 3.897Z"
+                                fill="var(--brand)" />
+                        </svg>
+                    </button>                                                    
+                    <span>COMERCIALES</span>                                                    
+                    <button class="close-menu-mobile">
+                        <svg width="24"
+                            height="24" viewBox="0 0 24 24" fill="none"
+                            xmlns="http://www.w3.org/2000/svg">
+                            <g clip-path="url(#clip0_376_654)">
+                                <path d="M18.3 5.70997C17.91 5.31997 17.28 5.31997 16.89 5.70997L12 10.59L7.10997 5.69997C6.71997 5.30997 6.08997 5.30997 5.69997 5.69997C5.30997 6.08997 5.30997 6.71997 5.69997 7.10997L10.59 12L5.69997 16.89C5.30997 17.28 5.30997 17.91 5.69997 18.3C6.08997 18.69 6.71997 18.69 7.10997 18.3L12 13.41L16.89 18.3C17.28 18.69 17.91 18.69 18.3 18.3C18.69 17.91 18.69 17.28 18.3 16.89L13.41 12L18.3 7.10997C18.68 6.72997 18.68 6.08997 18.3 5.70997Z"
+                                    fill="var(--brand)"/>
+                            </g>
+                            <defs>
+                                <clipPath id="clip0_376_654">
+                                    <rect width="24" height="24" fill="var(--white)" />
+                                </clipPath>
+                            </defs>
+                        </svg>
+                    </button>
+                </div>
+        
+                <div class="content-models col-md-12">
+                                <div class="card-wrapper col-sm-12 col-md-3 col-xxl-2">
+                                    <a class="model-area" href="/vehiculo/master/">
+                                        <img src="/media/pcumdbbl/thumbnail-2023-05-02-08_new-master-min-slider-home.webp" alt="MASTER" />
+                                        <p>Renault</p>
+                                        <h3>MASTER</h3>
+                                    </a>
+                                    <p>Desde:  <strong>$43.990</strong>
+                                            <span>- S/168.482</span>
+                                    </p>
+                                    <p class="text-bold"> </p>
+                                    <ul class="footer-links">
+                                            <li><a class="footer-links-cotizar" href="/formulario/cotizacion/?id_model=MASTERFURGON" target="_self">cotizar</a></li>
+                                                <li>|</li>
+                                                <li><a href="/busqueda/?model=MASTER" class="footer-link-version" target="_self">versiones</a></li>
+                                    </ul>
+                                </div>
+                </div>
+            </div>
+        </li>
+                                                          </ul>
+                        </li>
+                            <li class="submenu-wrapper relative">
+                                <a href="#" class="option with-icon">POST VENTA</a>
+                                <ul class="submenu list">
+                                    <li class="title-mobile">
+                                        <button class="go-back-mobile">
+                                            <svg width="24" height="24" viewBox="0 0 24 24" fill="none"
+                                                 xmlns="http://www.w3.org/2000/svg">
+                                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                                      d="M16.414 3.897C16.901 4.31656 16.9313 5.02513 16.4818 5.47965L10.0331 12L16.4818 18.5203C16.9313 18.9748 16.901 19.6834 16.414 20.1029C15.927 20.5225 15.1678 20.4942 14.7183 20.0396L7.51828 12.7596C7.09397 12.3306 7.09397 11.6693 7.51828 11.2403L14.7183 3.96031C15.1678 3.50579 15.927 3.47745 16.414 3.897Z"
+                                                      fill="var(--brand)" />
+                                            </svg>
+                                        </button>
+                                        <span>POST VENTA</span>
+                                        <button class="close-menu-mobile">
+                                            <svg width="24"
+                                                 height="24" viewBox="0 0 24 24" fill="none"
+                                                 xmlns="http://www.w3.org/2000/svg">
+                                                <g clip-path="url(#clip0_376_654)">
+                                                    <path d="M18.3 5.70997C17.91 5.31997 17.28 5.31997 16.89 5.70997L12 10.59L7.10997 5.69997C6.71997 5.30997 6.08997 5.30997 5.69997 5.69997C5.30997 6.08997 5.30997 6.71997 5.69997 7.10997L10.59 12L5.69997 16.89C5.30997 17.28 5.30997 17.91 5.69997 18.3C6.08997 18.69 6.71997 18.69 7.10997 18.3L12 13.41L16.89 18.3C17.28 18.69 17.91 18.69 18.3 18.3C18.69 17.91 18.69 17.28 18.3 16.89L13.41 12L18.3 7.10997C18.68 6.72997 18.68 6.08997 18.3 5.70997Z"
+                                                          fill="#969696" />
+                                                </g>
+                                                <defs>
+                                                    <clipPath id="clip0_376_654">
+                                                        <rect width="24" height="24" fill="white" />
+                                                    </clipPath>
+                                                </defs>
+                                            </svg>
+                                        </button>
+                                    </li>
+                                            <li>
+                                                <a href="/informacion/garantia/"
+                                                   class="option only">Garant&#xED;a</a>
+                                            </li>
+                                            <li>
+                                                <a href="/manuales/"
+                                                   class="option only">Manuales</a>
+                                            </li>
+                                            <li>
+                                                <a href="/compromiso-renault/"
+                                                   class="option only">Compromiso Renault</a>
+                                            </li>
+                                            <li>
+                                                <a href="https://www.derco.com.pe/campanadeseguridad/" target="_blank"
+                                                   class="option only">Alerta de Seguridad</a>
+                                            </li>
+                                </ul>
+                            </li>
+                            <li class="submenu-wrapper relative">
+                                <a href="#" class="option with-icon">DESCUBRE RENAULT</a>
+                                <ul class="submenu list">
+                                    <li class="title-mobile">
+                                        <button class="go-back-mobile">
+                                            <svg width="24" height="24" viewBox="0 0 24 24" fill="none"
+                                                 xmlns="http://www.w3.org/2000/svg">
+                                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                                      d="M16.414 3.897C16.901 4.31656 16.9313 5.02513 16.4818 5.47965L10.0331 12L16.4818 18.5203C16.9313 18.9748 16.901 19.6834 16.414 20.1029C15.927 20.5225 15.1678 20.4942 14.7183 20.0396L7.51828 12.7596C7.09397 12.3306 7.09397 11.6693 7.51828 11.2403L14.7183 3.96031C15.1678 3.50579 15.927 3.47745 16.414 3.897Z"
+                                                      fill="var(--brand)" />
+                                            </svg>
+                                        </button>
+                                        <span>DESCUBRE RENAULT</span>
+                                        <button class="close-menu-mobile">
+                                            <svg width="24"
+                                                 height="24" viewBox="0 0 24 24" fill="none"
+                                                 xmlns="http://www.w3.org/2000/svg">
+                                                <g clip-path="url(#clip0_376_654)">
+                                                    <path d="M18.3 5.70997C17.91 5.31997 17.28 5.31997 16.89 5.70997L12 10.59L7.10997 5.69997C6.71997 5.30997 6.08997 5.30997 5.69997 5.69997C5.30997 6.08997 5.30997 6.71997 5.69997 7.10997L10.59 12L5.69997 16.89C5.30997 17.28 5.30997 17.91 5.69997 18.3C6.08997 18.69 6.71997 18.69 7.10997 18.3L12 13.41L16.89 18.3C17.28 18.69 17.91 18.69 18.3 18.3C18.69 17.91 18.69 17.28 18.3 16.89L13.41 12L18.3 7.10997C18.68 6.72997 18.68 6.08997 18.3 5.70997Z"
+                                                          fill="#969696" />
+                                                </g>
+                                                <defs>
+                                                    <clipPath id="clip0_376_654">
+                                                        <rect width="24" height="24" fill="white" />
+                                                    </clipPath>
+                                                </defs>
+                                            </svg>
+                                        </button>
+                                    </li>
+                                            <li>
+                                                <a href="/descubre-renault/"
+                                                   class="option only">Descubre Renault</a>
+                                            </li>
+                                            <li>
+                                                <a href="/mundorenault/grupo-renault/"
+                                                   class="option only">Grupo Renault</a>
+                                            </li>
+                                            <li>
+                                                <a href="/mundorenault/renaulution/"
+                                                   class="option only">Renaulution</a>
+                                            </li>
+                                            <li>
+                                                <a href="/automoviles/renault-kardian/"
+                                                   class="option only">Renault Kardian</a>
+                                            </li>
+                                            <li>
+                                                <a href="/concept-cars-range/niagara-concept/"
+                                                   class="option only">Niagara Concept</a>
+                                            </li>
+                                            <li>
+                                                <a href="/renaultsport/renault-sport-series/"
+                                                   class="option only">Renault sport</a>
+                                            </li>
+                                            <li>
+                                                <a href="https://www.renaultgroup.com/" target="_blank"
+                                                   class="option only">RENAULT.COM</a>
+                                            </li>
+                                </ul>
+                            </li>
+                            <li class="submenu-menu-primary">
+                                <a class="option only menu-color" href="/red/">RED RENAULT</a>
+                            </li>
+                            <li class="submenu-menu-primary">
+                                <a class="option only menu-color" href="/formulario/contacto/">CONTACTO</a>
+                            </li>
+                <li><div class="icon_marks_mobile"></div></li>
+            </ul>
+
+        </nav>
+        <div class="search-wrapper icon">
+            <div class="icon-search">
+                <svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Icon/Search" clip-path="url(#clip0_34_49722)">
+<path id="Vector" d="M25.8333 23.3333H24.5167L24.05 22.8833C26.05 20.5499 27.0833 17.3666 26.5167 13.9833C25.7333 9.34994 21.8667 5.64994 17.2 5.08328C10.15 4.21661 4.21667 10.1499 5.08334 17.1999C5.65001 21.8666 9.35001 25.7333 13.9833 26.5166C17.3667 27.0833 20.55 26.0499 22.8833 24.0499L23.3333 24.5166V25.8333L30.4167 32.9166C31.1 33.5999 32.2167 33.5999 32.9 32.9166C33.5833 32.2333 33.5833 31.1166 32.9 30.4333L25.8333 23.3333ZM15.8333 23.3333C11.6833 23.3333 8.33334 19.9833 8.33334 15.8333C8.33334 11.6833 11.6833 8.33328 15.8333 8.33328C19.9833 8.33328 23.3333 11.6833 23.3333 15.8333C23.3333 19.9833 19.9833 23.3333 15.8333 23.3333Z" fill="#FFFFFF"/>
+</g>
+<defs>
+<clipPath id="clip0_34_49722">
+<rect width="40" height="40" fill="white"/>
+</clipPath>
+</defs>
+</svg>
+
+            </div>
+            <form class="form-search" id="searchForm" action="/search-bar/">
+                <input name="query" id="query" type="text" placeholder="&#xBF;Qu&#xE9; est&#xE1;s buscando?..." />
+                <div class="d-flex align-items-center" onclick="document.getElementById('searchForm').submit();">
+                    <svg width="20" height="20" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <g id="Icon/Search" clip-path="url(#clip0_34_49722)">
+                        <path id="Vector" d="M25.8333 23.3333H24.5167L24.05 22.8833C26.05 20.5499 27.0833 17.3666 26.5167 13.9833C25.7333 9.34994 21.8667 5.64994 17.2 5.08328C10.15 4.21661 4.21667 10.1499 5.08334 17.1999C5.65001 21.8666 9.35001 25.7333 13.9833 26.5166C17.3667 27.0833 20.55 26.0499 22.8833 24.0499L23.3333 24.5166V25.8333L30.4167 32.9166C31.1 33.5999 32.2167 33.5999 32.9 32.9166C33.5833 32.2333 33.5833 31.1166 32.9 30.4333L25.8333 23.3333ZM15.8333 23.3333C11.6833 23.3333 8.33334 19.9833 8.33334 15.8333C8.33334 11.6833 11.6833 8.33328 15.8333 8.33328C19.9833 8.33328 23.3333 11.6833 23.3333 15.8333C23.3333 19.9833 19.9833 23.3333 15.8333 23.3333Z" fill="#000"/>
+                        </g>
+                        <defs>
+                        <clipPath id="clip0_34_49722">
+                        <rect width="40" height="40" fill="white"/>
+                        </clipPath>
+                        </defs>
+                    </svg>
+                </div>
+                <button type="button" class="close-search"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_376_654)">
+<path d="M18.3 5.70997C17.91 5.31997 17.28 5.31997 16.89 5.70997L12 10.59L7.10997 5.69997C6.71997 5.30997 6.08997 5.30997 5.69997 5.69997C5.30997 6.08997 5.30997 6.71997 5.69997 7.10997L10.59 12L5.69997 16.89C5.30997 17.28 5.30997 17.91 5.69997 18.3C6.08997 18.69 6.71997 18.69 7.10997 18.3L12 13.41L16.89 18.3C17.28 18.69 17.91 18.69 18.3 18.3C18.69 17.91 18.69 17.28 18.3 16.89L13.41 12L18.3 7.10997C18.68 6.72997 18.68 6.08997 18.3 5.70997Z" fill="#FFFFFF"/>
+</g>
+<defs>
+<clipPath id="clip0_376_654">
+<rect width="24" height="24" fill="white"/>
+</clipPath>
+</defs>
+</svg></button>
+            </form>
+        </div>
+
+    </div>
+    
+</header>
+
+
+
+
+
+<aside>
+    <nav class="menu-side">        
+        <div class="drop-down">
+            <p>Menu herramientas</p>
+        </div>
+        <ul class="menu-container hide-menu">
+
+                    <li class="has-subnav">
+                        <a href="/formulario/cotizacion/" target="">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 42 42" fill="none">
+
+<path d="M8.64648 24.4287V27.0506C8.64648 28.1377 9.86266 29.3306 10.9704 29.3306H11.9353C12.4175 30.3395 13.4397 31.0429 14.6303 31.0429C15.9295 31.0429 17.0273 30.2061 17.4407 29.0467H22.4663C22.8797 30.2061 23.9775 31.0429 25.2767 31.0429C26.4672 31.0429 27.4893 30.3393 27.9717 29.3306H29.602C30.6001 29.3306 31.2706 28.4145 31.2706 27.0506V24.2159C31.2706 23.1515 30.7469 22.6666 30.3263 22.4568L28.933 21.703C28.7434 21.6054 28.625 21.5133 28.5619 21.3923L28.1497 20.6965C30.1932 19.6482 31.5979 17.5237 31.5979 15.0732C31.5979 11.5877 28.7621 8.75183 25.2765 8.75183C21.7909 8.75183 18.9555 11.5876 18.9555 15.0732C18.9555 15.8779 19.1124 16.6449 19.3878 17.3533H17.7848C17.0306 17.3533 16.3214 17.797 15.9789 18.482L14.6 21.2164C14.5578 21.3788 14.1406 21.5572 14.1309 21.5596L10.3218 22.4922C9.50948 22.6923 8.64685 23.4396 8.64685 24.4288L8.64648 24.4287ZM14.6298 29.7123C13.7124 29.7123 12.9663 28.9663 12.9663 28.0488C12.9663 27.1313 13.7124 26.3853 14.6298 26.3853C15.5471 26.3853 16.2933 27.1313 16.2933 28.0488C16.2933 28.9665 15.5471 29.7123 14.6298 29.7123ZM25.2761 29.7123C24.3587 29.7123 23.6126 28.9663 23.6126 28.0488C23.6126 27.1313 24.3587 26.3853 25.2761 26.3853C26.1934 26.3853 26.9396 27.1313 26.9396 28.0488C26.9399 28.9665 26.1934 29.7123 25.2761 29.7123ZM25.2761 10.083C28.028 10.083 30.2669 12.3215 30.2669 15.0739C30.2669 17.8258 28.0284 20.0648 25.2761 20.0648C22.5241 20.0648 20.2852 17.8263 20.2852 15.0739C20.2854 12.3218 22.5239 10.083 25.2761 10.083V10.083ZM14.4492 22.8522C14.6097 22.812 14.7618 22.7506 14.9061 22.6769H21.9545C22.322 22.6769 22.6199 22.3794 22.6199 22.0115C22.6199 21.6437 22.322 21.3461 21.9545 21.3461H16.0244L17.1674 19.0796C17.2838 18.8471 17.5371 18.6845 17.7842 18.6845H19.9586C19.9586 18.6845 21.9548 21.3462 25.2769 21.3949C25.8347 21.4031 26.3732 21.3151 26.8889 21.1788L27.3976 22.0365C27.6314 22.4927 28.0395 22.7409 28.3126 22.8813L29.7123 23.6386C29.7865 23.6757 29.9397 23.7522 29.9397 24.217V27.0507C29.9397 27.5478 29.7785 28.0002 29.6018 28.0002H28.2659C28.2389 26.372 26.9107 25.0545 25.2765 25.0545C23.7394 25.0545 22.4838 26.2232 22.316 27.7161L17.5903 27.7159C17.4222 26.223 16.1668 25.0543 14.6299 25.0543C12.9957 25.0543 11.6675 26.3714 11.6404 28.0001H10.9701C10.599 28.0001 9.97711 27.4054 9.97711 27.0505V24.4286C9.97711 24.1772 10.2929 23.8698 10.6387 23.7846L14.4492 22.8522Z" fill="#414141"/>
+<path d="M25.0977 15.7959H25.455C25.6624 15.7959 25.8312 15.9648 25.8312 16.1722C25.8312 16.3795 25.6624 16.5478 25.455 16.5478H24.2646C23.8968 16.5478 23.5992 16.8453 23.5992 17.2132C23.5992 17.581 23.8967 17.8785 24.2646 17.8785H24.6111V18.2836C24.6111 18.6514 24.909 18.9489 25.2765 18.9489C25.6439 18.9489 25.9418 18.6514 25.9418 18.2836V17.7995C26.6449 17.5885 27.162 16.9429 27.162 16.1724C27.162 15.2308 26.3962 14.4652 25.4549 14.4652L25.0977 14.4651C24.8904 14.4651 24.7215 14.2962 24.7215 14.0888C24.7215 13.8815 24.8904 13.7132 25.0977 13.7132H26.2881C26.656 13.7132 26.9535 13.4157 26.9535 13.0478C26.9535 12.6799 26.656 12.3824 26.2881 12.3824H25.942V11.8632C25.942 11.4954 25.6441 11.1979 25.2767 11.1979C24.9092 11.1979 24.6113 11.4954 24.6113 11.8632V12.4617C23.9082 12.6727 23.3911 13.3183 23.3911 14.0888C23.3907 15.0305 24.1564 15.7959 25.0977 15.7959H25.0977Z" fill="#414141"/>
+</svg>
+                            <span class="nav-text">Cotiza</span>
+                        </a>
+                    </li>
+                    <li class="has-subnav">
+                        <a href="/formulario/test-drive/" target="">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 42 42" fill="none">
+
+<path d="M8.64648 24.4287V27.0506C8.64648 28.1377 9.86266 29.3306 10.9704 29.3306H11.9353C12.4175 30.3395 13.4397 31.0429 14.6303 31.0429C15.9295 31.0429 17.0273 30.2061 17.4407 29.0467H22.4663C22.8797 30.2061 23.9775 31.0429 25.2767 31.0429C26.4672 31.0429 27.4893 30.3393 27.9717 29.3306H29.602C30.6001 29.3306 31.2706 28.4145 31.2706 27.0506V24.2159C31.2706 23.1515 30.7469 22.6666 30.3263 22.4568L28.933 21.703C28.7434 21.6054 28.625 21.5133 28.5619 21.3923L28.1497 20.6965C30.1932 19.6482 31.5979 17.5237 31.5979 15.0732C31.5979 11.5877 28.7621 8.75183 25.2765 8.75183C21.7909 8.75183 18.9555 11.5876 18.9555 15.0732C18.9555 15.8779 19.1124 16.6449 19.3878 17.3533H17.7848C17.0306 17.3533 16.3214 17.797 15.9789 18.482L14.6 21.2164C14.5578 21.3788 14.1406 21.5572 14.1309 21.5596L10.3218 22.4922C9.50948 22.6923 8.64685 23.4396 8.64685 24.4288L8.64648 24.4287ZM14.6298 29.7123C13.7124 29.7123 12.9663 28.9663 12.9663 28.0488C12.9663 27.1313 13.7124 26.3853 14.6298 26.3853C15.5471 26.3853 16.2933 27.1313 16.2933 28.0488C16.2933 28.9665 15.5471 29.7123 14.6298 29.7123ZM25.2761 29.7123C24.3587 29.7123 23.6126 28.9663 23.6126 28.0488C23.6126 27.1313 24.3587 26.3853 25.2761 26.3853C26.1934 26.3853 26.9396 27.1313 26.9396 28.0488C26.9399 28.9665 26.1934 29.7123 25.2761 29.7123ZM25.2761 10.083C28.028 10.083 30.2669 12.3215 30.2669 15.0739C30.2669 17.8258 28.0284 20.0648 25.2761 20.0648C22.5241 20.0648 20.2852 17.8263 20.2852 15.0739C20.2854 12.3218 22.5239 10.083 25.2761 10.083V10.083ZM14.4492 22.8522C14.6097 22.812 14.7618 22.7506 14.9061 22.6769H21.9545C22.322 22.6769 22.6199 22.3794 22.6199 22.0115C22.6199 21.6437 22.322 21.3461 21.9545 21.3461H16.0244L17.1674 19.0796C17.2838 18.8471 17.5371 18.6845 17.7842 18.6845H19.9586C19.9586 18.6845 21.9548 21.3462 25.2769 21.3949C25.8347 21.4031 26.3732 21.3151 26.8889 21.1788L27.3976 22.0365C27.6314 22.4927 28.0395 22.7409 28.3126 22.8813L29.7123 23.6386C29.7865 23.6757 29.9397 23.7522 29.9397 24.217V27.0507C29.9397 27.5478 29.7785 28.0002 29.6018 28.0002H28.2659C28.2389 26.372 26.9107 25.0545 25.2765 25.0545C23.7394 25.0545 22.4838 26.2232 22.316 27.7161L17.5903 27.7159C17.4222 26.223 16.1668 25.0543 14.6299 25.0543C12.9957 25.0543 11.6675 26.3714 11.6404 28.0001H10.9701C10.599 28.0001 9.97711 27.4054 9.97711 27.0505V24.4286C9.97711 24.1772 10.2929 23.8698 10.6387 23.7846L14.4492 22.8522Z" fill="#414141"/>
+<path d="M25.0977 15.7959H25.455C25.6624 15.7959 25.8312 15.9648 25.8312 16.1722C25.8312 16.3795 25.6624 16.5478 25.455 16.5478H24.2646C23.8968 16.5478 23.5992 16.8453 23.5992 17.2132C23.5992 17.581 23.8967 17.8785 24.2646 17.8785H24.6111V18.2836C24.6111 18.6514 24.909 18.9489 25.2765 18.9489C25.6439 18.9489 25.9418 18.6514 25.9418 18.2836V17.7995C26.6449 17.5885 27.162 16.9429 27.162 16.1724C27.162 15.2308 26.3962 14.4652 25.4549 14.4652L25.0977 14.4651C24.8904 14.4651 24.7215 14.2962 24.7215 14.0888C24.7215 13.8815 24.8904 13.7132 25.0977 13.7132H26.2881C26.656 13.7132 26.9535 13.4157 26.9535 13.0478C26.9535 12.6799 26.656 12.3824 26.2881 12.3824H25.942V11.8632C25.942 11.4954 25.6441 11.1979 25.2767 11.1979C24.9092 11.1979 24.6113 11.4954 24.6113 11.8632V12.4617C23.9082 12.6727 23.3911 13.3183 23.3911 14.0888C23.3907 15.0305 24.1564 15.7959 25.0977 15.7959H25.0977Z" fill="#414141"/>
+</svg>
+                            <span class="nav-text">Test Drive</span>
+                        </a>
+                    </li>
+        </ul>
+    </nav>
+</aside>
+
+    <main>
+        
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" crossorigin href="https://fonts.gstatic.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lato:wght@300&amp;display=swap">
+
+
+
+
+
+
+
+
+
+<section id="homepage">
+    <article class="swiperHome swiper-hero-banner  max-w" id="swipper-ppal" style="
+    position: relative !important;
+    overflow-x: hidden !important;
+    width: 100% !important;">
+
+        <div class="swiper-wrapper" id="swipper-wrap">
+                <div class="swiper-slide swiper-hero-banner">
+                        <div class="hero-banner__content"  >
+                            <img class="lazyload" data-srcset="/media/434fhu2q/preventa-arkana_1440-x-562.webp?width=80&amp;height=31&amp;format=webp&amp;quality=90&amp;v=1db83ea934d6370 80w,/media/434fhu2q/preventa-arkana_1440-x-562.webp?width=160&amp;height=62&amp;format=webp&amp;quality=90&amp;v=1db83ea934d6370 160w,/media/434fhu2q/preventa-arkana_1440-x-562.webp?width=240&amp;height=94&amp;format=webp&amp;quality=90&amp;v=1db83ea934d6370 240w,/media/434fhu2q/preventa-arkana_1440-x-562.webp?width=320&amp;height=125&amp;format=webp&amp;quality=90&amp;v=1db83ea934d6370 320w,/media/434fhu2q/preventa-arkana_1440-x-562.webp?width=400&amp;height=156&amp;format=webp&amp;quality=90&amp;v=1db83ea934d6370 400w,/media/434fhu2q/preventa-arkana_1440-x-562.webp?width=480&amp;height=187&amp;format=webp&amp;quality=90&amp;v=1db83ea934d6370 480w,/media/434fhu2q/preventa-arkana_1440-x-562.webp?width=560&amp;height=219&amp;format=webp&amp;quality=90&amp;v=1db83ea934d6370 560w,/media/434fhu2q/preventa-arkana_1440-x-562.webp?width=640&amp;height=250&amp;format=webp&amp;quality=90&amp;v=1db83ea934d6370 640w,/media/434fhu2q/preventa-arkana_1440-x-562.webp?width=720&amp;height=281&amp;format=webp&amp;quality=90&amp;v=1db83ea934d6370 720w,/media/434fhu2q/preventa-arkana_1440-x-562.webp?width=800&amp;height=312&amp;format=webp&amp;quality=90&amp;v=1db83ea934d6370 800w,/media/434fhu2q/preventa-arkana_1440-x-562.webp?width=880&amp;height=344&amp;format=webp&amp;quality=90&amp;v=1db83ea934d6370 880w,/media/434fhu2q/preventa-arkana_1440-x-562.webp?width=960&amp;height=375&amp;format=webp&amp;quality=90&amp;v=1db83ea934d6370 960w,/media/434fhu2q/preventa-arkana_1440-x-562.webp?width=1040&amp;height=406&amp;format=webp&amp;quality=90&amp;v=1db83ea934d6370 1040w,/media/434fhu2q/preventa-arkana_1440-x-562.webp?width=1120&amp;height=437&amp;format=webp&amp;quality=90&amp;v=1db83ea934d6370 1120w,/media/434fhu2q/preventa-arkana_1440-x-562.webp?width=1200&amp;height=469&amp;format=webp&amp;quality=90&amp;v=1db83ea934d6370 1200w,/media/434fhu2q/preventa-arkana_1440-x-562.webp?width=1280&amp;height=500&amp;format=webp&amp;quality=90&amp;v=1db83ea934d6370 1280w,/media/434fhu2q/preventa-arkana_1440-x-562.webp?width=1360&amp;height=531&amp;format=webp&amp;quality=90&amp;v=1db83ea934d6370 1360w,/media/434fhu2q/preventa-arkana_1440-x-562.webp?width=1440&amp;height=562&amp;format=webp&amp;quality=90&amp;v=1db83ea934d6370 1440w" src="/media/434fhu2q/preventa-arkana_1440-x-562.webp?width=40&amp;height=29&amp;quality=40&amp;v=1db83ea934d6370" sizes="auto" />
+                        </div>
+                    <div class="boxHome">
+                            <h2 class="title">ALL NEW RENAULT ARKANA</h2>
+                            <hr class="linea">
+                            <div class="paragraph">PREVENTA</div>
+
+                            <div class="buttonsBanner">
+                                        <a href="/formulario/cotizacion/?id_model=ARNAKAH">
+                                            <p class="btn_base btn_base_p btn_primary white btn_large">
+                                                COTIZAR
+                                            </p>
+                                        </a>
+                                        <a href="/vehiculo/new-renault-arkana/">
+                                            <p class="btn_base btn_base_p btn_secondary_lead btn_large">
+                                                DESC&#xDA;BRELA
+                                            </p>
+                                        </a>
+                            </div>
+
+                    </div>
+                </div>
+                <div class="swiper-slide swiper-hero-banner">
+                        <div class="hero-banner__content"  >
+                            <img class="lazyload" data-srcset="/media/jzefyq22/home-slider-home-slider-2023-05-26-banner-desktop-koleosjpg-slider-home.webp?width=80&amp;height=31&amp;format=webp&amp;quality=90&amp;v=1db8c969ea61870 80w,/media/jzefyq22/home-slider-home-slider-2023-05-26-banner-desktop-koleosjpg-slider-home.webp?width=160&amp;height=62&amp;format=webp&amp;quality=90&amp;v=1db8c969ea61870 160w,/media/jzefyq22/home-slider-home-slider-2023-05-26-banner-desktop-koleosjpg-slider-home.webp?width=240&amp;height=94&amp;format=webp&amp;quality=90&amp;v=1db8c969ea61870 240w,/media/jzefyq22/home-slider-home-slider-2023-05-26-banner-desktop-koleosjpg-slider-home.webp?width=320&amp;height=125&amp;format=webp&amp;quality=90&amp;v=1db8c969ea61870 320w,/media/jzefyq22/home-slider-home-slider-2023-05-26-banner-desktop-koleosjpg-slider-home.webp?width=400&amp;height=156&amp;format=webp&amp;quality=90&amp;v=1db8c969ea61870 400w,/media/jzefyq22/home-slider-home-slider-2023-05-26-banner-desktop-koleosjpg-slider-home.webp?width=480&amp;height=187&amp;format=webp&amp;quality=90&amp;v=1db8c969ea61870 480w,/media/jzefyq22/home-slider-home-slider-2023-05-26-banner-desktop-koleosjpg-slider-home.webp?width=560&amp;height=219&amp;format=webp&amp;quality=90&amp;v=1db8c969ea61870 560w,/media/jzefyq22/home-slider-home-slider-2023-05-26-banner-desktop-koleosjpg-slider-home.webp?width=640&amp;height=250&amp;format=webp&amp;quality=90&amp;v=1db8c969ea61870 640w,/media/jzefyq22/home-slider-home-slider-2023-05-26-banner-desktop-koleosjpg-slider-home.webp?width=720&amp;height=281&amp;format=webp&amp;quality=90&amp;v=1db8c969ea61870 720w,/media/jzefyq22/home-slider-home-slider-2023-05-26-banner-desktop-koleosjpg-slider-home.webp?width=800&amp;height=312&amp;format=webp&amp;quality=90&amp;v=1db8c969ea61870 800w,/media/jzefyq22/home-slider-home-slider-2023-05-26-banner-desktop-koleosjpg-slider-home.webp?width=880&amp;height=344&amp;format=webp&amp;quality=90&amp;v=1db8c969ea61870 880w,/media/jzefyq22/home-slider-home-slider-2023-05-26-banner-desktop-koleosjpg-slider-home.webp?width=960&amp;height=375&amp;format=webp&amp;quality=90&amp;v=1db8c969ea61870 960w,/media/jzefyq22/home-slider-home-slider-2023-05-26-banner-desktop-koleosjpg-slider-home.webp?width=1040&amp;height=406&amp;format=webp&amp;quality=90&amp;v=1db8c969ea61870 1040w,/media/jzefyq22/home-slider-home-slider-2023-05-26-banner-desktop-koleosjpg-slider-home.webp?width=1120&amp;height=437&amp;format=webp&amp;quality=90&amp;v=1db8c969ea61870 1120w,/media/jzefyq22/home-slider-home-slider-2023-05-26-banner-desktop-koleosjpg-slider-home.webp?width=1200&amp;height=469&amp;format=webp&amp;quality=90&amp;v=1db8c969ea61870 1200w,/media/jzefyq22/home-slider-home-slider-2023-05-26-banner-desktop-koleosjpg-slider-home.webp?width=1280&amp;height=500&amp;format=webp&amp;quality=90&amp;v=1db8c969ea61870 1280w,/media/jzefyq22/home-slider-home-slider-2023-05-26-banner-desktop-koleosjpg-slider-home.webp?width=1360&amp;height=531&amp;format=webp&amp;quality=90&amp;v=1db8c969ea61870 1360w,/media/jzefyq22/home-slider-home-slider-2023-05-26-banner-desktop-koleosjpg-slider-home.webp?width=1440&amp;height=562&amp;format=webp&amp;quality=90&amp;v=1db8c969ea61870 1440w" src="/media/jzefyq22/home-slider-home-slider-2023-05-26-banner-desktop-koleosjpg-slider-home.webp?width=40&amp;height=29&amp;quality=40&amp;v=1db8c969ea61870" sizes="auto" />
+                        </div>
+                    <div class="boxHome">
+                            <h2 class="title">NEW RENAULT KOLEOS</h2>
+                            <hr class="linea">
+                            <div class="paragraph">La grandeza de ser libre</div>
+
+                            <div class="buttonsBanner">
+                                        <a href="/formulario/cotizacion/?id_model=KOLEOS">
+                                            <p class="btn_base btn_base_p btn_primary white btn_large">
+                                                COTIZAR
+                                            </p>
+                                        </a>
+                                        <a href="/vehiculo/koleos/">
+                                            <p class="btn_base btn_base_p btn_secondary_lead btn_large">
+                                                DESC&#xDA;BRELA
+                                            </p>
+                                        </a>
+                            </div>
+
+                    </div>
+                </div>
+                <div class="swiper-slide swiper-hero-banner">
+                        <div class="hero-banner__content"  >
+                            <img class="lazyload" data-srcset="/media/r42d5cc1/2023-05-26-banner-desktop-stepwayjpg-slider-home.webp?width=80&amp;height=31&amp;format=webp&amp;quality=90&amp;v=1db8c969edb0b20 80w,/media/r42d5cc1/2023-05-26-banner-desktop-stepwayjpg-slider-home.webp?width=160&amp;height=62&amp;format=webp&amp;quality=90&amp;v=1db8c969edb0b20 160w,/media/r42d5cc1/2023-05-26-banner-desktop-stepwayjpg-slider-home.webp?width=240&amp;height=94&amp;format=webp&amp;quality=90&amp;v=1db8c969edb0b20 240w,/media/r42d5cc1/2023-05-26-banner-desktop-stepwayjpg-slider-home.webp?width=320&amp;height=125&amp;format=webp&amp;quality=90&amp;v=1db8c969edb0b20 320w,/media/r42d5cc1/2023-05-26-banner-desktop-stepwayjpg-slider-home.webp?width=400&amp;height=156&amp;format=webp&amp;quality=90&amp;v=1db8c969edb0b20 400w,/media/r42d5cc1/2023-05-26-banner-desktop-stepwayjpg-slider-home.webp?width=480&amp;height=187&amp;format=webp&amp;quality=90&amp;v=1db8c969edb0b20 480w,/media/r42d5cc1/2023-05-26-banner-desktop-stepwayjpg-slider-home.webp?width=560&amp;height=219&amp;format=webp&amp;quality=90&amp;v=1db8c969edb0b20 560w,/media/r42d5cc1/2023-05-26-banner-desktop-stepwayjpg-slider-home.webp?width=640&amp;height=250&amp;format=webp&amp;quality=90&amp;v=1db8c969edb0b20 640w,/media/r42d5cc1/2023-05-26-banner-desktop-stepwayjpg-slider-home.webp?width=720&amp;height=281&amp;format=webp&amp;quality=90&amp;v=1db8c969edb0b20 720w,/media/r42d5cc1/2023-05-26-banner-desktop-stepwayjpg-slider-home.webp?width=800&amp;height=312&amp;format=webp&amp;quality=90&amp;v=1db8c969edb0b20 800w,/media/r42d5cc1/2023-05-26-banner-desktop-stepwayjpg-slider-home.webp?width=880&amp;height=344&amp;format=webp&amp;quality=90&amp;v=1db8c969edb0b20 880w,/media/r42d5cc1/2023-05-26-banner-desktop-stepwayjpg-slider-home.webp?width=960&amp;height=375&amp;format=webp&amp;quality=90&amp;v=1db8c969edb0b20 960w,/media/r42d5cc1/2023-05-26-banner-desktop-stepwayjpg-slider-home.webp?width=1040&amp;height=406&amp;format=webp&amp;quality=90&amp;v=1db8c969edb0b20 1040w,/media/r42d5cc1/2023-05-26-banner-desktop-stepwayjpg-slider-home.webp?width=1120&amp;height=437&amp;format=webp&amp;quality=90&amp;v=1db8c969edb0b20 1120w,/media/r42d5cc1/2023-05-26-banner-desktop-stepwayjpg-slider-home.webp?width=1200&amp;height=469&amp;format=webp&amp;quality=90&amp;v=1db8c969edb0b20 1200w,/media/r42d5cc1/2023-05-26-banner-desktop-stepwayjpg-slider-home.webp?width=1280&amp;height=500&amp;format=webp&amp;quality=90&amp;v=1db8c969edb0b20 1280w,/media/r42d5cc1/2023-05-26-banner-desktop-stepwayjpg-slider-home.webp?width=1360&amp;height=531&amp;format=webp&amp;quality=90&amp;v=1db8c969edb0b20 1360w,/media/r42d5cc1/2023-05-26-banner-desktop-stepwayjpg-slider-home.webp?width=1440&amp;height=562&amp;format=webp&amp;quality=90&amp;v=1db8c969edb0b20 1440w" src="/media/r42d5cc1/2023-05-26-banner-desktop-stepwayjpg-slider-home.webp?width=40&amp;height=29&amp;quality=40&amp;v=1db8c969edb0b20" sizes="auto" />
+                        </div>
+                    <div class="boxHome">
+                            <h2 class="title">NEW RENAULT STEPWAY</h2>
+                            <hr class="linea">
+                            <div class="paragraph">Aventurero por fuera, urbano de coraz&#xF3;n</div>
+
+                            <div class="buttonsBanner">
+                                        <a href="/formulario/cotizacion/?id_model=STEPWAY">
+                                            <p class="btn_base btn_base_p btn_primary white btn_large">
+                                                COTIZAR
+                                            </p>
+                                        </a>
+                                        <a href="/vehiculo/stepway/">
+                                            <p class="btn_base btn_base_p btn_secondary_lead btn_large">
+                                                DESC&#xDA;BRELA
+                                            </p>
+                                        </a>
+                            </div>
+
+                    </div>
+                </div>
+                <div class="swiper-slide swiper-hero-banner">
+                        <div class="hero-banner__content"  >
+                            <img class="lazyload" data-srcset="/media/wxcj5aef/home-slider-2023-05-26-banner-desktop-orochjpg-slider-home-slider-home.webp?width=80&amp;height=31&amp;format=webp&amp;quality=90&amp;v=1db8c969f1491b0 80w,/media/wxcj5aef/home-slider-2023-05-26-banner-desktop-orochjpg-slider-home-slider-home.webp?width=160&amp;height=62&amp;format=webp&amp;quality=90&amp;v=1db8c969f1491b0 160w,/media/wxcj5aef/home-slider-2023-05-26-banner-desktop-orochjpg-slider-home-slider-home.webp?width=240&amp;height=94&amp;format=webp&amp;quality=90&amp;v=1db8c969f1491b0 240w,/media/wxcj5aef/home-slider-2023-05-26-banner-desktop-orochjpg-slider-home-slider-home.webp?width=320&amp;height=125&amp;format=webp&amp;quality=90&amp;v=1db8c969f1491b0 320w,/media/wxcj5aef/home-slider-2023-05-26-banner-desktop-orochjpg-slider-home-slider-home.webp?width=400&amp;height=156&amp;format=webp&amp;quality=90&amp;v=1db8c969f1491b0 400w,/media/wxcj5aef/home-slider-2023-05-26-banner-desktop-orochjpg-slider-home-slider-home.webp?width=480&amp;height=187&amp;format=webp&amp;quality=90&amp;v=1db8c969f1491b0 480w,/media/wxcj5aef/home-slider-2023-05-26-banner-desktop-orochjpg-slider-home-slider-home.webp?width=560&amp;height=219&amp;format=webp&amp;quality=90&amp;v=1db8c969f1491b0 560w,/media/wxcj5aef/home-slider-2023-05-26-banner-desktop-orochjpg-slider-home-slider-home.webp?width=640&amp;height=250&amp;format=webp&amp;quality=90&amp;v=1db8c969f1491b0 640w,/media/wxcj5aef/home-slider-2023-05-26-banner-desktop-orochjpg-slider-home-slider-home.webp?width=720&amp;height=281&amp;format=webp&amp;quality=90&amp;v=1db8c969f1491b0 720w,/media/wxcj5aef/home-slider-2023-05-26-banner-desktop-orochjpg-slider-home-slider-home.webp?width=800&amp;height=312&amp;format=webp&amp;quality=90&amp;v=1db8c969f1491b0 800w,/media/wxcj5aef/home-slider-2023-05-26-banner-desktop-orochjpg-slider-home-slider-home.webp?width=880&amp;height=344&amp;format=webp&amp;quality=90&amp;v=1db8c969f1491b0 880w,/media/wxcj5aef/home-slider-2023-05-26-banner-desktop-orochjpg-slider-home-slider-home.webp?width=960&amp;height=375&amp;format=webp&amp;quality=90&amp;v=1db8c969f1491b0 960w,/media/wxcj5aef/home-slider-2023-05-26-banner-desktop-orochjpg-slider-home-slider-home.webp?width=1040&amp;height=406&amp;format=webp&amp;quality=90&amp;v=1db8c969f1491b0 1040w,/media/wxcj5aef/home-slider-2023-05-26-banner-desktop-orochjpg-slider-home-slider-home.webp?width=1120&amp;height=437&amp;format=webp&amp;quality=90&amp;v=1db8c969f1491b0 1120w,/media/wxcj5aef/home-slider-2023-05-26-banner-desktop-orochjpg-slider-home-slider-home.webp?width=1200&amp;height=469&amp;format=webp&amp;quality=90&amp;v=1db8c969f1491b0 1200w,/media/wxcj5aef/home-slider-2023-05-26-banner-desktop-orochjpg-slider-home-slider-home.webp?width=1280&amp;height=500&amp;format=webp&amp;quality=90&amp;v=1db8c969f1491b0 1280w,/media/wxcj5aef/home-slider-2023-05-26-banner-desktop-orochjpg-slider-home-slider-home.webp?width=1360&amp;height=531&amp;format=webp&amp;quality=90&amp;v=1db8c969f1491b0 1360w,/media/wxcj5aef/home-slider-2023-05-26-banner-desktop-orochjpg-slider-home-slider-home.webp?width=1440&amp;height=562&amp;format=webp&amp;quality=90&amp;v=1db8c969f1491b0 1440w" src="/media/wxcj5aef/home-slider-2023-05-26-banner-desktop-orochjpg-slider-home-slider-home.webp?width=40&amp;height=29&amp;quality=40&amp;v=1db8c969f1491b0" sizes="auto" />
+                        </div>
+                    <div class="boxHome">
+                            <h2 class="title">NEW RENAULT OROCH</h2>
+                            <hr class="linea">
+                            <div class="paragraph">Hecha para los que hacen</div>
+
+                            <div class="buttonsBanner">
+                                        <a href="/formulario/cotizacion/?id_model=OROCH">
+                                            <p class="btn_base btn_base_p btn_primary white btn_large">
+                                                COTIZAR
+                                            </p>
+                                        </a>
+                                        <a href="/vehiculo/oroch/">
+                                            <p class="btn_base btn_base_p btn_secondary_lead btn_large">
+                                                DESC&#xDA;BRELA
+                                            </p>
+                                        </a>
+                            </div>
+
+                    </div>
+                </div>
+                <div class="swiper-slide swiper-hero-banner">
+                        <div class="hero-banner__content"  >
+                            <img class="lazyload" data-srcset="/media/u05jxppt/home-slider-92905-desktop-slider-home-slider-home.webp?width=80&amp;height=31&amp;format=webp&amp;quality=90&amp;v=1db8c969ef793d0 80w,/media/u05jxppt/home-slider-92905-desktop-slider-home-slider-home.webp?width=160&amp;height=62&amp;format=webp&amp;quality=90&amp;v=1db8c969ef793d0 160w,/media/u05jxppt/home-slider-92905-desktop-slider-home-slider-home.webp?width=240&amp;height=94&amp;format=webp&amp;quality=90&amp;v=1db8c969ef793d0 240w,/media/u05jxppt/home-slider-92905-desktop-slider-home-slider-home.webp?width=320&amp;height=125&amp;format=webp&amp;quality=90&amp;v=1db8c969ef793d0 320w,/media/u05jxppt/home-slider-92905-desktop-slider-home-slider-home.webp?width=400&amp;height=156&amp;format=webp&amp;quality=90&amp;v=1db8c969ef793d0 400w,/media/u05jxppt/home-slider-92905-desktop-slider-home-slider-home.webp?width=480&amp;height=187&amp;format=webp&amp;quality=90&amp;v=1db8c969ef793d0 480w,/media/u05jxppt/home-slider-92905-desktop-slider-home-slider-home.webp?width=560&amp;height=219&amp;format=webp&amp;quality=90&amp;v=1db8c969ef793d0 560w,/media/u05jxppt/home-slider-92905-desktop-slider-home-slider-home.webp?width=640&amp;height=250&amp;format=webp&amp;quality=90&amp;v=1db8c969ef793d0 640w,/media/u05jxppt/home-slider-92905-desktop-slider-home-slider-home.webp?width=720&amp;height=281&amp;format=webp&amp;quality=90&amp;v=1db8c969ef793d0 720w,/media/u05jxppt/home-slider-92905-desktop-slider-home-slider-home.webp?width=800&amp;height=312&amp;format=webp&amp;quality=90&amp;v=1db8c969ef793d0 800w,/media/u05jxppt/home-slider-92905-desktop-slider-home-slider-home.webp?width=880&amp;height=344&amp;format=webp&amp;quality=90&amp;v=1db8c969ef793d0 880w,/media/u05jxppt/home-slider-92905-desktop-slider-home-slider-home.webp?width=960&amp;height=375&amp;format=webp&amp;quality=90&amp;v=1db8c969ef793d0 960w,/media/u05jxppt/home-slider-92905-desktop-slider-home-slider-home.webp?width=1040&amp;height=406&amp;format=webp&amp;quality=90&amp;v=1db8c969ef793d0 1040w,/media/u05jxppt/home-slider-92905-desktop-slider-home-slider-home.webp?width=1120&amp;height=437&amp;format=webp&amp;quality=90&amp;v=1db8c969ef793d0 1120w,/media/u05jxppt/home-slider-92905-desktop-slider-home-slider-home.webp?width=1200&amp;height=469&amp;format=webp&amp;quality=90&amp;v=1db8c969ef793d0 1200w,/media/u05jxppt/home-slider-92905-desktop-slider-home-slider-home.webp?width=1280&amp;height=500&amp;format=webp&amp;quality=90&amp;v=1db8c969ef793d0 1280w,/media/u05jxppt/home-slider-92905-desktop-slider-home-slider-home.webp?width=1360&amp;height=531&amp;format=webp&amp;quality=90&amp;v=1db8c969ef793d0 1360w,/media/u05jxppt/home-slider-92905-desktop-slider-home-slider-home.webp?width=1440&amp;height=562&amp;format=webp&amp;quality=90&amp;v=1db8c969ef793d0 1440w" src="/media/u05jxppt/home-slider-92905-desktop-slider-home-slider-home.webp?width=40&amp;height=29&amp;quality=40&amp;v=1db8c969ef793d0" sizes="auto" />
+                        </div>
+                    <div class="boxHome">
+                            <h2 class="title">NEW RENAULT DUSTER</h2>
+                            <hr class="linea">
+                            <div class="paragraph">Porque la vida no tiene un solo camino</div>
+
+                            <div class="buttonsBanner">
+                                        <a href="/formulario/cotizacion/?id_model=DUSTER">
+                                            <p class="btn_base btn_base_p btn_primary white btn_large">
+                                                COTIZAR
+                                            </p>
+                                        </a>
+                                        <a href="/vehiculo/duster/">
+                                            <p class="btn_base btn_base_p btn_secondary_lead btn_large">
+                                                DESC&#xDA;BRELA
+                                            </p>
+                                        </a>
+                            </div>
+
+                    </div>
+                </div>
+                <div class="swiper-slide swiper-hero-banner">
+                        <div class="hero-banner__content"  >
+                            <img class="lazyload" data-srcset="/media/unqpznta/2023-05-26-banner-desktop-kwidjpg-slider-home.webp?width=80&amp;height=31&amp;format=webp&amp;quality=90&amp;v=1db8c969e595800 80w,/media/unqpznta/2023-05-26-banner-desktop-kwidjpg-slider-home.webp?width=160&amp;height=62&amp;format=webp&amp;quality=90&amp;v=1db8c969e595800 160w,/media/unqpznta/2023-05-26-banner-desktop-kwidjpg-slider-home.webp?width=240&amp;height=94&amp;format=webp&amp;quality=90&amp;v=1db8c969e595800 240w,/media/unqpznta/2023-05-26-banner-desktop-kwidjpg-slider-home.webp?width=320&amp;height=125&amp;format=webp&amp;quality=90&amp;v=1db8c969e595800 320w,/media/unqpznta/2023-05-26-banner-desktop-kwidjpg-slider-home.webp?width=400&amp;height=156&amp;format=webp&amp;quality=90&amp;v=1db8c969e595800 400w,/media/unqpznta/2023-05-26-banner-desktop-kwidjpg-slider-home.webp?width=480&amp;height=187&amp;format=webp&amp;quality=90&amp;v=1db8c969e595800 480w,/media/unqpznta/2023-05-26-banner-desktop-kwidjpg-slider-home.webp?width=560&amp;height=219&amp;format=webp&amp;quality=90&amp;v=1db8c969e595800 560w,/media/unqpznta/2023-05-26-banner-desktop-kwidjpg-slider-home.webp?width=640&amp;height=250&amp;format=webp&amp;quality=90&amp;v=1db8c969e595800 640w,/media/unqpznta/2023-05-26-banner-desktop-kwidjpg-slider-home.webp?width=720&amp;height=281&amp;format=webp&amp;quality=90&amp;v=1db8c969e595800 720w,/media/unqpznta/2023-05-26-banner-desktop-kwidjpg-slider-home.webp?width=800&amp;height=312&amp;format=webp&amp;quality=90&amp;v=1db8c969e595800 800w,/media/unqpznta/2023-05-26-banner-desktop-kwidjpg-slider-home.webp?width=880&amp;height=344&amp;format=webp&amp;quality=90&amp;v=1db8c969e595800 880w,/media/unqpznta/2023-05-26-banner-desktop-kwidjpg-slider-home.webp?width=960&amp;height=375&amp;format=webp&amp;quality=90&amp;v=1db8c969e595800 960w,/media/unqpznta/2023-05-26-banner-desktop-kwidjpg-slider-home.webp?width=1040&amp;height=406&amp;format=webp&amp;quality=90&amp;v=1db8c969e595800 1040w,/media/unqpznta/2023-05-26-banner-desktop-kwidjpg-slider-home.webp?width=1120&amp;height=437&amp;format=webp&amp;quality=90&amp;v=1db8c969e595800 1120w,/media/unqpznta/2023-05-26-banner-desktop-kwidjpg-slider-home.webp?width=1200&amp;height=469&amp;format=webp&amp;quality=90&amp;v=1db8c969e595800 1200w,/media/unqpznta/2023-05-26-banner-desktop-kwidjpg-slider-home.webp?width=1280&amp;height=500&amp;format=webp&amp;quality=90&amp;v=1db8c969e595800 1280w,/media/unqpznta/2023-05-26-banner-desktop-kwidjpg-slider-home.webp?width=1360&amp;height=531&amp;format=webp&amp;quality=90&amp;v=1db8c969e595800 1360w,/media/unqpznta/2023-05-26-banner-desktop-kwidjpg-slider-home.webp?width=1440&amp;height=562&amp;format=webp&amp;quality=90&amp;v=1db8c969e595800 1440w" src="/media/unqpznta/2023-05-26-banner-desktop-kwidjpg-slider-home.webp?width=40&amp;height=29&amp;quality=40&amp;v=1db8c969e595800" sizes="auto" />
+                        </div>
+                    <div class="boxHome">
+                            <h2 class="title">NEW RENAULT KWID</h2>
+                            <hr class="linea">
+                            <div class="paragraph">La SUV de los compactos</div>
+
+                            <div class="buttonsBanner">
+                                        <a href="/formulario/cotizacion/?id_model=KWID">
+                                            <p class="btn_base btn_base_p btn_primary white btn_large">
+                                                COTIZAR
+                                            </p>
+                                        </a>
+                                        <a href="/vehiculo/kwid/">
+                                            <p class="btn_base btn_base_p btn_secondary_lead btn_large">
+                                                DESC&#xDA;BRELA
+                                            </p>
+                                        </a>
+                            </div>
+
+                    </div>
+                </div>
+                <div class="swiper-slide swiper-hero-banner">
+                        <div class="hero-banner__content"  >
+                            <img class="lazyload" data-srcset="/media/ostpv0vv/2023-05-26-banner-desktop-masterjpg.jpg?width=80&amp;height=31&amp;format=webp&amp;quality=90&amp;v=1dadc5e2b05fc20 80w,/media/ostpv0vv/2023-05-26-banner-desktop-masterjpg.jpg?width=160&amp;height=62&amp;format=webp&amp;quality=90&amp;v=1dadc5e2b05fc20 160w,/media/ostpv0vv/2023-05-26-banner-desktop-masterjpg.jpg?width=240&amp;height=94&amp;format=webp&amp;quality=90&amp;v=1dadc5e2b05fc20 240w,/media/ostpv0vv/2023-05-26-banner-desktop-masterjpg.jpg?width=320&amp;height=125&amp;format=webp&amp;quality=90&amp;v=1dadc5e2b05fc20 320w,/media/ostpv0vv/2023-05-26-banner-desktop-masterjpg.jpg?width=400&amp;height=156&amp;format=webp&amp;quality=90&amp;v=1dadc5e2b05fc20 400w,/media/ostpv0vv/2023-05-26-banner-desktop-masterjpg.jpg?width=480&amp;height=187&amp;format=webp&amp;quality=90&amp;v=1dadc5e2b05fc20 480w,/media/ostpv0vv/2023-05-26-banner-desktop-masterjpg.jpg?width=560&amp;height=219&amp;format=webp&amp;quality=90&amp;v=1dadc5e2b05fc20 560w,/media/ostpv0vv/2023-05-26-banner-desktop-masterjpg.jpg?width=640&amp;height=250&amp;format=webp&amp;quality=90&amp;v=1dadc5e2b05fc20 640w,/media/ostpv0vv/2023-05-26-banner-desktop-masterjpg.jpg?width=720&amp;height=281&amp;format=webp&amp;quality=90&amp;v=1dadc5e2b05fc20 720w,/media/ostpv0vv/2023-05-26-banner-desktop-masterjpg.jpg?width=800&amp;height=312&amp;format=webp&amp;quality=90&amp;v=1dadc5e2b05fc20 800w,/media/ostpv0vv/2023-05-26-banner-desktop-masterjpg.jpg?width=880&amp;height=344&amp;format=webp&amp;quality=90&amp;v=1dadc5e2b05fc20 880w,/media/ostpv0vv/2023-05-26-banner-desktop-masterjpg.jpg?width=960&amp;height=375&amp;format=webp&amp;quality=90&amp;v=1dadc5e2b05fc20 960w,/media/ostpv0vv/2023-05-26-banner-desktop-masterjpg.jpg?width=1040&amp;height=406&amp;format=webp&amp;quality=90&amp;v=1dadc5e2b05fc20 1040w,/media/ostpv0vv/2023-05-26-banner-desktop-masterjpg.jpg?width=1120&amp;height=437&amp;format=webp&amp;quality=90&amp;v=1dadc5e2b05fc20 1120w,/media/ostpv0vv/2023-05-26-banner-desktop-masterjpg.jpg?width=1200&amp;height=469&amp;format=webp&amp;quality=90&amp;v=1dadc5e2b05fc20 1200w,/media/ostpv0vv/2023-05-26-banner-desktop-masterjpg.jpg?width=1280&amp;height=500&amp;format=webp&amp;quality=90&amp;v=1dadc5e2b05fc20 1280w,/media/ostpv0vv/2023-05-26-banner-desktop-masterjpg.jpg?width=1360&amp;height=531&amp;format=webp&amp;quality=90&amp;v=1dadc5e2b05fc20 1360w,/media/ostpv0vv/2023-05-26-banner-desktop-masterjpg.jpg?width=1440&amp;height=562&amp;format=webp&amp;quality=90&amp;v=1dadc5e2b05fc20 1440w" src="/media/ostpv0vv/2023-05-26-banner-desktop-masterjpg.jpg?width=40&amp;height=29&amp;quality=40&amp;v=1dadc5e2b05fc20" sizes="auto" />
+                        </div>
+                    <div class="boxHome">
+                            <h2 class="title">NEW RENAULT MASTER</h2>
+                            <hr class="linea">
+                            <div class="paragraph">M&#xE1;s espacio para grandes cosas</div>
+
+                            <div class="buttonsBanner">
+                                        <a href="/formulario/cotizacion/?id_model=MASTERFURGON">
+                                            <p class="btn_base btn_base_p btn_primary white btn_large">
+                                                COTIZAR
+                                            </p>
+                                        </a>
+                                        <a href="/vehiculo/master/">
+                                            <p class="btn_base btn_base_p btn_secondary_lead btn_large">
+                                                DESC&#xDA;BRELA
+                                            </p>
+                                        </a>
+                            </div>
+
+                    </div>
+                </div>
+        </div>
+
+        <div class="wrapper-pagination swiper-content-pagination">
+            <div class="swiper-pagination-hero-banner timer-banner"></div>
+        </div>
+
+
+    </article>
+</section>
+
+
+<section class="showcase-filters__section  max-w">
+    <h1 class="showcase-home__title">ENTRA EN EL UNIVERSO DE VEH&#xCD;CULOS RENAULT</h1>
+    <div class="showcase_filter h__scroll">
+             <button onclick="fillingOut('TODOS')" name="TODOS">TODOS</button> 
+             <button onclick="fillingOut('PASAJEROS')" name="PASAJEROS">Pasajeros</button> 
+             <button onclick="fillingOut('PICK UP')" name="PICK_UP">Pick Up</button> 
+             <button onclick="fillingOut('COMERCIALES')" name="COMERCIALES">Comerciales</button> 
+    </div>
+</section>
+<section class="showcase-home">
+    <div class="swiper-button-prev"></div>
+    <article class="showcaseSwiper">
+        <div class="swiper-wrapper" id="swiper_wrapper__showcase_home">
+        </div>
+    </article>
+    <div class="swiper-button-next"></div>
+</section>
+
+<article id="showcase_information">
+    <div class="showcase-information__display  max-w">
+        <div id="showcase-information__texts" class="showcase-information__texts container">
+            <img id="model_name_img"
+                src="" alt="Imagen del nombre del modelo">
+              <h3 class="title-vehicle-mark"></h3>
+            <h2 class="title-vehicle-model">${vehicle.nombreDelModelo}</h2>
+            <span class="showcase_descripcion">${vehicle.descripcionDelModelo}</span>
+
+            <div class="showcase-information_price_divider" id="versionPrice"></div> 
+
+            <div class="showcase_colored_wrapper">
+                <div class="showcase_ctas_wrapper">
+                    <a id="vehicle_url" class="btn_base btn_medium btn_primary brand w_full" href="${vehicle.Url}">ver modelo</a>
+                    <a id="vehicle_cta_btn" class="showcase_secondary-btn btn_base btn_medium active btn_secondary_normal w_full" href=""
+                        target="${vehicle.RedirectTarget}">${vehicle.RedirectName}</a>
+                </div>
+                <div class="d-flex flex-column color-container">
+                    <p class="descripcion_color" id="color_name">Color seleccionado:
+                    <strong class="color-selected"></strong></p>
+                    <div class="color-wrapper">
+                        
+                    </div>
+                </div>
+            </div>
+
+            <div>
+                <p class="label-description">${vehicle.labelDescripcion}</p>
+            </div>
+        </div>
+        <div class="showcase-vehicle__image">
+            
+                <img class="showcase-vehicle__image__ppal" id="color_image" src=""
+                alt="" />
+            
+            
+        </div>
+        <p></p>
+    </div>
+</article>
+<script src="/vendors/write-less/write-less.js"></script>
+<script src="/scripts/home/showcase_home.js"></script>
+
+
+
+<script>
+        
+    var vehicleArray = [];
+        vehicleUMB_OBJ = { };
+        vehicleUMB_OBJ.index = "0";
+        vehicleUMB_OBJ.marca = "Renault";
+        vehicleUMB_OBJ.vehicleImage = "/media/perilezi/thumbnail-arkana-h_600x400-1-slider-home.webp";
+        vehicleUMB_OBJ.nombreDelModeloComoImagen = "";
+        vehicleUMB_OBJ.imagenDeFondo = "";
+        vehicleUMB_OBJ.nombreDelModelo = "ALL NEW RENAULT ARKANA";
+        vehicleUMB_OBJ.descripcionDelModelo = "";
+        vehicleUMB_OBJ.etiquetaPrecio = "Precio desde";
+        vehicleUMB_OBJ.precioDelModelo = "$28.990";
+        vehicleUMB_OBJ.precioSegundaMoneda = "S/ 130.182";
+        vehicleUMB_OBJ.etiquetaCuota = "";
+        vehicleUMB_OBJ.cuotaMensualDelModelo = "";
+        vehicleUMB_OBJ.cuotaSegundaMoneda = "";
+        vehicleUMB_OBJ.etiquetaBonoMarca = "Bono marca";
+        vehicleUMB_OBJ.bonoMarca = "";
+        vehicleUMB_OBJ.bonoMarcaSegundaMoneda = "";
+        vehicleUMB_OBJ.etiquetaPrecioLista = "Precio lista";
+        vehicleUMB_OBJ.precioLista = "";
+        vehicleUMB_OBJ.precioListaSegundaMoneda = "";
+        vehicleUMB_OBJ.etiquetaBonoFinanciamiento = "Bono financiamiento";
+        vehicleUMB_OBJ.bonoFinanciamiento = "";
+        vehicleUMB_OBJ.bonoFinanciamientoSegundaMoneda = "";
+        vehicleUMB_OBJ.labelDescripcion = "";
+        vehicleUMB_OBJ.Url = "/vehiculo/new-renault-arkana/";
+        vehicleUMB_OBJ.RedirectURL = "/vehiculos/?id_model=ARNAKAH";
+        vehicleUMB_OBJ.RedirectTarget = "";
+        vehicleUMB_OBJ.RedirectName = "Vehiculos"; 
+        var elementosArray = [];
+            feature = { };
+            feature.colorHex = "#ffffff";
+            feature.nombreColor = "Blanco universal";
+            feature.imagenDelShowcase = "/media/vbcd30fy/arkana-hybrid-alpine-blanco-slider-home.webp";
+            elementosArray.push(feature);
+            feature = { };
+            feature.colorHex = "#262850";
+            feature.nombreColor = "Azul noche";
+            feature.imagenDelShowcase = "/media/oicbh0hx/arkana-hybrid-alpine-azulnoche.png";
+            elementosArray.push(feature);
+            feature = { };
+            feature.colorHex = "#000000";
+            feature.nombreColor = "Negro sport";
+            feature.imagenDelShowcase = "/media/fuojvsjj/arkana-hybrid-alpine-negro.png";
+            elementosArray.push(feature);
+            feature = { };
+            feature.colorHex = "#cc0000";
+            feature.nombreColor = "Rojo fuego";
+            feature.imagenDelShowcase = "/media/5xkiw0in/arkana-hybrid-alpine-rojo.png";
+            elementosArray.push(feature);
+            feature = { };
+            feature.colorHex = "#8f8f8f";
+            feature.nombreColor = "Gris met&#xE1;lico";
+            feature.imagenDelShowcase = "/media/f1xjhzei/arkana-hybrid-alpine-gris.png";
+            elementosArray.push(feature);
+            feature = { };
+            feature.colorHex = "#4075a8";
+            feature.nombreColor = "Azul Intenso";
+            feature.imagenDelShowcase = "/media/k15hkgxd/arkana-hybrid-alpine-azul.png";
+            elementosArray.push(feature);
+        vehicleUMB_OBJ.colorInformationPerVehicle = elementosArray; 
+        var newCategoriesArray = [];
+            newCategoriesArray.push("TODOS");
+            newCategoriesArray.push("SUV");
+            newCategoriesArray.push("PASAJEROS");
+        vehicleUMB_OBJ.categories = newCategoriesArray;
+        vehicleArray.push(vehicleUMB_OBJ);
+        vehicleUMB_OBJ = { };
+        vehicleUMB_OBJ.index = "1";
+        vehicleUMB_OBJ.marca = "Renault";
+        vehicleUMB_OBJ.vehicleImage = "/media/webh3n1j/thumbnail-kardan_png24-slider-home.webp";
+        vehicleUMB_OBJ.nombreDelModeloComoImagen = "";
+        vehicleUMB_OBJ.imagenDeFondo = "";
+        vehicleUMB_OBJ.nombreDelModelo = "NEW RENAULT KARDIAN";
+        vehicleUMB_OBJ.descripcionDelModelo = "";
+        vehicleUMB_OBJ.etiquetaPrecio = "Precio desde";
+        vehicleUMB_OBJ.precioDelModelo = "$16.990";
+        vehicleUMB_OBJ.precioSegundaMoneda = "S/78.477";
+        vehicleUMB_OBJ.etiquetaCuota = "";
+        vehicleUMB_OBJ.cuotaMensualDelModelo = "";
+        vehicleUMB_OBJ.cuotaSegundaMoneda = "";
+        vehicleUMB_OBJ.etiquetaBonoMarca = "";
+        vehicleUMB_OBJ.bonoMarca = "";
+        vehicleUMB_OBJ.bonoMarcaSegundaMoneda = "";
+        vehicleUMB_OBJ.etiquetaPrecioLista = "";
+        vehicleUMB_OBJ.precioLista = "";
+        vehicleUMB_OBJ.precioListaSegundaMoneda = "";
+        vehicleUMB_OBJ.etiquetaBonoFinanciamiento = "";
+        vehicleUMB_OBJ.bonoFinanciamiento = "";
+        vehicleUMB_OBJ.bonoFinanciamientoSegundaMoneda = "";
+        vehicleUMB_OBJ.labelDescripcion = "";
+        vehicleUMB_OBJ.Url = "/vehiculo/new-renault-kardian/";
+        vehicleUMB_OBJ.RedirectURL = "/vehiculos/?id_model=KARDIAN";
+        vehicleUMB_OBJ.RedirectTarget = "";
+        vehicleUMB_OBJ.RedirectName = "Vehiculos"; 
+        var elementosArray = [];
+            feature = { };
+            feature.colorHex = "#ed9026";
+            feature.nombreColor = "NARANJA MET&#xC1;LICO";
+            feature.imagenDelShowcase = "/media/ue5gxxpt/kardiannaranja.png";
+            elementosArray.push(feature);
+            feature = { };
+            feature.colorHex = "#ffffff";
+            feature.nombreColor = "BLANCO GLACIAL";
+            feature.imagenDelShowcase = "/media/2nulvn4o/kardianblanco.png";
+            elementosArray.push(feature);
+            feature = { };
+            feature.colorHex = "#bcbcbc";
+            feature.nombreColor = "GRIS ESTRELLA";
+            feature.imagenDelShowcase = "/media/cp2hxtdt/kardiangris3.png";
+            elementosArray.push(feature);
+            feature = { };
+            feature.colorHex = "#5b5b5b";
+            feature.nombreColor = "GRIS CASSIOPE";
+            feature.imagenDelShowcase = "/media/ed1hydy1/kardiangris4.png";
+            elementosArray.push(feature);
+            feature = { };
+            feature.colorHex = "#000000";
+            feature.nombreColor = "NEGRO NACARADO";
+            feature.imagenDelShowcase = "/media/nqobjgqt/kardiannegro.png";
+            elementosArray.push(feature);
+        vehicleUMB_OBJ.colorInformationPerVehicle = elementosArray; 
+        var newCategoriesArray = [];
+            newCategoriesArray.push("TODOS");
+            newCategoriesArray.push("SUV");
+            newCategoriesArray.push("PASAJEROS");
+        vehicleUMB_OBJ.categories = newCategoriesArray;
+        vehicleArray.push(vehicleUMB_OBJ);
+        vehicleUMB_OBJ = { };
+        vehicleUMB_OBJ.index = "2";
+        vehicleUMB_OBJ.marca = "Renault";
+        vehicleUMB_OBJ.vehicleImage = "/media/om5dgqjq/thumbnail-2023-05-02-05_new-koleos-min-slider-home.webp";
+        vehicleUMB_OBJ.nombreDelModeloComoImagen = "";
+        vehicleUMB_OBJ.imagenDeFondo = "";
+        vehicleUMB_OBJ.nombreDelModelo = "KOLEOS";
+        vehicleUMB_OBJ.descripcionDelModelo = "";
+        vehicleUMB_OBJ.etiquetaPrecio = "Precio desde";
+        vehicleUMB_OBJ.precioDelModelo = "$25.990";
+        vehicleUMB_OBJ.precioSegundaMoneda = "S/98.762";
+        vehicleUMB_OBJ.etiquetaCuota = "";
+        vehicleUMB_OBJ.cuotaMensualDelModelo = "";
+        vehicleUMB_OBJ.cuotaSegundaMoneda = "";
+        vehicleUMB_OBJ.etiquetaBonoMarca = "";
+        vehicleUMB_OBJ.bonoMarca = "";
+        vehicleUMB_OBJ.bonoMarcaSegundaMoneda = "";
+        vehicleUMB_OBJ.etiquetaPrecioLista = "";
+        vehicleUMB_OBJ.precioLista = "";
+        vehicleUMB_OBJ.precioListaSegundaMoneda = "";
+        vehicleUMB_OBJ.etiquetaBonoFinanciamiento = "";
+        vehicleUMB_OBJ.bonoFinanciamiento = "";
+        vehicleUMB_OBJ.bonoFinanciamientoSegundaMoneda = "";
+        vehicleUMB_OBJ.labelDescripcion = "";
+        vehicleUMB_OBJ.Url = "/vehiculo/koleos/";
+        vehicleUMB_OBJ.RedirectURL = "/formulario/cotizacion/?id_model=KOLEOS";
+        vehicleUMB_OBJ.RedirectTarget = "_self";
+        vehicleUMB_OBJ.RedirectName = "cotizar"; 
+        var elementosArray = [];
+            feature = { };
+            feature.colorHex = "#ecf0f9";
+            feature.nombreColor = "Blanco glaciar ";
+            feature.imagenDelShowcase = "/media/pswcl4ot/koleos_zen_white.png";
+            elementosArray.push(feature);
+            feature = { };
+            feature.colorHex = "#c5c9ca";
+            feature.nombreColor = "Gris highland ";
+            feature.imagenDelShowcase = "/media/0vtnvtys/koleos_zen_grhig.png";
+            elementosArray.push(feature);
+            feature = { };
+            feature.colorHex = "#0a0a0a";
+            feature.nombreColor = "Negro met&#xE1;lico ";
+            feature.imagenDelShowcase = "/media/lwabdarg/koleos_zen_black.png";
+            elementosArray.push(feature);
+            feature = { };
+            feature.colorHex = "#641c34";
+            feature.nombreColor = "Rojo millesime ";
+            feature.imagenDelShowcase = "/media/chsm2lf5/koleos_zen_red.png";
+            elementosArray.push(feature);
+            feature = { };
+            feature.colorHex = "#8b8589";
+            feature.nombreColor = "Gris met&#xE1;lico ";
+            feature.imagenDelShowcase = "/media/hvfn0gff/koleos_zen_gris.png";
+            elementosArray.push(feature);
+        vehicleUMB_OBJ.colorInformationPerVehicle = elementosArray; 
+        var newCategoriesArray = [];
+            newCategoriesArray.push("TODOS");
+            newCategoriesArray.push("SUV");
+            newCategoriesArray.push("PASAJEROS");
+        vehicleUMB_OBJ.categories = newCategoriesArray;
+        vehicleArray.push(vehicleUMB_OBJ);
+        vehicleUMB_OBJ = { };
+        vehicleUMB_OBJ.index = "3";
+        vehicleUMB_OBJ.marca = "Renault";
+        vehicleUMB_OBJ.vehicleImage = "/media/ekehp3t1/thumbnail-2024-05-23-1-imagen-destacada-600x400-slider-home.webp";
+        vehicleUMB_OBJ.nombreDelModeloComoImagen = "";
+        vehicleUMB_OBJ.imagenDeFondo = "";
+        vehicleUMB_OBJ.nombreDelModelo = "KWID E-TECH";
+        vehicleUMB_OBJ.descripcionDelModelo = "";
+        vehicleUMB_OBJ.etiquetaPrecio = "Precio desde";
+        vehicleUMB_OBJ.precioDelModelo = "$25.740";
+        vehicleUMB_OBJ.precioSegundaMoneda = "S/105.287";
+        vehicleUMB_OBJ.etiquetaCuota = "";
+        vehicleUMB_OBJ.cuotaMensualDelModelo = "";
+        vehicleUMB_OBJ.cuotaSegundaMoneda = "";
+        vehicleUMB_OBJ.etiquetaBonoMarca = "";
+        vehicleUMB_OBJ.bonoMarca = "";
+        vehicleUMB_OBJ.bonoMarcaSegundaMoneda = "";
+        vehicleUMB_OBJ.etiquetaPrecioLista = "";
+        vehicleUMB_OBJ.precioLista = "";
+        vehicleUMB_OBJ.precioListaSegundaMoneda = "";
+        vehicleUMB_OBJ.etiquetaBonoFinanciamiento = "";
+        vehicleUMB_OBJ.bonoFinanciamiento = "";
+        vehicleUMB_OBJ.bonoFinanciamientoSegundaMoneda = "";
+        vehicleUMB_OBJ.labelDescripcion = "";
+        vehicleUMB_OBJ.Url = "/vehiculo/kwid-e-tech/";
+        vehicleUMB_OBJ.RedirectURL = "/formulario/cotizacion/?id_model=KWID E-TECH";
+        vehicleUMB_OBJ.RedirectTarget = "_self";
+        vehicleUMB_OBJ.RedirectName = "cotizar"; 
+        var elementosArray = [];
+            feature = { };
+            feature.colorHex = "#5A5C58";
+            feature.nombreColor = "Gris liquen ";
+            feature.imagenDelShowcase = "/media/1wupfnfs/kwide-tech_gris_liquen.png";
+            elementosArray.push(feature);
+            feature = { };
+            feature.colorHex = "#AFB8C4";
+            feature.nombreColor = "Plata diamante ";
+            feature.imagenDelShowcase = "/media/jvflqsmv/keide-tech_plata_diamante.png";
+            elementosArray.push(feature);
+            feature = { };
+            feature.colorHex = "#E6EFEC";
+            feature.nombreColor = "Blanco polar ";
+            feature.imagenDelShowcase = "/media/qceocfpb/kwide-tech_blanco_polar.png";
+            elementosArray.push(feature);
+        vehicleUMB_OBJ.colorInformationPerVehicle = elementosArray; 
+        var newCategoriesArray = [];
+            newCategoriesArray.push("TODOS");
+            newCategoriesArray.push("E-TECH 100% ELECTRICOS");
+            newCategoriesArray.push("PASAJEROS");
+        vehicleUMB_OBJ.categories = newCategoriesArray;
+        vehicleArray.push(vehicleUMB_OBJ);
+        vehicleUMB_OBJ = { };
+        vehicleUMB_OBJ.index = "4";
+        vehicleUMB_OBJ.marca = "Renault";
+        vehicleUMB_OBJ.vehicleImage = "/media/rrnlinn5/thumbnail-2023-05-02-06_new-stepway-min-1-slider-home.webp";
+        vehicleUMB_OBJ.nombreDelModeloComoImagen = "";
+        vehicleUMB_OBJ.imagenDeFondo = "";
+        vehicleUMB_OBJ.nombreDelModelo = "STEPWAY";
+        vehicleUMB_OBJ.descripcionDelModelo = "";
+        vehicleUMB_OBJ.etiquetaPrecio = "Precio desde";
+        vehicleUMB_OBJ.precioDelModelo = "$15.990";
+        vehicleUMB_OBJ.precioSegundaMoneda = "S/60.762";
+        vehicleUMB_OBJ.etiquetaCuota = "";
+        vehicleUMB_OBJ.cuotaMensualDelModelo = "";
+        vehicleUMB_OBJ.cuotaSegundaMoneda = "";
+        vehicleUMB_OBJ.etiquetaBonoMarca = "";
+        vehicleUMB_OBJ.bonoMarca = "";
+        vehicleUMB_OBJ.bonoMarcaSegundaMoneda = "";
+        vehicleUMB_OBJ.etiquetaPrecioLista = "";
+        vehicleUMB_OBJ.precioLista = "";
+        vehicleUMB_OBJ.precioListaSegundaMoneda = "";
+        vehicleUMB_OBJ.etiquetaBonoFinanciamiento = "";
+        vehicleUMB_OBJ.bonoFinanciamiento = "";
+        vehicleUMB_OBJ.bonoFinanciamientoSegundaMoneda = "";
+        vehicleUMB_OBJ.labelDescripcion = "";
+        vehicleUMB_OBJ.Url = "/vehiculo/stepway/";
+        vehicleUMB_OBJ.RedirectURL = "/formulario/cotizacion/?id_model=STEPWAY";
+        vehicleUMB_OBJ.RedirectTarget = "";
+        vehicleUMB_OBJ.RedirectName = "Cotizar"; 
+        var elementosArray = [];
+            feature = { };
+            feature.colorHex = "#fffefe";
+            feature.nombreColor = "Blanco Glaciar";
+            feature.imagenDelShowcase = "/media/urbmjenx/3.png";
+            elementosArray.push(feature);
+            feature = { };
+            feature.colorHex = "#444444";
+            feature.nombreColor = "Gris Cassioppe";
+            feature.imagenDelShowcase = "/media/t1zdypvw/2.png";
+            elementosArray.push(feature);
+            feature = { };
+            feature.colorHex = "#bcbcbc";
+            feature.nombreColor = "Gris Estrella";
+            feature.imagenDelShowcase = "/media/puvax1xh/1.png";
+            elementosArray.push(feature);
+            feature = { };
+            feature.colorHex = "#990000";
+            feature.nombreColor = "Rojo Fuego";
+            feature.imagenDelShowcase = "/media/v1db1mzi/34.png";
+            elementosArray.push(feature);
+        vehicleUMB_OBJ.colorInformationPerVehicle = elementosArray; 
+        var newCategoriesArray = [];
+            newCategoriesArray.push("TODOS");
+            newCategoriesArray.push("SUV");
+            newCategoriesArray.push("PASAJEROS");
+        vehicleUMB_OBJ.categories = newCategoriesArray;
+        vehicleArray.push(vehicleUMB_OBJ);
+        vehicleUMB_OBJ = { };
+        vehicleUMB_OBJ.index = "5";
+        vehicleUMB_OBJ.marca = "Renault";
+        vehicleUMB_OBJ.vehicleImage = "/media/m2wmlnyf/thumbnail-duster-22-slider-home.webp";
+        vehicleUMB_OBJ.nombreDelModeloComoImagen = "";
+        vehicleUMB_OBJ.imagenDeFondo = "";
+        vehicleUMB_OBJ.nombreDelModelo = "DUSTER";
+        vehicleUMB_OBJ.descripcionDelModelo = "";
+        vehicleUMB_OBJ.etiquetaPrecio = "Precio desde";
+        vehicleUMB_OBJ.precioDelModelo = "$22.490";
+        vehicleUMB_OBJ.precioSegundaMoneda = "S/85.462";
+        vehicleUMB_OBJ.etiquetaCuota = "";
+        vehicleUMB_OBJ.cuotaMensualDelModelo = "";
+        vehicleUMB_OBJ.cuotaSegundaMoneda = "";
+        vehicleUMB_OBJ.etiquetaBonoMarca = "";
+        vehicleUMB_OBJ.bonoMarca = "";
+        vehicleUMB_OBJ.bonoMarcaSegundaMoneda = "";
+        vehicleUMB_OBJ.etiquetaPrecioLista = "";
+        vehicleUMB_OBJ.precioLista = "";
+        vehicleUMB_OBJ.precioListaSegundaMoneda = "";
+        vehicleUMB_OBJ.etiquetaBonoFinanciamiento = "";
+        vehicleUMB_OBJ.bonoFinanciamiento = "";
+        vehicleUMB_OBJ.bonoFinanciamientoSegundaMoneda = "";
+        vehicleUMB_OBJ.labelDescripcion = "";
+        vehicleUMB_OBJ.Url = "/vehiculo/duster/";
+        vehicleUMB_OBJ.RedirectURL = "/formulario/cotizacion/?id_model=DUSTER";
+        vehicleUMB_OBJ.RedirectTarget = "_self";
+        vehicleUMB_OBJ.RedirectName = "cotizar"; 
+        var elementosArray = [];
+            feature = { };
+            feature.colorHex = "#ECF0F9 ";
+            feature.nombreColor = "Blanco glaciar";
+            feature.imagenDelShowcase = "/media/nsnf2agu/2024-07-02-duster-600-x-400-1.webp";
+            elementosArray.push(feature);
+        vehicleUMB_OBJ.colorInformationPerVehicle = elementosArray; 
+        var newCategoriesArray = [];
+            newCategoriesArray.push("TODOS");
+            newCategoriesArray.push("PASAJEROS");
+        vehicleUMB_OBJ.categories = newCategoriesArray;
+        vehicleArray.push(vehicleUMB_OBJ);
+        vehicleUMB_OBJ = { };
+        vehicleUMB_OBJ.index = "6";
+        vehicleUMB_OBJ.marca = "Renault";
+        vehicleUMB_OBJ.vehicleImage = "/media/l4zlcghz/thumbnail-minubus-slider-home.webp";
+        vehicleUMB_OBJ.nombreDelModeloComoImagen = "";
+        vehicleUMB_OBJ.imagenDeFondo = "";
+        vehicleUMB_OBJ.nombreDelModelo = "MINIBUS";
+        vehicleUMB_OBJ.descripcionDelModelo = "";
+        vehicleUMB_OBJ.etiquetaPrecio = "Precio desde";
+        vehicleUMB_OBJ.precioDelModelo = "$50.790";
+        vehicleUMB_OBJ.precioSegundaMoneda = "S/206.016";
+        vehicleUMB_OBJ.etiquetaCuota = "";
+        vehicleUMB_OBJ.cuotaMensualDelModelo = "";
+        vehicleUMB_OBJ.cuotaSegundaMoneda = "";
+        vehicleUMB_OBJ.etiquetaBonoMarca = "";
+        vehicleUMB_OBJ.bonoMarca = "";
+        vehicleUMB_OBJ.bonoMarcaSegundaMoneda = "";
+        vehicleUMB_OBJ.etiquetaPrecioLista = "";
+        vehicleUMB_OBJ.precioLista = "";
+        vehicleUMB_OBJ.precioListaSegundaMoneda = "";
+        vehicleUMB_OBJ.etiquetaBonoFinanciamiento = "";
+        vehicleUMB_OBJ.bonoFinanciamiento = "";
+        vehicleUMB_OBJ.bonoFinanciamientoSegundaMoneda = "";
+        vehicleUMB_OBJ.labelDescripcion = "COMERCIALES";
+        vehicleUMB_OBJ.Url = "/vehiculo/minibus/";
+        vehicleUMB_OBJ.RedirectURL = "/formulario/cotizacion/?id_model=MINIBUS";
+        vehicleUMB_OBJ.RedirectTarget = "_self";
+        vehicleUMB_OBJ.RedirectName = "cotizar"; 
+        var elementosArray = [];
+            feature = { };
+            feature.colorHex = "#ffffff";
+            feature.nombreColor = "Blanco ";
+            feature.imagenDelShowcase = "/media/jgobun5c/2023-10-19-03-10-01-master-minibus.png";
+            elementosArray.push(feature);
+        vehicleUMB_OBJ.colorInformationPerVehicle = elementosArray; 
+        var newCategoriesArray = [];
+            newCategoriesArray.push("TODOS");
+            newCategoriesArray.push("PASAJEROS");
+        vehicleUMB_OBJ.categories = newCategoriesArray;
+        vehicleArray.push(vehicleUMB_OBJ);
+        vehicleUMB_OBJ = { };
+        vehicleUMB_OBJ.index = "7";
+        vehicleUMB_OBJ.marca = "Renault";
+        vehicleUMB_OBJ.vehicleImage = "/media/pcumdbbl/thumbnail-2023-05-02-08_new-master-min-slider-home.webp";
+        vehicleUMB_OBJ.nombreDelModeloComoImagen = "";
+        vehicleUMB_OBJ.imagenDeFondo = "";
+        vehicleUMB_OBJ.nombreDelModelo = "MASTER";
+        vehicleUMB_OBJ.descripcionDelModelo = "";
+        vehicleUMB_OBJ.etiquetaPrecio = "Precio desde";
+        vehicleUMB_OBJ.precioDelModelo = "$43.990";
+        vehicleUMB_OBJ.precioSegundaMoneda = "S/168.482";
+        vehicleUMB_OBJ.etiquetaCuota = "";
+        vehicleUMB_OBJ.cuotaMensualDelModelo = "";
+        vehicleUMB_OBJ.cuotaSegundaMoneda = "";
+        vehicleUMB_OBJ.etiquetaBonoMarca = "";
+        vehicleUMB_OBJ.bonoMarca = "";
+        vehicleUMB_OBJ.bonoMarcaSegundaMoneda = "";
+        vehicleUMB_OBJ.etiquetaPrecioLista = "";
+        vehicleUMB_OBJ.precioLista = "";
+        vehicleUMB_OBJ.precioListaSegundaMoneda = "";
+        vehicleUMB_OBJ.etiquetaBonoFinanciamiento = "";
+        vehicleUMB_OBJ.bonoFinanciamiento = "";
+        vehicleUMB_OBJ.bonoFinanciamientoSegundaMoneda = "";
+        vehicleUMB_OBJ.labelDescripcion = "";
+        vehicleUMB_OBJ.Url = "/vehiculo/master/";
+        vehicleUMB_OBJ.RedirectURL = "/formulario/cotizacion/?id_model=MASTERFURGON";
+        vehicleUMB_OBJ.RedirectTarget = "_self";
+        vehicleUMB_OBJ.RedirectName = "cotizar"; 
+        var elementosArray = [];
+            feature = { };
+            feature.colorHex = "#ffffff";
+            feature.nombreColor = "Blanco ";
+            feature.imagenDelShowcase = "/media/bisp0kfr/2020-10-06-renault_master-furgon_blanco.jpg";
+            elementosArray.push(feature);
+        vehicleUMB_OBJ.colorInformationPerVehicle = elementosArray; 
+        var newCategoriesArray = [];
+            newCategoriesArray.push("TODOS");
+            newCategoriesArray.push("COMERCIALES");
+            newCategoriesArray.push("PASAJEROS");
+        vehicleUMB_OBJ.categories = newCategoriesArray;
+        vehicleArray.push(vehicleUMB_OBJ);
+        vehicleUMB_OBJ = { };
+        vehicleUMB_OBJ.index = "8";
+        vehicleUMB_OBJ.marca = "Renault";
+        vehicleUMB_OBJ.vehicleImage = "/media/3umapb5d/thumbnail-2023-05-02-01_new-kwid-min-slider-home.webp";
+        vehicleUMB_OBJ.nombreDelModeloComoImagen = "";
+        vehicleUMB_OBJ.imagenDeFondo = "";
+        vehicleUMB_OBJ.nombreDelModelo = "KWID";
+        vehicleUMB_OBJ.descripcionDelModelo = "";
+        vehicleUMB_OBJ.etiquetaPrecio = "Precio desde";
+        vehicleUMB_OBJ.precioDelModelo = "$10.990";
+        vehicleUMB_OBJ.precioSegundaMoneda = "S/41.762";
+        vehicleUMB_OBJ.etiquetaCuota = "";
+        vehicleUMB_OBJ.cuotaMensualDelModelo = "";
+        vehicleUMB_OBJ.cuotaSegundaMoneda = "";
+        vehicleUMB_OBJ.etiquetaBonoMarca = "";
+        vehicleUMB_OBJ.bonoMarca = "";
+        vehicleUMB_OBJ.bonoMarcaSegundaMoneda = "";
+        vehicleUMB_OBJ.etiquetaPrecioLista = "";
+        vehicleUMB_OBJ.precioLista = "";
+        vehicleUMB_OBJ.precioListaSegundaMoneda = "";
+        vehicleUMB_OBJ.etiquetaBonoFinanciamiento = "";
+        vehicleUMB_OBJ.bonoFinanciamiento = "";
+        vehicleUMB_OBJ.bonoFinanciamientoSegundaMoneda = "";
+        vehicleUMB_OBJ.labelDescripcion = "";
+        vehicleUMB_OBJ.Url = "/vehiculo/kwid/";
+        vehicleUMB_OBJ.RedirectURL = "/formulario/cotizacion/?id_model=KWID";
+        vehicleUMB_OBJ.RedirectTarget = "";
+        vehicleUMB_OBJ.RedirectName = "cotizar"; 
+        var elementosArray = [];
+            feature = { };
+            feature.colorHex = "#114b91";
+            feature.nombreColor = "Azul iron ";
+            feature.imagenDelShowcase = "/media/nlddvlyd/kwid_zen_blue.png";
+            elementosArray.push(feature);
+            feature = { };
+            feature.colorHex = "#ecf0f9";
+            feature.nombreColor = "Blanco glaciar ";
+            feature.imagenDelShowcase = "/media/djfigz2e/kwid_zen_white.png";
+            elementosArray.push(feature);
+            feature = { };
+            feature.colorHex = "#c5c9ca";
+            feature.nombreColor = "Gris estrella ";
+            feature.imagenDelShowcase = "/media/evcjzyxa/kwid_zen_gr.png";
+            elementosArray.push(feature);
+            feature = { };
+            feature.colorHex = "#080c12";
+            feature.nombreColor = "Negro nacarado ";
+            feature.imagenDelShowcase = "/media/lpqjrc0s/kwid_zen_black.png";
+            elementosArray.push(feature);
+            feature = { };
+            feature.colorHex = "#d32213";
+            feature.nombreColor = "Rojo fuego ";
+            feature.imagenDelShowcase = "/media/l5ciljgl/kwid_zen_rojo.png";
+            elementosArray.push(feature);
+        vehicleUMB_OBJ.colorInformationPerVehicle = elementosArray; 
+        var newCategoriesArray = [];
+            newCategoriesArray.push("TODOS");
+            newCategoriesArray.push("PASAJEROS");
+        vehicleUMB_OBJ.categories = newCategoriesArray;
+        vehicleArray.push(vehicleUMB_OBJ);
+        vehicleUMB_OBJ = { };
+        vehicleUMB_OBJ.index = "9";
+        vehicleUMB_OBJ.marca = "Renault";
+        vehicleUMB_OBJ.vehicleImage = "/media/ecwhcqcw/thumbnail-2023-05-02-02_new-oroch-min-slider-home.webp";
+        vehicleUMB_OBJ.nombreDelModeloComoImagen = "";
+        vehicleUMB_OBJ.imagenDeFondo = "";
+        vehicleUMB_OBJ.nombreDelModelo = "OROCH ";
+        vehicleUMB_OBJ.descripcionDelModelo = "";
+        vehicleUMB_OBJ.etiquetaPrecio = "Precio desde";
+        vehicleUMB_OBJ.precioDelModelo = "$16.490";
+        vehicleUMB_OBJ.precioSegundaMoneda = "S/62.662";
+        vehicleUMB_OBJ.etiquetaCuota = "";
+        vehicleUMB_OBJ.cuotaMensualDelModelo = "";
+        vehicleUMB_OBJ.cuotaSegundaMoneda = "";
+        vehicleUMB_OBJ.etiquetaBonoMarca = "";
+        vehicleUMB_OBJ.bonoMarca = "";
+        vehicleUMB_OBJ.bonoMarcaSegundaMoneda = "";
+        vehicleUMB_OBJ.etiquetaPrecioLista = "";
+        vehicleUMB_OBJ.precioLista = "";
+        vehicleUMB_OBJ.precioListaSegundaMoneda = "";
+        vehicleUMB_OBJ.etiquetaBonoFinanciamiento = "";
+        vehicleUMB_OBJ.bonoFinanciamiento = "";
+        vehicleUMB_OBJ.bonoFinanciamientoSegundaMoneda = "";
+        vehicleUMB_OBJ.labelDescripcion = "";
+        vehicleUMB_OBJ.Url = "/vehiculo/oroch/";
+        vehicleUMB_OBJ.RedirectURL = "/formulario/cotizacion/?id_model=OROCH";
+        vehicleUMB_OBJ.RedirectTarget = "_self";
+        vehicleUMB_OBJ.RedirectName = "cotizar"; 
+        var elementosArray = [];
+            feature = { };
+            feature.colorHex = "#ECF0F9 ";
+            feature.nombreColor = "Blanco glaciar";
+            feature.imagenDelShowcase = "/media/1knmthbs/renault_intens_white.png";
+            elementosArray.push(feature);
+            feature = { };
+            feature.colorHex = "#C5C9CA";
+            feature.nombreColor = "Gris estrella ";
+            feature.imagenDelShowcase = "/media/0vcophro/renault_intens_grise.png";
+            elementosArray.push(feature);
+            feature = { };
+            feature.colorHex = "#8B8589";
+            feature.nombreColor = "Gris taupe";
+            feature.imagenDelShowcase = "/media/3pkp2oue/renault_intens_grist.png";
+            elementosArray.push(feature);
+            feature = { };
+            feature.colorHex = "#D32213";
+            feature.nombreColor = "Rojo fuego";
+            feature.imagenDelShowcase = "/media/clwbix3w/renault_intens_red.png";
+            elementosArray.push(feature);
+        vehicleUMB_OBJ.colorInformationPerVehicle = elementosArray; 
+        var newCategoriesArray = [];
+            newCategoriesArray.push("TODOS");
+            newCategoriesArray.push("PICK UP");
+            newCategoriesArray.push("PASAJEROS");
+        vehicleUMB_OBJ.categories = newCategoriesArray;
+        vehicleArray.push(vehicleUMB_OBJ);
+    fillingOut('TODOS'); 
+
+</script>
+
+<section>
+<div class="BrandkeyInformation-Container  max-w">
+        <div class="BrandkeyInformation-TitleContainer">
+            <h2 class="text-center BrandkeyInformation-Title"></h2>
+        </div>
+    <div class="BrandkeyInformation-3-Items">
+            <div class="BrandkeyInformation-Item">
+                <img class="BrandkeyInformation-Item-Img" src="/media/w3waypwa/alarm.png" alt="icon" loading="lazy" class="itemIcon">
+                <h2 class="BrandkeyInformation-Item-Title">alerta de seguridad</h2>
+                <!--<p class="BrandkeyInformation-Item-p">Alerta de seguridad</p>-->
+                    <a class="BrandkeyInformation-Item-link link_button_secondary _black" href="https://www.derco.com.pe/campanadeseguridad" target="_blank">Saber m&#xE1;s
+                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" fill="none">
+                                        <path fill-rule="evenodd" clip-rule="evenodd"
+                                            d="M6.47602 16.6756C6.0702 16.3259 6.04489 15.7355 6.4195 15.3567L11.7934 9.92309L6.4195 4.48949C6.04489 4.11073 6.0702 3.52025 6.47602 3.17062C6.88184 2.82099 7.5145 2.8446 7.8891 3.22337L13.8891 9.29003C14.2427 9.64756 14.2427 10.1986 13.8891 10.5562L7.8891 16.6228C7.5145 17.0016 6.88184 17.0252 6.47602 16.6756Z"
+                                            fill="var(--brand)" />
+                        </svg>
+                    </a>
+                
+            </div>
+            <div class="BrandkeyInformation-Item">
+                <img class="BrandkeyInformation-Item-Img" src="/media/dfdkjj0i/location.png" alt="icon" loading="lazy" class="itemIcon">
+                <h2 class="BrandkeyInformation-Item-Title">encuentra el concesionario más cercano</h2>
+                <!--<p class="BrandkeyInformation-Item-p">concesionarios</p>-->
+                    <a class="BrandkeyInformation-Item-link link_button_secondary _black" href="/red/">encontrar
+                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" fill="none">
+                                        <path fill-rule="evenodd" clip-rule="evenodd"
+                                            d="M6.47602 16.6756C6.0702 16.3259 6.04489 15.7355 6.4195 15.3567L11.7934 9.92309L6.4195 4.48949C6.04489 4.11073 6.0702 3.52025 6.47602 3.17062C6.88184 2.82099 7.5145 2.8446 7.8891 3.22337L13.8891 9.29003C14.2427 9.64756 14.2427 10.1986 13.8891 10.5562L7.8891 16.6228C7.5145 17.0016 6.88184 17.0252 6.47602 16.6756Z"
+                                            fill="var(--brand)" />
+                        </svg>
+                    </a>
+                
+            </div>
+    </div>
+</div>
+</section>
+
+    </main>
+
+    
+
+<footer class="">
+    
+    <div class="footer-content">
+                    <div class="footer-content_herramientas">
+                        <div class="acordeon-cuerpo">
+                            <div class="acordeon">
+                                <div class="contenedorF">
+                                    <div class="etiqueta">
+                                        <h5>PASAJEROS</h5>
+                                    </div>
+                                    <div class="contenido">
+                                        <ul class="mt-3">
+                                                <li>
+                                                    <a href="/vehiculo/kwid/">NEW KWID</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/vehiculo/kwid-e-tech/">KWID E-TECH</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/vehiculo/stepway/">STEPWAY</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/vehiculo/koleos/">NEW KOLEOS</a>
+                                                </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="footer-content_herramientas">
+                        <div class="acordeon-cuerpo">
+                            <div class="acordeon">
+                                <div class="contenedorF">
+                                    <div class="etiqueta">
+                                        <h5>PICK UP</h5>
+                                    </div>
+                                    <div class="contenido">
+                                        <ul class="mt-3">
+                                                <li>
+                                                    <a href="/vehiculo/oroch/">OROCH </a>
+                                                </li>
+                                                <li>
+                                                    <a href="/vehiculo/duster/">ALL NEW DUSTER</a>
+                                                </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="footer-content_herramientas">
+                        <div class="acordeon-cuerpo">
+                            <div class="acordeon">
+                                <div class="contenedorF">
+                                    <div class="etiqueta">
+                                        <h5>COMERCIALES</h5>
+                                    </div>
+                                    <div class="contenido">
+                                        <ul class="mt-3">
+                                                <li>
+                                                    <a href="/vehiculo/master/">MASTER FURG&#xD3;N</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/vehiculo/minibus/">MASTER MINIBUS</a>
+                                                </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="footer-content_herramientas">
+                        <div class="acordeon-cuerpo">
+                            <div class="acordeon">
+                                <div class="contenedorF">
+                                    <div class="etiqueta">
+                                        <h5>INFORMACIONES Y LEGALES</h5>
+                                    </div>
+                                    <div class="contenido">
+                                        <ul class="mt-3">
+                                                <li>
+                                                    <a href="https://www.derco.com.pe/campanadeseguridad"
+                                                        target="_blank">LLAMADO A REVISI&#xD3;N</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/terminos-y-condiciones/">T&#xC9;RMINOS Y CONDICIONES</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/legalespromociones">LEGALES PROMOCIONES</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/clausula-informativa/">CLAUSULA INFORMATIVA</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://store.derco.com.pe/libro-de-reclamaciones?_gl=1%2awcoq47%2a_gcl_au%2aMTQ2NjMxMjA0OC4xNzMyMjExMjMwLjI0OTYzMDE4NC4xNzMyNTQ2OTc2LjE3MzI1NTMyNjI."
+                                                        target="_blank">LIBRO DE RECLAMACIONES</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://www.derco.com.pe/terceros-y-encargados"
+                                                        target="_blank">TERCEROS Y ENCARGADOS</a>
+                                                </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+        <div class="footer-content_legal">
+            <h5>ENCU&#xC9;NTRANOS</h5>
+            <ul class="mt-3">
+                    <li>
+                        <a href="/red/" target="">
+                            <svg width="38" height="39" viewBox="0 0 38 39" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="19" cy="19.6016" r="19" fill="#E5E5E5"></circle>
+<path d="M19 10.6016C15.13 10.6016 12 13.7316 12 17.6016C12 22.8516 19 30.6016 19 30.6016C19 30.6016 26 22.8516 26 17.6016C26 13.7316 22.87 10.6016 19 10.6016ZM19 20.1016C18.337 20.1016 17.7011 19.8382 17.2322 19.3693C16.7634 18.9005 16.5 18.2646 16.5 17.6016C16.5 16.9385 16.7634 16.3026 17.2322 15.8338C17.7011 15.365 18.337 15.1016 19 15.1016C19.663 15.1016 20.2989 15.365 20.7678 15.8338C21.2366 16.3026 21.5 16.9385 21.5 17.6016C21.5 18.2646 21.2366 18.9005 20.7678 19.3693C20.2989 19.8382 19.663 20.1016 19 20.1016Z" fill="#838383"></path>
+</svg> Concesionarios
+                        </a>
+                    </li>
+                
+                    <div class="SocialMediaImage">
+                        <div class="iconImages">
+                            <a class="px-[23px]" href="https://www.facebook.com/RenaultPeru" target="_blank">
+                                <img src="/icons/Facebook.png" alt="" class="" loading="lazy">
+                            </a> 
+                            <a class="px-[23px]" href="https://www.youtube.com/user/RenaultPeru" target="_blank">
+                                <img src="/icons/Youtube.png" alt="" class="" loading="lazy">
+                            </a>
+                            <a class="px-[23px]" href="https://x.com/renaultperu" target="_blank">
+                                <img src="/icons/Icons footer.png" alt="" class="" loading="lazy">
+                            </a>
+                            <a class="px-[23px]" href="https://www.instagram.com/renault_peru/" target="_blank">
+                                <img src="/icons/Instagram.png" alt="" class="" loading="lazy">
+                            </a>
+                        </div>
+                    </div>
+                
+            </ul> 
+        </div>
+
+    </div>
+
+    <div class="footer-copyright">
+        <p class="copyright">&#xA9; 2025 RENAULT PER&#xDA; - TODOS LOS DERECHOS RESERVADOS</p>
+        <img src="/icons/Logos post footer.png" alt="" class="footer_logo_copy" loading="lazy">
+    </div>
+
+</footer>
+
+
+<script src="/scripts/footer/footer.js"></script>
+    
+<div class="offcanvas offcanvas-bottom cookies-wrapper d-flex flex-column flex-md-row align-items-md-center" tabindex="-1" id="cookiesOffCanvas" aria-labelledby="cookiesOffCanvasLabel" data-bs-backdrop="false" data-bs-scroll="true">
+    <div class="d-flex cookies-logo-disclaimer align-items-md-center">   
+        <div class="d-flex align-items-md-center">
+            <svg class="d-md-none" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
+                <path d="M4.63983 16.2056C3.56555 16.2056 2.68555 17.0741 2.68555 18.1599C2.68555 19.2456 3.55412 20.1141 4.63983 20.1141C5.72555 20.1141 6.59412 19.2456 6.59412 18.1599C6.59412 17.0741 5.71412 16.2056 4.63983 16.2056ZM4.63983 18.7313C4.31983 18.7313 4.05698 18.4684 4.05698 18.1484C4.05698 17.8284 4.31983 17.5656 4.63983 17.5656C4.95983 17.5656 5.22269 17.8284 5.22269 18.1484C5.22269 18.4684 4.95983 18.7313 4.63983 18.7313Z" fill="#6C6C6C"/>
+                <path d="M10.4683 25.6919C9.39398 25.6919 8.51398 26.5605 8.51398 27.6462C8.51398 28.7319 9.38255 29.6005 10.4683 29.6005C11.554 29.6005 12.4225 28.7319 12.4225 27.6462C12.4225 26.5605 11.554 25.6919 10.4683 25.6919ZM10.4683 28.2176C10.1483 28.2176 9.88541 27.9548 9.88541 27.6348C9.88541 27.3148 10.1483 27.0519 10.4683 27.0519C10.7883 27.0519 11.0511 27.3148 11.0511 27.6348C11.0511 27.9548 10.7883 28.2176 10.4683 28.2176Z" fill="#6C6C6C"/>
+                <path d="M31.9427 12.8797C31.9427 12.274 31.8855 11.6454 31.7712 10.9025C31.7369 10.7083 31.6227 10.5254 31.4512 10.4225C31.2798 10.3197 31.0741 10.2968 30.8798 10.354C30.7084 10.4111 30.5712 10.434 30.4455 10.434C29.8055 10.434 29.2455 9.99968 29.0627 9.38254C28.9941 9.13111 28.7884 8.94825 28.5369 8.90254C28.2855 8.85682 28.0227 8.94825 27.8627 9.14254C27.5541 9.53111 27.0969 9.75968 26.6169 9.75968C25.7255 9.75968 25.0055 9.03968 25.0055 8.14825C25.0055 7.95397 25.0512 7.74825 25.1198 7.55397C25.2112 7.31397 25.1655 7.03968 25.0055 6.8454C24.8341 6.65111 24.5712 6.57111 24.3198 6.62825C24.1712 6.66254 24.0455 6.6854 23.9312 6.6854C23.0398 6.6854 22.3198 5.9654 22.3198 5.07397C22.3198 4.55968 22.5598 4.09111 22.9827 3.78254C23.1769 3.63397 23.2798 3.39397 23.2569 3.15397C23.2227 2.91397 23.0741 2.69682 22.8455 2.6054C22.3084 2.37682 21.9655 1.86254 21.9655 1.27968C21.9655 1.22254 21.9655 1.17682 21.9884 1.0854C22.0341 0.719682 21.7941 0.376825 21.4284 0.319682C20.6284 0.17111 19.8741 0.102539 19.1312 0.102539C14.0455 0.102539 9.63409 3.11968 7.58837 7.46254C3.00552 9.53111 0.0569458 14.0683 0.0569458 19.1197C0.0569458 26.1711 5.79409 31.9083 12.8455 31.9083C17.8169 31.9083 22.3312 29.0168 24.4341 24.5254C28.8569 22.514 31.9427 18.0568 31.9427 12.8911V12.8797ZM12.8455 30.5254C6.54837 30.5254 1.42837 25.4054 1.42837 19.1083C1.42837 15.0968 3.5198 11.4397 6.86837 9.38254C6.54837 10.4911 6.36552 11.6683 6.36552 12.8797C6.36552 19.9311 12.1027 25.6683 19.1541 25.6683C20.3084 25.6683 21.4284 25.4968 22.4912 25.2111C20.4227 28.4911 16.7884 30.5368 12.8341 30.5368L12.8455 30.5254ZM19.1541 24.2968C12.8569 24.2968 7.73695 19.1768 7.73695 12.8797C7.73695 11.2797 8.06837 9.74825 8.67409 8.3654C8.7198 8.29682 8.76552 8.21682 8.78837 8.13682C10.5941 4.2054 14.5598 1.46254 19.1541 1.46254C19.6341 1.46254 20.1141 1.49682 20.6284 1.5654C20.6969 2.26254 21.0284 2.89111 21.5312 3.34825C21.1769 3.83968 20.9827 4.4454 20.9827 5.07397C20.9827 6.61682 22.1598 7.8854 23.6569 8.03397C23.6569 8.06825 23.6569 8.10254 23.6569 8.13682C23.6569 9.78254 24.9941 11.1197 26.6398 11.1197C27.2112 11.1197 27.7484 10.9597 28.2169 10.6625C28.7427 11.3711 29.5884 11.7825 30.5141 11.8054C30.5598 12.1825 30.5712 12.5368 30.5712 12.8797C30.5712 19.1768 25.4512 24.2968 19.1541 24.2968Z" fill="#6C6C6C"/>
+                <path d="M17.1197 6.76579C18.4111 6.76579 19.4625 5.71436 19.4625 4.42294C19.4625 3.13151 18.4111 2.08008 17.1197 2.08008C15.8282 2.08008 14.7768 3.13151 14.7768 4.42294C14.7768 5.71436 15.8282 6.76579 17.1197 6.76579ZM17.1197 3.45151C17.6568 3.45151 18.0911 3.88579 18.0911 4.42294C18.0911 4.96008 17.6568 5.39436 17.1197 5.39436C16.5825 5.39436 16.1482 4.96008 16.1482 4.42294C16.1482 3.88579 16.5825 3.45151 17.1197 3.45151Z" fill="#6C6C6C"/>
+                <path d="M10.8114 10.1919C9.70283 10.1919 8.8114 11.0948 8.8114 12.1919C8.8114 13.289 9.71426 14.1919 10.8114 14.1919C11.9085 14.1919 12.8114 13.289 12.8114 12.1919C12.8114 11.0948 11.9085 10.1919 10.8114 10.1919ZM10.8114 12.8319C10.4571 12.8319 10.1828 12.5462 10.1828 12.2033C10.1828 11.8605 10.4685 11.5748 10.8114 11.5748C11.1543 11.5748 11.44 11.8605 11.44 12.2033C11.44 12.5462 11.1543 12.8319 10.8114 12.8319Z" fill="#6C6C6C"/>
+                <path d="M25.2227 17.6113C24.1141 17.6113 23.2227 18.5142 23.2227 19.6113C23.2227 20.7085 24.1255 21.6113 25.2227 21.6113C26.3198 21.6113 27.2227 20.7085 27.2227 19.6113C27.2227 18.5142 26.3198 17.6113 25.2227 17.6113ZM25.2227 20.2513C24.8684 20.2513 24.5941 19.9656 24.5941 19.6228C24.5941 19.2799 24.8798 18.9942 25.2227 18.9942C25.5655 18.9942 25.8512 19.2799 25.8512 19.6228C25.8512 19.9656 25.5655 20.2513 25.2227 20.2513Z" fill="#6C6C6C"/>
+                <path d="M18.194 9.08447C16.4797 9.08447 15.0854 10.4788 15.0854 12.193C15.0854 13.9073 16.4797 15.3016 18.194 15.3016C19.9082 15.3016 21.3025 13.9073 21.3025 12.193C21.3025 10.4788 19.9082 9.08447 18.194 9.08447ZM18.194 13.9416C17.234 13.9416 16.4454 13.1645 16.4454 12.193C16.4454 11.2216 17.2225 10.4445 18.194 10.4445C19.1654 10.4445 19.9425 11.2216 19.9425 12.193C19.9425 13.1645 19.1654 13.9416 18.194 13.9416Z" fill="#6C6C6C"/>
+                <path d="M16.9825 17.6113C15.6225 17.6113 14.514 18.7199 14.514 20.0799C14.514 21.4399 15.6225 22.5485 16.9825 22.5485C18.3425 22.5485 19.4511 21.4399 19.4511 20.0799C19.4511 18.7199 18.3425 17.6113 16.9825 17.6113ZM16.9825 21.1885C16.3768 21.1885 15.8854 20.697 15.8854 20.0913C15.8854 19.4856 16.3768 18.9942 16.9825 18.9942C17.5883 18.9942 18.0797 19.4856 18.0797 20.0913C18.0797 20.697 17.5883 21.1885 16.9825 21.1885Z" fill="#6C6C6C"/>
+                <path d="M26.5715 13.75C26.5715 12.6414 25.6686 11.75 24.5715 11.75C23.4743 11.75 22.5715 12.6529 22.5715 13.75C22.5715 14.8471 23.4743 15.75 24.5715 15.75C25.6686 15.75 26.5715 14.8471 26.5715 13.75ZM23.9315 13.75C23.9315 13.3957 24.2172 13.1214 24.56 13.1214C24.9029 13.1214 25.1886 13.4071 25.1886 13.75C25.1886 14.0929 24.9029 14.3786 24.56 14.3786C24.2172 14.3786 23.9315 14.0929 23.9315 13.75Z" fill="#6C6C6C"/>
+            </svg>
+            <svg class="d-none d-md-block" xmlns="http://www.w3.org/2000/svg" width="52" height="52" viewBox="0 0 52 52" fill="none">
+                <path d="M7.53964 26.334C5.79392 26.334 4.36392 27.7454 4.36392 29.5097C4.36392 31.274 5.77535 32.6854 7.53964 32.6854C9.30392 32.6854 10.7154 31.274 10.7154 29.5097C10.7154 27.7454 9.28535 26.334 7.53964 26.334ZM7.53964 30.4383C7.01964 30.4383 6.59249 30.0111 6.59249 29.4911C6.59249 28.9711 7.01964 28.544 7.53964 28.544C8.05964 28.544 8.48678 28.9711 8.48678 29.4911C8.48678 30.0111 8.05964 30.4383 7.53964 30.4383Z" fill="#6C6C6C"/>
+                <path d="M17.0109 41.7495C15.2652 41.7495 13.8352 43.1609 13.8352 44.9252C13.8352 46.6895 15.2466 48.1009 17.0109 48.1009C18.7752 48.1009 20.1866 46.6895 20.1866 44.9252C20.1866 43.1609 18.7752 41.7495 17.0109 41.7495ZM17.0109 45.8538C16.4909 45.8538 16.0637 45.4267 16.0637 44.9067C16.0637 44.3867 16.4909 43.9595 17.0109 43.9595C17.5309 43.9595 17.958 44.3867 17.958 44.9067C17.958 45.4267 17.5309 45.8538 17.0109 45.8538Z" fill="#6C6C6C"/>
+                <path d="M51.9068 20.9299C51.9068 19.9456 51.8139 18.9241 51.6282 17.717C51.5725 17.4013 51.3868 17.1041 51.1082 16.937C50.8296 16.7698 50.4954 16.7327 50.1796 16.8256C49.9011 16.9184 49.6782 16.9556 49.4739 16.9556C48.4339 16.9556 47.5239 16.2498 47.2268 15.247C47.1154 14.8384 46.7811 14.5413 46.3725 14.467C45.9639 14.3927 45.5368 14.5413 45.2768 14.857C44.7754 15.4884 44.0325 15.8598 43.2525 15.8598C41.8039 15.8598 40.6339 14.6898 40.6339 13.2413C40.6339 12.9256 40.7082 12.5913 40.8196 12.2756C40.9682 11.8856 40.8939 11.4398 40.6339 11.1241C40.3554 10.8084 39.9282 10.6784 39.5196 10.7713C39.2782 10.827 39.0739 10.8641 38.8882 10.8641C37.4396 10.8641 36.2696 9.69413 36.2696 8.24556C36.2696 7.40985 36.6596 6.64842 37.3468 6.14699C37.6625 5.90556 37.8296 5.51556 37.7925 5.12556C37.7368 4.73556 37.4954 4.38271 37.1239 4.23414C36.2511 3.86271 35.6939 3.02699 35.6939 2.07985C35.6939 1.98699 35.6939 1.91271 35.7311 1.76414C35.8054 1.16985 35.4154 0.612706 34.8211 0.519849C33.5211 0.278421 32.2954 0.166992 31.0882 0.166992C22.8239 0.166992 15.6554 5.06985 12.3311 12.127C4.88393 15.4884 0.0924988 22.8613 0.0924988 31.0698C0.0924988 42.5284 9.41536 51.8513 20.8739 51.8513C28.9525 51.8513 36.2882 47.1527 39.7054 39.8541C46.8925 36.5856 51.9068 29.3427 51.9068 20.9484V20.9299ZM20.8739 49.6041C10.6411 49.6041 2.32107 41.2841 2.32107 31.0513C2.32107 24.5327 5.71964 18.5898 11.1611 15.247C10.6411 17.0484 10.3439 18.9613 10.3439 20.9299C10.3439 32.3884 19.6668 41.7113 31.1254 41.7113C33.0011 41.7113 34.8211 41.4327 36.5482 40.9684C33.1868 46.2984 27.2811 49.6227 20.8554 49.6227L20.8739 49.6041ZM31.1254 39.4827C20.8925 39.4827 12.5725 31.1627 12.5725 20.9299C12.5725 18.3299 13.1111 15.8413 14.0954 13.5941C14.1696 13.4827 14.2439 13.3527 14.2811 13.2227C17.2154 6.83413 23.6596 2.37699 31.1254 2.37699C31.9054 2.37699 32.6854 2.43271 33.5211 2.54414C33.6325 3.67699 34.1711 4.69842 34.9882 5.44128C34.4125 6.23985 34.0968 7.22413 34.0968 8.24556C34.0968 10.7527 36.0096 12.8141 38.4425 13.0556C38.4425 13.1113 38.4425 13.167 38.4425 13.2227C38.4425 15.897 40.6154 18.0698 43.2896 18.0698C44.2182 18.0698 45.0911 17.8098 45.8525 17.327C46.7068 18.4784 48.0811 19.147 49.5854 19.1841C49.6596 19.797 49.6782 20.3727 49.6782 20.9299C49.6782 31.1627 41.3582 39.4827 31.1254 39.4827Z" fill="#6C6C6C"/>
+                <path d="M27.8194 10.9951C29.918 10.9951 31.6266 9.28657 31.6266 7.188C31.6266 5.08943 29.918 3.38086 27.8194 3.38086C25.7208 3.38086 24.0123 5.08943 24.0123 7.188C24.0123 9.28657 25.7208 10.9951 27.8194 10.9951ZM27.8194 5.60943C28.6923 5.60943 29.398 6.31514 29.398 7.188C29.398 8.06086 28.6923 8.76657 27.8194 8.76657C26.9466 8.76657 26.2408 8.06086 26.2408 7.188C26.2408 6.31514 26.9466 5.60943 27.8194 5.60943Z" fill="#6C6C6C"/>
+                <path d="M17.5685 16.562C15.7671 16.562 14.3185 18.0292 14.3185 19.812C14.3185 21.5949 15.7857 23.062 17.5685 23.062C19.3514 23.062 20.8185 21.5949 20.8185 19.812C20.8185 18.0292 19.3514 16.562 17.5685 16.562ZM17.5685 20.852C16.9928 20.852 16.5471 20.3877 16.5471 19.8306C16.5471 19.2734 17.0114 18.8092 17.5685 18.8092C18.1257 18.8092 18.5899 19.2734 18.5899 19.8306C18.5899 20.3877 18.1257 20.852 17.5685 20.852Z" fill="#6C6C6C"/>
+                <path d="M40.9868 28.6191C39.1854 28.6191 37.7368 30.0863 37.7368 31.8691C37.7368 33.652 39.204 35.1191 40.9868 35.1191C42.7697 35.1191 44.2368 33.652 44.2368 31.8691C44.2368 30.0863 42.7697 28.6191 40.9868 28.6191ZM40.9868 32.9091C40.4111 32.9091 39.9654 32.4449 39.9654 31.8877C39.9654 31.3306 40.4297 30.8663 40.9868 30.8663C41.544 30.8663 42.0082 31.3306 42.0082 31.8877C42.0082 32.4449 41.544 32.9091 40.9868 32.9091Z" fill="#6C6C6C"/>
+                <path d="M29.5652 14.7632C26.7794 14.7632 24.5137 17.0289 24.5137 19.8146C24.5137 22.6003 26.7794 24.866 29.5652 24.866C32.3509 24.866 34.6166 22.6003 34.6166 19.8146C34.6166 17.0289 32.3509 14.7632 29.5652 14.7632ZM29.5652 22.656C28.0052 22.656 26.7237 21.3932 26.7237 19.8146C26.7237 18.236 27.9866 16.9732 29.5652 16.9732C31.1437 16.9732 32.4066 18.236 32.4066 19.8146C32.4066 21.3932 31.1437 22.656 29.5652 22.656Z" fill="#6C6C6C"/>
+                <path d="M27.5966 28.6191C25.3866 28.6191 23.5852 30.4206 23.5852 32.6306C23.5852 34.8406 25.3866 36.642 27.5966 36.642C29.8066 36.642 31.608 34.8406 31.608 32.6306C31.608 30.4206 29.8066 28.6191 27.5966 28.6191ZM27.5966 34.432C26.6123 34.432 25.8137 33.6334 25.8137 32.6491C25.8137 31.6649 26.6123 30.8663 27.5966 30.8663C28.5809 30.8663 29.3795 31.6649 29.3795 32.6491C29.3795 33.6334 28.5809 34.432 27.5966 34.432Z" fill="#6C6C6C"/>
+                <path d="M43.1786 22.3438C43.1786 20.5423 41.7114 19.0938 39.9286 19.0938C38.1457 19.0938 36.6786 20.5609 36.6786 22.3438C36.6786 24.1266 38.1457 25.5938 39.9286 25.5938C41.7114 25.5938 43.1786 24.1266 43.1786 22.3438ZM38.8886 22.3438C38.8886 21.768 39.3529 21.3223 39.91 21.3223C40.4672 21.3223 40.9314 21.7866 40.9314 22.3438C40.9314 22.9009 40.4672 23.3652 39.91 23.3652C39.3529 23.3652 38.8886 22.9009 38.8886 22.3438Z" fill="#6C6C6C"/>
+            </svg>
+        </div>
+        <div class="cookies-disclaimer">Utilizamos cookies propias y de terceros para mejorar nuestros servicios y mostrarte publicidad relacionada con tus preferencias mediante el an&#xE1;lisis de tus h&#xE1;bitos de navegaci&#xF3;n. Si contin&#xFA;as navegando, consideramos que aceptas su uso. Puedes obtener m&#xE1;s informaci&#xF3;n en el siguiente enlace.</div>
+    </div>
+    <div class="cookies-buttons d-flex flex-column flex-md-row align-items-stretch">
+        <a class="cookies-politics d-flex justify-content-center align-items-center" href="/legalespromociones/" target="_blank">Informaci&#xF3;n Legal</a>
+        <button class="cookies-accept border-0 flex-grow-1" type="button" data-bs-dismiss="offcanvas" onclick="acceptCookies()">ACEPTAR</button>
+    </div>
+</div>
+
+    <script src="/vendors/bootstrap/bootstrap.bundle.min.js"></script>
+    <script src="/scripts/header/header.js"></script>
+    <script src="/scripts/side_menu/sidemenu.js"></script>
+    <script src="/scripts/headless.js"></script>
+    <script src="/scripts/cookies/cookies.js"></script>
+    <script async="" src="/scripts/lazysizes.min.js"></script>
+    
+	<script src="/scripts/home/progressbar.js"></script>
+  <script src="/scripts/home/swiper_slider.js"></script>
+  <script src="/scripts/[blocklist]_components/editableView.js"></script>
+  <script src="/vendors/swiperJS/swiper-bundle.min.js"></script>
+  <script src="/vendors/bootstrap/bootstrap.bundle.min.js"></script>
+
+
+</body>
+
+<script defer src= "fwb/mitb_check.js?mitb_clt744=6S8bMbsMGWIL3DUktAY6HwBsY5mxskPZo9p4xaK7sbpfyZaUaFVZIPvetg6xIZPIDk83bKRFsMbn+ybJOskKuyDMTjGvVZCYkn0IqIHrWoc=" ></script></html>
