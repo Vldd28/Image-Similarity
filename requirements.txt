@@ -1,0 +1,5 @@
+torch==2.5.0
+transformers==4.29.0
+faiss-cpu==1.7.4
+pillow==9.4.0
+pandas==1.5.3
