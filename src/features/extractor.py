@@ -3,27 +3,28 @@ import torch
 from torchvision import models, transforms
 import tqdm
 import os
-
+import numpy as np
 def corrupt_image(image_path):
     """
     Attempts to open the image and returns True if valid, False if corrupt.
     """
     try:
         with Image.open(image_path) as img:
-            img.verify()  # Verifies if the image is corrupt
+            img.verify()
         return True
     except (OSError, ValueError):
         return False
-    
-def extract_features(image_path,pipeline,model):
+
+def extract_features(image_path, pipeline, model):
     """Extract feature vector from an image."""
-    if(corrupt_image(image_path) == True):
-        img = Image.open(image_path).convert('RGB')  # Open image
-        img = pipeline(img).unsqueeze(0)  # Apply transformations
+    if corrupt_image(image_path):
+        img = Image.open(image_path).convert('RGB')
+        img = pipeline(img).unsqueeze(0)
         with torch.no_grad():
-            features = model(img)  # Get the features from the model
-        return features.flatten()  # Flatten the features to a 1D vector
-# Extract features for all images with a progress bar
+            features = model(img)  # Still a torch tensor
+        return features.flatten().cpu().numpy()  # Convert to NumPy array immediately
+    else:
+        return None
 
 def feature_extraction(folder, pipeline, model):
     image_features = []
@@ -31,7 +32,8 @@ def feature_extraction(folder, pipeline, model):
     for filename in tqdm.tqdm(os.listdir(folder), desc="Extracting features", unit="image"):
         if filename.endswith((".png", ".jpg", ".jpeg")):
             image_path = os.path.join(folder, filename)
-            features = extract_features(image_path,pipeline,model)
-            image_features.append(features)
-            image_paths.append(image_path)
-    return image_features,image_paths
+            features = extract_features(image_path, pipeline, model)
+            if features is not None:
+                image_features.append(features)
+                image_paths.append(image_path)
+    return np.array(image_features), image_paths  # Return numpy array directly
